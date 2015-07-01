@@ -1,0 +1,286 @@
+{
+  "version": 1,
+  "width": 95,
+  "height": 30,
+  "duration": 12.808160,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.426366,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                              \r \r"
+    ],
+    [
+      0.000054,
+      "\u001b]2;alavit-d@alavitd-ZBOX-OI520: ~\u0007"
+    ],
+    [
+      0.000026,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.008896,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36m~ \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000070,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.869900,
+      "p"
+    ],
+    [
+      0.071335,
+      "\u0008pm"
+    ],
+    [
+      0.016098,
+      "2"
+    ],
+    [
+      0.111638,
+      " "
+    ],
+    [
+      0.952926,
+      "\u0007"
+    ],
+    [
+      0.000095,
+      "\r\r\n"
+    ],
+    [
+      0.000399,
+      "\u001b[0m\\*                     get                    ping                   start                \r\nbackward               gracefulReload         prettylist             startOrGracefulReload\r\n"
+    ],
+    [
+      0.000041,
+      "conf                   info                   publish                startOrReload        \r\nconfig                 install                pull                   startOrRestart       \r\ndelete                 interact               reload                 startup              \r\ndeploy                 jlist                  reloadLogs             status               \r\ndesc                   kill                   reset                  stop                 \r\ndescribe               l                      restart                uninstall            \r\ndump                   link                   resurrect              unset                "
+    ],
+    [
+      0.000026,
+      "\r\necosystem              list                   save                   update               \r\nflush                  logs                   scale                  updatePM2            \r\nforward                ls                     sendSignal             web                  "
+    ],
+    [
+      0.000017,
+      "\r\ngc                     m                      set                                         \r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[Jgenerate               \u001b[Jmonit                  \u001b[Jshow                   \u001b[J                     \u001b[14A\u001b[0m\u001b[27m\u001b[24m\r\u001b[6Cpm2\u001b[K\u001b[1C"
+    ],
+    [
+      0.790551,
+      "l"
+    ],
+    [
+      0.040235,
+      "s"
+    ],
+    [
+      0.135904,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000058,
+      "\r"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[J"
+    ],
+    [
+      0.000829,
+      "\u001b]2;pm2 ls\u0007"
+    ],
+    [
+      0.000007,
+      "\u001b]1;pm2\u0007"
+    ],
+    [
+      0.356498,
+      "\u001b[90m┌────────────────────┬────┬──────┬───────┬────────┬─────────┬────────┬─────────────┬──────────┐\u001b[39m\r\n\u001b[90m│\u001b[39m\u001b[1m\u001b[36m App name           \u001b[39m\u001b[22m\u001b[90m│\u001b[39m\u001b[1m\u001b[36m id \u001b[39m\u001b[22m\u001b[90m│\u001b[39m\u001b[1m\u001b[36m mode \u001b[39m\u001b[22m\u001b[90m│\u001b[39m\u001b[1m\u001b[36m pid   \u001b[39m\u001b[22m\u001b[90m│\u001b[39m\u001b[1m\u001b[36m status \u001b[39m\u001b[22m\u001b[90m│\u001b[39m\u001b[1m\u001b[36m restart \u001b[39m\u001b[22m\u001b[90m│\u001b[39m\u001b[1m\u001b[36m uptime \u001b[39m\u001b[22m\u001b[90m│\u001b[39m\u001b[1m\u001b[36m memory      \u001b[39m\u001b[22m\u001b[90m│\u001b[39m\u001b[1m\u001b[36m watching \u001b[39m\u001b[22m\u001b[90m│\u001b[39m\r\n\u001b[90m├────────────────────┼────┼──────┼───────┼────────┼─────────┼────────┼─────────────┼──────────┤\u001b[39m\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[90m│\u001b[39m\u001b[1m\u001b[36m pm2-http-interface \u001b[39m\u001b[22m\u001b[90m│\u001b[39m 0  \u001b[90m│\u001b[39m \u001b[7m\u001b[1mfork\u001b[22m\u001b[27m \u001b[90m│\u001b[39m 26118 \u001b[90m│\u001b[39m \u001b[32m\u001b[1monline\u001b[22m\u001b[39m \u001b[90m│\u001b[39m 0       \u001b[90m│\u001b[39m 94s    \u001b[90m│\u001b[39m 26.910 MB   \u001b[90m│\u001b[39m \u001b[90mdisabled\u001b[39m \u001b[90m│\u001b[39m\r\n\u001b[90m│\u001b[39m\u001b[1m\u001b[36m env                \u001b[39m\u001b[22m\u001b[90m│\u001b[39m 1  \u001b[90m│\u001b[39m \u001b[7m\u001b[1mfork\u001b[22m\u001b[27m \u001b[90m│\u001b[39m 26123 \u001b[90m│\u001b[39m \u001b[32m\u001b[1monline\u001b[22m\u001b[39m \u001b[90m│\u001b[39m 0       \u001b[90m│\u001b[39m 94s    \u001b[90m│\u001b[39m 21.586 MB   \u001b[90m│\u001b[39m \u001b[90mdisabled\u001b[39m \u001b[90m│\u001b[39m\r\n\u001b[90m│\u001b[39m\u001b[1m\u001b[36m index              \u001b[39m\u001b[22m\u001b[90m│\u001b[39m 2  \u001b[90m│\u001b[39m \u001b[7m\u001b[1mfork\u001b[22m\u001b[27m \u001b[90m│\u001b[39m 27081 \u001b[90m│\u001b[39m \u001b[32m\u001b[1monline\u001b[22m\u001b[39m \u001b[90m│\u001b[39m 1       \u001b[90m│\u001b[39m 43s    \u001b[90m│\u001b[39m 42.395 MB   \u001b[90m│\u001b[39m \u001b[90mdisabled\u001b[39m \u001b[90m│\u001b[39m\r\n\u001b[90m└────────────────────┴────┴──────┴───────┴────────┴─────────┴────────┴─────────────┴──────────┘\u001b[39m\r\n"
+    ],
+    [
+      0.000422,
+      "\u001b[37m\u001b[3m Use `pm2 show \u003cid|name\u003e` to get more details about an app\u001b[23m\u001b[39m\r\n"
+    ],
+    [
+      0.003524,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                              \r \r"
+    ],
+    [
+      0.000086,
+      "\u001b]2;alavit-d@alavitd-ZBOX-OI520: ~\u0007"
+    ],
+    [
+      0.000019,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.005868,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36m~ \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000036,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.945101,
+      "p"
+    ],
+    [
+      0.063541,
+      "\u0008pm"
+    ],
+    [
+      0.071922,
+      "2"
+    ],
+    [
+      0.128010,
+      " "
+    ],
+    [
+      1.561763,
+      "r"
+    ],
+    [
+      0.047696,
+      "e"
+    ],
+    [
+      0.062653,
+      "l"
+    ],
+    [
+      0.129713,
+      "o"
+    ],
+    [
+      0.498010,
+      "ad"
+    ],
+    [
+      0.388133,
+      " "
+    ],
+    [
+      0.566369,
+      "\u0007"
+    ],
+    [
+      0.000867,
+      "\r\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[J\u001b[0menv                 \u001b[Jindex               \u001b[Jpm2-http-interface\u001b[J\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[6Cpm2 reload\u001b[K\u001b[1C"
+    ],
+    [
+      1.091166,
+      "p"
+    ],
+    [
+      0.085400,
+      "m"
+    ],
+    [
+      0.509467,
+      "2-http-interface\u001b[1m \u001b[0m"
+    ],
+    [
+      0.842733,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000192,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000009,
+      "\r\r\n\u001b[J"
+    ],
+    [
+      0.000720,
+      "\u001b]2;pm2 reload pm2-http-interface\u0007"
+    ],
+    [
+      0.000010,
+      "\u001b]1;pm2\u0007"
+    ],
+    [
+      0.322328,
+      "\u001b[32m[PM2] \u001b[39mReloading process by name pm2-http-interface\r\n"
+    ],
+    [
+      0.014429,
+      "\u001b[33m[PM2][WARN] \u001b[39mpm2-http-interface app can't be reloaded - restarting it"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.093718,
+      "\u001b[32m[PM2] \u001b[39mrestartProcessId process id 0\r\n"
+    ],
+    [
+      0.000306,
+      "\u001b[32m[PM2] \u001b[39mAll processes reloaded"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.319240,
+      "\u001b[90m┌────────────────────┬────┬──────┬───────┬────────┬─────────┬────────┬─────────────┬──────────┐\u001b[39m\r\n\u001b[90m│\u001b[39m\u001b[1m\u001b[36m App name           \u001b[39m\u001b[22m\u001b[90m│\u001b[39m\u001b[1m\u001b[36m id \u001b[39m\u001b[22m\u001b[90m│\u001b[39m\u001b[1m\u001b[36m mode \u001b[39m\u001b[22m\u001b[90m│\u001b[39m\u001b[1m\u001b[36m pid   \u001b[39m\u001b[22m\u001b[90m│\u001b[39m\u001b[1m\u001b[36m status \u001b[39m\u001b[22m\u001b[90m│\u001b[39m\u001b[1m\u001b[36m restart \u001b[39m\u001b[22m\u001b[90m│\u001b[39m\u001b[1m\u001b[36m uptime \u001b[39m\u001b[22m\u001b[90m│\u001b[39m\u001b[1m\u001b[36m memory      \u001b[39m\u001b[22m\u001b[90m│\u001b[39m\u001b[1m\u001b[36m watching \u001b[39m\u001b[22m\u001b[90m│\u001b[39m"
+    ],
+    [
+      0.000010,
+      "\r\n\u001b[90m├────────────────────┼────┼──────┼───────┼────────┼─────────┼────────┼─────────────┼──────────┤\u001b[39m\r\n\u001b[90m│\u001b[39m\u001b[1m\u001b[36m pm2-http-interface \u001b[39m\u001b[22m\u001b[90m│\u001b[39m 0  \u001b[90m│\u001b[39m \u001b[7m\u001b[1mfork\u001b[22m\u001b[27m \u001b[90m│\u001b[39m 27481 \u001b[90m│\u001b[39m \u001b[32m\u001b[1monline\u001b[22m\u001b[39m \u001b[90m│\u001b[39m 1       \u001b[90m│\u001b[39m 0s     \u001b[90m│\u001b[39m 26.059 MB   \u001b[90m│\u001b[39m \u001b[90mdisabled\u001b[39m \u001b[90m│\u001b[39m\r\n\u001b[90m│\u001b[39m\u001b[1m\u001b[36m env                \u001b[39m\u001b[22m\u001b[90m│\u001b[39m 1  \u001b[90m│\u001b[39m \u001b[7m\u001b[1mfork\u001b[22m\u001b[27m \u001b[90m│\u001b[39m 26123 \u001b[90m│\u001b[39m \u001b[32m\u001b[1monline\u001b[22m\u001b[39m \u001b[90m│\u001b[39m 0       \u001b[90m│\u001b[39m 102s   \u001b[90m│\u001b[39m 21.586 MB   \u001b[90m│\u001b[39m \u001b[90mdisabled\u001b[39m \u001b[90m│\u001b[39m\r\n\u001b[90m│\u001b[39m\u001b[1m\u001b[36m index              \u001b[39m\u001b[22m\u001b[90m│\u001b[39m 2  \u001b[90m│\u001b[39m \u001b[7m\u001b[1mfork\u001b[22m\u001b[27m \u001b[90m│\u001b[39m 27081 \u001b[90m│\u001b[39m \u001b[32m\u001b[1monline\u001b[22m\u001b[39m \u001b[90m│\u001b[39m 1       \u001b[90m│\u001b[39m 51s    \u001b[90m│\u001b[39m 42.418 MB   \u001b[90m│\u001b[39m \u001b[90mdisabled\u001b[39m \u001b[90m│\u001b[39m\r\n\u001b[90m└────────────────────┴────┴──────┴───────┴────────┴─────────┴────────┴─────────────┴──────────┘\u001b[39m\r\n"
+    ],
+    [
+      0.000089,
+      "\u001b[37m\u001b[3m Use `pm2 show \u003cid|name\u003e` to get more details about an app\u001b[23m\u001b[39m\r\n"
+    ],
+    [
+      0.003272,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                              \r \r"
+    ],
+    [
+      0.000075,
+      "\u001b]2;alavit-d@alavitd-ZBOX-OI520: ~\u0007"
+    ],
+    [
+      0.000023,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.004303,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36m~ \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000035,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.249989,
+      "\r"
+    ],
+    [
+      0.000039,
+      "\r\n"
+    ]
+  ]
+}
