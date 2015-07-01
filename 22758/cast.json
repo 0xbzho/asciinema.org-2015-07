@@ -1,0 +1,866 @@
+{
+  "version": 1,
+  "width": 99,
+  "height": 30,
+  "duration": 36.262958,
+  "command": "/usr/local/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/local/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.232425,
+      "Identity added: /Users/jscott/.ssh/id_aws (rsa w/o comment)\r\n"
+    ],
+    [
+      0.001345,
+      "Identity added: /Users/jscott/.ssh/id_aws-admin (rsa w/o comment)\r\n"
+    ],
+    [
+      0.001165,
+      "Identity added: /Users/jscott/.ssh/id_cibot (rsa w/o comment)\r\n"
+    ],
+    [
+      0.001174,
+      "Identity added: /Users/jscott/.ssh/id_ovh (rsa w/o comment)\r\n"
+    ],
+    [
+      0.035438,
+      "                                                                                                   \r\r"
+    ],
+    [
+      0.000014,
+      "\u001b]0;~/dev\u0007"
+    ],
+    [
+      0.014086,
+      "\r\n\u001b[34m~/dev\u001b[38;5;242m \u001b[39m \u001b[33m\u001b[39m\r\n"
+    ],
+    [
+      0.000949,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[35m❯\u001b[39m \u001b[K"
+    ],
+    [
+      0.000090,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000351,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[35m❯\u001b[39m \u001b[K"
+    ],
+    [
+      0.686068,
+      "s"
+    ],
+    [
+      0.182787,
+      "\u0008sw"
+    ],
+    [
+      0.087951,
+      "e"
+    ],
+    [
+      0.191949,
+      "a"
+    ],
+    [
+      0.111977,
+      "t"
+    ],
+    [
+      0.167919,
+      "s"
+    ],
+    [
+      0.095949,
+      "h"
+    ],
+    [
+      0.072116,
+      "o"
+    ],
+    [
+      0.064044,
+      "p"
+    ],
+    [
+      0.167685,
+      " "
+    ],
+    [
+      0.080373,
+      "s"
+    ],
+    [
+      0.079967,
+      "t"
+    ],
+    [
+      0.168389,
+      "a"
+    ],
+    [
+      0.079471,
+      "r"
+    ],
+    [
+      0.191917,
+      "t"
+    ],
+    [
+      0.279989,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000221,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[35m❯\u001b[39m "
+    ],
+    [
+      0.000007,
+      "sweatshop start\u001b[K"
+    ],
+    [
+      0.000105,
+      "\r\r\n"
+    ],
+    [
+      0.000835,
+      "\u001b]0;dev: sweatshop start\u0007"
+    ],
+    [
+      0.440055,
+      "[\u001b[32mSuccess\u001b[0m] Robot Sweatshop loaded with a production configuration\r\n"
+    ],
+    [
+      0.097107,
+      "[\u001b[36mInfo\u001b[0m] command :restart sent to [robot_sweatshop]\r\n"
+    ],
+    [
+      0.000059,
+      "[\u001b[36mInfo\u001b[0m] Run 'eye --help' for more info on debugging\r\n"
+    ],
+    [
+      0.010832,
+      "                                                                                                   \r\r"
+    ],
+    [
+      0.000024,
+      "\u001b]0;~/dev\u0007"
+    ],
+    [
+      0.007580,
+      "\r\n\u001b[34m~/dev\u001b[38;5;242m \u001b[39m \u001b[33m\u001b[39m\r\n"
+    ],
+    [
+      0.000548,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[35m❯\u001b[39m \u001b[K"
+    ],
+    [
+      0.000054,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000226,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[35m❯\u001b[39m \u001b[K"
+    ],
+    [
+      0.610041,
+      "e"
+    ],
+    [
+      0.071704,
+      "\u0008ey"
+    ],
+    [
+      0.095972,
+      "e"
+    ],
+    [
+      0.128062,
+      " "
+    ],
+    [
+      0.168127,
+      "w"
+    ],
+    [
+      0.495993,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000205,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[35m❯\u001b[39m eye w\u001b[K"
+    ],
+    [
+      0.000035,
+      "\r\r\n"
+    ],
+    [
+      0.000587,
+      "\u001b]0;"
+    ],
+    [
+      0.000004,
+      "dev: eye w\u0007"
+    ],
+    [
+      0.092097,
+      "\u001b[?1049h\u001b[1;30r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[39;49m"
+    ],
+    [
+      0.104474,
+      "\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2JEvery 1.0s: /Users/jscott/.rubies/ruby-2.2.1/bin/eye i\u001b[1;76HTue Jun 30 18:24:19 2015\u001b[3;1H\u001b(B\u001b[0;1mrobot_sweatshop\u001b[4;3H\u001b(B\u001b[0mservices\u001b[5;5Hconveyor ...................... starting\u001b[6;5Hjob_dictionary ................ starting\u001b[7;5Hpayload_parser ................ starting\u001b[8;3Hassembler ....................... starting\u001b[9;3Hinput ........................... starting\u001b[10;3Hoverseer ........................ starting\u001b[11;3Hworker .......................... starting\u001b[30;99H\u001b(B\u001b[m"
+    ],
+    [
+      1.108473,
+      "\u001b[1;93H20\u001b[30;99H"
+    ],
+    [
+      1.112834,
+      "\u001b[1;94H1\u001b[5;37Hup  (18:24, 0%, 15Mb, \u003c2938\u003e)\u001b[6;37Hup  (18:24, 0%, 14Mb, \u003c2954\u003e)\u001b[7;37Hup  (18:24, 0%, 18Mb, \u003c2963\u003e)\u001b[8;37Hup  (18:24, 0%, 14Mb, \u003c2939\u003e)\u001b[9;37Hup  (18:24, 0%, 26Mb, \u003c2955\u003e)\u001b[10;37Hup  (18:24, 0%, 23Mb, \u003c2964\u003e)\u001b[11;37Hup  (18:24, 0%, 27Mb, \u003c2979\u003e)\u001b[30;99H\u001b(B\u001b[m"
+    ],
+    [
+      1.103896,
+      "\u001b[1;94H2\u001b[5;54H6\u001b[30;99H\u001b(B\u001b[m"
+    ],
+    [
+      0.139510,
+      "\u001b[30;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.005962,
+      "                                                                                                   \r\r"
+    ],
+    [
+      0.000007,
+      "\u001b]0;~/dev\u0007"
+    ],
+    [
+      0.008678,
+      "\r\n\u001b[34m~/dev\u001b[38;5;242m \u001b[39m \u001b[33m\u001b[39m\r\n"
+    ],
+    [
+      0.000637,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[35m❯\u001b[39m \u001b[K"
+    ],
+    [
+      0.000058,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000267,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[35m❯\u001b[39m \u001b[K"
+    ],
+    [
+      0.827307,
+      "s"
+    ],
+    [
+      0.191267,
+      "\u0008sw"
+    ],
+    [
+      0.080106,
+      "e"
+    ],
+    [
+      0.208172,
+      "a"
+    ],
+    [
+      0.247646,
+      "t"
+    ],
+    [
+      0.191859,
+      "s"
+    ],
+    [
+      0.128382,
+      "h"
+    ],
+    [
+      0.079836,
+      "o"
+    ],
+    [
+      0.088055,
+      "p"
+    ],
+    [
+      0.152178,
+      " "
+    ],
+    [
+      0.200137,
+      "j"
+    ],
+    [
+      0.071617,
+      "o"
+    ],
+    [
+      0.095963,
+      "b"
+    ],
+    [
+      0.096036,
+      " "
+    ],
+    [
+      0.103924,
+      "e"
+    ],
+    [
+      0.224098,
+      "x"
+    ],
+    [
+      0.160000,
+      "a"
+    ],
+    [
+      0.087953,
+      "m"
+    ],
+    [
+      0.079800,
+      "p"
+    ],
+    [
+      0.176089,
+      "l"
+    ],
+    [
+      0.104324,
+      "e"
+    ],
+    [
+      0.207810,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000221,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[35m❯\u001b[39m "
+    ],
+    [
+      0.000007,
+      "sweatshop job example\u001b[K"
+    ],
+    [
+      0.000074,
+      "\r\r\n"
+    ],
+    [
+      0.000629,
+      "\u001b]0;dev: sweatshop job example\u0007"
+    ],
+    [
+      0.314714,
+      "[\u001b[32mSuccess\u001b[0m] Created new file '/Users/jscott/dev/.robot_sweatshop/jobs/example.yaml'\r\n"
+    ],
+    [
+      0.000008,
+      "[\u001b[36mInfo\u001b[0m] Manually editing file '.robot_sweatshop/jobs/example.yaml'\r\n"
+    ],
+    [
+      0.002974,
+      "\u001b[?1049h\u001b[1;30r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000041,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000021,
+      "\u001b[?1h\u001b=\u001b[?1h\u001b="
+    ],
+    [
+      0.000540,
+      "\u001b[39;49m\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J\u001b(B\u001b[0;7m  GNU nano 2.0.6            File: .robot_sweatshop/jobs/example.yaml                               \u001b[3;1H\u001b(B\u001b[m---\r\u001b[4d# branch_whitelist:\r\u001b[5d# - master\r\u001b[7dcommands:\r\u001b[8d- echo \"Hello $WORLD!\"\r\u001b[10denvironment:\u001b[11;3HWORLD: Earth\u001b[28;42H\u001b(B\u001b[0;7m[ Read 9 lines ]\r\u001b[29d^G\u001b(B\u001b[m Get Help     \u001b(B\u001b[0;7m^O\u001b(B\u001b[m WriteOut     \u001b(B\u001b[0;7m^R\u001b(B\u001b[m Read File    \u001b(B\u001b[0;7m^Y\u001b(B\u001b[m Prev Page    \u001b(B\u001b[0;7m^K\u001b(B\u001b[m Cut Text     \u001b(B\u001b[0;7m^C\u001b(B\u001b[m Cur Pos\r\u001b[30d\u001b(B\u001b[0;7m^X\u001b(B\u001b[m Exit\u001b[30;17H\u001b(B\u001b[0;7m^J\u001b(B\u001b[m Justify\u001b[33G\u001b(B\u001b[0;7m^W\u001b(B\u001b[m Where Is     \u001b(B\u001b[0;7m^V\u001b(B\u001b[m Next Page    \u001b(B\u001b[0;7m^U\u001b(B\u001b[m UnCut Text   \u001b(B\u001b[0;7m^T\u001b(B\u001b[m To Spell\r\u001b[3d"
+    ],
+    [
+      0.729018,
+      "\u001b[4d"
+    ],
+    [
+      0.151642,
+      "\u001b[5d"
+    ],
+    [
+      0.119914,
+      "\u001b[6d"
+    ],
+    [
+      0.144082,
+      "\u001b[7d"
+    ],
+    [
+      0.136005,
+      "\u001b[8d"
+    ],
+    [
+      0.135935,
+      "\u001b[9d"
+    ],
+    [
+      0.136065,
+      "\u001b[10d"
+    ],
+    [
+      0.136326,
+      "\u001b[11d"
+    ],
+    [
+      0.143534,
+      "\u001b[12d"
+    ],
+    [
+      0.159713,
+      "\u001b[11;15H"
+    ],
+    [
+      0.384356,
+      "\u001b[1;90H\u001b(B\u001b[0;7mModified\u001b[11;14H\u001b(B\u001b[m \u0008"
+    ],
+    [
+      0.136043,
+      "\u0008 \u0008"
+    ],
+    [
+      0.127815,
+      "\u0008 \u0008"
+    ],
+    [
+      0.151942,
+      "\u0008 \u0008"
+    ],
+    [
+      0.152117,
+      "\u0008 \u0008"
+    ],
+    [
+      0.239932,
+      "M"
+    ],
+    [
+      0.144158,
+      "a"
+    ],
+    [
+      0.079763,
+      "r"
+    ],
+    [
+      0.152033,
+      "s"
+    ],
+    [
+      0.542573,
+      "\r\u001b[28d\u001b(B\u001b[0;7mFile Name to Write: .robot_sweatshop/jobs/example.yaml                                             \u001b[29;17H\u001b(B\u001b[m        \u001b(B\u001b[0;7m^T\u001b(B\u001b[m To Files             \u001b(B\u001b[0;7mM-M\u001b(B\u001b[m Mac Format          \u001b(B\u001b[0;7mM-P\u001b(B\u001b[m Prepend\u001b[K\u001b[30;2H\u001b(B\u001b[0;7mC\u001b(B\u001b[m Cancel\u001b[17G        \u001b(B\u001b[0;7mM-D\u001b(B\u001b[m DOS Format          \u001b(B\u001b[0;7mM-A\u001b(B\u001b[m Append\u001b[14X\u001b[30;73H\u001b(B\u001b[0;7mM-B\u001b(B\u001b[m Backup File\u001b[K\u001b[28;55H"
+    ],
+    [
+      0.410078,
+      "\u001b[1;90H\u001b[39;49m\u001b(B\u001b[0;7m        \u001b[28;41H\u001b(B\u001b[m\u001b[1K \u001b(B\u001b[0;7m[ Wrote 9 lines ]\u001b(B\u001b[m\u001b[K\u001b[29;17H\u001b(B\u001b[0;7m^O\u001b(B\u001b[m WriteOut     \u001b(B\u001b[0;7m^R\u001b(B\u001b[m Read File    \u001b(B\u001b[0;7m^Y\u001b(B\u001b[m Prev Page    \u001b(B\u001b[0;7m^K\u001b(B\u001b[m Cut Text     \u001b(B\u001b[0;7m^C\u001b(B\u001b[m Cur Pos\u001b[30;2H\u001b(B\u001b[0;7mX\u001b(B\u001b[m Exit  \u001b[17G\u001b(B\u001b[0;7m^J\u001b(B\u001b[m Justify      \u001b(B\u001b[0;7m^W\u001b(B\u001b[m Where Is     \u001b(B\u001b[0;7m^V\u001b(B\u001b[m Next Page    \u001b(B\u001b[0;7m^U\u001b(B\u001b[m UnCut Text   \u001b(B\u001b[0;7m^T\u001b(B\u001b[m To Spell\u001b[11;14H"
+    ],
+    [
+      0.684361,
+      "\r\u001b[29d\u001b[J\u001b[30;99H"
+    ],
+    [
+      0.000007,
+      "\u001b[30;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.012822,
+      "                                                                                                   \r\r"
+    ],
+    [
+      0.000007,
+      "\u001b]0;~/dev\u0007"
+    ],
+    [
+      0.007592,
+      "\r\n\u001b[34m~/dev\u001b[38;5;242m \u001b[39m \u001b[33m6s\u001b[39m\r\n"
+    ],
+    [
+      0.000589,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[35m❯\u001b[39m \u001b[K"
+    ],
+    [
+      0.000054,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000263,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[35m❯\u001b[39m \u001b[K"
+    ],
+    [
+      1.646340,
+      "l"
+    ],
+    [
+      0.639454,
+      "\u0008 \u0008"
+    ],
+    [
+      0.071861,
+      "c"
+    ],
+    [
+      0.088199,
+      "\u0008cu"
+    ],
+    [
+      0.143721,
+      "r"
+    ],
+    [
+      0.088186,
+      "l"
+    ],
+    [
+      0.199928,
+      " "
+    ],
+    [
+      0.360453,
+      "-"
+    ],
+    [
+      0.135502,
+      "d"
+    ],
+    [
+      0.120030,
+      " "
+    ],
+    [
+      0.240722,
+      "'"
+    ],
+    [
+      0.127306,
+      "'"
+    ],
+    [
+      0.215965,
+      " "
+    ],
+    [
+      0.050104,
+      "l"
+    ],
+    [
+      0.189913,
+      "o"
+    ],
+    [
+      0.104345,
+      "c"
+    ],
+    [
+      0.079362,
+      "a"
+    ],
+    [
+      0.087958,
+      "l"
+    ],
+    [
+      0.168260,
+      "h"
+    ],
+    [
+      0.056196,
+      "o"
+    ],
+    [
+      0.111714,
+      "s"
+    ],
+    [
+      0.048088,
+      "t"
+    ],
+    [
+      0.208226,
+      ":"
+    ],
+    [
+      0.591757,
+      "1"
+    ],
+    [
+      0.113178,
+      "0"
+    ],
+    [
+      0.254763,
+      "5"
+    ],
+    [
+      0.152043,
+      "5"
+    ],
+    [
+      0.167982,
+      "5"
+    ],
+    [
+      0.600279,
+      "/"
+    ],
+    [
+      0.143781,
+      "r"
+    ],
+    [
+      0.151926,
+      "u"
+    ],
+    [
+      0.064587,
+      "n"
+    ],
+    [
+      0.311572,
+      "/"
+    ],
+    [
+      0.551853,
+      "e"
+    ],
+    [
+      0.216019,
+      "x"
+    ],
+    [
+      0.159893,
+      "a"
+    ],
+    [
+      0.104101,
+      "m"
+    ],
+    [
+      0.048036,
+      "p"
+    ],
+    [
+      0.192134,
+      "l"
+    ],
+    [
+      0.095962,
+      "e"
+    ],
+    [
+      0.304105,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000298,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[35m❯\u001b[39m curl -d '' localhost:10555/run/example\u001b[K"
+    ],
+    [
+      0.000068,
+      "\r\r\n"
+    ],
+    [
+      0.000682,
+      "\u001b]0;dev: curl -d '' localhost:10555/run/example\u0007"
+    ],
+    [
+      0.035724,
+      "                                                                                                   \r\r"
+    ],
+    [
+      0.000008,
+      "\u001b]0;~/dev\u0007"
+    ],
+    [
+      0.007754,
+      "\r\n\u001b[34m~/dev\u001b[38;5;242m \u001b[39m \u001b[33m\u001b[39m\r\n"
+    ],
+    [
+      0.000572,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[35m❯\u001b[39m "
+    ],
+    [
+      0.000004,
+      "\u001b[K"
+    ],
+    [
+      0.000061,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000209,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[35m❯\u001b[39m \u001b[K"
+    ],
+    [
+      2.138874,
+      "c"
+    ],
+    [
+      0.143517,
+      "\u0008ca"
+    ],
+    [
+      0.095890,
+      "t"
+    ],
+    [
+      0.151648,
+      " "
+    ],
+    [
+      0.368421,
+      "."
+    ],
+    [
+      0.096083,
+      "r"
+    ],
+    [
+      0.127701,
+      "o"
+    ],
+    [
+      0.119588,
+      "\u001b[33m\u001b[39m\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[35m❯\u001b[39m cat .robot_sweatshop\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.512904,
+      "\u0008\u001b[0m/w"
+    ],
+    [
+      0.095635,
+      "o"
+    ],
+    [
+      0.383920,
+      "\u0008 \u0008"
+    ],
+    [
+      0.104267,
+      "\u0008 \u0008"
+    ],
+    [
+      0.207518,
+      "l"
+    ],
+    [
+      0.136201,
+      "o"
+    ],
+    [
+      0.119890,
+      "g"
+    ],
+    [
+      0.182324,
+      "\u001b[33m\u001b[39m\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[35m❯\u001b[39m cat .robot_sweatshop/log\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.409870,
+      "\u0008\u001b[0m/w"
+    ],
+    [
+      0.095444,
+      "o"
+    ],
+    [
+      0.119261,
+      "\u001b[33m\u001b[39m\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[35m❯\u001b[39m cat .robot_sweatshop/log/worker.log\u001b[1m \u001b[0m\u001b[K"
+    ],
+    [
+      0.553033,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000034,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000268,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[35m❯\u001b[39m cat .robot_sweatshop/log/worker.log\u001b[K"
+    ],
+    [
+      0.000067,
+      "\r\r\n"
+    ],
+    [
+      0.000709,
+      "\u001b]0;dev: cat .robot_sweatshop/log/worker.log\u0007"
+    ],
+    [
+      0.002941,
+      "Starting\r\nStarting\r\nRunning: {:commands=\u003e[\"echo \\\"Hello $WORLD!\\\"\"], :context=\u003e{\"WORLD\"=\u003e\"Mars\", \"PATH\"=\u003e\"/Users/jscott/.gem/ruby/2.2.1/bin:/Users/jscott/.rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/bin:/Users/jscott/.rubies/ruby-2.2.1/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/sbin:/Users/jscott/dev/.robot_sweatshop/scripts\"}, :job_name=\u003e\"example\", :job_id=\u003e1}\r\nWorkspace: example-Hildegard\r\nExecuting 'echo \"Hello $WORLD!\"'\r\nHello Mars!\r\nExecution complete with exit status: 0\r\nJob finished.\r\n\r\n"
+    ],
+    [
+      0.000348,
+      "                                                                                                   \r\r"
+    ],
+    [
+      0.000015,
+      "\u001b]0;~/dev\u0007"
+    ],
+    [
+      0.009274,
+      "\r\n\u001b[34m~/dev\u001b[38;5;242m \u001b[39m \u001b[33m\u001b[39m\r\n"
+    ],
+    [
+      0.000654,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[35m❯\u001b[39m "
+    ],
+    [
+      0.000005,
+      "\u001b[K"
+    ],
+    [
+      0.000112,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000198,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[35m❯\u001b[39m \u001b[K"
+    ],
+    [
+      1.898082,
+      "e"
+    ],
+    [
+      0.255392,
+      "\u0008ex"
+    ],
+    [
+      0.079747,
+      "i"
+    ],
+    [
+      0.120319,
+      "t"
+    ],
+    [
+      0.119955,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000230,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[35m❯\u001b[39m exit\u001b[K"
+    ],
+    [
+      0.000052,
+      "\r\r\n"
+    ],
+    [
+      0.000745,
+      "\u001b]0;dev: exit\u0007"
+    ]
+  ]
+}
