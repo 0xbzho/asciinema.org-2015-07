@@ -1,0 +1,934 @@
+{
+  "version": 1,
+  "width": 105,
+  "height": 28,
+  "duration": 44.183742,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "rxvt-unicode-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.067136,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[m                                                                                                        \r \r\u001b]0;arch-satellite:~/projects/editor\u0007"
+    ],
+    [
+      0.000128,
+      "\r\u001b[m\u001b[27m\u001b[24m\u001b[Jphilip.\u001b[4march-satellite\u001b[24m\u003e "
+    ],
+    [
+      0.000017,
+      "\u001b[K\u001b[65C\u001b[35m~/projects/editor\u001b[00m\u0008\u001b[81D"
+    ],
+    [
+      1.288626,
+      "\u001b[H\u001b[2J\u001b[m\u001b[27m\u001b[24m\u001b[Jphilip.\u001b[4march-satellite\u001b[24m\u003e \u001b[K\u001b[65C\u001b[35m~/projects/editor\u001b[00m\u0008\u001b[81D"
+    ],
+    [
+      0.330728,
+      "\r\r\nbck-i-search: _\u001b[K\u001b[A\u001b[8C"
+    ],
+    [
+      0.126368,
+      "./editor text\u001b[4m.\u001b[24mc\u001b[1B\u001b[24D\u001b[@.\u001b[89C \u0008\u001b[A\u001b[68D"
+    ],
+    [
+      0.071440,
+      "\u001b[13D\u001b[4m.\u001b[4m/\u001b[24m\u001b[11C\u001b[24m.\u001b[1B\u001b[22D/_\u001b[A\u001b[6C"
+    ],
+    [
+      0.544972,
+      "\u001b[24m.\u001b[24m/\u001b[1B\r\u001b[K\u001b[A\u001b[23C"
+    ],
+    [
+      0.624709,
+      "\u001b[1B\r\u001b]0;./editor text.c\u0007"
+    ],
+    [
+      0.029408,
+      "Number of rows:  28\n"
+    ],
+    [
+      0.000280,
+      "\u001b[?1049h\u001b[1;28r\u001b[m\u001b(B\u001b[4l\u001b[?7h\u001b[H\u001b[2J#include \"text.h\"\r\u001b[3d#include \u003cstdlib.h\u003e\r\u001b[4d#include \u003cstring.h\u003e\r\u001b[6d#define GAPSIZE(t) (t-\u003etext_start - t-\u003egap_start)\r\u001b[7d#define NBYTES(t) ((t-\u003esize - t-\u003etext_start) + (t-\u003egap_start))\r\u001b[9d#define RESIZE_BY 20\r\u001b[11dText *new_document(void)\r\u001b[12d{\u001b[13;9HText *beg = calloc(1, sizeof(Text));\u001b[14;9Hreturn beg;\r\u001b[15d}\u001b[17d\u0008void resize_gap(Text *text, size_t new_gap)\r\u001b[18d{\u001b[19;9Hsize_t gap = GAPSIZE(text);\u001b[21;9H// resize_gap can't downsize\u001b[22;9Hif (new_gap \u003c= gap)\u001b[23;17Hreturn;\u001b[25;9Hsize_t expand_by = new_gap - gap;\u001b[26;9Hsize_t old_size = text-\u003esize;\u001b[27;9Hsize_t new_size = text-\u003esize + expand_by;\u001b[28;9Htext-\u003esize = new_size;"
+    ],
+    [
+      0.000041,
+      "\rhello\u001b[K"
+    ],
+    [
+      0.000020,
+      "\u001b[H"
+    ],
+    [
+      0.544688,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rhello\u001b[K\r\u001b[2d"
+    ],
+    [
+      0.659979,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rhello\u001b[K\r\u001b[3d"
+    ],
+    [
+      0.040594,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rhello\u001b[K\r\u001b[4d"
+    ],
+    [
+      0.040894,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rhello\u001b[K\r\u001b[5d"
+    ],
+    [
+      0.039598,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rhello\u001b[K\r\u001b[6d"
+    ],
+    [
+      0.039336,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rhello\u001b[K\r\u001b[7d"
+    ],
+    [
+      0.041301,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rhello\u001b[K\r\u001b[8d"
+    ],
+    [
+      0.040325,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rhello\u001b[K\r\u001b[9d"
+    ],
+    [
+      0.040315,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rhello\u001b[K\r\u001b[10d"
+    ],
+    [
+      0.040399,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rhello\u001b[K\r\u001b[11d"
+    ],
+    [
+      1.043591,
+      "HText *new_document(void)\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rhello\u001b[K\r\u001b[11dH"
+    ],
+    [
+      0.069931,
+      "EText *new_document(void)\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rhello\u001b[K\u001b[11;3H"
+    ],
+    [
+      0.079340,
+      "LText *new_document(void)\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rhello\u001b[K\u001b[11d\u0008\u0008"
+    ],
+    [
+      0.141918,
+      "\u0008LLText *new_document(void)\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rhello\u001b[K\u001b[11d\u0008"
+    ],
+    [
+      0.134004,
+      "OText *new_document(void)\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rhello\u001b[K\u001b[11d"
+    ],
+    [
+      0.205931,
+      "\r\u001b[A\u001b[L\u001b[11dHELLO\r\u001b[12d\u001b[5P\u001b[28;50H\rhello\u001b[K\r\u001b[12d"
+    ],
+    [
+      0.158151,
+      "\u001b[L\u001b[28;38H\rhello\u001b[K\r\u001b[13d"
+    ],
+    [
+      0.142207,
+      "\u001b[A\u001b[L\u001b[28;42H\rhello\u001b[K\r\u001b[14d"
+    ],
+    [
+      0.125953,
+      "\u001b[12d\u001b[L\u001b[28dhello\r\u001b[15d"
+    ],
+    [
+      0.150057,
+      "\u001b[12d\u001b[L\u001b[28;24H\rhello\u001b[K\r\u001b[16d"
+    ],
+    [
+      0.183257,
+      "\u001b[28;16H\u001b[1K return;\rhello\u001b[K\r\u001b[17d"
+    ],
+    [
+      0.182218,
+      "\u001b[28;16H\u001b[1K return;\rhello\u001b[K\r\u001b[18d"
+    ],
+    [
+      0.659961,
+      "\u001b[28;16H\u001b[1K return;\rhello\u001b[K\r\u001b[19d"
+    ],
+    [
+      0.040062,
+      "\u001b[28;16H\u001b[1K return;\rhello\u001b[K\r\u001b[20d"
+    ],
+    [
+      0.039807,
+      "\u001b[28;16H\u001b[1K return;\rhello\u001b[K\r\u001b[21d"
+    ],
+    [
+      0.039759,
+      "\u001b[28;16H\u001b[1K return;\rhello\u001b[K\r\u001b[22d"
+    ],
+    [
+      0.040255,
+      "\u001b[28;16H\u001b[1K return;\rhello\u001b[K\r\u001b[23d"
+    ],
+    [
+      0.040302,
+      "\u001b[28;16H\u001b[1K return;\rhello\u001b[K\r\u001b[24d"
+    ],
+    [
+      0.040564,
+      "\u001b[28;16H\u001b[1K return;\rhello\u001b[K\r\u001b[25d"
+    ],
+    [
+      0.039639,
+      "\u001b[28;16H\u001b[1K return;\rhello\u001b[K\r\u001b[26d"
+    ],
+    [
+      0.040941,
+      "\u001b[28;16H\u001b[1K return;\rhello\u001b[K\r\u001b[A"
+    ],
+    [
+      0.040258,
+      "\u001b[28d\n\u001b[27;16H\u001b[1K return;\r\u001b[28dhello\r\u001b[A"
+    ],
+    [
+      0.040061,
+      "\u001b[28d\n\u001b[A\u001b[K\u001b[28;9Hsize_t expand_by = new_gap - gap;\rhello\u001b[K\r\u001b[A"
+    ],
+    [
+      0.040102,
+      "\u001b[28d\n\u001b[27;8H\u001b[1K size_t expand_by = new_gap - gap;\u001b[28;9Hsize_t old_size = text-\u003esize;\rhello\u001b[K\r\u001b[A"
+    ],
+    [
+      0.040033,
+      "\u001b[28d\n\u001b[27;8H\u001b[1K size_t old_size = text-\u003esize;\u001b[28;9Hsize_t new_size = text-\u003esize + expand_by;\rhello\u001b[K\r\u001b[A"
+    ],
+    [
+      0.039956,
+      "\u001b[28d\n\u001b[27;8H\u001b[1K size_t new_size = text-\u003esize + expand_by;\u001b[28;9Htext-\u003esize = new_size;\rhello\u001b[K\r\u001b[A"
+    ],
+    [
+      0.040427,
+      "\u001b[28d\n\u001b[27;8H\u001b[1K text-\u003esize = new_size;\u001b[28;9Hsize_t old_start = text-\u003etext_start;\rhello\u001b[K\r\u001b[A"
+    ],
+    [
+      0.039643,
+      "\u001b[28d\n\u001b[27;8H\u001b[1K size_t old_start = text-\u003etext_start;\u001b[28;9Htext-\u003etext_start += expand_by;\rhello\u001b[K\r\u001b[A"
+    ],
+    [
+      0.040581,
+      "\u001b[28d\n\u001b[27;8H\u001b[1K text-\u003etext_start += expand_by;\u001b[28;9Hchar *old_buf = text-\u003ebuf;\rhello\u001b[K\r\u001b[A"
+    ],
+    [
+      0.040538,
+      "\u001b[28d\n\u001b[27;8H\u001b[1K char *old_buf = text-\u003ebuf;\u001b[28;9Htext-\u003ebuf = (char*)calloc(1, new_size);\rhello\u001b[K\r\u001b[A"
+    ],
+    [
+      0.040062,
+      "\u001b[28d\n\u001b[27;8H\u001b[1K text-\u003ebuf = (char*)calloc(1, new_size);\u001b[28;9Hmemcpy(text-\u003ebuf, old_buf, text-\u003egap_start);\rhello\u001b[K\r\u001b[A"
+    ],
+    [
+      0.040183,
+      "\u001b[28d\n\u001b[27;8H\u001b[1K memcpy(text-\u003ebuf, old_buf, text-\u003egap_start);\u001b[28;9Hmemcpy(text-\u003ebuf + text-\u003etext_start, old_buf + old_start, old_size - old_start);\rhello\u001b[K\r\u001b[A"
+    ],
+    [
+      0.039871,
+      "\u001b[28d\n\u001b[27;8H\u001b[1K memcpy(text-\u003ebuf + text-\u003etext_start, old_buf + old_start, old_size - old_start);\u001b[28;9Hfree(old_buf);\rhello\u001b[K\r\u001b[A"
+    ],
+    [
+      0.039932,
+      "\u001b7\u001b[1;27r\u001b8\n\u001b[1;28r\u001b[27;9Hfree(old_buf);\r\u001b[28d}\u001b[K\u0008hello\r\u001b[A"
+    ],
+    [
+      0.040240,
+      "\u001b[28d\n\u001b[A}\u001b[K\u001b[28d\u0008hello\r\u001b[A"
+    ],
+    [
+      0.040979,
+      "\u001b7\u001b[1;27r\u001b8\n\u001b[1;28r\u001b[28;1Hvoid add_character(Text *text, char c)\rhello\u001b[K\r\u001b[A"
+    ],
+    [
+      0.041054,
+      "\u001b[28d\n\u001b[Avoid add_character(Text *text, char c)\r\u001b[28d{\u0008hello\r\u001b[A"
+    ],
+    [
+      0.040845,
+      "\u001b[28d\n\u001b[A{\u001b[K\u001b[28;9Hsize_t freespace = GAPSIZE(text);\rhello\u001b[K\r\u001b[A"
+    ],
+    [
+      0.040220,
+      "\u001b[28d\n\u001b[27;8H\u001b[1K size_t freespace = GAPSIZE(text);\u001b[28;9Hif (freespace \u003c= 1)\rhello\u001b[K\r\u001b[A"
+    ],
+    [
+      0.164018,
+      "\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\r\u001b[A "
+    ],
+    [
+      0.056622,
+      "\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\r\u001b[26d{"
+    ],
+    [
+      0.189141,
+      "\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\r\u001b[25dv"
+    ],
+    [
+      0.062877,
+      "\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[25;3H"
+    ],
+    [
+      0.659660,
+      "\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[25d\u0008\u0008"
+    ],
+    [
+      0.040269,
+      "\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[25d\u0008"
+    ],
+    [
+      0.040329,
+      "\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[25d"
+    ],
+    [
+      0.040589,
+      "\u001b[28d  \u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[25da"
+    ],
+    [
+      0.039891,
+      "\u001b[28d \u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[25dad"
+    ],
+    [
+      0.040168,
+      "\u001b[28d\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[25;9H"
+    ],
+    [
+      0.040208,
+      "\u001b[28d\u0008\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[25;10H"
+    ],
+    [
+      0.039281,
+      "\u001b[28d\u0008\u0008\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[25;11H"
+    ],
+    [
+      0.040174,
+      "\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[25;12H"
+    ],
+    [
+      0.040296,
+      "\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[25;13H"
+    ],
+    [
+      0.039712,
+      "\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[25;14H"
+    ],
+    [
+      0.040793,
+      "\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[25;15H"
+    ],
+    [
+      0.040244,
+      "\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[25;16H"
+    ],
+    [
+      0.040266,
+      "\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[25;17H"
+    ],
+    [
+      0.040497,
+      "\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[25;18H"
+    ],
+    [
+      0.040408,
+      "\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[25;19H"
+    ],
+    [
+      0.040327,
+      "\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[25;20H"
+    ],
+    [
+      0.039475,
+      "\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[25;21H"
+    ],
+    [
+      0.021503,
+      "\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\r\u001b[24d"
+    ],
+    [
+      0.143639,
+      "\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\r\u001b[23d"
+    ],
+    [
+      0.158027,
+      "\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\r\u001b[22d"
+    ],
+    [
+      0.117652,
+      "\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\r\u001b[22d "
+    ],
+    [
+      0.300896,
+      "\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[22;3H"
+    ],
+    [
+      0.660173,
+      "\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[22d\u0008\u0008"
+    ],
+    [
+      0.040374,
+      "\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[22d\u0008"
+    ],
+    [
+      0.040503,
+      "\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[22d"
+    ],
+    [
+      0.040039,
+      "\u001b[28d  \u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[22d "
+    ],
+    [
+      0.041236,
+      "\u001b[28d \u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[22d  "
+    ],
+    [
+      0.040448,
+      "\u001b[28d\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[22;9H"
+    ],
+    [
+      0.040083,
+      "\u001b[28d\u0008\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[22;10H"
+    ],
+    [
+      0.041070,
+      "\u001b[28d\u0008\u0008\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[22;11H"
+    ],
+    [
+      0.040203,
+      "\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[22;12H"
+    ],
+    [
+      0.040281,
+      "\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[22;13H"
+    ],
+    [
+      0.016153,
+      "\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[21;13H"
+    ],
+    [
+      0.131849,
+      "\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[21;14H"
+    ],
+    [
+      0.033794,
+      "\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[20;14H\u001b[21Ga\u003ebuf, old_buf, text-\u003egap_start);\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[20;15H"
+    ],
+    [
+      0.061928,
+      "\u001b[22Gs\u003ebuf, old_buf, text-\u003egap_start);\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[20;16H"
+    ],
+    [
+      0.021992,
+      "\u001b[23Gd\u003ebuf, old_buf, text-\u003egap_start);\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[20;17H"
+    ],
+    [
+      0.050297,
+      "\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[20;18H"
+    ],
+    [
+      0.016476,
+      "\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[19;18H"
+    ],
+    [
+      0.137944,
+      "\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[19;19H"
+    ],
+    [
+      0.048193,
+      "\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[18;19H"
+    ],
+    [
+      0.123680,
+      "\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[18;20H"
+    ],
+    [
+      0.024475,
+      "\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[17;20H"
+    ],
+    [
+      0.069225,
+      "\u001b[27Ga= expand_by;\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[17;21H"
+    ],
+    [
+      0.088693,
+      "\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[17;22H\u001b[29Gd expand_by;\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[17;23H"
+    ],
+    [
+      0.000211,
+      "\u001b[30Gs expand_by;\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[17;24H"
+    ],
+    [
+      0.067972,
+      "\u001b[31Gf expand_by;\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[17;25H"
+    ],
+    [
+      0.107622,
+      "\u001b[32Ga expand_by;\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[17;26H"
+    ],
+    [
+      0.062547,
+      "\u001b[33Gs expand_by;\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[17;27H"
+    ],
+    [
+      0.029658,
+      "\u001b[34Gd expand_by;\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[17;28H"
+    ],
+    [
+      0.078198,
+      "\u001b[35Gf expand_by;\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[17;29H"
+    ],
+    [
+      0.062793,
+      "\u001b[36Ga expand_by;\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[17;30H"
+    ],
+    [
+      0.045347,
+      "\u001b[37Gs expand_by;\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[17;31H"
+    ],
+    [
+      0.029543,
+      "\u001b[38Gd expand_by;\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[17;32H"
+    ],
+    [
+      0.062811,
+      "\u001b[39Gf expand_by;\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[17;33H"
+    ],
+    [
+      0.092315,
+      "\u001b[40Ga expand_by;\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[17;34H"
+    ],
+    [
+      0.065980,
+      "\u001b[41G  expand_by;\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[17;35H"
+    ],
+    [
+      0.039465,
+      "\u001b[42Gh expand_by;\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[17;36H"
+    ],
+    [
+      0.138710,
+      "\u001b[43Gi expand_by;\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[17;37H"
+    ],
+    [
+      0.000688,
+      "\u001b[44Ga expand_by;\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[17;38H"
+    ],
+    [
+      0.014337,
+      "\u001b[45Ge expand_by;\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[17;39H"
+    ],
+    [
+      0.079650,
+      "\u001b[46Gh expand_by;\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[17;40H"
+    ],
+    [
+      0.125939,
+      "\u001b[47G; expand_by;\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[17;41H\u001b[48Ga expand_by;\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[17;42H"
+    ],
+    [
+      0.096287,
+      "\u001b[49Gi expand_by;\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[17;43H"
+    ],
+    [
+      0.000751,
+      "\u001b[50Ge expand_by;\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[17;44H"
+    ],
+    [
+      0.135249,
+      "\u001b[51G  expand_by;\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[17;45H"
+    ],
+    [
+      0.018858,
+      "\u001b[52Ga expand_by;\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[17;46H"
+    ],
+    [
+      0.122725,
+      "\u001b[53G; expand_by;\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[17;47H"
+    ],
+    [
+      0.035826,
+      "\u001b[54Gi expand_by;\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[17;48H"
+    ],
+    [
+      0.036602,
+      "\u001b[55Gs expand_by;\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[17;49H"
+    ],
+    [
+      0.076547,
+      "\u001b[56G  expand_by;\u001b[28;8H\u001b[1K if (freespace \u003c= 1)\rhello\u001b[K\u001b[17;50H"
+    ],
+    [
+      0.241485,
+      "\r\u001b[18d\u001b[L\u001b[17;58H\u001b[K\r\u001b[18d expand_by;\u001b[28;42H\rhello\u001b[K\r\u001b[18d"
+    ],
+    [
+      0.061925,
+      "\u001b[L\u001b[28d{\u0008hello\r\u001b[19d"
+    ],
+    [
+      0.174177,
+      "\u001b[A\u001b[L\u001b[28;39H\rhello\u001b[K\r\u001b[20d"
+    ],
+    [
+      0.105889,
+      "a expand_by;\r\u001b[28dvoid add_character(Text *text, char c)\rhello\u001b[K\r\u001b[20da"
+    ],
+    [
+      0.083104,
+      "  expand_by;\r\u001b[28dvoid add_character(Text *text, char c)\rhello\u001b[K\u001b[20;3H"
+    ],
+    [
+      0.083530,
+      "s expand_by;\r\u001b[28dvoid add_character(Text *text, char c)\rhello\u001b[K\u001b[20d\u0008\u0008"
+    ],
+    [
+      0.038179,
+      "d expand_by;\r\u001b[28dvoid add_character(Text *text, char c)\rhello\u001b[K\u001b[20d\u0008"
+    ],
+    [
+      0.122391,
+      "  expand_by;\r\u001b[28dvoid add_character(Text *text, char c)\rhello\u001b[K\u001b[20d"
+    ],
+    [
+      0.000852,
+      "a expand_by;\r\u001b[28dvoid add_character(Text *text, char c)\rhello\u001b[K\u001b[20da"
+    ],
+    [
+      0.176109,
+      "\u0008\u001b[1P\r\u001b[28dvoid add_character(Text *text, char c)\rhello\u001b[K\u001b[20d"
+    ],
+    [
+      0.118234,
+      "\u0008\u001b[1P\r\u001b[28dvoid add_character(Text *text, char c)\rhello\u001b[K\u001b[20d\u0008"
+    ],
+    [
+      0.157805,
+      "\u0008\u001b[1P\r\u001b[28dvoid add_character(Text *text, char c)\rhello\u001b[K\u001b[20d\u0008\u0008"
+    ],
+    [
+      0.150219,
+      "\u0008\u001b[1P\r\u001b[28dvoid add_character(Text *text, char c)\rhello\u001b[K\u001b[20;3H"
+    ],
+    [
+      3.399891,
+      "\u001b[28;1H\u001b[r\u001b[?1049l\r\u001b\u003e"
+    ],
+    [
+      0.001309,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[m                                                                                                        \r \r\u001b]0;arch-satellite:~/projects/editor\u0007\r\u001b[m\u001b[27m\u001b[24m\u001b[Jphilip.\u001b[4march-satellite\u001b[24m\u003e \u001b[K\u001b[65C\u001b[35m~/projects/editor\u001b[00m\u0008\u001b[81D"
+    ],
+    [
+      2.330806,
+      "m"
+    ],
+    [
+      0.133321,
+      "\u0008mg"
+    ],
+    [
+      0.160643,
+      " "
+    ],
+    [
+      0.094689,
+      "s"
+    ],
+    [
+      0.051863,
+      "t"
+    ],
+    [
+      0.115507,
+      "a"
+    ],
+    [
+      0.048474,
+      "r"
+    ],
+    [
+      0.133227,
+      "t"
+    ],
+    [
+      0.095405,
+      "."
+    ],
+    [
+      0.134758,
+      "p"
+    ],
+    [
+      0.053395,
+      "y"
+    ],
+    [
+      0.630377,
+      "\r\r\n\u001b]0;mg start.py\u0007"
+    ],
+    [
+      0.043289,
+      "\u001b[?1049h\u001b=\u001b[1;1H\u001b[J\u001b[27;1H\u001b[7m-----Mg: *scratch*                        (fundamental)--L1----------------------------------------------\u001b[27m\u001b[1;1H\u001b[28;1HBackup files disabled\u001b[K\u001b[28;1H(Read 4 lines)\u001b[K\u001b[1;1H\u001b[J\u001b[27mimport editor\u001b[2;1Hprint(\"Number of rows: \", editor.rows())\u001b[27;1H\u001b[7m-----Mg: start.py                         (fundamental)--L1--C0------------------------------------------\u001b[27m\u001b[1;1H"
+    ],
+    [
+      0.713010,
+      "\u001b[28;1HMark set\u001b[K\u001b[27;59H\u001b[7m4\u001b[4;1H"
+    ],
+    [
+      1.026422,
+      "\u001b[27m\u001b[28;1H\u001b[K\u001b[4;1He\u001b[27;3H\u001b[7m**-Mg: start.py                         (fundamental)--L4--C1\u001b[4;2H"
+    ],
+    [
+      0.158064,
+      "\u001b[27md\u001b[27;63H\u001b[7m2\u001b[4;3H"
+    ],
+    [
+      0.063579,
+      "\u001b[27mi\u001b[27;63H\u001b[7m3\u001b[4;4H"
+    ],
+    [
+      0.078425,
+      "\u001b[27mt\u001b[27;63H\u001b[7m4\u001b[4;5H"
+    ],
+    [
+      0.126007,
+      "\u001b[27mo\u001b[27;63H\u001b[7m5\u001b[4;6H"
+    ],
+    [
+      0.436715,
+      "\u001b[27mr\u001b[27;63H\u001b[7m6\u001b[4;7H"
+    ],
+    [
+      0.231707,
+      "\u001b[27m.\u001b[27;63H\u001b[7m7\u001b[4;8H"
+    ],
+    [
+      0.155234,
+      "\u001b[27ms\u001b[27;63H\u001b[7m8\u001b[4;9H"
+    ],
+    [
+      0.102280,
+      "\u001b[27mt\u001b[27;63H\u001b[7m9\u001b[4;10H"
+    ],
+    [
+      0.077456,
+      "\u001b[27ma\u001b[27;63H\u001b[7m10\u001b[4;11H"
+    ],
+    [
+      0.048558,
+      "\u001b[27mt\u001b[27;64H\u001b[7m1\u001b[4;12H"
+    ],
+    [
+      0.109723,
+      "\u001b[27mu\u001b[27;64H\u001b[7m2\u001b[4;13H"
+    ],
+    [
+      0.094587,
+      "\u001b[27ms\u001b[27;64H\u001b[7m3\u001b[4;14H"
+    ],
+    [
+      0.325849,
+      "\u001b[27m_\u001b[27;64H\u001b[7m4\u001b[4;15H"
+    ],
+    [
+      0.204695,
+      "\u001b[27ml\u001b[27;64H\u001b[7m5\u001b[4;16H"
+    ],
+    [
+      0.070320,
+      "\u001b[27mi\u001b[27;64H\u001b[7m6\u001b[4;17H"
+    ],
+    [
+      0.077767,
+      "\u001b[27mn\u001b[27;64H\u001b[7m7\u001b[4;18H"
+    ],
+    [
+      0.077514,
+      "\u001b[27me\u001b[27;64H\u001b[7m8\u001b[4;19H"
+    ],
+    [
+      0.095180,
+      "\u001b[27;64H9\u001b[4;20H"
+    ],
+    [
+      0.132727,
+      "\u001b[27m=\u001b[27;63H\u001b[7m20\u001b[4;21H"
+    ],
+    [
+      0.086233,
+      "\u001b[27;64H1\u001b[4;22H"
+    ],
+    [
+      0.189983,
+      "\u001b[27m\"\u001b[27;64H\u001b[7m2\u001b[4;23H"
+    ],
+    [
+      0.188537,
+      "\u001b[27mN\u001b[27;64H\u001b[7m3\u001b[4;24H"
+    ],
+    [
+      0.077688,
+      "\u001b[27mE\u001b[27;64H\u001b[7m4\u001b[4;25H"
+    ],
+    [
+      0.101846,
+      "\u001b[27mW\u001b[27;64H\u001b[7m5\u001b[4;26H"
+    ],
+    [
+      0.136678,
+      "\u001b[27;64H6\u001b[4;27H"
+    ],
+    [
+      0.338372,
+      "\u001b[27mS\u001b[27;64H\u001b[7m7\u001b[4;28H"
+    ],
+    [
+      0.119229,
+      "\u001b[27mT\u001b[27;64H\u001b[7m8\u001b[4;29H"
+    ],
+    [
+      0.148494,
+      "\u001b[27mA\u001b[27;64H\u001b[7m9\u001b[4;30H"
+    ],
+    [
+      0.143709,
+      "\u001b[27mT\u001b[27;63H\u001b[7m30\u001b[4;31H"
+    ],
+    [
+      0.174410,
+      "\u001b[27mU\u001b[27;64H\u001b[7m1\u001b[4;32H"
+    ],
+    [
+      0.094032,
+      "\u001b[27mS\u001b[27;64H\u001b[7m2\u001b[4;33H"
+    ],
+    [
+      0.104210,
+      "\u001b[27;64H3\u001b[4;34H"
+    ],
+    [
+      0.061900,
+      "\u001b[27mL\u001b[27;64H\u001b[7m4\u001b[4;35H"
+    ],
+    [
+      0.053497,
+      "\u001b[27mI\u001b[27;64H\u001b[7m5\u001b[4;36H"
+    ],
+    [
+      0.062438,
+      "\u001b[27mN\u001b[27;64H\u001b[7m6\u001b[4;37H"
+    ],
+    [
+      0.053141,
+      "\u001b[27mE\u001b[27;64H\u001b[7m7\u001b[4;38H"
+    ],
+    [
+      0.539161,
+      "\u001b[27m!\u001b[27;64H\u001b[7m8\u001b[4;39H"
+    ],
+    [
+      0.358146,
+      "\u001b[27m!\u001b[27;64H\u001b[7m9\u001b[4;40H"
+    ],
+    [
+      0.142026,
+      "\u001b[27m!\u001b[27;63H\u001b[7m40\u001b[4;41H"
+    ],
+    [
+      0.153529,
+      "\u001b[27m\"\u001b[27;64H\u001b[7m1\u001b[4;42H"
+    ],
+    [
+      0.871785,
+      "\u001b[27m\u001b[28;1HWrote /home/philip/projects/editor/start.py\u001b[K\u001b[27;3H\u001b[7m---Mg: start.py                         (fundamental)--L5--C0-\u001b[5;1H"
+    ],
+    [
+      2.243306,
+      "\u001b[27m\u001b[28;1H(No files need saving)\u001b[K\u001b[1;28r\u001b[28;1H\u001b[K\u001b\u003e\u001b[r\u001b[?1049l"
+    ],
+    [
+      0.000378,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[m                                                                                                        \r \r\u001b]0;arch-satellite:~/projects/editor\u0007\r\u001b[m\u001b[27m\u001b[24m\u001b[Jphilip.\u001b[4march-satellite\u001b[24m\u003e \u001b[K\u001b[65C\u001b[35m~/projects/editor\u001b[00m\u0008\u001b[81D"
+    ],
+    [
+      0.454041,
+      "mg start.py"
+    ],
+    [
+      0.380232,
+      "\u001b[11D./editor text.c"
+    ],
+    [
+      0.773451,
+      "\r\r\n\u001b]0;./editor text.c\u0007"
+    ],
+    [
+      0.027187,
+      "Number of rows:  28\n"
+    ],
+    [
+      0.000337,
+      "\u001b[?1049h\u001b[1;28r\u001b[m\u001b(B\u001b[4l\u001b[?7h\u001b[H\u001b[2J#include \"text.h\"\r\u001b[3d#include \u003cstdlib.h\u003e\r\u001b[4d#include \u003cstring.h\u003e\r\u001b[6d#define GAPSIZE(t) (t-\u003etext_start - t-\u003egap_start)\r\u001b[7d#define NBYTES(t) ((t-\u003esize - t-\u003etext_start) + (t-\u003egap_start))\r\u001b[9d#define RESIZE_BY 20\r\u001b[11dText *new_document(void)\r\u001b[12d{\u001b[13;9HText *beg = calloc(1, sizeof(Text));\u001b[14;9Hreturn beg;\r\u001b[15d}\u001b[17d\u0008void resize_gap(Text *text, size_t new_gap)\r\u001b[18d{\u001b[19;9Hsize_t gap = GAPSIZE(text);\u001b[21;9H// resize_gap can't downsize\u001b[22;9Hif (new_gap \u003c= gap)\u001b[23;17Hreturn;\u001b[25;9Hsize_t expand_by = new_gap - gap;\u001b[26;9Hsize_t old_size = text-\u003esize;\u001b[27;9Hsize_t new_size = text-\u003esize + expand_by;\u001b[28;9Htext-\u003esize = new_size;"
+    ],
+    [
+      0.000059,
+      "\rNEW STATUS LINE!!!\u001b[K"
+    ],
+    [
+      0.000014,
+      "\u001b[H"
+    ],
+    [
+      1.697778,
+      "\u001bM\u001b[28;50H\rNEW STATUS LINE!!!\u001b[K\r\u001b[2d"
+    ],
+    [
+      0.117862,
+      "\u001b[A\u001bM\u001b[28;38H\rNEW STATUS LINE!!!\u001b[K\r\u001b[3d"
+    ],
+    [
+      0.240620,
+      "\u001b[28;8H\u001b[1K size_t old_size = text-\u003esize;\rNEW STATUS LINE!!!\u001b[K\r\u001b[2d"
+    ],
+    [
+      0.190087,
+      "\u001b[28;8H\u001b[1K size_t old_size = text-\u003esize;\rNEW STATUS LINE!!!\u001b[K\u001b[H"
+    ],
+    [
+      0.409770,
+      "y\u001b[28;8H\u001b[1K size_t old_size = text-\u003esize;\rNEW STATUS LINE!!!\u001b[K\u001b[Hy"
+    ],
+    [
+      0.092110,
+      "a\u001b[28;8H\u001b[1K size_t old_size = text-\u003esize;\rNEW STATUS LINE!!!\u001b[K\u001b[Hya"
+    ],
+    [
+      0.064805,
+      "y\u001b[28;8H\u001b[1K size_t old_size = text-\u003esize;\rNEW STATUS LINE!!!\u001b[K\u001b[Hyay"
+    ],
+    [
+      0.834489,
+      "!\u001b[28;8H\u001b[1K size_t old_size = text-\u003esize;\rNEW STATUS LINE!!!\u001b[K\u001b[Hyay!"
+    ],
+    [
+      0.109953,
+      "!\u001b[28d  \u001b[1K size_t old_size = text-\u003esize;\rNEW STATUS LINE!!!\u001b[K\u001b[1;6H"
+    ],
+    [
+      2.917268,
+      "\u001b[28;1H\u001b[r\u001b[?1049l\r\u001b\u003e"
+    ],
+    [
+      0.000242,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[m                                                                                                        \r \r\u001b]0;arch-satellite:~/projects/editor\u0007\r\u001b[m\u001b[27m\u001b[24m\u001b[Jphilip.\u001b[4march-satellite\u001b[24m\u003e \u001b[K\u001b[65C\u001b[35m~/projects/editor\u001b[00m\u0008\u001b[81D"
+    ],
+    [
+      1.079394,
+      "\r\r\n"
+    ]
+  ]
+}
