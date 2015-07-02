@@ -1,0 +1,1962 @@
+{
+  "version": 1,
+  "width": 105,
+  "height": 28,
+  "duration": 75.044046,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "rxvt-unicode-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.250348,
+      "c"
+    ],
+    [
+      0.044070,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[m                                                                                                        \r \r"
+    ],
+    [
+      0.000024,
+      "\u001b]0;arch-satellite:~/projects/editor\u0007"
+    ],
+    [
+      0.000139,
+      "\r\u001b[m\u001b[27m\u001b[24m\u001b[Jphilip.\u001b[4march-satellite\u001b[24m\u003e "
+    ],
+    [
+      0.000015,
+      "\u001b[K\u001b[65C\u001b[35m~/projects/editor\u001b[00m\u0008\u001b[81D"
+    ],
+    [
+      0.000057,
+      "c"
+    ],
+    [
+      0.112664,
+      "\u0008ca"
+    ],
+    [
+      0.222440,
+      "t"
+    ],
+    [
+      0.145710,
+      " "
+    ],
+    [
+      0.154510,
+      "s"
+    ],
+    [
+      0.063965,
+      "t"
+    ],
+    [
+      0.107582,
+      "a"
+    ],
+    [
+      0.102241,
+      "r"
+    ],
+    [
+      0.103326,
+      "t"
+    ],
+    [
+      0.151751,
+      "."
+    ],
+    [
+      0.214312,
+      "p"
+    ],
+    [
+      0.077731,
+      "y"
+    ],
+    [
+      0.213990,
+      "\r\r\n\u001b]0;cat start.py\u0007"
+    ],
+    [
+      0.156463,
+      "import editor\r\n\r\n\r\n"
+    ],
+    [
+      0.000381,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[m                                                                                                        \r \r\u001b]0;arch-satellite:~/projects/editor\u0007\r\u001b[m\u001b[27m\u001b[24m\u001b[Jphilip.\u001b[4march-satellite\u001b[24m\u003e \u001b[K\u001b[65C\u001b[35m~/projects/editor\u001b[00m\u0008\u001b[81D"
+    ],
+    [
+      0.775098,
+      "\r\r\nbck-i-search: _\u001b[K\u001b[A\u001b[8C"
+    ],
+    [
+      0.142574,
+      "cat start\u001b[4m.\u001b[24mpy\u001b[1B\u001b[21D\u001b[@.\u001b[89C \u0008\u001b[A\u001b[72D"
+    ],
+    [
+      0.095787,
+      "\u001b[9D\u001b[4m.\u001b[4m/\u001b[24meditor \u001b[24mtext.c\u001b[1B\u001b[23D/_\u001b[A\u001b[6C"
+    ],
+    [
+      0.657593,
+      "\u001b[24m.\u001b[24m/\u001b[1B\r\u001b[K\u001b[A\u001b[38C"
+    ],
+    [
+      0.753849,
+      "\u001b[1B\r\u001b]0;./editor text.c\u0007"
+    ],
+    [
+      0.029552,
+      "\u001b[?1049h\u001b[1;28r\u001b[m\u001b(B\u001b[4l\u001b[?7h\u001b[H\u001b[2J#include \"text.h\"\r\u001b[3d#include \u003cstdlib.h\u003e\r\u001b[4d#include \u003cstring.h\u003e\r\u001b[6d#define GAPSIZE(t) (t-\u003etext_start - t-\u003egap_start)\r\u001b[7d#define NBYTES(t) ((t-\u003esize - t-\u003etext_start) + (t-\u003egap_start))\r\u001b[9d#define RESIZE_BY 20\r\u001b[11dText *new_document(void)\r\u001b[12d{\u001b[13;9HText *beg = calloc(1, sizeof(Text));\u001b[14;9Hreturn beg;\r\u001b[15d}\u001b[17d\u0008void resize_gap(Text *text, size_t new_gap)\r\u001b[18d{\u001b[19;9Hsize_t gap = GAPSIZE(text);\u001b[21;9H// resize_gap can't downsize\u001b[22;9Hif (new_gap \u003c= gap)\u001b[23;17Hreturn;\u001b[25;9Hsize_t expand_by = new_gap - gap;\u001b[26;9Hsize_t old_size = text-\u003esize;\u001b[27;9Hsize_t new_size = text-\u003esize + expand_by;\u001b[28;9Htext-\u003esize = new_size;"
+    ],
+    [
+      0.000024,
+      "\rlast character pressed:\u001b[K "
+    ],
+    [
+      0.000022,
+      "\u001b[H"
+    ],
+    [
+      0.416470,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;"
+    ],
+    [
+      0.000050,
+      "\rlast character pressed: ^[\u001b[K"
+    ],
+    [
+      0.000017,
+      "\r\u001b[2d"
+    ],
+    [
+      0.659619,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;"
+    ],
+    [
+      0.000068,
+      "\rlast character pressed: ^[\u001b[K"
+    ],
+    [
+      0.000040,
+      "\r\u001b[3d"
+    ],
+    [
+      0.039879,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;"
+    ],
+    [
+      0.000052,
+      "\rlast character pressed: ^[\u001b[K"
+    ],
+    [
+      0.000031,
+      "\r\u001b[4d"
+    ],
+    [
+      0.039943,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: ^[\u001b[K"
+    ],
+    [
+      0.000009,
+      "\r\u001b[5d"
+    ],
+    [
+      0.039952,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;"
+    ],
+    [
+      0.000026,
+      "\rlast character pressed: ^[\u001b[K"
+    ],
+    [
+      0.000035,
+      "\r\u001b[6d"
+    ],
+    [
+      0.040118,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: ^[\u001b[K"
+    ],
+    [
+      0.000007,
+      "\r\u001b[7d"
+    ],
+    [
+      0.039716,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;"
+    ],
+    [
+      0.000054,
+      "\rlast character pressed: ^[\u001b[K"
+    ],
+    [
+      0.000030,
+      "\r\u001b[8d"
+    ],
+    [
+      0.039742,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;"
+    ],
+    [
+      0.000008,
+      "\rlast character pressed: ^[\u001b[K"
+    ],
+    [
+      0.000039,
+      "\r\u001b[9d"
+    ],
+    [
+      0.040601,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;"
+    ],
+    [
+      0.000045,
+      "\rlast character pressed: ^[\u001b[K"
+    ],
+    [
+      0.000047,
+      "\r\u001b[10d"
+    ],
+    [
+      0.040685,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: ^[\u001b[K"
+    ],
+    [
+      0.000008,
+      "\r\u001b[11d"
+    ],
+    [
+      0.039817,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;"
+    ],
+    [
+      0.000095,
+      "\rlast character pressed: ^[\u001b[K\r\u001b[12d"
+    ],
+    [
+      0.040276,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;"
+    ],
+    [
+      0.000051,
+      "\rlast character pressed: ^[\u001b[K"
+    ],
+    [
+      0.000029,
+      "\r\u001b[13d"
+    ],
+    [
+      0.040688,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: ^[\u001b[K"
+    ],
+    [
+      0.000007,
+      "\r\u001b[14d"
+    ],
+    [
+      0.040075,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;"
+    ],
+    [
+      0.000075,
+      "\rlast character pressed: ^[\u001b[K"
+    ],
+    [
+      0.000037,
+      "\r\u001b[15d"
+    ],
+    [
+      0.039850,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: ^[\u001b[K"
+    ],
+    [
+      0.000030,
+      "\r\u001b[16d"
+    ],
+    [
+      0.039915,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;"
+    ],
+    [
+      0.000047,
+      "\rlast character pressed: ^[\u001b[K"
+    ],
+    [
+      0.000061,
+      "\r\u001b[17d"
+    ],
+    [
+      0.039950,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: ^[\u001b[K"
+    ],
+    [
+      0.000028,
+      "\r\u001b[18d"
+    ],
+    [
+      0.039844,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: ^[\u001b[K"
+    ],
+    [
+      0.000007,
+      "\r\u001b[19d"
+    ],
+    [
+      0.040361,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;"
+    ],
+    [
+      0.000009,
+      "\rlast character pressed: ^[\u001b[K\r\u001b[20d"
+    ],
+    [
+      0.039993,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: ^[\u001b[K"
+    ],
+    [
+      0.000007,
+      "\r\u001b[21d"
+    ],
+    [
+      0.120305,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: ^[\u001b[K"
+    ],
+    [
+      0.000007,
+      "\r\u001b[21d "
+    ],
+    [
+      0.165898,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;"
+    ],
+    [
+      0.000012,
+      "\rlast character pressed: ^[\u001b[K"
+    ],
+    [
+      0.000007,
+      "\u001b[21;3H"
+    ],
+    [
+      0.157957,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;"
+    ],
+    [
+      0.000009,
+      "\rlast character pressed: ^[\u001b[K\u001b[21;4H"
+    ],
+    [
+      0.149960,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: ^[\u001b[K"
+    ],
+    [
+      0.000008,
+      "\u001b[21;5H"
+    ],
+    [
+      0.158027,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: ^[\u001b[K"
+    ],
+    [
+      0.000008,
+      "\u001b[21;6H"
+    ],
+    [
+      0.158413,
+      "\u001b[28d  \u001b[1K text-\u003esize = new_size;\rlast character pressed: ^[\u001b[K"
+    ],
+    [
+      0.000008,
+      "\u001b[21;7H"
+    ],
+    [
+      0.181800,
+      "\u001b[28d \u001b[1K text-\u003esize = new_size;"
+    ],
+    [
+      0.000009,
+      "\rlast character pressed: ^[\u001b[K\u001b[21;8H"
+    ],
+    [
+      0.173935,
+      "\u001b[28d\u001b[1K text-\u003esize = new_size;"
+    ],
+    [
+      0.000009,
+      "\rlast character pressed: ^[\u001b[K\u001b[21;9H"
+    ],
+    [
+      0.812214,
+      "\u001b[15Giize_gap can't downsize\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: i\u001b[K"
+    ],
+    [
+      0.000015,
+      "\u001b[21;10H"
+    ],
+    [
+      0.141893,
+      "\u001b[15Giiize_gap can't downsize\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: i\u001b[K"
+    ],
+    [
+      0.000017,
+      "\u001b[21;11H"
+    ],
+    [
+      0.149999,
+      " resiiiize_gap can't downsize\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: i\u001b[K"
+    ],
+    [
+      0.000011,
+      "\u001b[21;12H"
+    ],
+    [
+      0.123948,
+      "\u001b[19Gsze_gap can't downsize\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: s\u001b[K\u001b[21;13H"
+    ],
+    [
+      0.158083,
+      "\u001b[19Gssze_gap can't downsize\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: s\u001b[K\u001b[21;14H"
+    ],
+    [
+      0.158073,
+      "\u001b[19Gsssze_gap can't downsize\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: s\u001b[K\u001b[21;15H"
+    ],
+    [
+      0.316349,
+      "iiiissssze_gap can't downsize\u001b[28;8H\u001b[1K text-\u003esize = new_size;"
+    ],
+    [
+      0.000010,
+      "\rlast character pressed: s\u001b[K\u001b[21;16H"
+    ],
+    [
+      0.165821,
+      "iiisssssze_gap can't downsize\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: s\u001b[K"
+    ],
+    [
+      0.000007,
+      "\u001b[21;17H"
+    ],
+    [
+      1.048629,
+      "\u001b[24Gize_gap can't downsize\u001b[28;8H\u001b[1K text-\u003esize = new_size;"
+    ],
+    [
+      0.000009,
+      "\rlast character pressed: i\u001b[K\u001b[21;18H"
+    ],
+    [
+      0.221936,
+      "\u001b[24Giize_gap can't downsize\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: i\u001b[K"
+    ],
+    [
+      0.000008,
+      "\u001b[21;19H"
+    ],
+    [
+      0.181939,
+      "\u001b[24Giiize_gap can't downsize\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: i\u001b[K"
+    ],
+    [
+      0.000007,
+      "\u001b[21;20H"
+    ],
+    [
+      0.180131,
+      "\u001b[27Gsze_gap can't downsize\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: s\u001b[K"
+    ],
+    [
+      0.000007,
+      "\u001b[21;21H"
+    ],
+    [
+      0.166187,
+      "\u001b[27Gssze_gap can't downsize\u001b[28;8H\u001b[1K text-\u003esize = new_size;"
+    ],
+    [
+      0.000009,
+      "\rlast character pressed: s\u001b[K\u001b[21;22H"
+    ],
+    [
+      0.165880,
+      "\u001b[27Gsssze_gap can't downsize\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: s\u001b[K"
+    ],
+    [
+      0.000009,
+      "\u001b[21;23H"
+    ],
+    [
+      0.158143,
+      "siiissssze_gap can't downsize\u001b[28;8H\u001b[1K text-\u003esize = new_size;"
+    ],
+    [
+      0.000043,
+      "\rlast character pressed: s\u001b[K"
+    ],
+    [
+      0.000009,
+      "\u001b[21;24H"
+    ],
+    [
+      0.513745,
+      "\r\u001b[22d\u001b[L\u001b[21;31H\u001b[K\r\u001b[22dze_gap can't downsize\u001b[28;50H"
+    ],
+    [
+      0.000010,
+      "\rlast character pressed:\u001b[K\r"
+    ],
+    [
+      0.000004,
+      "\u001b[22d"
+    ],
+    [
+      0.157883,
+      "\u001b[L\u001b[28;38H"
+    ],
+    [
+      0.000058,
+      "\rlast character pressed:\u001b[K\r"
+    ],
+    [
+      0.000009,
+      "\u001b[23d"
+    ],
+    [
+      0.174077,
+      "\u001b[A\u001b[L\u001b[28;42H"
+    ],
+    [
+      0.000008,
+      "\rlast character pressed:\u001b[K\r"
+    ],
+    [
+      0.000005,
+      "\u001b[24d"
+    ],
+    [
+      0.189988,
+      "\u001b[22d\u001b[L\u001b[28dlast character pressed:\r"
+    ],
+    [
+      0.000008,
+      "\u001b[25d"
+    ],
+    [
+      0.464574,
+      "\u001b[28d\u001b[J"
+    ],
+    [
+      0.000007,
+      "last character pressed: ^[\r\u001b[24d"
+    ],
+    [
+      0.364665,
+      "\u001b[28d\u001b[J"
+    ],
+    [
+      0.000008,
+      "last character pressed: ^[\r\u001b[25d"
+    ],
+    [
+      0.703978,
+      "\u001b[28d\u001b[J"
+    ],
+    [
+      0.000051,
+      "last character pressed: ^["
+    ],
+    [
+      0.000037,
+      "\r\u001b[24d"
+    ],
+    [
+      0.165766,
+      "\u001b[28d\u001b[Jlast character pressed: ^[\r\u001b[23d"
+    ],
+    [
+      0.462601,
+      "\u001b[28;1H\u001b[r\u001b[?1049l\r\u001b\u003e"
+    ],
+    [
+      0.000608,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[m                                                                                                        \r \r\u001b]0;arch-satellite:~/projects/editor\u0007\r\u001b[m\u001b[27m\u001b[24m\u001b[Jphilip.\u001b[4march-satellite\u001b[24m\u003e \u001b[K\u001b[65C\u001b[35m~/projects/editor\u001b[00m\u0008\u001b[81D"
+    ],
+    [
+      1.472709,
+      "f"
+    ],
+    [
+      0.109678,
+      "\u0008fg"
+    ],
+    [
+      0.314220,
+      "\r\r\n\u001b]0;fg\u0007fg: no current job\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[m                                                                                                        \r \r\u001b]0;arch-satellite:~/projects/editor\u0007\r\u001b[m\u001b[27m\u001b[24m\u001b[J\u001b[41m\u001b[1m[1]\u001b[m\u001b[00m philip.\u001b[4march-satellite\u001b[24m\u003e \u001b[K\u001b[61C\u001b[35m~/projects/editor\u001b[00m\u0008\u001b[77D"
+    ],
+    [
+      1.017435,
+      "\r\r\nbck-i-search: _\u001b[K\u001b[A\u001b[12C"
+    ],
+    [
+      0.317636,
+      "t\u001b[4mm\u001b[24mux\u001b[1B\u001b[17D\u001b[@m\u001b[89C \u0008\u001b[A\u001b[76D"
+    ],
+    [
+      0.078934,
+      "\u0008\u001b[4mm\u001b[4mg\u001b[24m tmp2.py\u001b[1B\u001b[22Dg_\u001b[A\u001b[10C"
+    ],
+    [
+      1.092659,
+      "\u001b[24m \u001b[24m         \u001b[1B\r\u001b[K\u001b[A\u001b[27C"
+    ],
+    [
+      0.186822,
+      "m"
+    ],
+    [
+      0.102346,
+      "\u0008mg"
+    ],
+    [
+      0.095926,
+      " "
+    ],
+    [
+      0.098340,
+      "s"
+    ],
+    [
+      0.072099,
+      "t"
+    ],
+    [
+      0.099570,
+      "a"
+    ],
+    [
+      0.094105,
+      "r"
+    ],
+    [
+      0.143368,
+      "t"
+    ],
+    [
+      0.087934,
+      "."
+    ],
+    [
+      0.190213,
+      "p"
+    ],
+    [
+      0.085500,
+      "y"
+    ],
+    [
+      1.777529,
+      "\u001b[1B\r\u001b]0;mg start.py\u0007"
+    ],
+    [
+      0.001973,
+      "\u001b[?1049h\u001b=\u001b[1;1H\u001b[J\u001b[27;1H\u001b[7m-----Mg: *scratch*                        (fundamental)--L1----------------------------------------------\u001b[27m\u001b[1;1H"
+    ],
+    [
+      0.000012,
+      "\u001b[28;1HBackup files disabled\u001b[K"
+    ],
+    [
+      0.000154,
+      "\u001b[28;1H(Read 4 lines)\u001b[K"
+    ],
+    [
+      0.000039,
+      "\u001b[1;1H\u001b[J\u001b[27mimport editor\u001b[27;1H\u001b[7m-----Mg: start.py                         (fundamental)--L1--C0------------------------------------------\u001b[27m\u001b[1;1H"
+    ],
+    [
+      0.959633,
+      "\u001b[27;59H\u001b[7m2\u001b[2;1H"
+    ],
+    [
+      0.157995,
+      "\u001b[27;59H3\u001b[3;1H"
+    ],
+    [
+      0.150183,
+      "\u001b[27;59H4\u001b[4;1H"
+    ],
+    [
+      0.588139,
+      "\u001b[27me\u001b[27;3H\u001b[7m**-Mg: start.py                         (fundamental)--L4--C1\u001b[4;2H"
+    ],
+    [
+      0.150026,
+      "\u001b[27md\u001b[27;63H\u001b[7m2\u001b[4;3H"
+    ],
+    [
+      0.070023,
+      "\u001b[27mi\u001b[27;63H\u001b[7m3\u001b[4;4H"
+    ],
+    [
+      0.079169,
+      "\u001b[27mt\u001b[27;63H\u001b[7m4\u001b[4;5H"
+    ],
+    [
+      0.110684,
+      "\u001b[27mo\u001b[27;63H\u001b[7m5\u001b[4;6H"
+    ],
+    [
+      0.117602,
+      "\u001b[27mr\u001b[27;63H\u001b[7m6\u001b[4;7H"
+    ],
+    [
+      0.142545,
+      "\u001b[27m.\u001b[27;63H\u001b[7m7\u001b[4;8H"
+    ],
+    [
+      0.173627,
+      "\u001b[27mk\u001b[27;63H\u001b[7m8\u001b[4;9H"
+    ],
+    [
+      0.093290,
+      "\u001b[27me\u001b[27;63H\u001b[7m9\u001b[4;10H"
+    ],
+    [
+      0.093643,
+      "\u001b[27my\u001b[27;63H\u001b[7m10\u001b[4;11H"
+    ],
+    [
+      0.158610,
+      "\u001b[27mm\u001b[27;64H\u001b[7m1\u001b[4;12H"
+    ],
+    [
+      0.132093,
+      "\u001b[27ma\u001b[27;64H\u001b[7m2\u001b[4;13H"
+    ],
+    [
+      0.058494,
+      "\u001b[27mp\u001b[27;64H\u001b[7m3\u001b[4;14H"
+    ],
+    [
+      0.277106,
+      "\u001b[27m[\u001b[27;64H\u001b[7m4\u001b[4;15H"
+    ],
+    [
+      0.534516,
+      "\u001b[27m'\u001b[27;64H\u001b[7m5\u001b[4;16H"
+    ],
+    [
+      0.668531,
+      "\u001b[27mh\u001b[27;64H\u001b[7m6\u001b[4;17H"
+    ],
+    [
+      0.439752,
+      "\u001b[27m'\u001b[27;64H\u001b[7m7\u001b[4;18H"
+    ],
+    [
+      0.517267,
+      "\u001b[27m]\u001b[27;64H\u001b[7m3\u001b[4;14H"
+    ],
+    [
+      0.255645,
+      "\u001b[27;64H9\u001b[4;20H"
+    ],
+    [
+      0.245814,
+      "\u001b[27;63H20\u001b[4;21H"
+    ],
+    [
+      0.366152,
+      "\u001b[27;63H19\u001b[4;20H"
+    ],
+    [
+      0.342509,
+      "\u001b[27;63H20\u001b[4;21H"
+    ],
+    [
+      0.325880,
+      "\u001b[27;63H19\u001b[4;20H"
+    ],
+    [
+      0.180601,
+      "\u001b[27m=\u001b[27;63H\u001b[7m20\u001b[4;21H"
+    ],
+    [
+      0.088478,
+      "\u001b[27;64H1\u001b[4;22H"
+    ],
+    [
+      0.184289,
+      "\u001b[27ml\u001b[27;64H\u001b[7m2\u001b[4;23H"
+    ],
+    [
+      0.000334,
+      "\u001b[27ma\u001b[27;64H\u001b[7m3\u001b[4;24H"
+    ],
+    [
+      0.638932,
+      "\u001b[27mm\u001b[27;64H\u001b[7m4\u001b[4;25H"
+    ],
+    [
+      0.213457,
+      "\u001b[27mb\u001b[27;64H\u001b[7m5\u001b[4;26H"
+    ],
+    [
+      0.197602,
+      "\u001b[27md\u001b[27;64H\u001b[7m6\u001b[4;27H"
+    ],
+    [
+      0.117954,
+      "\u001b[27ma\u001b[27;64H\u001b[7m7\u001b[4;28H"
+    ],
+    [
+      0.283627,
+      "\u001b[27m:\u001b[27;64H\u001b[7m8\u001b[4;29H"
+    ],
+    [
+      0.660852,
+      "\u001b[27me\u001b[27;64H\u001b[7m9\u001b[4;30H"
+    ],
+    [
+      0.320986,
+      "\u001b[4;29H\u001b[27m \u001b[27;64H\u001b[7m8\u001b[4;29H"
+    ],
+    [
+      0.117843,
+      "\u001b[27;64H9\u001b[4;30H"
+    ],
+    [
+      0.068100,
+      "\u001b[27me\u001b[27;63H\u001b[7m30\u001b[4;31H"
+    ],
+    [
+      0.149141,
+      "\u001b[27md\u001b[27;64H\u001b[7m1\u001b[4;32H"
+    ],
+    [
+      0.056490,
+      "\u001b[27mi\u001b[27;64H\u001b[7m2\u001b[4;33H"
+    ],
+    [
+      0.116160,
+      "\u001b[27mt\u001b[27;64H\u001b[7m3\u001b[4;34H"
+    ],
+    [
+      0.103467,
+      "\u001b[27mo\u001b[27;64H\u001b[7m4\u001b[4;35H"
+    ],
+    [
+      0.100483,
+      "\u001b[27mr\u001b[27;64H\u001b[7m5\u001b[4;36H"
+    ],
+    [
+      0.888050,
+      "\u001b[27m.\u001b[27;64H\u001b[7m6\u001b[4;37H"
+    ],
+    [
+      0.213174,
+      "\u001b[27mm\u001b[27;64H\u001b[7m7\u001b[4;38H"
+    ],
+    [
+      0.063744,
+      "\u001b[27mo\u001b[27;64H\u001b[7m8\u001b[4;39H"
+    ],
+    [
+      0.092500,
+      "\u001b[27mv\u001b[27;64H\u001b[7m9\u001b[4;40H"
+    ],
+    [
+      0.085620,
+      "\u001b[27me\u001b[27;63H\u001b[7m40\u001b[4;41H"
+    ],
+    [
+      0.198657,
+      "\u001b[27m_\u001b[27;64H\u001b[7m1\u001b[4;42H"
+    ],
+    [
+      0.180556,
+      "\u001b[27ml\u001b[27;64H\u001b[7m2\u001b[4;43H"
+    ],
+    [
+      0.094856,
+      "\u001b[27me\u001b[27;64H\u001b[7m3\u001b[4;44H"
+    ],
+    [
+      0.052727,
+      "\u001b[27mf\u001b[27;64H\u001b[7m4\u001b[4;45H"
+    ],
+    [
+      0.109043,
+      "\u001b[27mt\u001b[27;64H\u001b[7m5\u001b[4;46H"
+    ],
+    [
+      0.174637,
+      "\u001b[27m(\u001b[27;64H\u001b[7m6\u001b[4;47H"
+    ],
+    [
+      0.055467,
+      "\u001b[27m)\u001b[27;64H\u001b[7m5\u001b[4;46H"
+    ],
+    [
+      0.527701,
+      "\u001b[27;63H0-\u001b[4;1H"
+    ],
+    [
+      0.104611,
+      "\u001b[27m\u001b[K"
+    ],
+    [
+      0.078523,
+      "editor.keymap['h'] = lambda: editor.move_left()\u001b[27;63H\u001b[7m47\u001b[4;48H"
+    ],
+    [
+      0.166221,
+      "\u001b[27;59H5--C0-\u001b[5;1H"
+    ],
+    [
+      0.186831,
+      "\u001b[27meditor.keymap['h'] = lambda: editor.move_left()\u001b[27;63H\u001b[7m47\u001b[5;48H"
+    ],
+    [
+      0.174978,
+      "\u001b[27;59H6--C0-\u001b[6;1H"
+    ],
+    [
+      0.203178,
+      "\u001b[27meditor.keymap['h'] = lambda: editor.move_left()\u001b[27;63H\u001b[7m47\u001b[6;48H"
+    ],
+    [
+      0.175085,
+      "\u001b[27;59H7--C0-\u001b[7;1H"
+    ],
+    [
+      0.219158,
+      "\u001b[27meditor.keymap['h'] = lambda: editor.move_left()\u001b[27;63H\u001b[7m47\u001b[7;48H"
+    ],
+    [
+      0.164162,
+      "\u001b[27;63H0-\u001b[7;1H"
+    ],
+    [
+      0.018231,
+      "\u001b[27;59H6\u001b[6;1H"
+    ],
+    [
+      0.157237,
+      "\u001b[27;59H5\u001b[5;1H"
+    ],
+    [
+      0.036822,
+      "\u001b[27;63H1\u001b[5;2H"
+    ],
+    [
+      0.660624,
+      "\u001b[27;63H2\u001b[5;3H"
+    ],
+    [
+      0.040625,
+      "\u001b[27;63H3\u001b[5;4H"
+    ],
+    [
+      0.040704,
+      "\u001b[27;63H4\u001b[5;5H"
+    ],
+    [
+      0.040370,
+      "\u001b[27;63H5\u001b[5;6H"
+    ],
+    [
+      0.041053,
+      "\u001b[27;63H6\u001b[5;7H"
+    ],
+    [
+      0.040195,
+      "\u001b[27;63H7\u001b[5;8H"
+    ],
+    [
+      0.040516,
+      "\u001b[27;63H8\u001b[5;9H"
+    ],
+    [
+      0.040392,
+      "\u001b[27;63H9\u001b[5;10H"
+    ],
+    [
+      0.040965,
+      "\u001b[27;63H10\u001b[5;11H"
+    ],
+    [
+      0.040138,
+      "\u001b[27;64H1\u001b[5;12H"
+    ],
+    [
+      0.040602,
+      "\u001b[27;64H2\u001b[5;13H"
+    ],
+    [
+      0.041020,
+      "\u001b[27;64H3\u001b[5;14H"
+    ],
+    [
+      0.039465,
+      "\u001b[27;64H4\u001b[5;15H"
+    ],
+    [
+      0.411250,
+      "\u001b[27;64H5\u001b[5;16H"
+    ],
+    [
+      0.693698,
+      "\u001b[27m'] = lambda: editor.move_left() \u001b[5;16H"
+    ],
+    [
+      0.182094,
+      "j'] = lambda: editor.move_left()\u001b[27;64H\u001b[7m6\u001b[5;17H"
+    ],
+    [
+      0.245102,
+      "\u001b[27;59H6\u001b[6;17H"
+    ],
+    [
+      0.335007,
+      "\u001b[6;16H\u001b[27m'] = lambda: editor.move_left() \u001b[27;64H\u001b[7m5\u001b[6;16H"
+    ],
+    [
+      0.196605,
+      "\u001b[27mk'] = lambda: editor.move_left()\u001b[27;64H\u001b[7m6\u001b[6;17H"
+    ],
+    [
+      0.300655,
+      "\u001b[27;59H7\u001b[7;17H"
+    ],
+    [
+      0.167156,
+      "\u001b[7;16H\u001b[27m'] = lambda: editor.move_left() \u001b[27;64H\u001b[7m5\u001b[7;16H"
+    ],
+    [
+      0.156825,
+      "\u001b[27ml'] = lambda: editor.move_left()\u001b[27;64H\u001b[7m6\u001b[7;17H"
+    ],
+    [
+      0.363816,
+      "\u001b[27;64H7\u001b[7;18H"
+    ],
+    [
+      0.103836,
+      "\u001b[27;59H6\u001b[6;18H"
+    ],
+    [
+      0.131530,
+      "\u001b[27;63H4\u001b[6;48H"
+    ],
+    [
+      0.232933,
+      "\u001b[27;59H5\u001b[5;48H"
+    ],
+    [
+      0.396062,
+      "\u001b[27;64H6\u001b[5;47H"
+    ],
+    [
+      0.190012,
+      "\u001b[27;64H5\u001b[5;46H"
+    ],
+    [
+      0.918816,
+      "\u001b[5;42H\u001b[27m()\u001b[K\u001b[27;64H\u001b[7m1\u001b[5;42H"
+    ],
+    [
+      0.354215,
+      "\u001b[27md()\u001b[27;64H\u001b[7m2\u001b[5;43H"
+    ],
+    [
+      0.102907,
+      "\u001b[27mo()\u001b[27;64H\u001b[7m3\u001b[5;44H"
+    ],
+    [
+      0.109479,
+      "\u001b[27mw()\u001b[27;64H\u001b[7m4\u001b[5;45H"
+    ],
+    [
+      0.126697,
+      "\u001b[27mn()\u001b[27;64H\u001b[7m5\u001b[5;46H"
+    ],
+    [
+      0.879011,
+      "\u001b[27;59H4\u001b[4;46H"
+    ],
+    [
+      0.388567,
+      "\u001b[4;42H\u001b[27m()\u001b[K\u001b[27;64H\u001b[7m1\u001b[4;42H"
+    ],
+    [
+      0.788377,
+      "\u001b[27ml()\u001b[27;64H\u001b[7m2\u001b[4;43H"
+    ],
+    [
+      0.116486,
+      "\u001b[27me()\u001b[27;64H\u001b[7m3\u001b[4;44H"
+    ],
+    [
+      0.054879,
+      "\u001b[27mf()\u001b[27;64H\u001b[7m4\u001b[4;45H"
+    ],
+    [
+      0.149067,
+      "\u001b[27mt()\u001b[27;64H\u001b[7m5\u001b[4;46H"
+    ],
+    [
+      0.309512,
+      "\u001b[27;59H5\u001b[5;46H"
+    ],
+    [
+      0.134301,
+      "\u001b[27;59H6\u001b[6;46H"
+    ],
+    [
+      0.534069,
+      "\u001b[6;42H\u001b[27m()\u001b[K\u001b[27;64H\u001b[7m1\u001b[6;42H"
+    ],
+    [
+      0.739489,
+      "\u001b[27mu()\u001b[27;64H\u001b[7m2\u001b[6;43H"
+    ],
+    [
+      0.064221,
+      "\u001b[27mp()\u001b[27;64H\u001b[7m3\u001b[6;44H"
+    ],
+    [
+      0.250635,
+      "\u001b[27;59H7\u001b[7;44H"
+    ],
+    [
+      0.173588,
+      "\u001b[27;64H4\u001b[7;45H"
+    ],
+    [
+      0.222261,
+      "\u001b[27;64H5\u001b[7;46H"
+    ],
+    [
+      0.230395,
+      "\u001b[7;42H\u001b[27m()\u001b[K\u001b[27;64H\u001b[7m1\u001b[7;42H"
+    ],
+    [
+      0.210669,
+      "\u001b[27mr()\u001b[27;64H\u001b[7m2\u001b[7;43H"
+    ],
+    [
+      0.071112,
+      "\u001b[27mi()\u001b[27;64H\u001b[7m3\u001b[7;44H"
+    ],
+    [
+      0.092786,
+      "\u001b[27mg()\u001b[27;64H\u001b[7m4\u001b[7;45H"
+    ],
+    [
+      0.063539,
+      "\u001b[27mh()\u001b[27;64H\u001b[7m5\u001b[7;46H"
+    ],
+    [
+      0.116541,
+      "\u001b[27mt()\u001b[27;64H\u001b[7m6\u001b[7;47H"
+    ],
+    [
+      3.516023,
+      "\u001b[27m\u001b[28;1HWrote /home/philip/projects/editor/start.py\u001b[K\u001b[27;3H\u001b[7m--\u001b[7;47H"
+    ],
+    [
+      0.756747,
+      "\u001b[27m\u001b[28;1H(No files need saving)\u001b[K\u001b[1;28r\u001b[28;1H\u001b[K\u001b\u003e\u001b[r\u001b[?1049l"
+    ],
+    [
+      0.000440,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[m                                                                                                        \r \r\u001b]0;arch-satellite:~/projects/editor\u0007\r\u001b[m\u001b[27m\u001b[24m\u001b[Jphilip.\u001b[4march-satellite\u001b[24m\u003e \u001b[K\u001b[65C\u001b[35m~/projects/editor\u001b[00m\u0008\u001b[81D"
+    ],
+    [
+      0.876069,
+      "\r\r\nbck-i-search: _\u001b[K\u001b[A\u001b[8C"
+    ],
+    [
+      0.126657,
+      "mg start\u001b[4m.\u001b[24mpy\u001b[1B\u001b[20D\u001b[@.\u001b[89C \u0008\u001b[A\u001b[73D"
+    ],
+    [
+      0.079280,
+      "\u001b[8D\u001b[4m.\u001b[4m/\u001b[24meditor\u001b[24m text.c\u001b[1B\u001b[23D/_\u001b[A\u001b[6C"
+    ],
+    [
+      0.687578,
+      "\u001b[24m.\u001b[24m/\u001b[1B\r\u001b[K\u001b[A\u001b[23C\u001b[1B\r\u001b]0;./editor text.c\u0007"
+    ],
+    [
+      0.030440,
+      "\u001b[?1049h\u001b[1;28r\u001b[m\u001b(B\u001b[4l\u001b[?7h\u001b[H\u001b[2J#include \"text.h\"\r\u001b[3d#include \u003cstdlib.h\u003e\r\u001b[4d#include \u003cstring.h\u003e\r\u001b[6d#define GAPSIZE(t) (t-\u003etext_start - t-\u003egap_start)\r\u001b[7d#define NBYTES(t) ((t-\u003esize - t-\u003etext_start) + (t-\u003egap_start))\r\u001b[9d#define RESIZE_BY 20\r\u001b[11dText *new_document(void)\r\u001b[12d{\u001b[13;9HText *beg = calloc(1, sizeof(Text));\u001b[14;9Hreturn beg;\r\u001b[15d}\u001b[17d\u0008void resize_gap(Text *text, size_t new_gap)\r\u001b[18d{\u001b[19;9Hsize_t gap = GAPSIZE(text);\u001b[21;9H// resize_gap can't downsize\u001b[22;9Hif (new_gap \u003c= gap)\u001b[23;17Hreturn;\u001b[25;9Hsize_t expand_by = new_gap - gap;\u001b[26;9Hsize_t old_size = text-\u003esize;\u001b[27;9Hsize_t new_size = text-\u003esize + expand_by;\u001b[28;9Htext-\u003esize = new_size;\rlast character pressed:\u001b[K "
+    ],
+    [
+      0.000013,
+      "\u001b[H"
+    ],
+    [
+      0.572384,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: j\u001b[K"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2d"
+    ],
+    [
+      0.659647,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: j\u001b[K\r\u001b[3d"
+    ],
+    [
+      0.039944,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: j\u001b[K\r\u001b[4d"
+    ],
+    [
+      0.039422,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;"
+    ],
+    [
+      0.000008,
+      "\rlast character pressed: j\u001b[K"
+    ],
+    [
+      0.000027,
+      "\r\u001b[5d"
+    ],
+    [
+      0.040609,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: j\u001b[K"
+    ],
+    [
+      0.000012,
+      "\r\u001b[6d"
+    ],
+    [
+      0.039783,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;"
+    ],
+    [
+      0.000041,
+      "\rlast character pressed: j\u001b[K"
+    ],
+    [
+      0.000034,
+      "\r\u001b[7d"
+    ],
+    [
+      0.039968,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;"
+    ],
+    [
+      0.000029,
+      "\rlast character pressed: j\u001b[K"
+    ],
+    [
+      0.000033,
+      "\r\u001b[8d"
+    ],
+    [
+      0.039719,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;"
+    ],
+    [
+      0.000035,
+      "\rlast character pressed: j\u001b[K"
+    ],
+    [
+      0.000030,
+      "\r\u001b[9d"
+    ],
+    [
+      0.040752,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;"
+    ],
+    [
+      0.000013,
+      "\rlast character pressed: j\u001b[K"
+    ],
+    [
+      0.000010,
+      "\r\u001b[10d"
+    ],
+    [
+      0.040389,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;"
+    ],
+    [
+      0.000036,
+      "\rlast character pressed: j\u001b[K"
+    ],
+    [
+      0.000031,
+      "\r\u001b[11d"
+    ],
+    [
+      0.040149,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: j\u001b[K"
+    ],
+    [
+      0.000012,
+      "\r\u001b[12d"
+    ],
+    [
+      0.039914,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;"
+    ],
+    [
+      0.000048,
+      "\rlast character pressed: j\u001b[K"
+    ],
+    [
+      0.000027,
+      "\r\u001b[13d"
+    ],
+    [
+      0.039654,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;"
+    ],
+    [
+      0.000037,
+      "\rlast character pressed: j\u001b[K"
+    ],
+    [
+      0.000031,
+      "\r\u001b[14d"
+    ],
+    [
+      0.039683,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;"
+    ],
+    [
+      0.000009,
+      "\rlast character pressed: j\u001b[K"
+    ],
+    [
+      0.000037,
+      "\r\u001b[15d"
+    ],
+    [
+      0.040573,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: j\u001b[K"
+    ],
+    [
+      0.000011,
+      "\r\u001b[16d"
+    ],
+    [
+      0.040026,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;"
+    ],
+    [
+      0.000034,
+      "\rlast character pressed: j\u001b[K"
+    ],
+    [
+      0.000030,
+      "\r\u001b[17d"
+    ],
+    [
+      0.330629,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\r\u001b[17dv"
+    ],
+    [
+      0.659863,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;"
+    ],
+    [
+      0.000014,
+      "\rlast character pressed: l\u001b[K\u001b[17;3H"
+    ],
+    [
+      0.039895,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[17;4H"
+    ],
+    [
+      0.040709,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[17;5H"
+    ],
+    [
+      0.040186,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[17;6H"
+    ],
+    [
+      0.039964,
+      "\u001b[28d  \u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[17;7H"
+    ],
+    [
+      0.040945,
+      "\u001b[28d \u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[17;8H"
+    ],
+    [
+      0.040747,
+      "\u001b[28d\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[17;9H"
+    ],
+    [
+      0.039892,
+      "\u001b[28d\u0008\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[17;10H"
+    ],
+    [
+      0.039536,
+      "\u001b[28d\u0008\u0008\u001b[1K text-\u003esize = new_size;"
+    ],
+    [
+      0.000037,
+      "\rlast character pressed: l\u001b[K"
+    ],
+    [
+      0.000022,
+      "\u001b[17;11H"
+    ],
+    [
+      0.040103,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K"
+    ],
+    [
+      0.000012,
+      "\u001b[17;12H"
+    ],
+    [
+      0.039732,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;"
+    ],
+    [
+      0.000035,
+      "\rlast character pressed: l\u001b[K"
+    ],
+    [
+      0.000026,
+      "\u001b[17;13H"
+    ],
+    [
+      0.040804,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K"
+    ],
+    [
+      0.000011,
+      "\u001b[17;14H"
+    ],
+    [
+      0.040397,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K"
+    ],
+    [
+      0.000012,
+      "\u001b[17;15H"
+    ],
+    [
+      0.040047,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K"
+    ],
+    [
+      0.000012,
+      "\u001b[17;16H"
+    ],
+    [
+      0.040067,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;"
+    ],
+    [
+      0.000050,
+      "\rlast character pressed: l\u001b[K"
+    ],
+    [
+      0.000042,
+      "\u001b[17;17H"
+    ],
+    [
+      0.039949,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K"
+    ],
+    [
+      0.000012,
+      "\u001b[17;18H"
+    ],
+    [
+      0.039940,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K"
+    ],
+    [
+      0.000011,
+      "\u001b[17;19H"
+    ],
+    [
+      0.039968,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K"
+    ],
+    [
+      0.000012,
+      "\u001b[17;20H"
+    ],
+    [
+      0.040005,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K"
+    ],
+    [
+      0.000011,
+      "\u001b[17;21H"
+    ],
+    [
+      0.039998,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K"
+    ],
+    [
+      0.000012,
+      "\u001b[17;22H"
+    ],
+    [
+      0.110393,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;"
+    ],
+    [
+      0.000035,
+      "\rlast character pressed: h\u001b[K"
+    ],
+    [
+      0.000024,
+      "\u001b[17;21H"
+    ],
+    [
+      0.149928,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;"
+    ],
+    [
+      0.000040,
+      "\rlast character pressed: h\u001b[K"
+    ],
+    [
+      0.000025,
+      "\u001b[17;20H"
+    ],
+    [
+      0.150198,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;"
+    ],
+    [
+      0.000047,
+      "\rlast character pressed: h\u001b[K"
+    ],
+    [
+      0.000027,
+      "\u001b[17;19H"
+    ],
+    [
+      0.150871,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;"
+    ],
+    [
+      0.000038,
+      "\rlast character pressed: l\u001b[K"
+    ],
+    [
+      0.000024,
+      "\u001b[17;20H"
+    ],
+    [
+      0.150316,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[17;21H"
+    ],
+    [
+      0.149743,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[17;22H"
+    ],
+    [
+      0.165993,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[17;23H"
+    ],
+    [
+      0.141094,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: h\u001b[K\u001b[17;22H"
+    ],
+    [
+      0.134009,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: h\u001b[K\u001b[17;21H"
+    ],
+    [
+      0.141966,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: h\u001b[K\u001b[17;20H"
+    ],
+    [
+      0.310958,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: k\u001b[K\r\u001b[16d"
+    ],
+    [
+      0.157818,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: k\u001b[K\r\u001b[15d"
+    ],
+    [
+      0.174105,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: k\u001b[K\r\u001b[14d"
+    ],
+    [
+      0.165902,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: k\u001b[K\r\u001b[13d"
+    ],
+    [
+      0.182628,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\r\u001b[13d "
+    ],
+    [
+      0.659945,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[13;3H"
+    ],
+    [
+      0.039700,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[13;4H"
+    ],
+    [
+      0.040521,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[13;5H"
+    ],
+    [
+      0.040734,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[13;6H"
+    ],
+    [
+      0.039841,
+      "\u001b[28d  \u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[13;7H"
+    ],
+    [
+      0.040032,
+      "\u001b[28d \u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[13;8H"
+    ],
+    [
+      0.039670,
+      "\u001b[28d\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[13;9H"
+    ],
+    [
+      0.040676,
+      "\u001b[28d\u0008\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[13;10H"
+    ],
+    [
+      0.040735,
+      "\u001b[28d\u0008\u0008\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[13;11H"
+    ],
+    [
+      0.040068,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[13;12H"
+    ],
+    [
+      0.040058,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[13;13H"
+    ],
+    [
+      0.039668,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[13;14H"
+    ],
+    [
+      0.040388,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[13;15H"
+    ],
+    [
+      0.039929,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[13;16H"
+    ],
+    [
+      0.095581,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: j\u001b[K\u001b[14;13H"
+    ],
+    [
+      0.198578,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: k\u001b[K\u001b[13;13H"
+    ],
+    [
+      0.373878,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: j\u001b[K\u001b[14;13H"
+    ],
+    [
+      0.254618,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: k\u001b[K\u001b[13;13H"
+    ],
+    [
+      0.302600,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[13;14H"
+    ],
+    [
+      0.141871,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[13;15H"
+    ],
+    [
+      0.166080,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[13;16H"
+    ],
+    [
+      0.094837,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: j\u001b[K\u001b[14;13H"
+    ],
+    [
+      0.621271,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: k\u001b[K\u001b[13;13H"
+    ],
+    [
+      0.230318,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[13;14H"
+    ],
+    [
+      0.166014,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[13;15H"
+    ],
+    [
+      0.190150,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[13;16H"
+    ],
+    [
+      0.174308,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[13;17H"
+    ],
+    [
+      0.181815,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[13;18H"
+    ],
+    [
+      0.166020,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[13;19H"
+    ],
+    [
+      0.382632,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: k\u001b[K\r\u001b[12d{"
+    ],
+    [
+      0.165155,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: k\u001b[K\r\u001b[11dT"
+    ],
+    [
+      0.174214,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: k\u001b[K\r\u001b[10d"
+    ],
+    [
+      0.166062,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: k\u001b[K\r\u001b[9d"
+    ],
+    [
+      0.173927,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: k\u001b[K\r\u001b[8d"
+    ],
+    [
+      0.166082,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: k\u001b[K\r\u001b[7d"
+    ],
+    [
+      0.230185,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: k\u001b[K\r\u001b[6d"
+    ],
+    [
+      0.142341,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\r\u001b[6d#"
+    ],
+    [
+      0.660855,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[6;3H"
+    ],
+    [
+      0.040722,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[6;4H"
+    ],
+    [
+      0.040646,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[6;5H"
+    ],
+    [
+      0.040445,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[6;6H"
+    ],
+    [
+      0.041116,
+      "\u001b[28d  \u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[6;7H"
+    ],
+    [
+      0.040914,
+      "\u001b[28d \u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[6;8H"
+    ],
+    [
+      0.040631,
+      "\u001b[28d\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[6;9H"
+    ],
+    [
+      0.040373,
+      "\u001b[28d\u0008\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[6;10H"
+    ],
+    [
+      0.041041,
+      "\u001b[28d\u0008\u0008\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[6;11H"
+    ],
+    [
+      0.040230,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[6;12H"
+    ],
+    [
+      0.040733,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[6;13H"
+    ],
+    [
+      0.041089,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[6;14H"
+    ],
+    [
+      0.040189,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[6;15H"
+    ],
+    [
+      0.040042,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[6;16H"
+    ],
+    [
+      0.039996,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[6;17H"
+    ],
+    [
+      0.039814,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[6;18H"
+    ],
+    [
+      0.040140,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[6;19H"
+    ],
+    [
+      0.040023,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[6;20H"
+    ],
+    [
+      0.040030,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[6;21H"
+    ],
+    [
+      0.040823,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[6;22H"
+    ],
+    [
+      0.040837,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[6;23H"
+    ],
+    [
+      0.040343,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[6;24H"
+    ],
+    [
+      0.040198,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[6;25H"
+    ],
+    [
+      0.040077,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[6;26H"
+    ],
+    [
+      0.039784,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[6;27H"
+    ],
+    [
+      0.040002,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[6;28H"
+    ],
+    [
+      0.040079,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[6;29H"
+    ],
+    [
+      0.039938,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[6;30H"
+    ],
+    [
+      0.040706,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[6;31H"
+    ],
+    [
+      0.040709,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: l\u001b[K\u001b[6;32H"
+    ],
+    [
+      0.093306,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: j\u001b[K\u001b[7;32H"
+    ],
+    [
+      0.126687,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: k\u001b[K\u001b[6;32H"
+    ],
+    [
+      0.165408,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: j\u001b[K"
+    ],
+    [
+      0.000008,
+      "\u001b[7;32H"
+    ],
+    [
+      0.094784,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: k\u001b[K\u001b[6;32H"
+    ],
+    [
+      0.117284,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: j\u001b[K"
+    ],
+    [
+      0.000008,
+      "\u001b[7;32H"
+    ],
+    [
+      0.302169,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;"
+    ],
+    [
+      0.000009,
+      "\rlast character pressed: h\u001b[K"
+    ],
+    [
+      0.000034,
+      "\u001b[7;31H"
+    ],
+    [
+      0.117750,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;"
+    ],
+    [
+      0.000051,
+      "\rlast character pressed: h\u001b[K"
+    ],
+    [
+      0.000024,
+      "\u001b[7;30H"
+    ],
+    [
+      0.374391,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: h\u001b[K\u001b[7;29H"
+    ],
+    [
+      0.165805,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: h\u001b[K\u001b[7;28H"
+    ],
+    [
+      0.166766,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: k\u001b[K\u001b[6;28H"
+    ],
+    [
+      0.125580,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: h\u001b[K\u001b[6;27H"
+    ],
+    [
+      0.174111,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: h\u001b[K\u001b[6;26H"
+    ],
+    [
+      0.158128,
+      "\u001b[28;8H\u001b[1K text-\u003esize = new_size;\rlast character pressed: h\u001b[K\u001b[6;25H"
+    ],
+    [
+      0.587057,
+      "\u001b[28;1H\u001b[r\u001b[?1049l\r\u001b\u003e"
+    ],
+    [
+      0.000525,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[m                                                                                                        \r \r\u001b]0;arch-satellite:~/projects/editor\u0007\r\u001b[m\u001b[27m\u001b[24m\u001b[Jphilip.\u001b[4march-satellite\u001b[24m\u003e \u001b[K\u001b[65C\u001b[35m~/projects/editor\u001b[00m\u0008\u001b[81D"
+    ],
+    [
+      2.094956,
+      "\r\r\n"
+    ]
+  ]
+}
