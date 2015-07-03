@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "width": 126,
+  "height": 64,
+  "duration": 16.870681,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.357633,
+      "\u001b]0;leite@pentateuco: ~/dev/pumakira/spec\u0007\u001b[01;36m~/dev/pumakira/spec\u001b[00m\u001b[01;37m [master*]\u001b[00m\u001b[01;32m ☺ \u001b[01;34m\u001b[00m"
+    ],
+    [
+      1.579225,
+      "l"
+    ],
+    [
+      0.000050,
+      "u"
+    ],
+    [
+      0.000073,
+      "a"
+    ],
+    [
+      0.000044,
+      " "
+    ],
+    [
+      0.000084,
+      "-"
+    ],
+    [
+      0.000078,
+      "j"
+    ],
+    [
+      0.000079,
+      "p"
+    ],
+    [
+      0.000075,
+      "="
+    ],
+    [
+      0.000082,
+      "a"
+    ],
+    [
+      0.000077,
+      " "
+    ],
+    [
+      0.000073,
+      "b"
+    ],
+    [
+      0.000075,
+      "e"
+    ],
+    [
+      0.000075,
+      "n"
+    ],
+    [
+      0.000074,
+      "c"
+    ],
+    [
+      0.000075,
+      "h"
+    ],
+    [
+      0.000097,
+      "."
+    ],
+    [
+      0.000108,
+      "l"
+    ],
+    [
+      0.000109,
+      "u"
+    ],
+    [
+      0.000100,
+      "a"
+    ],
+    [
+      2.572874,
+      "\r\n"
+    ],
+    [
+      8.346281,
+      "\r\n====== bench.lua ======\r\n"
+    ],
+    [
+      0.000053,
+      "@@ 3 @@\r\n      | end\r\n      | \r\n      | for i=1, 10000000 do\r\n  31% |   local t={}\r\n      | \r\n      |   t[1]    = {name='foo'}\r\n  11% |   t[2]    = {name='bar'}\r\n"
+    ],
+    [
+      0.000074,
+      "   4% |   t[1][1] = {name='fizz', parent=t[1]}\r\n      | \r\n   5% |   print(t[1], t[1][1].parent, t[1]==t[1][1].parent, t[2]==t[1][1].parent)\r\n      | end\r\n      | \r\n      | --\r\n      | for i=1, 10000000 do\r\n  30% |   local t={}\r\n      | \r\n      |   t[1]    = {name='foo'}\r\n  10% |   t[2]    = {name='bar'}\r\n"
+    ],
+    [
+      0.000027,
+      "   4% |   t[1][1] = {name='fizz', parent=t[1]}\r\n      | \r\n   5% |   print(t[1], t[1][1].parent, rawequal(t[1], t[1][1].parent), rawequal(t[2], t[1][1].parent))\r\n      | end\r\n"
+    ],
+    [
+      0.042087,
+      "\u001b]0;leite@pentateuco: ~/dev/pumakira/spec\u0007\u001b[01;36m~/dev/pumakira/spec\u001b[00m\u001b[01;37m [master*]\u001b[00m\u001b[01;32m ☺ \u001b[01;34m\u001b[00m"
+    ],
+    [
+      2.332306,
+      "\r\n"
+    ],
+    [
+      0.069642,
+      "\u001b]0;leite@pentateuco: ~/dev/pumakira/spec\u0007\u001b[01;36m~/dev/pumakira/spec\u001b[00m\u001b[01;37m [master*]\u001b[00m\u001b[01;32m ☺ \u001b[01;34m\u001b[00m"
+    ],
+    [
+      0.926643,
+      "e"
+    ],
+    [
+      0.204132,
+      "x"
+    ],
+    [
+      0.168728,
+      "i"
+    ],
+    [
+      0.117103,
+      "t"
+    ],
+    [
+      0.149706,
+      "\r\n"
+    ],
+    [
+      0.000163,
+      "exit\r\n"
+    ]
+  ]
+}
