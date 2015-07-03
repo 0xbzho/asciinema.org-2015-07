@@ -1,0 +1,1650 @@
+{
+  "version": 1,
+  "width": 159,
+  "height": 30,
+  "duration": 8.328998,
+  "command": "/usr/bin/fish",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/bin/fish"
+  },
+  "stdout": [
+    [
+      0.104491,
+      "\u001b]0;fish  /"
+    ],
+    [
+      0.000011,
+      "opt/vala/valder-wo"
+    ],
+    [
+      0.000004,
+      "rk"
+    ],
+    [
+      0.000004,
+      "sh"
+    ],
+    [
+      0.000002,
+      "o"
+    ],
+    [
+      0.000006,
+      "p\u0007"
+    ],
+    [
+      0.000032,
+      "\u001b[3"
+    ],
+    [
+      0.000005,
+      "0m\u001b"
+    ],
+    [
+      0.000003,
+      "(B"
+    ],
+    [
+      0.000332,
+      "\u001b[m"
+    ],
+    [
+      0.003483,
+      "Welcome to fish, the friendly interactive shell\r\nType \u001b[32mhelp\u001b[30m\u001b(B\u001b[m for instructions on how to use fish\r\n"
+    ],
+    [
+      0.019701,
+      "\u001b]0;fish  /"
+    ],
+    [
+      0.000008,
+      "opt/vala/valder-w"
+    ],
+    [
+      0.000006,
+      "ork"
+    ],
+    [
+      0.000002,
+      "s"
+    ],
+    [
+      0.000002,
+      "h"
+    ],
+    [
+      0.000002,
+      "o"
+    ],
+    [
+      0.000008,
+      "p\u0007"
+    ],
+    [
+      0.000017,
+      "\u001b["
+    ],
+    [
+      0.000004,
+      "30"
+    ],
+    [
+      0.000004,
+      "m"
+    ],
+    [
+      0.000002,
+      "\u001b"
+    ],
+    [
+      0.000014,
+      "(B"
+    ],
+    [
+      0.000004,
+      "\u001b["
+    ],
+    [
+      0.000003,
+      "m"
+    ],
+    [
+      0.000148,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                                                                                              \r \r"
+    ],
+    [
+      0.000130,
+      "\u001b[44m\u001b[30m /o/v/valder-workshop \u001b[40m\u001b(B\u001b[m\u001b[34m \u001b[K"
+    ],
+    [
+      2.031657,
+      "b\u0008\u001b[31m\u001b[1mb\u001b(B\u001b[m"
+    ],
+    [
+      0.001112,
+      "o\u001b[38;5;240mb collect-sources repository:scan repository:copy-libs build repository:install\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.093369,
+      "\u001b[31m\u001b[1mo\u001b(B\u001b[mb\u001b[38;5;240m collect-sources repository:scan repository:copy-libs build repository:install\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.078362,
+      "\u001b[31m\u001b[1mb\u001b(B\u001b[m \u001b[38;5;240mcollect-sources repository:scan repository:copy-libs build repository:install\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m\u0008\u0008\u0008\u001b[38;5;26mbob\u001b[30m\u001b(B\u001b[m \u001b[38;5;240mcollect-sources repository:scan repository:copy-libs build repository:install\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      1.276391,
+      "\u001b[38;5;26m collect-sources repository:scan repository:copy-libs build repository:install\u001b[30m\u001b(B\u001b[m\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008 \u001b[38;5;39mcollect-sources\u001b[30m\u001b(B\u001b[m \u001b[38;5;39mrepository:scan\u001b[30m\u001b(B\u001b[m \u001b[38;5;39mrepository:copy-libs\u001b[30m\u001b(B\u001b[m \u001b[38;5;39mbuild\u001b[30m\u001b(B\u001b[m \u001b[38;5;39mrepository:install\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      1.453490,
+      "\r\n\u001b[30m\u001b(B\u001b[m\u001b]0;bob  /opt/vala/valder-workshop\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.008228,
+      "\u001b[0;34m[BobBuildProjectRecipe] \u001b[0m\u001b[0;34;39mParsing project dependencies.\r\n"
+    ],
+    [
+      0.000097,
+      "\u001b[0m\u001b[0;34m[BobBuildRecipe] \u001b[0m\u001b[0;34;39mNo plugins configuration found, skipping\r\n"
+    ],
+    [
+      0.000257,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mLoading plugins from directory: /opt/vala/valder/target/plugins\r\n"
+    ],
+    [
+      0.000281,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mLoaded build plugin module: /opt/vala/valder/target/plugins/libplugin-build.so\r\n"
+    ],
+    [
+      0.000044,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mRegistering new plugin: build\r\n"
+    ],
+    [
+      0.000134,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mLoaded build plugin module: /opt/vala/valder/target/plugins/libplugin-collect-sources.so\r\n"
+    ],
+    [
+      0.000039,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mRegistering new plugin: collect-sources\r\n"
+    ],
+    [
+      0.000135,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mLoaded build plugin module: /opt/vala/valder/target/plugins/libplugin-initialize.so\r\n"
+    ],
+    [
+      0.000032,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mRegistering new plugin: initialize:structure\r\n"
+    ],
+    [
+      0.000041,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mRegistering new plugin: initialize:recipe\r\n"
+    ],
+    [
+      0.000147,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mLoaded build plugin module: /opt/vala/valder/target/plugins/libplugin-repository.so\r\n"
+    ],
+    [
+      0.000027,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mRegistering new plugin: repository:install\r\n"
+    ],
+    [
+      0.000028,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mRegistering new plugin: repository:scan\r\n"
+    ],
+    [
+      0.000028,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mRegistering new plugin: repository:copy-libs\r\n"
+    ],
+    [
+      0.000118,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mLoaded build plugin module: /opt/vala/valder/target/plugins/libplugin-uncrustify.so\r\n"
+    ],
+    [
+      0.000031,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mRegistering new plugin: uncrustify\r\n"
+    ],
+    [
+      0.000035,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mUsing build plugin: collect-sources.\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mUsing build plugin: repository:scan.\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mUsing build plugin: repository:copy-libs.\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mUsing build plugin: build.\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mUsing build plugin: repository:install.\r\n"
+    ],
+    [
+      0.000021,
+      "\u001b[0m\u001b[0;34m[BobBuildContext] \u001b[0m\u001b[0;34;39mBuilding project: bob-workshop-0.0.1 (Bob Workshop)\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[0m\u001b[0;34m[BobBuildContext] \u001b[0m\u001b[0;34;39mLoading project plugins recipies...\r\n"
+    ],
+    [
+      0.000021,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mInitializing plugin 'collect-sources' with recipe data.\r\n"
+    ],
+    [
+      0.000069,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mInitializing plugin 'repository:scan' with recipe data.\r\n"
+    ],
+    [
+      0.000417,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: .bob.\r\n"
+    ],
+    [
+      0.000025,
+      "\u001b[0m\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;39mFound repository directory: /home/activey/.bob.\r\n"
+    ],
+    [
+      0.000020,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mInitializing plugin 'repository:copy-libs' with recipe data.\r\n"
+    ],
+    [
+      0.000031,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mInitializing plugin 'build' with recipe data.\r\n"
+    ],
+    [
+      0.000040,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mInitializing plugin 'repository:install' with recipe data.\r\n"
+    ],
+    [
+      0.000026,
+      "\u001b[0m\u001b[0;34m[BobBuildContext] \u001b[0m\u001b[0;34;39mRunning project plugins\r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mRunning plugin: collect-sources\r\n"
+    ],
+    [
+      0.002189,
+      "\u001b[0m\u001b[0;34m[CollectSourcesPlugin] \u001b[0m\u001b[0;34;39m/opt/vala/valder-workshop/src/main/vala/test/GlibInspectorTest.vala (2202 bytes)"
+    ],
+    [
+      0.000011,
+      "\r\n\u001b[0m\u001b[0;34m[CollectSourcesPlugin] \u001b[0m\u001b[0;34;39m/opt/vala/valder-workshop/src/main/vala/bob/builder/workshop/BobWorkshopRuntime.vala (502 bytes)\r\n\u001b[0m\u001b[0;34m[CollectSourcesPlugin] \u001b[0m\u001b[0;34;39m/opt/vala/valder-workshop/src/main/vala/bob/builder/workshop/window/BobWorkshopWindow.vala (997 bytes)\r\n\u001b[0m\u001b[0;34m[CollectSourcesPlugin] \u001b[0m\u001b[0;34;39mUsing 3 project source files with 3701 bytes in total.\r\n"
+    ],
+    [
+      0.000022,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mRunning plugin: repository:scan\r\n"
+    ],
+    [
+      0.000039,
+      "\u001b[0m\u001b[0;34m[ScanLocalRepositoryPlugin] \u001b[0m\u001b[0;34;39mScanning local repository for project dependencies.\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[0m\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;39mScanning for depedency match in local repository: glib-2.0\r\n"
+    ],
+    [
+      0.000269,
+      "\u001b[0;34"
+    ],
+    [
+      0.000005,
+      "m[RepositoryDependencyScanner] \u001b[0m"
+    ],
+    [
+      0.000006,
+      "\u001b[0;34;22;33m"
+    ],
+    [
+      0.000011,
+      "Repository directory for glib-2.0 does not exist."
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[0m"
+    ],
+    [
+      0.000022,
+      "\u001b[0m\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;39mScanning for depedency match in local repository: gobject-2.0\r\n"
+    ],
+    [
+      0.000223,
+      "\u001b[0;34"
+    ],
+    [
+      0.000005,
+      "m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;22;33"
+    ],
+    [
+      0.000003,
+      "m"
+    ],
+    [
+      0.000009,
+      "Repository directory for gobject-2.0 does not exist."
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[0m"
+    ],
+    [
+      0.000022,
+      "\u001b[0m\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;39mScanning for depedency match in local repository: gio-2.0\r\n"
+    ],
+    [
+      0.000211,
+      "\u001b[0;34"
+    ],
+    [
+      0.000005,
+      "m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;22;33"
+    ],
+    [
+      0.000003,
+      "m"
+    ],
+    [
+      0.000009,
+      "Repository directory for gio-2.0 does not exist."
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[0m"
+    ],
+    [
+      0.000023,
+      "\u001b[0m\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;39mScanning for depedency match in local repository: libvala-0.28\r\n"
+    ],
+    [
+      0.000208,
+      "\u001b[0;34"
+    ],
+    [
+      0.000004,
+      "m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;22;33"
+    ],
+    [
+      0.000009,
+      "m"
+    ],
+    [
+      0.000004,
+      "Repository directory for libvala-0.28 does not exist."
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[0m"
+    ],
+    [
+      0.000022,
+      "\u001b[0m\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;39mScanning for depedency match in local repository: log4vala-0.0.1\r\n"
+    ],
+    [
+      0.000089,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: log4vala.\r\n"
+    ],
+    [
+      0.000072,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: 0.0.1.\r\n"
+    ],
+    [
+      0.000093,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: vapi.\r\n"
+    ],
+    [
+      0.000084,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: c.\r\n"
+    ],
+    [
+      0.000123,
+      "\u001b[0m\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;39mScanning recipe file: /home/activey/.bob/log4vala/0.0.1/recipe.bob\r\n"
+    ],
+    [
+      0.000101,
+      "\u001b[0m\u001b[0;34m[BobBuildProjectRecipe] \u001b[0m\u001b[0;34;39mParsing project dependencies.\r\n"
+    ],
+    [
+      0.000039,
+      "\u001b[0m\u001b[0;34m[BobBuildRecipe] \u001b[0m\u001b[0;34;39mNo plugins configuration found, skipping\r\n"
+    ],
+    [
+      0.000334,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: .bob.\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[0m\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;39mFound repository directory: /home/activey/.bob.\r\n"
+    ],
+    [
+      0.000020,
+      "\u001b[0m\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;39mScanning for depedency match in local repository: glib-2.0\r\n"
+    ],
+    [
+      0.000215,
+      "\u001b[0;34"
+    ],
+    [
+      0.000004,
+      "m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;22;33m"
+    ],
+    [
+      0.000004,
+      "Repository directory for glib-2.0 does not exist."
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[0m"
+    ],
+    [
+      0.000022,
+      "\u001b[0m\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;39mScanning for depedency match in local repository: gobject-2.0\r\n"
+    ],
+    [
+      0.000214,
+      "\u001b[0;34m[RepositoryDependencyScanner] "
+    ],
+    [
+      0.000004,
+      "\u001b[0m\u001b[0;34;22;33m"
+    ],
+    [
+      0.000004,
+      "Repository directory for gobject-2.0 does not exist."
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[0m"
+    ],
+    [
+      0.000021,
+      "\u001b[0m\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;39mScanning for depedency match in local repository: gio-2.0\r\n"
+    ],
+    [
+      0.000214,
+      "\u001b[0;34m[RepositoryDependencyScanner] "
+    ],
+    [
+      0.000004,
+      "\u001b[0m\u001b[0;34;22;33m"
+    ],
+    [
+      0.000004,
+      "Repository directory for gio-2.0 does not exist."
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[0m"
+    ],
+    [
+      0.000020,
+      "\u001b[0m\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;39mScanning for depedency match in local repository: posix\r\n"
+    ],
+    [
+      0.000223,
+      "\u001b[0;34m"
+    ],
+    [
+      0.000005,
+      "[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;22;33m"
+    ],
+    [
+      0.000004,
+      "Repository directory for posix does not exist."
+    ],
+    [
+      0.000019,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\u001b[0m\u001b[0;34m[ScanLocalRepositoryPlugin] \u001b[0m\u001b[0;34;39mAdding new dependency: posix.\r\n"
+    ],
+    [
+      0.000041,
+      "\u001b[0m\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;39mScanning for depedency match in local repository: bob-0.0.1\r\n"
+    ],
+    [
+      0.000126,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: bob.\r\n"
+    ],
+    [
+      0.000072,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: 0.0.1.\r\n"
+    ],
+    [
+      0.000125,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: vapi.\r\n"
+    ],
+    [
+      0.000182,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: c.\r\n"
+    ],
+    [
+      0.000125,
+      "\u001b[0m\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;39mScanning recipe file: /home/activey/.bob/bob/0.0.1/recipe.bob\r\n"
+    ],
+    [
+      0.000106,
+      "\u001b[0m\u001b[0;34m[BobBuildProjectRecipe] \u001b[0m\u001b[0;34;39mParsing project dependencies.\r\n"
+    ],
+    [
+      0.000052,
+      "\u001b[0m\u001b[0;34m[BobBuildRecipe] \u001b[0m\u001b[0;34;39mNo plugins configuration found, skipping\r\n"
+    ],
+    [
+      0.000323,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: .bob.\r\n"
+    ],
+    [
+      0.000025,
+      "\u001b[0m\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;39mFound repository directory: /home/activey/.bob.\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[0m\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;39mScanning for depedency match in local repository: glib-2.0\r\n"
+    ],
+    [
+      0.000193,
+      "\u001b[0;34"
+    ],
+    [
+      0.000004,
+      "m[RepositoryDependencyScanner] "
+    ],
+    [
+      0.000003,
+      "\u001b[0m"
+    ],
+    [
+      0.000014,
+      "\u001b[0;34;22;33"
+    ],
+    [
+      0.000004,
+      "mRepository directory for glib-2.0 does not exist."
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[0m"
+    ],
+    [
+      0.000024,
+      "\u001b[0m\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;39mScanning for depedency match in local repository: gobject-2.0\r\n"
+    ],
+    [
+      0.000166,
+      "\u001b[0;34"
+    ],
+    [
+      0.000005,
+      "m[RepositoryDependencyScanner] "
+    ],
+    [
+      0.000003,
+      "\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\u001b[0;34;22;33m"
+    ],
+    [
+      0.000013,
+      "Repository directory for gobject-2.0 does not exist."
+    ],
+    [
+      0.000003,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000015,
+      "\u001b[0m\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;39mScanning for depedency match in local repository: gio-2.0\r\n"
+    ],
+    [
+      0.000163,
+      "\u001b[0;34"
+    ],
+    [
+      0.000003,
+      "m[RepositoryDependencyScanner] "
+    ],
+    [
+      0.000002,
+      "\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\u001b[0;34;22;33"
+    ],
+    [
+      0.000003,
+      "mRepository directory for gio-2.0 does not exist."
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[0m"
+    ],
+    [
+      0.000017,
+      "\u001b[0m\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;39mScanning for depedency match in local repository: json-glib-1.0\r\n"
+    ],
+    [
+      0.000159,
+      "\u001b[0;34"
+    ],
+    [
+      0.000002,
+      "m"
+    ],
+    [
+      0.000002,
+      "[RepositoryDependencyScanner] "
+    ],
+    [
+      0.000002,
+      "\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\u001b[0;34;22;33"
+    ],
+    [
+      0.000003,
+      "m"
+    ],
+    [
+      0.000004,
+      "Repository directory for json-glib-1.0 does not exist.\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[0m"
+    ],
+    [
+      0.000017,
+      "\u001b[0m\u001b[0;34m[ScanLocalRepositoryPlugin] \u001b[0m\u001b[0;34;39mAdding new dependency: json-glib-1.0.\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[0m\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;39mScanning for depedency match in local repository: libvala-0.28\r\n"
+    ],
+    [
+      0.000175,
+      "\u001b[0;34m"
+    ],
+    [
+      0.000004,
+      "[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;22;33"
+    ],
+    [
+      0.000003,
+      "m"
+    ],
+    [
+      0.000002,
+      "Repository directory for libvala-0.28 does not exist."
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[0m"
+    ],
+    [
+      0.000013,
+      "\u001b[0m\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;39mScanning for depedency match in local repository: gmodule-2.0\r\n"
+    ],
+    [
+      0.000162,
+      "\u001b[0;34"
+    ],
+    [
+      0.000003,
+      "m[RepositoryDependencyScanner] "
+    ],
+    [
+      0.000002,
+      "\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\u001b[0;34;22;33"
+    ],
+    [
+      0.000003,
+      "mRepository directory for gmodule-2.0 does not exist."
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[0m"
+    ],
+    [
+      0.000016,
+      "\u001b[0m\u001b[0;34m[ScanLocalRepositoryPlugin] \u001b[0m\u001b[0;34;39mAdding new dependency: gmodule-2.0.\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[0m\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;39mScanning for depedency match in local repository: gee-0.8\r\n"
+    ],
+    [
+      0.000161,
+      "\u001b[0;34"
+    ],
+    [
+      0.000002,
+      "m"
+    ],
+    [
+      0.000002,
+      "[RepositoryDependencyScanner] "
+    ],
+    [
+      0.000002,
+      "\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\u001b[0;34;22;33"
+    ],
+    [
+      0.000003,
+      "mRepository directory for gee-0.8 does not exist."
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[0m"
+    ],
+    [
+      0.000025,
+      "\u001b[0m\u001b[0;34m[ScanLocalRepositoryPlugin] \u001b[0m\u001b[0;34;39mAdding new dependency: gee-0.8.\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[0m\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;39mScanning for depedency match in local repository: gtk+-3.0\r\n"
+    ],
+    [
+      0.000164,
+      "\u001b[0;34"
+    ],
+    [
+      0.000002,
+      "m"
+    ],
+    [
+      0.000002,
+      "[RepositoryDependencyScanner] "
+    ],
+    [
+      0.000005,
+      "\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\u001b[0;34;22;33m"
+    ],
+    [
+      0.000009,
+      "Repository directory for gtk+-3.0 does not exist."
+    ],
+    [
+      0.000003,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000014,
+      "\u001b[0m\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;39mScanning for depedency match in local repository: posix\r\n"
+    ],
+    [
+      0.000169,
+      "\u001b[0;34"
+    ],
+    [
+      0.000004,
+      "m[RepositoryDependencyScanner] "
+    ],
+    [
+      0.000003,
+      "\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\u001b[0;34;22;33"
+    ],
+    [
+      0.000002,
+      "m"
+    ],
+    [
+      0.000011,
+      "Repository directory for posix does not exist."
+    ],
+    [
+      0.000003,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000016,
+      "\u001b[0m\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;39mScanning for depedency match in local repository: json-glib-1.0\r\n"
+    ],
+    [
+      0.000166,
+      "\u001b[0;34"
+    ],
+    [
+      0.000003,
+      "m[RepositoryDependencyScanner] "
+    ],
+    [
+      0.000002,
+      "\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\u001b[0;34;22;33"
+    ],
+    [
+      0.000004,
+      "mRepository directory for json-glib-1.0 does not exist."
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[0m"
+    ],
+    [
+      0.000015,
+      "\u001b[0m\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;39mScanning for depedency match in local repository: gmodule-2.0\r\n"
+    ],
+    [
+      0.000187,
+      "\u001b[0;34"
+    ],
+    [
+      0.000002,
+      "m[RepositoryDependencyScanner] "
+    ],
+    [
+      0.000002,
+      "\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\u001b[0;34;22;33"
+    ],
+    [
+      0.000005,
+      "mRepository directory for gmodule-2.0 does not exist."
+    ],
+    [
+      0.000004,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000015,
+      "\u001b[0m\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;39mScanning for depedency match in local repository: gee-0.8\r\n"
+    ],
+    [
+      0.000162,
+      "\u001b[0;34"
+    ],
+    [
+      0.000002,
+      "m"
+    ],
+    [
+      0.000002,
+      "[RepositoryDependencyScanner] "
+    ],
+    [
+      0.000002,
+      "\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\u001b[0;34;22;33m"
+    ],
+    [
+      0.000003,
+      "Repository directory for gee-0.8 does not exist."
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[0m"
+    ],
+    [
+      0.000033,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mRunning plugin: repository:copy-libs\r\n"
+    ],
+    [
+      0.000285,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: .bob.\r\n"
+    ],
+    [
+      0.000138,
+      "\u001b[0;34"
+    ],
+    [
+      0.000002,
+      "m"
+    ],
+    [
+      0.000002,
+      "[CopyLibraryFromRepositoryPlugin] "
+    ],
+    [
+      0.000002,
+      "\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\u001b[0;34;22;33m"
+    ],
+    [
+      0.000004,
+      "Unable to locate library file under location: /home/activey/.bob/glib/2.0/lib/libglib.so."
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[0m"
+    ],
+    [
+      0.000279,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: .bob.\r\n"
+    ],
+    [
+      0.000134,
+      "\u001b[0;34"
+    ],
+    [
+      0.000002,
+      "m"
+    ],
+    [
+      0.000002,
+      "[CopyLibraryFromRepositoryPlugin] "
+    ],
+    [
+      0.000002,
+      "\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\u001b[0;34;22;33"
+    ],
+    [
+      0.000004,
+      "mUnable to locate library file under location: /home/activey/.bob/gobject/2.0/lib/libgobject.so."
+    ],
+    [
+      0.000022,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000262,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: .bob.\r\n"
+    ],
+    [
+      0.000132,
+      "\u001b[0;34"
+    ],
+    [
+      0.000002,
+      "m"
+    ],
+    [
+      0.000002,
+      "[CopyLibraryFromRepositoryPlugin] "
+    ],
+    [
+      0.000002,
+      "\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\u001b[0;34;22;33"
+    ],
+    [
+      0.000003,
+      "m"
+    ],
+    [
+      0.000004,
+      "Unable to locate library file under location: /home/activey/.bob/gio/2.0/lib/libgio.so."
+    ],
+    [
+      0.000003,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000279,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: .bob.\r\n"
+    ],
+    [
+      0.000133,
+      "\u001b[0;34"
+    ],
+    [
+      0.000002,
+      "m"
+    ],
+    [
+      0.000002,
+      "[CopyLibraryFromRepositoryPlugin] "
+    ],
+    [
+      0.000002,
+      "\u001b[0m"
+    ],
+    [
+      0.000014,
+      "\u001b[0;34;22;33m"
+    ],
+    [
+      0.000004,
+      "Unable to locate library file under location: /home/activey/.bob/libvala/0.28/lib/liblibvala.so.\r\n\u001b[0m"
+    ],
+    [
+      0.000279,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: .bob.\r\n"
+    ],
+    [
+      0.000060,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: log4vala.\r\n"
+    ],
+    [
+      0.000050,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: 0.0.1.\r\n"
+    ],
+    [
+      0.000066,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: lib.\r\n"
+    ],
+    [
+      0.000054,
+      "\u001b[0m\u001b[0;34m[CopyLibraryFromRepositoryPlugin] \u001b[0m\u001b[0;34;39mCopying library [/home/activey/.bob/log4vala/0.0.1/lib/liblog4vala.so] file into location: /opt/vala/valder-workshop/target/lib.\r\n"
+    ],
+    [
+      0.088182,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: .bob.\r\n"
+    ],
+    [
+      0.000147,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: bob.\r\n"
+    ],
+    [
+      0.000248,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: 0.0.1.\r\n"
+    ],
+    [
+      0.000323,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: lib.\r\n"
+    ],
+    [
+      0.000271,
+      "\u001b[0m\u001b[0;34m[CopyLibraryFromRepositoryPlugin] \u001b[0m\u001b[0;34;39mCopying library [/home/activey/.bob/bob/0.0.1/lib/libbob.so] file into location: /opt/vala/valder-workshop/target/lib.\r\n"
+    ],
+    [
+      0.043079,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: .bob.\r\n"
+    ],
+    [
+      0.000159,
+      "\u001b[0;34"
+    ],
+    [
+      0.000003,
+      "m[CopyLibraryFromRepositoryPlugin] "
+    ],
+    [
+      0.000015,
+      "\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\u001b[0;34;22;33"
+    ],
+    [
+      0.000002,
+      "m"
+    ],
+    [
+      0.000014,
+      "Unable to locate library file under location: /home/activey/.bob/gtk+/3.0/lib/libgtk+.so."
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[0m"
+    ],
+    [
+      0.000345,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: .bob.\r\n"
+    ],
+    [
+      0.000141,
+      "\u001b[0;34"
+    ],
+    [
+      0.000004,
+      "m[CopyLibraryFromRepositoryPlugin] "
+    ],
+    [
+      0.000004,
+      "\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\u001b[0;34;22;33"
+    ],
+    [
+      0.000002,
+      "m"
+    ],
+    [
+      0.000002,
+      "Unable to locate library file under location: /home/activey/.bob/posix/-/lib/libposix.so."
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[0m"
+    ],
+    [
+      0.000398,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: .bob.\r\n"
+    ],
+    [
+      0.000160,
+      "\u001b[0;34"
+    ],
+    [
+      0.000002,
+      "m"
+    ],
+    [
+      0.000002,
+      "[CopyLibraryFromRepositoryPlugin] "
+    ],
+    [
+      0.000002,
+      "\u001b[0m"
+    ],
+    [
+      0.000014,
+      "\u001b[0;34;22;33"
+    ],
+    [
+      0.000003,
+      "m"
+    ],
+    [
+      0.000002,
+      "Unable to locate library file under location: /home/activey/.bob/json-glib/1.0/lib/libjson-glib.so."
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[0m"
+    ],
+    [
+      0.000289,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: .bob.\r\n"
+    ],
+    [
+      0.000157,
+      "\u001b[0;34"
+    ],
+    [
+      0.000002,
+      "m"
+    ],
+    [
+      0.000002,
+      "[CopyLibraryFromRepositoryPlugin] "
+    ],
+    [
+      0.000009,
+      "\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\u001b[0;34;22;33"
+    ],
+    [
+      0.000007,
+      "m"
+    ],
+    [
+      0.000009,
+      "Unable to locate library file under location: /home/activey/.bob/gmodule/2.0/lib/libgmodule.so."
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[0m"
+    ],
+    [
+      0.000295,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: .bob.\r\n"
+    ],
+    [
+      0.000159,
+      "\u001b[0;34m"
+    ],
+    [
+      0.000003,
+      "[CopyLibraryFromRepositoryPlugin] "
+    ],
+    [
+      0.000002,
+      "\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\u001b[0;34;22;33"
+    ],
+    [
+      0.000003,
+      "m"
+    ],
+    [
+      0.000002,
+      "Unable to locate library file under location: /home/activey/.bob/gee/0.8/lib/libgee.so."
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[0m"
+    ],
+    [
+      0.000041,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mRunning plugin: build\r\n"
+    ],
+    [
+      0.000027,
+      "\u001b[0m\u001b[0;34m[BuildApplicationPlugin] \u001b[0m\u001b[0;34;39mGenerating library binary.\r\n"
+    ],
+    [
+      0.000050,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mInitializing CodeContext\r\n"
+    ],
+    [
+      0.000641,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing VAPI directory: /home/activey/.bob/log4vala/0.0.1/vapi for dependency: log4vala-0.0.1.\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing C headers directory: /home/activey/.bob/log4vala/0.0.1/c for dependency: log4vala-0.0.1.\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing VAPI directory: /home/activey/.bob/bob/0.0.1/vapi for dependency: bob-0.0.1.\r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing C headers directory: /home/activey/.bob/bob/0.0.1/c for dependency: bob-0.0.1.\r\n"
+    ],
+    [
+      0.000024,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mInitializing dependencies for scope: library.\r\n"
+    ],
+    [
+      0.000069,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: glib-2.0.\r\n"
+    ],
+    [
+      0.000042,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: gobject-2.0.\r\n"
+    ],
+    [
+      0.000044,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: gio-2.0.\r\n"
+    ],
+    [
+      0.000044,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: libvala-0.28.\r\n"
+    ],
+    [
+      0.000042,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: log4vala-0.0.1.\r\n"
+    ],
+    [
+      0.000033,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: bob-0.0.1.\r\n"
+    ],
+    [
+      0.000054,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: posix.\r\n"
+    ],
+    [
+      0.000061,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: json-glib-1.0.\r\n"
+    ],
+    [
+      0.000042,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: gmodule-2.0.\r\n"
+    ],
+    [
+      0.000041,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: gee-0.8.\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mNo VALA source files available, skipping code compilation.\r\n"
+    ],
+    [
+      0.000027,
+      "\u001b[0m\u001b[0;34m[BuildApplicationPlugin] \u001b[0m\u001b[0;34;39mGenerating runtime binary.\r\n"
+    ],
+    [
+      0.000029,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mInitializing CodeContext\r\n"
+    ],
+    [
+      0.000171,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing VAPI directory: /home/activey/.bob/log4vala/0.0.1/vapi for dependency: log4vala-0.0.1.\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing C headers directory: /home/activey/.bob/log4vala/0.0.1/c for dependency: log4vala-0.0.1.\r\n"
+    ],
+    [
+      0.000019,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing VAPI directory: /home/activey/.bob/bob/0.0.1/vapi for dependency: bob-0.0.1.\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing C headers directory: /home/activey/.bob/bob/0.0.1/c for dependency: bob-0.0.1.\r\n"
+    ],
+    [
+      0.000021,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mInitializing dependencies for scope: runtime.\r\n"
+    ],
+    [
+      0.000051,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: glib-2.0.\r\n"
+    ],
+    [
+      0.000038,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: gobject-2.0.\r\n"
+    ],
+    [
+      0.000045,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: gio-2.0.\r\n"
+    ],
+    [
+      0.000047,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: libvala-0.28.\r\n"
+    ],
+    [
+      0.000032,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: log4vala-0.0.1.\r\n"
+    ],
+    [
+      0.000032,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: bob-0.0.1.\r\n"
+    ],
+    [
+      0.000187,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: gtk+-3.0.\r\n"
+    ],
+    [
+      0.000034,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: posix.\r\n"
+    ],
+    [
+      0.000050,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: json-glib-1.0.\r\n"
+    ],
+    [
+      0.000041,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: gmodule-2.0.\r\n"
+    ],
+    [
+      0.000046,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: gee-0.8.\r\n"
+    ],
+    [
+      0.000091,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mStarting code compilation ...\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mRunning code parsers.\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mRunning general parser.\r\n"
+    ],
+    [
+      0.300360,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mRunning GENIE parser.\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mRunning GIR parser.\r\n"
+    ],
+    [
+      1.166661,
+      "\u001b[0m\u001b[0;34m[BuildApplicationPlugin] \u001b[0m\u001b[0;34;1;32mRuntime binary compilation finished.\r\n\u001b[0m\u001b[0;34m[BuildApplicationPlugin] \u001b[0m\u001b[0;34;1;32mCode compilation finished.\r\n\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mRunning plugin: repository:install\r\n\u001b[0m\u001b[0;34m[InstallInLocalRepositoryPlugin] \u001b[0m\u001b[0;34;39mInitializing project directory structure in local repository.\r\n\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: .bob.\r\n\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: bob-workshop.\r\n\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: 0.0.1.\r\n\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: vapi.\r\n\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: c.\r\n\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: lib.\r\n\u001b[0m\u001b[0;34m[InstallInLocalRepositoryPlugin] \u001b[0m\u001b[0;34;1;32mRepository project directory structure ready.\r\n\u001b[0m\u001b[0;34m[InstallInLocalRepositoryPlugin] \u001b[0m\u001b[0;34;39mInstalling project files in local repository.\r\n\u001b[0m\u001b[0;34m[InstallInLocalRepositoryPlugin] \u001b[0m\u001b[0;34;39mDumping receipe file to directory: /home/activey/.bob/bob-workshop/0.0.1.\r\n\u001b[0m\u001b[0;34m[InstallInLocalRepositoryPlugin] \u001b[0m\u001b[0;34;39mCopying VAPI file /opt/vala/valder-workshop/src/library/vapi/bob-workshop-0.0.1.vapi to directory: /home/activey/.bob/bob-workshop/0.0.1/vapi.\r\n"
+    ],
+    [
+      0.010122,
+      "\u001b[0m\u001b[0;34m[InstallInLocalRepositoryPlugin] \u001b[0m\u001b[0;34;39mCopying C header file /opt/vala/valder-workshop/src/library/c/bob-workshop-0.0.1.h to directory: /home/activey/.bob/bob-workshop/0.0.1/c.\r\n"
+    ],
+    [
+      0.010595,
+      "\u001b[0m\u001b[0;34m[BobBuildContext] \u001b[0m\u001b[0;34;39mTook time: 1.636253 seconds.\r\n\u001b[0m"
+    ],
+    [
+      0.017470,
+      "\u001b]0"
+    ],
+    [
+      0.000008,
+      ";fish  /o"
+    ],
+    [
+      0.000004,
+      "p"
+    ],
+    [
+      0.000003,
+      "t"
+    ],
+    [
+      0.000003,
+      "/"
+    ],
+    [
+      0.000014,
+      "v"
+    ],
+    [
+      0.000062,
+      "a"
+    ],
+    [
+      0.000004,
+      "la"
+    ],
+    [
+      0.000003,
+      "/"
+    ],
+    [
+      0.000003,
+      "v"
+    ],
+    [
+      0.000003,
+      "a"
+    ],
+    [
+      0.000020,
+      "ld"
+    ],
+    [
+      0.000004,
+      "er-"
+    ],
+    [
+      0.000002,
+      "w"
+    ],
+    [
+      0.000014,
+      "o"
+    ],
+    [
+      0.000005,
+      "rks"
+    ],
+    [
+      0.000012,
+      "h"
+    ],
+    [
+      0.000003,
+      "op"
+    ],
+    [
+      0.000012,
+      "\u0007"
+    ],
+    [
+      0.000015,
+      "\u001b"
+    ],
+    [
+      0.000002,
+      "["
+    ],
+    [
+      0.000002,
+      "3"
+    ],
+    [
+      0.000009,
+      "0"
+    ],
+    [
+      0.000002,
+      "m"
+    ],
+    [
+      0.000010,
+      "\u001b"
+    ],
+    [
+      0.000002,
+      "("
+    ],
+    [
+      0.000003,
+      "B"
+    ],
+    [
+      0.000002,
+      "\u001b"
+    ],
+    [
+      0.000010,
+      "["
+    ],
+    [
+      0.000002,
+      "m"
+    ],
+    [
+      0.000179,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                                                                                              \r \r"
+    ],
+    [
+      0.000120,
+      "\u001b[44m\u001b[30m /o/v/valder-workshop \u001b[40m\u001b(B\u001b[m\u001b[34m \u001b[K"
+    ],
+    [
+      1.601454,
+      "\r\n\u001b[30m\u001b(B\u001b[m\r\n\u001b[30m\u001b(B\u001b[m"
+    ]
+  ]
+}
