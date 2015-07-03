@@ -1,0 +1,2670 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 125.835139,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      1.549271,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000362,
+      "\u001b]2;Eliott@macbook-ebenoit-wifi: ~/Desktop/mMediaWiki\u0007"
+    ],
+    [
+      0.000233,
+      "\u001b]1;..op/mMediaWiki\u0007"
+    ],
+    [
+      0.000312,
+      "\u001b]7;file:///Users/Eliott/Desktop/mMediaWiki\u0007"
+    ],
+    [
+      0.118815,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mmMediaWiki \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000054,
+      "\u001b[K"
+    ],
+    [
+      0.000172,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.749935,
+      "I"
+    ],
+    [
+      0.161967,
+      "\u0008In"
+    ],
+    [
+      0.135911,
+      "s"
+    ],
+    [
+      0.088217,
+      "t"
+    ],
+    [
+      0.127671,
+      "a"
+    ],
+    [
+      0.808025,
+      "l"
+    ],
+    [
+      0.127620,
+      "l"
+    ],
+    [
+      0.152502,
+      " "
+    ],
+    [
+      0.615836,
+      "S"
+    ],
+    [
+      0.288074,
+      "e"
+    ],
+    [
+      0.207943,
+      "m"
+    ],
+    [
+      0.439967,
+      "a"
+    ],
+    [
+      0.111983,
+      "n"
+    ],
+    [
+      0.215037,
+      "t"
+    ],
+    [
+      0.184977,
+      "i"
+    ],
+    [
+      0.119998,
+      "c"
+    ],
+    [
+      0.463882,
+      "F"
+    ],
+    [
+      0.136159,
+      "o"
+    ],
+    [
+      0.087785,
+      "r"
+    ],
+    [
+      0.104064,
+      "m"
+    ],
+    [
+      0.119914,
+      "s"
+    ],
+    [
+      0.215018,
+      " "
+    ],
+    [
+      0.265075,
+      "E"
+    ],
+    [
+      0.207947,
+      "x"
+    ],
+    [
+      0.151909,
+      "t"
+    ],
+    [
+      0.080110,
+      "e"
+    ],
+    [
+      0.152022,
+      "n"
+    ],
+    [
+      0.175922,
+      "s"
+    ],
+    [
+      0.239942,
+      "i"
+    ],
+    [
+      0.120022,
+      "o"
+    ],
+    [
+      0.080002,
+      "n"
+    ],
+    [
+      1.503620,
+      "\u0008 \u0008"
+    ],
+    [
+      0.500807,
+      "\u0008 \u0008"
+    ],
+    [
+      0.084524,
+      "\u0008 \u0008"
+    ],
+    [
+      0.082891,
+      "\u0008 \u0008"
+    ],
+    [
+      0.084865,
+      "\u0008 \u0008"
+    ],
+    [
+      0.084315,
+      "\u0008 \u0008"
+    ],
+    [
+      0.084608,
+      "\u0008 \u0008"
+    ],
+    [
+      0.084308,
+      "\u0008 \u0008"
+    ],
+    [
+      0.084332,
+      "\u0008 \u0008"
+    ],
+    [
+      0.084415,
+      "\u0008"
+    ],
+    [
+      0.083667,
+      "\u0008 \u0008"
+    ],
+    [
+      0.084203,
+      "\u0008 \u0008"
+    ],
+    [
+      0.084382,
+      "\u0008 \u0008"
+    ],
+    [
+      0.084386,
+      "\u0008 \u0008"
+    ],
+    [
+      0.084510,
+      "\u0008 \u0008"
+    ],
+    [
+      0.084406,
+      "\u0008 \u0008"
+    ],
+    [
+      0.082800,
+      "\u0008 \u0008"
+    ],
+    [
+      0.085059,
+      "\u0008 \u0008"
+    ],
+    [
+      0.084444,
+      "\u0008 \u0008"
+    ],
+    [
+      0.084450,
+      "\u0008 \u0008"
+    ],
+    [
+      0.084256,
+      "\u0008 \u0008"
+    ],
+    [
+      0.084442,
+      "\u0008 \u0008"
+    ],
+    [
+      0.084420,
+      "\u0008 \u0008"
+    ],
+    [
+      0.084415,
+      "\u0008"
+    ],
+    [
+      0.084446,
+      "\u0008 \u0008"
+    ],
+    [
+      0.084447,
+      "\u0008 \u0008"
+    ],
+    [
+      0.084401,
+      "\u0008 \u0008"
+    ],
+    [
+      0.084506,
+      "\u0008 \u0008"
+    ],
+    [
+      0.084141,
+      "\u0008 \u0008"
+    ],
+    [
+      0.084418,
+      "\u0008\u0008I \u0008"
+    ],
+    [
+      0.084327,
+      "\u0008 \u0008"
+    ],
+    [
+      1.654531,
+      "c"
+    ],
+    [
+      0.183928,
+      "\u0008cd"
+    ],
+    [
+      0.151396,
+      " "
+    ],
+    [
+      0.416975,
+      "e"
+    ],
+    [
+      0.167514,
+      "x"
+    ],
+    [
+      0.063507,
+      "t"
+    ],
+    [
+      0.295182,
+      "ensions\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.728900,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000103,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000219,
+      "\r\r\n"
+    ],
+    [
+      0.029286,
+      "\u001b]2;cd extensions\u0007\u001b]1;cd\u0007"
+    ],
+    [
+      0.000300,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000202,
+      "\u001b]2;Eliott@macbook-ebenoit-wifi: ~/Desktop/mMediaWiki/extensions\u0007"
+    ],
+    [
+      0.000069,
+      "\u001b]1;..ki/extensions\u0007"
+    ],
+    [
+      0.000186,
+      "\u001b]7;file:///Users/Eliott/Desktop/mMediaWiki/extensions\u0007"
+    ],
+    [
+      0.128873,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mextensions \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000029,
+      "\u001b[K"
+    ],
+    [
+      0.000063,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      4.924176,
+      "g"
+    ],
+    [
+      0.072528,
+      "\u0008gi"
+    ],
+    [
+      0.140110,
+      "t"
+    ],
+    [
+      0.455838,
+      " "
+    ],
+    [
+      0.192222,
+      "c"
+    ],
+    [
+      0.087879,
+      "l"
+    ],
+    [
+      0.151970,
+      "o"
+    ],
+    [
+      0.199991,
+      "n"
+    ],
+    [
+      0.111969,
+      "e"
+    ],
+    [
+      0.159828,
+      " "
+    ],
+    [
+      0.592116,
+      "h"
+    ],
+    [
+      0.128034,
+      "t"
+    ],
+    [
+      0.128040,
+      "t"
+    ],
+    [
+      0.135954,
+      "p"
+    ],
+    [
+      0.152016,
+      "s"
+    ],
+    [
+      0.215909,
+      ":"
+    ],
+    [
+      0.255972,
+      "/"
+    ],
+    [
+      0.136232,
+      "/"
+    ],
+    [
+      0.991987,
+      "g"
+    ],
+    [
+      0.222585,
+      "i"
+    ],
+    [
+      0.081104,
+      "t"
+    ],
+    [
+      0.432044,
+      "."
+    ],
+    [
+      0.878778,
+      "w"
+    ],
+    [
+      0.088234,
+      "i"
+    ],
+    [
+      0.176747,
+      "k"
+    ],
+    [
+      0.152153,
+      "i"
+    ],
+    [
+      0.207983,
+      "m"
+    ],
+    [
+      0.080013,
+      "e"
+    ],
+    [
+      0.168127,
+      "d"
+    ],
+    [
+      0.103077,
+      "i"
+    ],
+    [
+      0.136793,
+      "a"
+    ],
+    [
+      0.447908,
+      "."
+    ],
+    [
+      0.232039,
+      "o"
+    ],
+    [
+      0.095979,
+      "r"
+    ],
+    [
+      0.400032,
+      "g"
+    ],
+    [
+      0.559972,
+      "/"
+    ],
+    [
+      0.311988,
+      "g"
+    ],
+    [
+      0.096017,
+      "i"
+    ],
+    [
+      0.120083,
+      "t"
+    ],
+    [
+      0.799853,
+      "/"
+    ],
+    [
+      0.223209,
+      "m"
+    ],
+    [
+      0.096732,
+      "e"
+    ],
+    [
+      0.175915,
+      "d"
+    ],
+    [
+      0.112025,
+      "i"
+    ],
+    [
+      0.143093,
+      "a"
+    ],
+    [
+      0.240943,
+      "w"
+    ],
+    [
+      0.095860,
+      "i"
+    ],
+    [
+      0.160100,
+      "k"
+    ],
+    [
+      0.159948,
+      "i"
+    ],
+    [
+      1.695959,
+      "/"
+    ],
+    [
+      0.279992,
+      "e \r\u001b[K"
+    ],
+    [
+      0.191925,
+      "x"
+    ],
+    [
+      0.120074,
+      "\rxt"
+    ],
+    [
+      0.110947,
+      "e"
+    ],
+    [
+      0.105078,
+      "n"
+    ],
+    [
+      0.536084,
+      "s"
+    ],
+    [
+      0.087848,
+      "i"
+    ],
+    [
+      0.143895,
+      "o"
+    ],
+    [
+      0.200035,
+      "n"
+    ],
+    [
+      0.127901,
+      "s"
+    ],
+    [
+      0.680009,
+      "/"
+    ],
+    [
+      0.616034,
+      "S"
+    ],
+    [
+      0.191961,
+      "e"
+    ],
+    [
+      0.087962,
+      "m"
+    ],
+    [
+      0.120391,
+      "a"
+    ],
+    [
+      0.111617,
+      "n"
+    ],
+    [
+      0.136007,
+      "t"
+    ],
+    [
+      0.168007,
+      "i"
+    ],
+    [
+      0.951877,
+      "c"
+    ],
+    [
+      1.407981,
+      "F"
+    ],
+    [
+      0.120024,
+      "o"
+    ],
+    [
+      0.072536,
+      "r"
+    ],
+    [
+      0.103504,
+      "m"
+    ],
+    [
+      0.111293,
+      "s"
+    ],
+    [
+      0.360589,
+      "."
+    ],
+    [
+      0.263977,
+      "g"
+    ],
+    [
+      0.104096,
+      "i"
+    ],
+    [
+      0.079819,
+      "t"
+    ],
+    [
+      0.615791,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000253,
+      "\r\r\n"
+    ],
+    [
+      0.002156,
+      "\u001b]2;git clone https://git.wikimedia.org/git/mediawiki/extensions/SemanticForms.gi\u0007"
+    ],
+    [
+      0.000016,
+      "\u001b]1;git\u0007"
+    ],
+    [
+      0.007796,
+      "Cloning into 'SemanticForms'...\r\n"
+    ],
+    [
+      5.830686,
+      "remote: Counting objects: 1   \u001b[K\r"
+    ],
+    [
+      0.000023,
+      "remote: Counting objects: 2453, done\u001b[K\r\nremote: Finding sources:   1% (23/2289)   \u001b[K\r"
+    ],
+    [
+      0.000012,
+      "remote: Finding sources:   2% (46/2289)   \u001b[K\rremote: Finding sources:   3% (69/2289)   \u001b[K\r"
+    ],
+    [
+      0.000078,
+      "remote: Finding sources:   4% (92/2289)   \u001b[K\rremote: Finding sources:   5% (115/2289)   \u001b[K\rremote: Finding sources:   6% (138/2289)   \u001b[K\r"
+    ],
+    [
+      0.000023,
+      "remote: Finding sources:   7% (161/2289)   \u001b[K\rremote: Finding sources:   8% (184/2289)   \u001b[K\rremote: Finding sources:   9% (207/2289)   \u001b[K\r"
+    ],
+    [
+      0.000012,
+      "remote: Finding sources:  10% (229/2289)   \u001b[K\r"
+    ],
+    [
+      0.000011,
+      "remote: Finding sources:  11% (252/2289)   \u001b[K\r"
+    ],
+    [
+      0.000010,
+      "remote: Finding sources:  12% (275/2289)   \u001b[K\r"
+    ],
+    [
+      0.000012,
+      "remote: Finding sources:  13% (298/2289)   \u001b[K\r"
+    ],
+    [
+      0.000031,
+      "remote: Finding sources:  14% (321/2289)   \u001b[K\r"
+    ],
+    [
+      0.000147,
+      "remote: Finding sources:  15% (344/2289)   \u001b[K\rremote: Finding sources:  16% (367/2289)   \u001b[K\rremote: Finding sources:  17% (390/2289)   \u001b[K\rremote: Finding sources:  18% (413/2289)   \u001b[K\rremote: Finding sources:  19% (435/2289)   \u001b[K\r"
+    ],
+    [
+      0.000039,
+      "remote: Finding sources:  20% (458/2289)   \u001b[K\rremote: Finding sources:  21% (481/2289)   \u001b[K\rremote: Finding sources:  22% (504/2289)   \u001b[K\rremote: Finding sources:  23% (527/2289)   \u001b[K\r"
+    ],
+    [
+      0.000016,
+      "remote: Finding sources:  24% (550/2289)   \u001b[K\rremote: Finding sources:  25% (573/2289)   \u001b[K\r"
+    ],
+    [
+      0.000012,
+      "remote: Finding sources:  26% (596/2289)   \u001b[K\r"
+    ],
+    [
+      0.000011,
+      "remote: Finding sources:  27% (619/2289)   \u001b[K\r"
+    ],
+    [
+      0.000010,
+      "remote: Finding sources:  28% (641/2289)   \u001b[K\r"
+    ],
+    [
+      0.000043,
+      "remote: Finding sources:  29% (664/2289)   \u001b[K\rremote: Finding sources:  30% (687/2289)   \u001b[K\r"
+    ],
+    [
+      0.000016,
+      "remote: Finding sources:  31% (710/2289)   \u001b[K\rremote: Finding sources:  32% (733/2289)   \u001b[K\r"
+    ],
+    [
+      0.000011,
+      "remote: Finding sources:  33% (756/2289)   \u001b[K\r"
+    ],
+    [
+      0.000011,
+      "remote: Finding sources:  34% (779/2289)   \u001b[K\r"
+    ],
+    [
+      0.000016,
+      "remote: Finding sources:  35% (802/2289)   \u001b[K\r"
+    ],
+    [
+      0.000418,
+      "remote: Finding sources:  36% (825/2289)   \u001b[K\rremote: Finding sources:  37% (847/2289)   \u001b[K\r"
+    ],
+    [
+      0.000072,
+      "remote: Finding sources:  38% (870/2289)   \u001b[K\rremote: Finding sources:  39% (893/2289)   \u001b[K\rremote: Finding sources:  40% (916/2289)   \u001b[K\rremote: Finding sources:  41% (939/2289)   \u001b[K\rremote: Finding sources:  42% (962/2289)   \u001b[K\rremote: Finding sources:  43% (985/2289)   \u001b[K\rremote: Finding sources:  44% (1008/2289)   \u001b[K\rremote: Finding sources:  45% (1031/2289)   \u001b[K\rremote: Finding sources:  46% (1053/2289)   \u001b[K\rremote: Finding sources:  47% (1076/2289)   \u001b[K\rremote: Finding sources:  48% (1099/2289)   \u001b[K\rremote: Finding sources:  49% (1122/2289)   \u001b[K\rremote: Finding sources:  50% (1145/2289)   \u001b[K\rremote: Finding sources:  51% (1168/2289)   \u001b[K\rremote: Finding sources:  52% (1191/2289)   \u001b[K\rremote: Finding sources:  53% (1214/2289)   \u001b[K\rremote: Finding sources:  54% (1237/2289)   \u001b[K\rremote: Finding sources:  55% (1259/2289)   \u001b[K\rremote: Finding sources:  56% (1282/2289)   \u001b[K\rremote: Finding sources:  57% (1305/2289)   \u001b[K\rremote: Finding sources:  58% (1328/2289)   \u001b[K\rremote: Finding source"
+    ],
+    [
+      0.000042,
+      "s:  59% (1351/2289)   \u001b[K\r"
+    ],
+    [
+      0.000230,
+      "remote: Finding sources:  60% (1374/2289)   \u001b[K\rremote: Finding sources:  61% (1397/2289)   \u001b[K\rremote: Finding sources:  62% (1420/2289)   \u001b[K\rremote: Finding sources:  63% (1443/2289)   \u001b[K\rremote: Finding sources:  64% (1465/2289)   \u001b[K\rremote: Finding sources:  65% (1488/2289)   \u001b[K\rremote: Finding sources:  66% (1511/2289)   \u001b[K\rremote: Finding sources:  67% (1534/2289)   \u001b[K\r"
+    ],
+    [
+      0.000244,
+      "remote: Finding sources:  68% (1557/2289)   \u001b[K\rremote: Finding sources:  69% (1580/2289)   \u001b[K\rremote: Finding sources:  70% (1603/2289)   \u001b[K\rremote: Finding sources:  71% (1626/2289)   \u001b[K\r"
+    ],
+    [
+      0.000018,
+      "remote: Finding sources:  72% (1649/2289)   \u001b[K\rremote: Finding sources:  73% (1671/2289)   \u001b[K\rremote: Finding sources:  74% (1694/2289)   \u001b[K\rremote: Finding sources:  75% (1717/2289)   \u001b[K\rremote: Finding sources:  76% (1740/2289)   \u001b[K\r"
+    ],
+    [
+      0.000010,
+      "remote: Finding sources:  77% (1763/2289)   \u001b[K\r"
+    ],
+    [
+      0.000012,
+      "remote: Finding sources:  78% (1786/2289)   \u001b[K\r"
+    ],
+    [
+      0.000013,
+      "remote: Finding sources:  79% (1809/2289)   \u001b[K\r"
+    ],
+    [
+      0.000012,
+      "remote: Finding sources:  80% (1832/2289)   \u001b[K\r"
+    ],
+    [
+      0.000035,
+      "remote: Finding sources:  81% (1855/2289)   \u001b[K\rremote: Finding sources:  82% (1877/2289)   \u001b[K\r"
+    ],
+    [
+      0.000013,
+      "remote: Finding sources:  83% (1900/2289)   \u001b[K\r"
+    ],
+    [
+      0.000071,
+      "remote: Finding sources:  84% (1923/2289)   \u001b[K\rremote: Finding sources:  85% (1946/2289)   \u001b[K\rremote: Finding sources:  86% (1969/2289)   \u001b[K\r"
+    ],
+    [
+      0.000211,
+      "remote: Finding sources:  87% (1992/2289)   \u001b[K\rremote: Finding sources:  88% (2015/2289)   \u001b[K\rremote: Finding sources:  89% (2038/2289)   \u001b[K\rremote: Finding sources:  90% (2061/2289)   \u001b[K\r"
+    ],
+    [
+      0.000054,
+      "remote: Finding sources:  91% (2083/2289)   \u001b[K\rremote: Finding sources:  92% (2106/2289)   \u001b[K\rremote: Finding sources:  93% (2129/2289)   \u001b[K\rremote: Finding sources:  94% (2152/2289)   \u001b[K\rremote: Finding sources:  95% (2175/2289)   \u001b[K\rremote: Finding sources:  96% (2198/2289)   \u001b[K\rremote: Finding sources:  97% (2221/2289)   \u001b[K\rremote: Finding sources:  98% (2244/2289)   \u001b[K\rremote: Finding sources:  99% (2267/2289)   \u001b[K\rremote: Finding sources: 100% (2289/2289)   \u001b[K\rremote: Finding sources: 100% (2289/2289)\u001b[K\r\nremote: Getting sizes:   1% (19/1809)   \u001b[K\rremote: Getting sizes:   2% (37/1809)   \u001b[K\rremote: Getting sizes:   3% (55/1809)   \u001b[K\rremote: Getting sizes:   4% (73/1809)   \u001b[K\rremote: Getting sizes:   5% (91/1809)   \u001b[K\rremote: Getting sizes:   6% (109/1809)   \u001b[K\rremote: Getting sizes:   7% (127/1809)   \u001b[K\rremote: Getting sizes:   8% (145/1809)   \u001b[K\rremote: Getting sizes:   9% (163/1809)   \u001b[K\rremote: Getting sizes:  10% (181/1809)   \u001b[K\rremote: Getting sizes:  11% (199/1809)   \u001b[K\rremote: "
+    ],
+    [
+      0.000284,
+      "Getting sizes:  12% (218/1809)   \u001b[K\rremote: Getting sizes:  13% (236/1809)   \u001b[K\r"
+    ],
+    [
+      0.000046,
+      "remote: Getting sizes:  14% (254/1809)   \u001b[K\rremote: Getting sizes:  15% (272/1809)   \u001b[K\rremote: Getting sizes:  16% (290/1809)   \u001b[K\rremote: Getting sizes:  17% (308/1809)   \u001b[K\rremote: Getting sizes:  18% (326/1809)   \u001b[K\rremote: Getting sizes:  19% (344/1809)   \u001b[K\rremote: Getting sizes:  20% (362/1809)   \u001b[K\rremote: Getting sizes:  21% (380/1809)   \u001b[K\rremote: Getting sizes:  22% (398/1809)   \u001b[K\rremote: Getting sizes:  23% (417/1809)   \u001b[K\rremote: Getting sizes:  24% (435/1809)   \u001b[K\rremote: Getting sizes:  25% (453/1809)   \u001b[K\rremote: Getting sizes:  26% (471/1809)   \u001b[K\rremote: Getting sizes:  27% (489/1809)   \u001b[K\rremote: Getting sizes:  28% (507/1809)   \u001b[K\rremote: Getting sizes:  29% (525/1809)   \u001b[K\rremote: Getting sizes:  30% (543/1809)   \u001b[K\rremote: Getting sizes:  31% (561/1809)   \u001b[K\rremote: Getting sizes:  32% (579/1809)   \u001b[K\rremote: Getting sizes:  33% (597/1809)   \u001b[K\rremote: Getting sizes:  34% (616/1809)   \u001b[K\rremote: Getting sizes:  35% (634/1809)   \u001b[K\rremote: Getting sizes:  36% (652/1"
+    ],
+    [
+      0.000019,
+      "809)   \u001b[K\rremote: Getting sizes:  37% (670/1809)   \u001b[K\rremote: Getting sizes:  38% (688/1809)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Getting sizes:  39% (706/1809)   \u001b[K\r"
+    ],
+    [
+      0.000029,
+      "remote: Getting sizes:  40% (724/1809)   \u001b[K\r"
+    ],
+    [
+      0.000018,
+      "remote: Getting sizes:  41% (742/1809)   \u001b[K\rremote: Getting sizes:  42% (760/1809)   \u001b[K\rremote: Getting sizes:  43% (778/1809)   \u001b[K\r"
+    ],
+    [
+      0.000054,
+      "remote: Getting sizes:  44% (796/1809)   \u001b[K\rremote: Getting sizes:  45% (815/1809)   \u001b[K\rremote: Getting sizes:  46% (833/1809)   \u001b[K\r"
+    ],
+    [
+      0.000017,
+      "remote: Getting sizes:  47% (851/1809)   \u001b[K\rremote: Getting sizes:  48% (869/1809)   \u001b[K\r"
+    ],
+    [
+      0.000009,
+      "remote: Getting sizes:  49% (887/1809)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Getting sizes:  50% (905/1809)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Getting sizes:  51% (923/1809)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Getting sizes:  52% (941/1809)   \u001b[K\r"
+    ],
+    [
+      0.000007,
+      "remote: Getting sizes:  53% (959/1809)   \u001b[K\r"
+    ],
+    [
+      0.000025,
+      "remote: Getting sizes:  54% (977/1809)   \u001b[K\r"
+    ],
+    [
+      0.000017,
+      "remote: Getting sizes:  55% (995/1809)   \u001b[K\rremote: Getting sizes:  56% (1014/1809)   \u001b[K\rremote: Getting sizes:  57% (1032/1809)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Getting sizes:  58% (1050/1809)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Getting sizes:  59% (1068/1809)   \u001b[K\r"
+    ],
+    [
+      0.000007,
+      "remote: Getting sizes:  60% (1086/1809)   \u001b[K\r"
+    ],
+    [
+      0.000007,
+      "remote: Getting sizes:  61% (1104/1809)   \u001b[K\r"
+    ],
+    [
+      0.000007,
+      "remote: Getting sizes:  62% (1122/1809)   \u001b[K\r"
+    ],
+    [
+      0.000007,
+      "remote: Getting sizes:  63% (1140/1809)   \u001b[K\r"
+    ],
+    [
+      0.000009,
+      "remote: Getting sizes:  64% (1158/1809)   \u001b[K\r"
+    ],
+    [
+      0.000018,
+      "remote: Getting sizes:  65% (1176/1809)   \u001b[K\r"
+    ],
+    [
+      0.000246,
+      "remote: Getting sizes:  66% (1194/1809)   \u001b[K\r"
+    ],
+    [
+      0.000022,
+      "remote: Getting sizes:  67% (1213/1809)   \u001b[K\rremote: Getting sizes:  68% (1231/1809)   \u001b[K\rremote: Getting sizes:  69% (1249/1809)   \u001b[K\rremote: Getting sizes:  70% (1267/1809)   \u001b[K\rremote: Getting sizes:  71% (1285/1809)   \u001b[K\rremote: Getting sizes:  72% (1303/1809)   \u001b[K\rremote: Getting sizes:  73% (1321/1809)   \u001b[K\rremote: Getting sizes:  74% (1339/1809)   \u001b[K\rremote: Getting sizes:  75% (1357/1809)   \u001b[K\rremote: Getting sizes:  76% (1375/1809)   \u001b[K\rremote: Getting sizes:  77% (1393/1809)   \u001b[K\rremote: Getting sizes:  78% (1412/1809)   \u001b[K\rremote: Getting sizes:  79% (1430/1809)   \u001b[K\rremote: Getting sizes:  80% (1448/1809)   \u001b[K\rremote: Getting sizes:  81% (1466/1809)   \u001b[K\rremote: Getting sizes:  82% (1484/1809)   \u001b[K\rremote: Getting sizes:  83% (1502/1809)   \u001b[K\rremote: Getting sizes:  84% (1520/1809)   \u001b[K\rremote: Getting sizes:  85% (1538/1809)   \u001b[K\rremote: Getting sizes:  86% (1556/1809)   \u001b[K\rremote: Getting sizes:  87% (1574/1809)   \u001b[K\rremote: Getting sizes:  88% (1592/1809)   \u001b[K\rremote: Gett"
+    ],
+    [
+      0.000038,
+      "ing sizes:  89% (1611/1809)   \u001b[K\r"
+    ],
+    [
+      0.000024,
+      "remote: Getting sizes:  90% (1629/1809)   \u001b[K\r"
+    ],
+    [
+      0.000009,
+      "remote: Getting sizes:  91% (1647/1809)   \u001b[K\r"
+    ],
+    [
+      0.000011,
+      "remote: Getting sizes:  92% (1665/1809)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Getting sizes:  93% (1683/1809)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Getting sizes:  94% (1701/1809)   \u001b[K\r"
+    ],
+    [
+      0.000007,
+      "remote: Getting sizes:  95% (1719/1809)   \u001b[K\r"
+    ],
+    [
+      0.000007,
+      "remote: Getting sizes:  96% (1737/1809)   \u001b[K\r"
+    ],
+    [
+      0.000006,
+      "remote: Getting sizes:  97% (1755/1809)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Getting sizes:  98% (1773/1809)   \u001b[K\r"
+    ],
+    [
+      0.000010,
+      "remote: Getting sizes:  99% (1791/1809)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Getting sizes: 100% (1809/1809)   \u001b[K\r"
+    ],
+    [
+      0.000043,
+      "remote: Getting sizes: 100% (1809/1809)\u001b[K\r\n"
+    ],
+    [
+      0.000017,
+      "remote: Compressing objects:   1% (628/62756)   \u001b[K\r"
+    ],
+    [
+      0.000011,
+      "remote: Compressing objects:   3% (2227/62756)   \u001b[K\rremote: Compressing objects:   4% (3015/62756)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:   6% (3804/62756)   \u001b[K\r"
+    ],
+    [
+      0.000028,
+      "remote: Compressing objects:   7% (4592/62756)   \u001b[K\rremote: Compressing objects:   8% (5369/62756)   \u001b[K\r"
+    ],
+    [
+      0.000010,
+      "remote: Compressing objects:   9% (6146/62756)   \u001b[K\r"
+    ],
+    [
+      0.000007,
+      "remote: Compressing objects:  11% (6919/62756)   \u001b[K\r"
+    ],
+    [
+      0.000189,
+      "remote: Compressing objects:  12% (7692/62756)   \u001b[K\r"
+    ],
+    [
+      0.000029,
+      "remote: Compressing objects:  13% (8465/62756)   \u001b[K\rremote: Compressing objects:  14% (9238/62756)   \u001b[K\rremote: Compressing objects:  15% (10010/62756)   \u001b[K\rremote: Compressing objects:  17% (10783/62756)   \u001b[K\rremote: Compressing objects:  18% (11555/62756)   \u001b[K\rremote: Compressing objects:  19% (12326/62756)   \u001b[K\rremote: Compressing objects:  20% (13097/62756)   \u001b[K\rremote: Compressing objects:  22% (13868/62756)   \u001b[K\rremote: Compressing objects:  23% (14639/62756)   \u001b[K\rremote: Compressing objects:  24% (15410/62756)   \u001b[K\rremote: Compressing objects:  25% (16181/62756)   \u001b[K\rremote: Compressing objects:  27% (16952/62756)   \u001b[K\rremote: Compressing objects:  28% (17723/62756)   \u001b[K\rremote: Compressing objects:  29% (18494/62756)   \u001b[K\rremote: Compressing objects:  30% (19264/62756)   \u001b[K\rremote: Compressing objects:  31% (20034/62756)   \u001b[K\rremote: Compressing objects:  33% (20805/62756)   \u001b[K\rremote: Compressing objects:  34% (21574/62756)   \u001b[K\rremote: Compressing objects:  35% (22341/62756)   \u001b[K\r"
+    ],
+    [
+      0.000116,
+      "remote: Compressing objects:  36% (23104/62756)   \u001b[K\r"
+    ],
+    [
+      0.000018,
+      "remote: Compressing objects:  38% (23867/62756)   \u001b[K\rremote: Compressing objects:  39% (24629/62756)   \u001b[K\rremote: Compressing objects:  40% (25391/62756)   \u001b[K\rremote: Compressing objects:  41% (26152/62756)   \u001b[K\rremote: Compressing objects:  42% (26913/62756)   \u001b[K\rremote: Compressing objects:  44% (27673/62756)   \u001b[K\rremote: Compressing objects:  45% (28433/62756)   \u001b[K\rremote: Compressing objects:  46% (29192/62756)   \u001b[K\rremote: Compressing objects:  47% (29952/62756)   \u001b[K\rremote: Compressing objects:  48% (30710/62756)   \u001b[K\rremote: Compressing objects:  50% (31468/62756)   \u001b[K\r"
+    ],
+    [
+      0.000018,
+      "remote: Compressing objects:  51% (32225/62756)   \u001b[K\rremote: Compressing objects:  52% (32982/62756)   \u001b[K\rremote: Compressing objects:  53% (33739/62756)   \u001b[K\r"
+    ],
+    [
+      0.000018,
+      "remote: Compressing objects:  54% (34496/62756)   \u001b[K\rremote: Compressing objects:  56% (35253/62756)   \u001b[K\r"
+    ],
+    [
+      0.099894,
+      "remote: Compressing objects:  57% (36010/62756)   \u001b[K\rremote: Compressing objects:  58% (36756/62756)   \u001b[K\rremote: Compressing objects:  59% (37503/62756)   \u001b[K\rremote: Compressing objects:  60% (38250/62756)   \u001b[K\rremote: Compressing objects:  62% (38996/62756)   \u001b[K\rremote: Compressing objects:  63% (39742/62756)   \u001b[K\rremote: Compressing objects:  64% (40487/62756)   \u001b[K\rremote: Compressing objects:  65% (41232/62756)   \u001b[K\r"
+    ],
+    [
+      0.000091,
+      "remote: Compressing objects:  66% (41977/62756)   \u001b[K\rremote: Compressing objects:  68% (42722/62756)   \u001b[K\rremote: Compressing objects:  69% (43467/62756)   \u001b[K\rremote: Compressing objects:  70% (44212/62756)   \u001b[K\rremote: Compressing objects:  71% (44956/62756)   \u001b[K\rremote: Compressing objects:  72% (45696/62756)   \u001b[K\rremote: Compressing objects:  73% (46435/62756)   \u001b[K\rremote: Compressing objects:  75% (47174/62756)   \u001b[K\rremote: Compressing objects:  76% (47913/62756)   \u001b[K\rremote: Compressing objects:  77% (48652/62756)   \u001b[K\rremote: Compressing objects:  78% (49390/62756)   \u001b[K\rremote: Compressing objects:  79% (50129/62756)   \u001b[K\r"
+    ],
+    [
+      0.000018,
+      "remote: Compressing objects:  81% (50867/62756)   \u001b[K\rremote: Compressing objects:  82% (51469/62756)   \u001b[K\r"
+    ],
+    [
+      0.000011,
+      "remote: Compressing objects:  83% (52151/62756)   \u001b[K\r"
+    ],
+    [
+      0.000010,
+      "remote: Compressing objects:  84% (52724/62756)   \u001b[K\r"
+    ],
+    [
+      0.000010,
+      "remote: Compressing objects:  85% (53352/62756)   \u001b[K\r"
+    ],
+    [
+      0.000009,
+      "remote: Compressing objects:  86% (53977/62756)   \u001b[K\r"
+    ],
+    [
+      0.000044,
+      "remote: Compressing objects:  87% (54667/62756)   \u001b[K\r"
+    ],
+    [
+      0.000187,
+      "remote: Compressing objects:  88% (55238/62756)   \u001b[K\rremote: Compressing objects:  89% (55881/62756)   \u001b[K\r"
+    ],
+    [
+      0.000047,
+      "remote: Compressing objects:  90% (56491/62756)   \u001b[K\rremote: Compressing objects:  91% (57128/62756)   \u001b[K\r"
+    ],
+    [
+      0.000748,
+      "remote: Compressing objects:  92% (57757/62756)   \u001b[K\rremote: Compressing objects:  93% (58391/62756)   \u001b[K\rremote: Compressing objects:  94% (59007/62756)   \u001b[K\rremote: Compressing objects:  95% (59634/62756)   \u001b[K\rremote: Compressing objects:  96% (60246/62756)   \u001b[K\rremote: Compressing objects:  97% (60888/62756)   \u001b[K\rremote: Compressing objects:  98% (61512/62756)   \u001b[K\rremote: Compressing objects:  98% (61987/62756)   \u001b[K\rremote: Compressing objects:  99% (62135/62756)   \u001b[K\rremote: Compressing objects:  99% (62755/62756)\u001b[K\r\n"
+    ],
+    [
+      0.118672,
+      "Receiving objects:   0% (1/15587)   \r"
+    ],
+    [
+      0.006912,
+      "Receiving objects:   1% (156/15587)   \r"
+    ],
+    [
+      0.109032,
+      "Receiving objects:   2% (312/15587)   \r"
+    ],
+    [
+      0.008036,
+      "Receiving objects:   3% (468/15587)   \r"
+    ],
+    [
+      0.000628,
+      "Receiving objects:   4% (624/15587)   \r"
+    ],
+    [
+      0.084151,
+      "Receiving objects:   5% (780/15587)   \r"
+    ],
+    [
+      0.001181,
+      "Receiving objects:   6% (936/15587)   \r"
+    ],
+    [
+      0.001136,
+      "Receiving objects:   7% (1092/15587)   \r"
+    ],
+    [
+      0.000985,
+      "Receiving objects:   8% (1247/15587)   \r"
+    ],
+    [
+      0.125442,
+      "Receiving objects:   9% (1403/15587)   \r"
+    ],
+    [
+      0.169793,
+      "Receiving objects:  10% (1559/15587), 643.81 KiB | 1.23 MiB/s   \r"
+    ],
+    [
+      0.233948,
+      "Receiving objects:  11% (1715/15587), 643.81 KiB | 1.23 MiB/s   \r"
+    ],
+    [
+      0.009066,
+      "Receiving objects:  12% (1871/15587), 643.81 KiB | 1.23 MiB/s   \r"
+    ],
+    [
+      0.003304,
+      "Receiving objects:  13% (2027/15587), 643.81 KiB | 1.23 MiB/s   \r"
+    ],
+    [
+      0.295300,
+      "Receiving objects:  13% (2126/15587), 1.38 MiB | 1.31 MiB/s   \r"
+    ],
+    [
+      0.355477,
+      "Receiving objects:  14% (2183/15587), 1.38 MiB | 1.31 MiB/s   \r"
+    ],
+    [
+      0.372160,
+      "Receiving objects:  15% (2339/15587), 2.63 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.006138,
+      "Receiving objects:  16% (2494/15587), 2.63 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.013823,
+      "Receiving objects:  17% (2650/15587), 2.63 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.006902,
+      "Receiving objects:  18% (2806/15587), 2.63 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.010128,
+      "Receiving objects:  19% (2962/15587), 2.63 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.006046,
+      "Receiving objects:  20% (3118/15587), 2.63 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.077777,
+      "Receiving objects:  20% (3186/15587), 2.63 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.007105,
+      "Receiving objects:  21% (3274/15587), 2.63 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.008153,
+      "Receiving objects:  22% (3430/15587), 2.63 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.017982,
+      "Receiving objects:  23% (3586/15587), 2.63 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.006919,
+      "Receiving objects:  24% (3741/15587), 2.63 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.006092,
+      "Receiving objects:  25% (3897/15587), 2.63 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.005762,
+      "Receiving objects:  26% (4053/15587), 2.63 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.029400,
+      "Receiving objects:  27% (4209/15587), 2.63 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.007348,
+      "Receiving objects:  28% (4365/15587), 2.63 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.040182,
+      "Receiving objects:  29% (4521/15587), 2.63 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.007206,
+      "Receiving objects:  30% (4677/15587), 2.63 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.052055,
+      "Receiving objects:  31% (4832/15587), 3.50 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.007630,
+      "Receiving objects:  32% (4988/15587), 3.50 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.007396,
+      "Receiving objects:  33% (5144/15587), 3.50 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.005569,
+      "Receiving objects:  34% (5300/15587), 3.50 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.009342,
+      "Receiving objects:  35% (5456/15587), 3.50 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.000626,
+      "Receiving objects:  36% (5612/15587), 3.50 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.001137,
+      "Receiving objects:  37% (5768/15587), 3.50 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.000836,
+      "Receiving objects:  38% (5924/15587), 3.50 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.000544,
+      "Receiving objects:  39% (6079/15587), 3.50 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.000638,
+      "Receiving objects:  40% (6235/15587), 3.50 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.017462,
+      "Receiving objects:  41% (6391/15587), 3.50 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.000364,
+      "Receiving objects:  42% (6547/15587), 3.50 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.000751,
+      "Receiving objects:  43% (6703/15587), 3.50 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.000258,
+      "Receiving objects:  44% (6859/15587), 3.50 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.000485,
+      "Receiving objects:  45% (7015/15587), 3.50 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.000513,
+      "Receiving objects:  46% (7171/15587), 3.50 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.000270,
+      "Receiving objects:  47% (7326/15587), 3.50 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.000321,
+      "Receiving objects:  48% (7482/15587), 3.50 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.060006,
+      "Receiving objects:  49% (7638/15587), 3.50 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.000563,
+      "Receiving objects:  50% (7794/15587), 3.50 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.000403,
+      "Receiving objects:  51% (7950/15587), 3.50 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.000918,
+      "Receiving objects:  52% (8106/15587), 3.50 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.000384,
+      "Receiving objects:  53% (8262/15587), 3.50 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.000669,
+      "Receiving objects:  54% (8417/15587), 3.50 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.000558,
+      "Receiving objects:  55% (8573/15587), 3.50 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.025094,
+      "Receiving objects:  56% (8729/15587), 3.50 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.000608,
+      "Receiving objects:  57% (8885/15587), 3.50 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.000624,
+      "Receiving objects:  58% (9041/15587), 3.50 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.000386,
+      "Receiving objects:  59% (9197/15587), 3.50 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.000253,
+      "Receiving objects:  60% (9353/15587), 3.50 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.000280,
+      "Receiving objects:  61% (9509/15587), 3.50 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.000421,
+      "Receiving objects:  62% (9664/15587), 3.50 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.000398,
+      "Receiving objects:  63% (9820/15587), 3.50 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.000322,
+      "Receiving objects:  64% (9976/15587), 3.50 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.011574,
+      "Receiving objects:  65% (10132/15587), 3.50 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.000361,
+      "Receiving objects:  66% (10288/15587), 3.50 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.000398,
+      "Receiving objects:  67% (10444/15587), 3.50 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.000495,
+      "Receiving objects:  68% (10600/15587), 3.50 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.000405,
+      "Receiving objects:  69% (10756/15587), 3.50 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.000486,
+      "Receiving objects:  70% (10911/15587), 3.50 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.000465,
+      "Receiving objects:  71% (11067/15587), 3.50 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.000362,
+      "Receiving objects:  72% (11223/15587), 3.50 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.070462,
+      "Receiving objects:  73% (11379/15587), 3.50 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.117287,
+      "Receiving objects:  74% (11535/15587), 3.50 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.355349,
+      "Receiving objects:  75% (11691/15587), 4.56 MiB | 1.77 MiB/s   \r"
+    ],
+    [
+      0.135182,
+      "Receiving objects:  75% (11793/15587), 4.56 MiB | 1.77 MiB/s   \r"
+    ],
+    [
+      0.056112,
+      "Receiving objects:  76% (11847/15587), 4.56 MiB | 1.77 MiB/s   \r"
+    ],
+    [
+      0.052324,
+      "Receiving objects:  77% (12002/15587), 4.56 MiB | 1.77 MiB/s   \r"
+    ],
+    [
+      0.060438,
+      "Receiving objects:  78% (12158/15587), 5.69 MiB | 1.84 MiB/s   \r"
+    ],
+    [
+      0.095190,
+      "Receiving objects:  79% (12314/15587), 5.69 MiB | 1.84 MiB/s   \r"
+    ],
+    [
+      0.018090,
+      "Receiving objects:  80% (12470/15587), 5.69 MiB | 1.84 MiB/s   \r"
+    ],
+    [
+      0.001438,
+      "Receiving objects:  81% (12626/15587), 5.69 MiB | 1.84 MiB/s   \r"
+    ],
+    [
+      0.000840,
+      "Receiving objects:  82% (12782/15587), 5.69 MiB | 1.84 MiB/s   \r"
+    ],
+    [
+      0.007931,
+      "Receiving objects:  83% (12938/15587), 5.69 MiB | 1.84 MiB/s   \r"
+    ],
+    [
+      0.000732,
+      "Receiving objects:  84% (13094/15587), 5.69 MiB | 1.84 MiB/s   \r"
+    ],
+    [
+      0.000438,
+      "Receiving objects:  85% (13249/15587), 5.69 MiB | 1.84 MiB/s   \r"
+    ],
+    [
+      0.023091,
+      "Receiving objects:  86% (13405/15587), 5.69 MiB | 1.84 MiB/s   \r"
+    ],
+    [
+      0.054914,
+      "Receiving objects:  87% (13561/15587), 5.69 MiB | 1.84 MiB/s   \r"
+    ],
+    [
+      0.001613,
+      "Receiving objects:  88% (13717/15587), 5.69 MiB | 1.84 MiB/s   \r"
+    ],
+    [
+      0.046342,
+      "Receiving objects:  89% (13873/15587), 5.69 MiB | 1.84 MiB/s   \r"
+    ],
+    [
+      0.025575,
+      "Receiving objects:  90% (14029/15587), 5.69 MiB | 1.84 MiB/s   \r"
+    ],
+    [
+      0.000856,
+      "Receiving objects:  91% (14185/15587), 5.69 MiB | 1.84 MiB/s   \r"
+    ],
+    [
+      0.000448,
+      "Receiving objects:  92% (14341/15587), 5.69 MiB | 1.84 MiB/s   \r"
+    ],
+    [
+      0.035879,
+      "Receiving objects:  93% (14496/15587), 5.69 MiB | 1.84 MiB/s   \r"
+    ],
+    [
+      0.000739,
+      "Receiving objects:  94% (14652/15587), 5.69 MiB | 1.84 MiB/s   \r"
+    ],
+    [
+      0.036557,
+      "Receiving objects:  95% (14808/15587), 5.69 MiB | 1.84 MiB/s   \r"
+    ],
+    [
+      0.000696,
+      "Receiving objects:  96% (14964/15587), 5.69 MiB | 1.84 MiB/s   \r"
+    ],
+    [
+      0.047613,
+      "Receiving objects:  97% (15120/15587), 5.69 MiB | 1.84 MiB/s   \r"
+    ],
+    [
+      0.001956,
+      "Receiving objects:  98% (15276/15587), 5.69 MiB | 1.84 MiB/s   \r"
+    ],
+    [
+      0.016022,
+      "Receiving objects:  99% (15432/15587), 5.69 MiB | 1.84 MiB/s   \r"
+    ],
+    [
+      0.001755,
+      "remote: Total 15587 (delta 198), reused 13624 (delta 38)\u001b[K\r\n"
+    ],
+    [
+      0.002211,
+      "Receiving objects: 100% (15587/15587), 5.69 MiB | 1.84 MiB/s   \rReceiving objects: 100% (15587/15587), 6.63 MiB | 1.84 MiB/s, done.\r\n"
+    ],
+    [
+      0.002277,
+      "Resolving deltas:   0% (0/11268)   \r"
+    ],
+    [
+      0.009194,
+      "Resolving deltas:   1% (127/11268)   \r"
+    ],
+    [
+      0.012763,
+      "Resolving deltas:   3% (376/11268)   \r"
+    ],
+    [
+      0.004425,
+      "Resolving deltas:   4% (456/11268)   \r"
+    ],
+    [
+      0.006960,
+      "Resolving deltas:   5% (586/11268)   \r"
+    ],
+    [
+      0.010278,
+      "Resolving deltas:   6% (767/11268)   \r"
+    ],
+    [
+      0.002017,
+      "Resolving deltas:   7% (807/11268)   \r"
+    ],
+    [
+      0.005945,
+      "Resolving deltas:   8% (911/11268)   \r"
+    ],
+    [
+      0.007434,
+      "Resolving deltas:   9% (1015/11268)   \r"
+    ],
+    [
+      0.008549,
+      "Resolving deltas:  10% (1129/11268)   \r"
+    ],
+    [
+      0.005141,
+      "Resolving deltas:  11% (1242/11268)   \r"
+    ],
+    [
+      0.016118,
+      "Resolving deltas:  12% (1358/11268)   \r"
+    ],
+    [
+      0.008358,
+      "Resolving deltas:  13% (1529/11268)   \r"
+    ],
+    [
+      0.003202,
+      "Resolving deltas:  14% (1588/11268)   \r"
+    ],
+    [
+      0.005772,
+      "Resolving deltas:  15% (1703/11268)   \r"
+    ],
+    [
+      0.006408,
+      "Resolving deltas:  16% (1836/11268)   \r"
+    ],
+    [
+      0.004146,
+      "Resolving deltas:  17% (1919/11268)   \r"
+    ],
+    [
+      0.005109,
+      "Resolving deltas:  18% (2039/11268)   \r"
+    ],
+    [
+      0.006924,
+      "Resolving deltas:  19% (2174/11268)   \r"
+    ],
+    [
+      0.005850,
+      "Resolving deltas:  20% (2302/11268)   \r"
+    ],
+    [
+      0.019753,
+      "Resolving deltas:  23% (2673/11268)   \r"
+    ],
+    [
+      0.003257,
+      "Resolving deltas:  24% (2728/11268)   \r"
+    ],
+    [
+      0.003888,
+      "Resolving deltas:  25% (2817/11268)   \r"
+    ],
+    [
+      0.014345,
+      "Resolving deltas:  27% (3112/11268)   \r"
+    ],
+    [
+      0.021531,
+      "Resolving deltas:  31% (3523/11268)   \r"
+    ],
+    [
+      0.007302,
+      "Resolving deltas:  32% (3673/11268)   \r"
+    ],
+    [
+      0.012849,
+      "Resolving deltas:  34% (3917/11268)   \r"
+    ],
+    [
+      0.005518,
+      "Resolving deltas:  35% (4010/11268)   \r"
+    ],
+    [
+      0.010334,
+      "Resolving deltas:  37% (4206/11268)   \r"
+    ],
+    [
+      0.005651,
+      "Resolving deltas:  38% (4321/11268)   \r"
+    ],
+    [
+      0.007650,
+      "Resolving deltas:  39% (4456/11268)   \r"
+    ],
+    [
+      0.012181,
+      "Resolving deltas:  41% (4722/11268)   \r"
+    ],
+    [
+      0.000907,
+      "Resolving deltas:  42% (4742/11268)   \r"
+    ],
+    [
+      0.013730,
+      "Resolving deltas:  45% (5071/11268)   \r"
+    ],
+    [
+      0.007845,
+      "Resolving deltas:  46% (5248/11268)   \r"
+    ],
+    [
+      0.013564,
+      "Resolving deltas:  48% (5516/11268)   \r"
+    ],
+    [
+      0.004999,
+      "Resolving deltas:  49% (5613/11268)   \r"
+    ],
+    [
+      0.002500,
+      "Resolving deltas:  50% (5660/11268)   \r"
+    ],
+    [
+      0.012661,
+      "Resolving deltas:  52% (5912/11268)   \r"
+    ],
+    [
+      0.004936,
+      "Resolving deltas:  53% (6010/11268)   \r"
+    ],
+    [
+      0.011148,
+      "Resolving deltas:  55% (6226/11268)   \r"
+    ],
+    [
+      0.016607,
+      "Resolving deltas:  57% (6535/11268)   \r"
+    ],
+    [
+      0.003915,
+      "Resolving deltas:  58% (6605/11268)   \r"
+    ],
+    [
+      0.004454,
+      "Resolving deltas:  59% (6694/11268)   \r"
+    ],
+    [
+      0.006330,
+      "Resolving deltas:  60% (6821/11268)   \r"
+    ],
+    [
+      0.013119,
+      "Resolving deltas:  62% (7088/11268)   \r"
+    ],
+    [
+      0.004430,
+      "Resolving deltas:  63% (7186/11268)   \r"
+    ],
+    [
+      0.001511,
+      "Resolving deltas:  64% (7219/11268)   \r"
+    ],
+    [
+      0.007363,
+      "Resolving deltas:  65% (7349/11268)   \r"
+    ],
+    [
+      0.006307,
+      "Resolving deltas:  66% (7446/11268)   \r"
+    ],
+    [
+      0.006093,
+      "Resolving deltas:  67% (7554/11268)   \r"
+    ],
+    [
+      0.005761,
+      "Resolving deltas:  68% (7673/11268)   \r"
+    ],
+    [
+      0.005619,
+      "Resolving deltas:  69% (7784/11268)   \r"
+    ],
+    [
+      0.014695,
+      "Resolving deltas:  70% (7990/11268)   \r"
+    ],
+    [
+      0.001023,
+      "Resolving deltas:  71% (8003/11268)   \r"
+    ],
+    [
+      0.009271,
+      "Resolving deltas:  72% (8126/11268)   \r"
+    ],
+    [
+      0.010359,
+      "Resolving deltas:  73% (8273/11268)   \r"
+    ],
+    [
+      0.007584,
+      "Resolving deltas:  74% (8395/11268)   \r"
+    ],
+    [
+      0.011417,
+      "Resolving deltas:  76% (8598/11268)   \r"
+    ],
+    [
+      0.006492,
+      "Resolving deltas:  77% (8720/11268)   \r"
+    ],
+    [
+      0.012938,
+      "Resolving deltas:  78% (8878/11268)   \r"
+    ],
+    [
+      0.001954,
+      "Resolving deltas:  79% (8902/11268)   \r"
+    ],
+    [
+      0.029984,
+      "Resolving deltas:  80% (9074/11268)   \r"
+    ],
+    [
+      0.027132,
+      "Resolving deltas:  81% (9184/11268)   \r"
+    ],
+    [
+      0.018741,
+      "Resolving deltas:  82% (9335/11268)   \r"
+    ],
+    [
+      0.001991,
+      "Resolving deltas:  83% (9358/11268)   \r"
+    ],
+    [
+      0.030545,
+      "Resolving deltas:  85% (9653/11268)   \r"
+    ],
+    [
+      0.109141,
+      "Resolving deltas:  87% (9839/11268)   \r"
+    ],
+    [
+      0.009347,
+      "Resolving deltas:  88% (9945/11268)   \r"
+    ],
+    [
+      0.006796,
+      "Resolving deltas:  89% (10034/11268)   \r"
+    ],
+    [
+      0.010594,
+      "Resolving deltas:  90% (10165/11268)   \r"
+    ],
+    [
+      0.010510,
+      "Resolving deltas:  91% (10259/11268)   \r"
+    ],
+    [
+      0.011545,
+      "Resolving deltas:  92% (10411/11268)   \r"
+    ],
+    [
+      0.004400,
+      "Resolving deltas:  93% (10480/11268)   \r"
+    ],
+    [
+      0.008605,
+      "Resolving deltas:  94% (10594/11268)   \r"
+    ],
+    [
+      0.017170,
+      "Resolving deltas:  95% (10707/11268)   \r"
+    ],
+    [
+      0.725254,
+      "Resolving deltas: 100% (11268/11268)   \r"
+    ],
+    [
+      0.000039,
+      "Resolving deltas: 100% (11268/11268), done.\r\n"
+    ],
+    [
+      0.203432,
+      "Checking connectivity... "
+    ],
+    [
+      0.005262,
+      "done.\r\n"
+    ],
+    [
+      0.118430,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000101,
+      "\u001b]2;Eliott@macbook-ebenoit-wifi: ~/Desktop/mMediaWiki/extensions\u0007"
+    ],
+    [
+      0.000041,
+      "\u001b]1;..ki/extensions\u0007"
+    ],
+    [
+      0.000181,
+      "\u001b]7;file:///Users/Eliott/Desktop/mMediaWiki/extensions\u0007"
+    ],
+    [
+      0.171539,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mextensions \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000010,
+      "\u001b[K"
+    ],
+    [
+      0.000108,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.377404,
+      "c"
+    ],
+    [
+      0.120061,
+      "\u0008cd"
+    ],
+    [
+      0.127700,
+      " "
+    ],
+    [
+      0.352191,
+      "."
+    ],
+    [
+      0.184057,
+      "."
+    ],
+    [
+      0.511337,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000075,
+      "\r\r\n"
+    ],
+    [
+      0.001089,
+      "\u001b]2;cd ..\u0007\u001b]1;cd\u0007"
+    ],
+    [
+      0.000337,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000139,
+      "\u001b]2;Eliott@macbook-ebenoit-wifi: ~/Desktop/mMediaWiki\u0007"
+    ],
+    [
+      0.000072,
+      "\u001b]1;..op/mMediaWiki\u0007"
+    ],
+    [
+      0.000173,
+      "\u001b]7;file:///Users/Eliott/Desktop/mMediaWiki\u0007"
+    ],
+    [
+      0.124878,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mmMediaWiki \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000009,
+      "\u001b[K"
+    ],
+    [
+      0.000033,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.048668,
+      "n"
+    ],
+    [
+      0.079802,
+      "\u0008na"
+    ],
+    [
+      0.071880,
+      "n"
+    ],
+    [
+      0.208120,
+      "o"
+    ],
+    [
+      0.223905,
+      " "
+    ],
+    [
+      0.263985,
+      "L"
+    ],
+    [
+      0.185398,
+      "o"
+    ],
+    [
+      0.110545,
+      "c"
+    ],
+    [
+      0.449294,
+      "alSettings.php\u001b[1m \u001b[0m"
+    ],
+    [
+      1.047715,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000122,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000106,
+      "\r\r\n"
+    ],
+    [
+      0.001640,
+      "\u001b]2;nano LocalSettings.php\u0007"
+    ],
+    [
+      0.000013,
+      "\u001b]1;nano\u0007"
+    ],
+    [
+      0.077443,
+      "\u001b[?1049h\u001b[1;24r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000019,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000110,
+      "\u001b[?1h\u001b=\u001b[?1h\u001b="
+    ],
+    [
+      0.003490,
+      "\u001b[39;49m\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J\u001b(B\u001b[0;7m  GNU nano 2.0.6           File: LocalSettings.php                              \u001b[3;1H\u001b(B\u001b[m\u003c?php\r\u001b[4d# This file was automatically generated by the MediaWiki 1.25.1\r\u001b[5d# installer. If you make manual changes, please keep track in case you\r\u001b[6d# need to recreate them later.\r\u001b[7d#\u001b[8d\u0008# See includes/DefaultSettings.php for all configurable settings\r\u001b[9d# and their default values, but don't forget to make changes in _this_\r\u001b[10d# file, not there.\r\u001b[11d#\u001b[12d\u0008# Further documentation for configuration settings may be found at:\r\u001b[13d# https://www.mediawiki.org/wiki/Manual:Configuration_settings\r\u001b[15d# Protect against web entry\r\u001b[16dif ( !defined( 'MEDIAWIKI' ) ) {\u001b[17;9Hexit;\r\u001b[18d}\u001b[20d\u0008## Uncomment this to disable output compression\r\u001b[21d# $wgDisableOutputCompression = true;\u001b[22;32H\u001b(B\u001b[0;7m[ Read 242 lines ]\r\u001b[23d^G\u001b(B\u001b[m Get Help  \u001b(B\u001b[0;7m^O\u001b(B\u001b[m WriteOut  \u001b(B\u001b[0;7m^R\u001b(B\u001b[m Read File \u001b(B\u001b[0;7m^Y\u001b(B\u001b[m Prev Page \u001b(B\u001b[0;7m^K\u001b(B\u001b[m Cut Text  \u001b(B\u001b[0;7m^C\u001b(B\u001b[m Cur Pos\r\u001b[24d"
+    ],
+    [
+      0.000071,
+      "\u001b(B\u001b[0;7m^X\u001b(B\u001b[m Exit\u001b[14G\u001b(B\u001b[0;7m^J\u001b(B\u001b[m Justify   \u001b(B\u001b[0;7m^W\u001b(B\u001b[m Where Is  \u001b(B\u001b[0;7m^V\u001b(B\u001b[m Next Page \u001b(B\u001b[0;7m^U\u001b(B\u001b[m UnCut Text\u001b(B\u001b[0;7m^T\u001b(B\u001b[m To Spell\r\u001b[3d"
+    ],
+    [
+      1.654855,
+      "## Uncomment this to disable output compression\u001b[4;3H$wgDisableOutputCompression = true;\u001b[K\r\u001b[5d\u001b[K\u001b[6d$wgSitename = \"SOCLE\";\u001b[K\r\u001b[7d\u001b[K\u001b[8d## The URL base path to the directory containing the wiki;\u001b[K\r\u001b[9d## defaults for all runtime URL paths are based off of this.\u001b[K\r\u001b[10d## For more information on customizing the URLs\r\u001b[11d## (like /w/index.php/Page_title to /wiki/Page_title) please see:\r\u001b[12d## https://www.mediawiki.org/wiki/Manual:Short_URL\u001b[K\r\u001b[13d$wgScriptPath = \"\";\u001b[K\r\u001b[14d$wgScriptExtension = \".php\";\r\u001b[15d\u001b[K\u001b[16d## The protocol and server name to use in fully-qualified URLs\r\u001b[17d$wgServer = \"http://smw.learning-socle.org\";\r\u001b[18d\u001b[K\u001b[19d## The relative URL path to the skins directory\r\u001b[20d$wgStylePath = \"$wgScriptPath/skins\";\u001b[K\r\u001b[21d$wgResourceBasePath = $wgScriptPath;\u001b[K\r\u001b[3d"
+    ],
+    [
+      0.471584,
+      "$wgStylePath = \"$wgScriptPath/skins\";\u001b[K\r\u001b[4d$wgResourceBasePath = $wgScriptPath;\u001b[K\r\u001b[6d## The relative URL path to the logo.  Make sure you change this from the defau$\u001b[7;1H## or else you'll overwrite your logo when you upgrade!\r\u001b[8d$wgLogo = \"/images/logo.png\";\u001b[K\r\u001b[9d\u001b[K\u001b[10;4HUPO means: this is also a user preference option\r\u001b[11d\u001b[K\u001b[12d$wgEnableEmail = true;\u001b[K\u001b[13;4HEnableUserEmail = true; # UPO\r\u001b[14d\u001b[K\u001b[15d$wgEmergencyContact = \"apache@smw.learning-socle.org\";\r\u001b[16d$wgPasswordSender = \"apache@smw.learning-socle.org\";\u001b[K\r\u001b[17d\u001b[K\u001b[18d$wgEnotifUserTalk = false; # UPO\r\u001b[19d$wgEnotifWatchlist = false; # UPO\u001b[K\u001b[20;4HEmailAuthentication = true;\u001b[K\r\u001b[21d\u001b[K\u001b[3d"
+    ],
+    [
+      0.479783,
+      "$wgEmailAuthentication = true;\u001b[K\r\u001b[4d\u001b[K\u001b[5d## Database settings\r\u001b[6d$wgDBtype = \"mysql\";\u001b[K\r\u001b[7d$wgDBserver = \"localhost\";\u001b[K\u001b[8;4HDBname = \"mediawiki\";\u001b[K\r\u001b[9d$wgDBuser = \"mediawikiuser\";\r\u001b[10d$wgDBpassword = \"pls15\";\u001b[K\r\u001b[12d# MySQL specific settings\u001b[13;4HDBprefix = \"\";\u001b[K\r\u001b[15d# MySQL table options to use during installation or update\u001b[16;4HDBTableOptions = \"ENGINE=InnoDB, DEFAULT CHARSET=utf8\";\r\u001b[18d# Experimental charset support for MySQL 5.0.\u001b[19;4HDBmysql5 = false;\u001b[K\r\u001b[20d\u001b[K\u001b[21d## Shared memory settings\r\u001b[3d"
+    ],
+    [
+      0.823909,
+      "\u001b[K\u001b[4d## Shared memory settings\r\u001b[5d$wgMainCacheType = CACHE_NONE;\u001b[6;4HMemCachedServers = array();\r\u001b[7d\u001b[K\u001b[8d## To enable image uploads, make sure the 'images' directory\r\u001b[9d## is writable, then set this to true:\u001b[10;4HEnableUploads = true\r\u001b[11d#$wgUseImageMagick = true;\r\u001b[12d#$wgImageMagickConvertCommand = \"/usr/bin/convert\";\r\u001b[13d\u001b[K\u001b[14d# InstantCommons allows wiki to use images from http://commons.wikimedia.org\r\u001b[15d$wgUseInstantCommons = true;\u001b[K\r\u001b[16d\u001b[K\u001b[17d## If you use ImageMagick (or any other shell command) on a\r\u001b[18d## Linux server, this will need to be set to the name of an\r\u001b[19d## available UTF-8 locale\r\u001b[20d$wgShellLocale = \"C.UTF-8\";\r\u001b[21d\u001b[K\u001b[3d"
+    ],
+    [
+      1.008318,
+      "$wgShellLocale = \"C.UTF-8\";\r\u001b[4d\u001b[K\u001b[5d## If you want to use image uploads under safe mode,\r\u001b[6d## create the directories images/archive, images/thumb and\r\u001b[7d## images/temp, and make them all writable. Then uncomment\u001b[8;4Hthis, if it's not already uncommented:\u001b[K\r\u001b[9d#$wgHashedUploadDirectory = false;\u001b[K\r\u001b[10d\u001b[K\u001b[11d## Set $wgCacheDirectory to a writable directory on the web server\r\u001b[12d## to make your wiki go slightly faster. The directory should not\r\u001b[13d## be publically accessible from the web.\r\u001b[14d#$wgCacheDirectory = \"$IP/cache\";\u001b[K\r\u001b[15d\u001b[K\u001b[16d# Site language code, should be one of the list in ./languages/Names.php\r\u001b[17d$wgLanguageCode = \"fr\";\u001b[K\r\u001b[18d\u001b[K\u001b[19d$wgSecretKey = \"afee81df81cfccda25c96e504841a228ccfcb7f7cf7a77e733d564980460944$\u001b[20;1H\u001b[K\u001b[21d# Site upgrade key. Must be set to a string (default provided) to turn on the\r\u001b[3d"
+    ],
+    [
+      0.503403,
+      "\u001b[K\u001b[4d# Site upgrade key. Must be set to a string (default provided) to turn on the\r\u001b[5d# web installer while LocalSettings.php is in place\u001b[K\r\u001b[6d$wgUpgradeKey = \"3c615cf2684049ce\";\u001b[K\r\u001b[7d\u001b[K\u001b[8;4HFor attaching licensing metadata to pages, and displaying an\r\u001b[9d## appropriate copyright notice / icon. GNU Free Documentation\r\u001b[10d## License and Creative Commons licenses are supported so far.\r\u001b[11d$wgRightsPage = \"\"; # Set to the title of a wiki page that describes your licen$\u001b[12;1H$wgRightsUrl = \"https://www.gnu.org/copyleft/fdl.html\";\u001b[K\r\u001b[13d$wgRightsText = \"GNU Free Documentation License 1.3 ou ultérieure\";\r\u001b[14d$wgRightsIcon = \"$wgResourceBasePath/resources/assets/licenses/gnu-fdl.png\";\u001b[16;3HPath to the GNU diff3 utility. Used for conflict resolution.\u001b[K\u001b[17;4HDiff3 = \"/usr/bin/diff3\";\r\u001b[19d# The following permissions were set based on your choice in the installer\u001b[K\r\u001b[20d$wgGroupPermissions['*']['createaccount'] = true;\r\u001b[21d$wgGroupPermissions['*']['edit'] = false;\u001b[K\r\u001b[3d"
+    ],
+    [
+      0.672342,
+      "$wgGroupPermissions['*']['createaccount'] = true;\r\u001b[4d$wgGroupPermissions['*']['edit'] = false;\u001b[K\r\u001b[5d$wgGroupPermissions['*']['read'] = false;\u001b[K\u001b[6;4HGroupPermissions['user']['edit'] = true;\r\u001b[7d$wgGroupPermissions['user']['read'] = true;\r\u001b[8d\u001b[K\u001b[9;4HDefault skin: you can change the default skin. Use the internal symbolic\u001b[10;4Hnames, ie 'vector', 'monobook':\u001b[K\r\u001b[11d#$wgDefaultSkin = \"vector\";\u001b[K\r\u001b[12d\u001b[K\u001b[13d# Enabled skins.\u001b[K\r\u001b[14d# The following skins were automatically enabled:\u001b[K\r\u001b[15dwfLoadSkin( 'CologneBlue' );\r\u001b[16dwfLoadSkin( 'Modern' );\u001b[K\r\u001b[17dwfLoadSkin( 'MonoBook' );\u001b[K\r\u001b[18dwfLoadSkin( 'Vector' );\r\u001b[19d\u001b[K\u001b[20d\u001b[K\u001b[21d# Enabled Extensions. Most extensions are enabled by including the base extensi$\u001b[3;1H"
+    ],
+    [
+      1.615863,
+      "\u001b[K\u001b[4d# Enabled Extensions. Most extensions are enabled by including the base extensi$\u001b[5;1H# but check specific extension documentation for more details\r\u001b[6d# The following extensions were automatically enabled:\r\u001b[7dwfLoadExtension( 'Nuke' );\u001b[K\r\u001b[8dwfLoadExtension( 'ParserFunctions' );\r\u001b[9d\u001b[K\u001b[10d\u001b[K\u001b[11d# End of automatically generated settings.\r\u001b[12d# Add more configuration options below.\r\u001b[13d\u001b[K\u001b[14d#Show Exception Details\u001b[K\r\u001b[15d$wgShowExceptionDetails = true;\r\u001b[16d\u001b[K\u001b[17d### DISPLAY PHP ERRORS\u001b[K\r\u001b[18derror_reporting( -1 );\u001b[K\r\u001b[19dini_set( 'display_errors', 1 );\r\u001b[21denableSemantics('mywiki.org');\u001b[K\r\u001b[3d"
+    ],
+    [
+      0.711186,
+      "\u001b[4denableSemantics('mywiki.org');\u001b[K\r\u001b[5d\u001b[K\u001b[6d\u001b[K\u001b[7d\u001b[K\u001b[8d\u001b[K\u001b[11d\u001b[K\u001b[12d\u001b[K\u001b[14d\u001b[K\u001b[15d\u001b[K\u001b[17d\u001b[K\u001b[18d\u001b[K\u001b[19d\u001b[K\u001b[21d\u001b[K\u001b[3d"
+    ],
+    [
+      1.591432,
+      "\u001b[4d"
+    ],
+    [
+      0.295261,
+      "\u001b[5d"
+    ],
+    [
+      0.384475,
+      "\u001b[6d"
+    ],
+    [
+      1.032400,
+      "\u001b[1;71H\u001b(B\u001b[0;7mModified\r\u001b[6d\u001b(B\u001b[mA"
+    ],
+    [
+      0.151745,
+      "F"
+    ],
+    [
+      0.176111,
+      "T"
+    ],
+    [
+      0.095901,
+      "E"
+    ],
+    [
+      0.096407,
+      "R"
+    ],
+    [
+      0.087613,
+      " "
+    ],
+    [
+      0.343844,
+      "E"
+    ],
+    [
+      0.120100,
+      "N"
+    ],
+    [
+      0.143150,
+      "A"
+    ],
+    [
+      0.064727,
+      "B"
+    ],
+    [
+      0.216158,
+      "L"
+    ],
+    [
+      0.111861,
+      "E"
+    ],
+    [
+      0.111980,
+      " "
+    ],
+    [
+      0.168157,
+      "\r\u001b[22d\u001b[K\u001b[6;14H"
+    ],
+    [
+      0.000015,
+      "S"
+    ],
+    [
+      0.207941,
+      "A"
+    ],
+    [
+      0.094920,
+      "M"
+    ],
+    [
+      0.273147,
+      "N"
+    ],
+    [
+      0.247910,
+      "T"
+    ],
+    [
+      0.415938,
+      "\u0008 \u0008"
+    ],
+    [
+      0.152207,
+      "\u0008 \u0008"
+    ],
+    [
+      0.159572,
+      "\u0008 \u0008"
+    ],
+    [
+      0.136010,
+      "\u0008 \u0008"
+    ],
+    [
+      0.200017,
+      "E"
+    ],
+    [
+      0.088093,
+      "M"
+    ],
+    [
+      0.239900,
+      "A"
+    ],
+    [
+      0.176113,
+      "N"
+    ],
+    [
+      0.183978,
+      "T"
+    ],
+    [
+      0.143989,
+      "I"
+    ],
+    [
+      0.112052,
+      "C"
+    ],
+    [
+      0.215958,
+      " "
+    ],
+    [
+      0.544001,
+      "!"
+    ],
+    [
+      0.192022,
+      "!"
+    ],
+    [
+      0.167919,
+      "!"
+    ],
+    [
+      0.991856,
+      "\u0008 \u0008"
+    ],
+    [
+      0.501113,
+      "\u0008 \u0008"
+    ],
+    [
+      0.083681,
+      "\u0008 \u0008"
+    ],
+    [
+      0.084719,
+      "\u0008"
+    ],
+    [
+      0.084446,
+      "\u0008 \u0008"
+    ],
+    [
+      0.083717,
+      "\u0008 \u0008"
+    ],
+    [
+      0.084572,
+      "\u0008 \u0008"
+    ],
+    [
+      0.084322,
+      "\u0008 \u0008"
+    ],
+    [
+      0.084334,
+      "\u0008 \u0008"
+    ],
+    [
+      0.084315,
+      "\u0008 \u0008"
+    ],
+    [
+      0.084385,
+      "\u0008 \u0008"
+    ],
+    [
+      0.084364,
+      "\u0008 \u0008"
+    ],
+    [
+      0.083766,
+      "\u0008"
+    ],
+    [
+      0.084339,
+      "\u0008 \u0008"
+    ],
+    [
+      0.084318,
+      "\u0008 \u0008"
+    ],
+    [
+      0.083470,
+      "\u0008 \u0008"
+    ],
+    [
+      0.084503,
+      "\u0008 \u0008"
+    ],
+    [
+      0.084574,
+      "\u0008 \u0008"
+    ],
+    [
+      0.084329,
+      "\u0008 \u0008"
+    ],
+    [
+      0.084489,
+      "\u0008"
+    ],
+    [
+      0.083240,
+      "\u0008 \u0008"
+    ],
+    [
+      0.210706,
+      "\u0008 \u0008"
+    ],
+    [
+      0.167600,
+      "\u0008 \u0008"
+    ],
+    [
+      0.184373,
+      "\u0008 \u0008"
+    ],
+    [
+      0.367963,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.840120,
+      "r"
+    ],
+    [
+      0.184010,
+      "e"
+    ],
+    [
+      0.232035,
+      "q"
+    ],
+    [
+      0.087964,
+      "u"
+    ],
+    [
+      0.128028,
+      "i"
+    ],
+    [
+      0.096024,
+      "r"
+    ],
+    [
+      0.167867,
+      "e"
+    ],
+    [
+      0.352176,
+      "_"
+    ],
+    [
+      0.017650,
+      "°"
+    ],
+    [
+      0.526180,
+      "\u0008 \u0008"
+    ],
+    [
+      0.463959,
+      "o"
+    ],
+    [
+      0.192031,
+      "n"
+    ],
+    [
+      0.096092,
+      "c"
+    ],
+    [
+      0.183908,
+      "e"
+    ],
+    [
+      3.927822,
+      " "
+    ],
+    [
+      0.167881,
+      "\""
+    ],
+    [
+      1.208031,
+      "$"
+    ],
+    [
+      0.399799,
+      "I"
+    ],
+    [
+      0.176158,
+      "P"
+    ],
+    [
+      1.103898,
+      "/"
+    ],
+    [
+      0.231988,
+      "e"
+    ],
+    [
+      0.176108,
+      "x"
+    ],
+    [
+      0.119779,
+      "t"
+    ],
+    [
+      0.134794,
+      "e"
+    ],
+    [
+      0.081503,
+      "n"
+    ],
+    [
+      0.183675,
+      " "
+    ],
+    [
+      0.455954,
+      "\u0008"
+    ],
+    [
+      0.256077,
+      "s"
+    ],
+    [
+      0.151951,
+      "i"
+    ],
+    [
+      0.128078,
+      "o"
+    ],
+    [
+      0.200116,
+      "n"
+    ],
+    [
+      0.239876,
+      "s"
+    ],
+    [
+      0.719584,
+      "/"
+    ],
+    [
+      0.696287,
+      "S"
+    ],
+    [
+      0.184170,
+      "e"
+    ],
+    [
+      0.079974,
+      "m"
+    ],
+    [
+      0.135880,
+      "a"
+    ],
+    [
+      0.095398,
+      "n"
+    ],
+    [
+      0.144664,
+      "t"
+    ],
+    [
+      0.103951,
+      "i"
+    ],
+    [
+      0.128127,
+      "c"
+    ],
+    [
+      0.487800,
+      "F"
+    ],
+    [
+      0.119954,
+      "o"
+    ],
+    [
+      0.104074,
+      "r"
+    ],
+    [
+      0.104014,
+      "m"
+    ],
+    [
+      0.127989,
+      "s"
+    ],
+    [
+      1.175705,
+      "/"
+    ],
+    [
+      0.384172,
+      "S"
+    ],
+    [
+      0.191930,
+      "e"
+    ],
+    [
+      0.112039,
+      "m"
+    ],
+    [
+      0.095651,
+      "a"
+    ],
+    [
+      0.128410,
+      "n"
+    ],
+    [
+      0.102726,
+      "t"
+    ],
+    [
+      0.121198,
+      "i"
+    ],
+    [
+      0.167982,
+      "c"
+    ],
+    [
+      1.415738,
+      "F"
+    ],
+    [
+      0.152160,
+      "o"
+    ],
+    [
+      0.088159,
+      "r"
+    ],
+    [
+      0.135875,
+      "m"
+    ],
+    [
+      0.119778,
+      "s"
+    ],
+    [
+      0.616215,
+      "."
+    ],
+    [
+      0.231873,
+      "p"
+    ],
+    [
+      0.192082,
+      "h"
+    ],
+    [
+      0.087943,
+      "p"
+    ],
+    [
+      0.943898,
+      "\""
+    ],
+    [
+      3.591885,
+      ";"
+    ],
+    [
+      0.776236,
+      "\r\u001b[22d\u001b(B\u001b[0;7mFile Name to Write: LocalSettings.php                                           \u001b[23;14H\u001b(B\u001b[m       \u001b(B\u001b[0;7m^T\u001b(B\u001b[m To Files         \u001b(B\u001b[0;7mM-M\u001b(B\u001b[m Mac Format      \u001b(B\u001b[0;7mM-P\u001b(B\u001b[m Prepend\u001b[K\u001b[24;2H\u001b(B\u001b[0;7mC\u001b(B\u001b[m Cancel           \u001b(B\u001b[0;7mM-D\u001b(B\u001b[m DOS Format      \u001b(B\u001b[0;7mM-A\u001b(B\u001b[m Append          \u001b(B\u001b[0;7mM-B\u001b(B\u001b[m Backup File\u001b[K\u001b[22;38H"
+    ],
+    [
+      1.600614,
+      "\u001b[1;71H\u001b[39;49m\u001b(B\u001b[0;7m        \u001b[22;30H\u001b(B\u001b[m\u001b[1K \u001b(B\u001b[0;7m[ Wrote 242 lines ]\u001b(B\u001b[m\u001b[K\u001b[23;14H\u001b(B\u001b[0;7m^O\u001b(B\u001b[m WriteOut  \u001b(B\u001b[0;7m^R\u001b(B\u001b[m Read File \u001b(B\u001b[0;7m^Y\u001b(B\u001b[m Prev Page \u001b(B\u001b[0;7m^K\u001b(B\u001b[m Cut Text  \u001b(B\u001b[0;7m^C\u001b(B\u001b[m Cur Pos\u001b[24;2H\u001b(B\u001b[0;7mX\u001b(B\u001b[m Exit      \u001b(B\u001b[0;7m^J\u001b(B\u001b[m Justify   \u001b(B\u001b[0;7m^W\u001b(B\u001b[m Where Is  \u001b(B\u001b[0;7m^V\u001b(B\u001b[m Next Page \u001b(B\u001b[0;7m^U\u001b(B\u001b[m UnCut Text\u001b(B\u001b[0;7m^T\u001b(B\u001b[m To Spell\u001b[6;63H"
+    ],
+    [
+      1.046956,
+      "\r\u001b[23d\u001b[J\u001b[24;80H"
+    ],
+    [
+      0.000024,
+      "\u001b[24;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001168,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000249,
+      "\u001b]2;Eliott@macbook-ebenoit-wifi: ~/Desktop/mMediaWiki\u0007"
+    ],
+    [
+      0.000068,
+      "\u001b]1;..op/mMediaWiki\u0007"
+    ],
+    [
+      0.000224,
+      "\u001b]7;file:///Users/Eliott/Desktop/mMediaWiki\u0007"
+    ],
+    [
+      0.378238,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mmMediaWiki \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000083,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.148703,
+      "D"
+    ],
+    [
+      0.127273,
+      "\u0008DO"
+    ],
+    [
+      0.023060,
+      "P"
+    ],
+    [
+      0.184845,
+      "N"
+    ],
+    [
+      0.479560,
+      "\u0008 \u0008"
+    ],
+    [
+      0.167985,
+      "\u0008 \u0008"
+    ],
+    [
+      1.184368,
+      "N"
+    ],
+    [
+      0.439381,
+      "E"
+    ],
+    [
+      0.488849,
+      " "
+    ],
+    [
+      0.376822,
+      "!"
+    ],
+    [
+      1.734376,
+      "\u0008 \u0008"
+    ],
+    [
+      0.501075,
+      "\u0008"
+    ],
+    [
+      0.083939,
+      "\u0008 \u0008"
+    ],
+    [
+      0.084986,
+      "\u0008 \u0008"
+    ],
+    [
+      0.084379,
+      "\u0008\u0008D \u0008"
+    ],
+    [
+      0.083606,
+      "\u0008 \u0008"
+    ],
+    [
+      1.466271,
+      "e"
+    ],
+    [
+      0.191944,
+      "\u0008ex"
+    ],
+    [
+      0.128031,
+      "i"
+    ],
+    [
+      0.160005,
+      "t"
+    ],
+    [
+      0.967732,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000126,
+      "\r\r\n"
+    ],
+    [
+      0.001515,
+      "\u001b]2;exit\u0007"
+    ],
+    [
+      0.000013,
+      "\u001b]1;exit\u0007"
+    ]
+  ]
+}
