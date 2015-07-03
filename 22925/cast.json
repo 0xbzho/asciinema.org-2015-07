@@ -1,0 +1,534 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 14.101561,
+  "command": "/usr/bin/fish",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/bin/fish"
+  },
+  "stdout": [
+    [
+      0.077501,
+      "\u001b]0;fish  /t"
+    ],
+    [
+      0.000009,
+      "mp/test-project\u0007"
+    ],
+    [
+      0.000020,
+      "\u001b["
+    ],
+    [
+      0.000256,
+      "30m\u001b(B\u001b[m"
+    ],
+    [
+      0.003063,
+      "Welcome to fish, the friendly interactive shell\r\nType \u001b[32mhelp\u001b[30m\u001b(B\u001b[m for instructions on how to use fish\r\n"
+    ],
+    [
+      0.019307,
+      "\u001b]0;fish  /tm"
+    ],
+    [
+      0.000008,
+      "p/test-project\u0007"
+    ],
+    [
+      0.000018,
+      "\u001b["
+    ],
+    [
+      0.000004,
+      "30m\u001b("
+    ],
+    [
+      0.000010,
+      "B\u001b[m"
+    ],
+    [
+      0.000132,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000113,
+      "\u001b[44m\u001b[30m /t/test-project \u001b[40m\u001b(B\u001b[m\u001b[34m \u001b[K"
+    ],
+    [
+      0.884815,
+      "l"
+    ],
+    [
+      0.000206,
+      "\u0008\u001b[31m\u001b[1ml\u001b(B\u001b[m"
+    ],
+    [
+      0.025204,
+      "s\u001b[38;5;240mmod \u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.042859,
+      "\u001b[31m\u001b[1ms\u001b(B\u001b[mm\u001b[38;5;240mod \u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m\u0008\u0008\u001b[38;5;26mls\u001b[30m\u001b(B\u001b[mm\u001b[38;5;240mod \u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.396201,
+      "\u001b[K\r\n\u001b[30m\u001b(B\u001b[m\u001b]0;ls  /tmp/test-project\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.021058,
+      "recipe.bob  \u001b[0m\u001b[01;34msrc\u001b[0m/  \u001b[01;34mtarget\u001b[0m/\r\n"
+    ],
+    [
+      0.018053,
+      "\u001b]0;fish  /"
+    ],
+    [
+      0.000011,
+      "tmp/test-proje"
+    ],
+    [
+      0.000006,
+      "ct"
+    ],
+    [
+      0.000003,
+      "\u0007"
+    ],
+    [
+      0.000023,
+      "\u001b["
+    ],
+    [
+      0.000009,
+      "30m"
+    ],
+    [
+      0.000005,
+      "\u001b"
+    ],
+    [
+      0.000023,
+      "("
+    ],
+    [
+      0.000005,
+      "B\u001b["
+    ],
+    [
+      0.000004,
+      "m"
+    ],
+    [
+      0.000186,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000172,
+      "\u001b[44m\u001b[30m /t/test-project \u001b[40m\u001b(B\u001b[m\u001b[34m \u001b[K"
+    ],
+    [
+      1.353207,
+      "d"
+    ],
+    [
+      0.001859,
+      "\u0008\u001b[31m\u001b[1md\u001b(B\u001b[m"
+    ],
+    [
+      0.026378,
+      "t\u001b[38;5;240msdec \u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.069484,
+      "\u001b[31m\u001b[1mi\u001b(B\u001b[m\u001b[K"
+    ],
+    [
+      0.017047,
+      "r\u001b[38;5;240m \u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.063323,
+      "\u001b[31m\u001b[1mr\u001b(B\u001b[m \u0008"
+    ],
+    [
+      0.000143,
+      "\u0008\u0008\u0008\u001b[38;5;26mdir\u001b[30m\u001b(B\u001b[m \u0008"
+    ],
+    [
+      0.294108,
+      "\u001b[38;5;26mt\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000843,
+      "\u0008\u0008\u0008\u0008\u001b[31m\u001b[1mdirt\u001b(B\u001b[m"
+    ],
+    [
+      0.032720,
+      "r\u001b[38;5;240mee \u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.187410,
+      "\u001b[31m\u001b[1mr\u001b(B\u001b[me\u001b[38;5;240me \u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.275449,
+      "\u001b[31m\u001b[1mee \u001b(B\u001b[m\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[38;5;26mdirtree\u001b[30m\u001b(B\u001b[m "
+    ],
+    [
+      0.396484,
+      "\r\n\u001b[30m\u001b(B\u001b[m\u001b]0;dirtree  /tmp/test-project\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.011137,
+      "/tmp/test-project \r\n"
+    ],
+    [
+      0.000143,
+      "/tmp/test-project/src \r\n"
+    ],
+    [
+      0.000048,
+      "/tmp/test-project/src/library \r\n"
+    ],
+    [
+      0.000060,
+      "/tmp/test-project/src/library/vala \r\n"
+    ],
+    [
+      0.000053,
+      "/tmp/test-project/src/library/vala/test \r\n"
+    ],
+    [
+      0.000079,
+      "/tmp/test-project/src/library/vapi \r\n"
+    ],
+    [
+      0.000043,
+      "/tmp/test-project/src/library/c \r\n"
+    ],
+    [
+      0.000054,
+      "/tmp/test-project/src/main \r\n"
+    ],
+    [
+      0.000055,
+      "/tmp/test-project/src/main/vala \r\n"
+    ],
+    [
+      0.000041,
+      "/tmp/test-project/src/main/vala/test \r\n"
+    ],
+    [
+      0.000081,
+      "/tmp/test-project/target \r\n"
+    ],
+    [
+      0.000049,
+      "/tmp/test-project/target/lib \r\n"
+    ],
+    [
+      0.000061,
+      "/tmp/test-project \r\n"
+    ],
+    [
+      0.012701,
+      "\u001b]0;fish  /tmp/test-project\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000068,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000126,
+      "\u001b[44m\u001b[30m /t/test-project \u001b[40m\u001b(B\u001b[m\u001b[34m \u001b[K"
+    ],
+    [
+      1.757401,
+      "b\u0008\u001b[31m\u001b[1mb\u001b(B\u001b[m"
+    ],
+    [
+      0.023256,
+      "a\u001b[38;5;240mshbug \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.092438,
+      "\u001b[31m\u001b[1mo\u001b(B\u001b[m\u001b[K"
+    ],
+    [
+      0.021876,
+      "n\u001b[38;5;240md2team \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.071925,
+      "\u001b[31m\u001b[1mb\u001b(B\u001b[m\u001b[K\u0008\u0008\u0008\u001b[38;5;26mbob\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.018808,
+      " \u0008"
+    ],
+    [
+      0.133460,
+      "\u001b[38;5;26m \u001b[30m\u001b(B\u001b[m\u0008 "
+    ],
+    [
+      1.035555,
+      "c\u0008\u001b[38;5;39mc\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.087516,
+      "\u001b[38;5;39mo\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.164127,
+      "\u001b[38;5;39ml\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.127445,
+      "\u001b[38;5;39ml\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.053488,
+      "\u001b[38;5;39me\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.079031,
+      "\u001b[38;5;39mc\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.189984,
+      "\u001b[38;5;39mt\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.130138,
+      "\u001b[38;5;39m-\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.174607,
+      "\u001b[38;5;39ms\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.116452,
+      "\u001b[38;5;39mo\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.181406,
+      "\u001b[38;5;39mu\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.082329,
+      "\u001b[38;5;39mr\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.231306,
+      "\u001b[38;5;39mc\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.068040,
+      "\u001b[38;5;39me\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.163675,
+      "\u001b[38;5;39ms\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.393824,
+      "\r\n\u001b[30m\u001b(B\u001b[m\u001b]0;bob  /tmp/test-project\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.011455,
+      "\u001b[0;34m[BobBuildProjectRecipe] \u001b[0m\u001b[0;34;39mParsing project dependencies.\r\n"
+    ],
+    [
+      0.000032,
+      "\u001b[0m\u001b[0;34m[BobBuildRecipe] \u001b[0m\u001b[0;34;39mNo plugins configuration found, skipping\r\n"
+    ],
+    [
+      0.000386,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mLoading plugins from directory: /opt/vala/valder/target/plugins\r\n"
+    ],
+    [
+      0.000377,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mLoaded build plugin module: /opt/vala/valder/target/plugins/libplugin-build.so\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mRegistering new plugin: build\r\n"
+    ],
+    [
+      0.000207,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mLoaded build plugin module: /opt/vala/valder/target/plugins/libplugin-collect-sources.so\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mRegistering new plugin: collect-sources\r\n"
+    ],
+    [
+      0.000214,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mLoaded build plugin module: /opt/vala/valder/target/plugins/libplugin-initialize.so\r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mRegistering new plugin: initialize:structure\r\n"
+    ],
+    [
+      0.000044,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mRegistering new plugin: initialize:recipe\r\n"
+    ],
+    [
+      0.000220,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mLoaded build plugin module: /opt/vala/valder/target/plugins/libplugin-repository.so\r\n"
+    ],
+    [
+      0.000021,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mRegistering new plugin: repository:install\r\n"
+    ],
+    [
+      0.000036,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mRegistering new plugin: repository:scan\r\n"
+    ],
+    [
+      0.000020,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mRegistering new plugin: repository:copy-libs\r\n"
+    ],
+    [
+      0.000174,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mLoaded build plugin module: /opt/vala/valder/target/plugins/libplugin-uncrustify.so\r\n"
+    ],
+    [
+      0.000028,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mRegistering new plugin: uncrustify\r\n"
+    ],
+    [
+      0.000033,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mUsing build plugin: collect-sources.\r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[0m\u001b[0;34m[BobBuildContext] \u001b[0m\u001b[0;34;39mBuilding project: unknown-0.0.1 (unknown)\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[0m\u001b[0;34m[BobBuildContext] \u001b[0m\u001b[0;34;39mLoading project plugins recipies...\r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mInitializing plugin 'collect-sources' with recipe data.\r\n"
+    ],
+    [
+      0.000082,
+      "\u001b[0m\u001b[0;34m[BobBuildContext] \u001b[0m\u001b[0;34;39mRunning project plugins\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mRunning plugin: collect-sources\r\n"
+    ],
+    [
+      0.001441,
+      "\u001b[0m\u001b[0;34m[CollectSourcesPlugin] \u001b[0m\u001b[0;34;39m/tmp/test-project/src/library/vala/test/Test.vala (47 bytes)\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[0m\u001b[0;34m[CollectSourcesPlugin] \u001b[0m\u001b[0;34;39m/tmp/test-project/src/main/vala/test/Test2.vala (47 bytes)\r\n\u001b[0m\u001b[0;34m[CollectSourcesPlugin] \u001b[0m\u001b[0;34;39mUsing 2 project source files with 94 bytes in total.\r\n"
+    ],
+    [
+      0.000022,
+      "\u001b[0m\u001b[0;34m[BobBuildContext] \u001b[0m\u001b[0;34;39mTook time: 0.001595 seconds.\r\n"
+    ],
+    [
+      0.000258,
+      "\u001b[0m"
+    ],
+    [
+      0.012860,
+      "\u001b"
+    ],
+    [
+      0.000010,
+      "]0;fish  /tmp"
+    ],
+    [
+      0.000004,
+      "/t"
+    ],
+    [
+      0.000003,
+      "e"
+    ],
+    [
+      0.000019,
+      "s"
+    ],
+    [
+      0.000004,
+      "t-pr"
+    ],
+    [
+      0.000002,
+      "o"
+    ],
+    [
+      0.000002,
+      "j"
+    ],
+    [
+      0.000002,
+      "e"
+    ],
+    [
+      0.000002,
+      "c"
+    ],
+    [
+      0.000002,
+      "t"
+    ],
+    [
+      0.000019,
+      "\u0007"
+    ],
+    [
+      0.000004,
+      "\u001b[3"
+    ],
+    [
+      0.000003,
+      "0m"
+    ],
+    [
+      0.000003,
+      "\u001b"
+    ],
+    [
+      0.000003,
+      "("
+    ],
+    [
+      0.000002,
+      "B"
+    ],
+    [
+      0.000002,
+      "\u001b"
+    ],
+    [
+      0.000003,
+      "[m"
+    ],
+    [
+      0.000124,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000106,
+      "\u001b[44m\u001b[30m /t/test-project \u001b[40m\u001b(B\u001b[m\u001b[34m \u001b[K"
+    ],
+    [
+      4.442352,
+      "\r\n\u001b[30m\u001b(B\u001b[m\r\n\u001b[30m\u001b(B\u001b[m"
+    ]
+  ]
+}
