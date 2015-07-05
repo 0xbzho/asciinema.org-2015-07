@@ -1,0 +1,6122 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 155.289715,
+  "command": "/usr/bin/fish",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/bin/fish"
+  },
+  "stdout": [
+    [
+      0.096788,
+      "\u001b]0;fish  /o"
+    ],
+    [
+      0.000012,
+      "pt/vala\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.007669,
+      "Welcome to fish, the friendly interactive shell\r\nType \u001b[32mhelp\u001b[30m\u001b(B\u001b[m for instructions on how to use fish\r\n"
+    ],
+    [
+      0.023483,
+      "\u001b]0;fish  /"
+    ],
+    [
+      0.000006,
+      "opt/vala\u0007"
+    ],
+    [
+      0.000008,
+      "\u001b"
+    ],
+    [
+      0.000002,
+      "["
+    ],
+    [
+      0.000002,
+      "3"
+    ],
+    [
+      0.000002,
+      "0"
+    ],
+    [
+      0.000007,
+      "m\u001b("
+    ],
+    [
+      0.000002,
+      "B"
+    ],
+    [
+      0.000002,
+      "\u001b"
+    ],
+    [
+      0.000002,
+      "["
+    ],
+    [
+      0.000002,
+      "m"
+    ],
+    [
+      0.000147,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000113,
+      "\u001b[44m\u001b[30m /o/vala \u001b[40m\u001b(B\u001b[m\u001b[34m \u001b[K"
+    ],
+    [
+      1.300617,
+      "g"
+    ],
+    [
+      0.000123,
+      "\u0008\u001b[31m\u001b[1mg\u001b(B\u001b[m"
+    ],
+    [
+      0.000918,
+      "i\u001b[38;5;240mt clone https://github.com/activey/vala-stacktrace.git\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.111798,
+      "\u001b[31m\u001b[1mi\u001b(B\u001b[mt\u001b[38;5;240m clone https://github.com/activey/vala-stacktrace.git\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.087471,
+      "\u001b[31m\u001b[1mt\u001b(B\u001b[m \u001b[38;5;240mclone https://github.com/activey/vala-stacktrace.git\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m\u0008\u0008\u0008\u001b[38;5;26m\u001b[4mgit\u001b[30m\u001b(B\u001b[m \u001b[38;5;240mclone https://github.com/activey/vala-stacktrace.git\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.109880,
+      "\u001b[38;5;26m\u001b[4m \u001b[30m\u001b(B\u001b[mc\u001b[38;5;240mlone https://github.com/activey/vala-stacktrace.git\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m\u0008 c\u001b[38;5;240mlone https://github.com/activey/vala-stacktrace.git\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      1.136265,
+      "\u001b[Clone https://github.com/activey/vala-stacktrace.git\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[38;5;26mgit\u001b[30m\u001b(B\u001b[m \u001b[38;5;39mclone\u001b[30m\u001b(B\u001b[m \u001b[38;5;39mhttps://github.com/activey/vala-stacktrace.git\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      1.560126,
+      "\r\n\u001b[30m\u001b(B\u001b[m\u001b]0;git  /opt/vala\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.003295,
+      "Cloning into 'vala-stacktrace'...\r\n"
+    ],
+    [
+      0.881341,
+      "remote: Counting objects: 386, done.\u001b[K\r\n"
+    ],
+    [
+      0.009226,
+      "Receiving objects:   0% (1/386)   \r"
+    ],
+    [
+      0.000218,
+      "Receiving objects:   1% (4/386)   \r"
+    ],
+    [
+      0.000428,
+      "Receiving objects:   2% (8/386)   \r"
+    ],
+    [
+      0.000284,
+      "Receiving objects:   3% (12/386)   \r"
+    ],
+    [
+      0.000386,
+      "Receiving objects:   4% (16/386)   \r"
+    ],
+    [
+      0.000464,
+      "Receiving objects:   5% (20/386)   \r"
+    ],
+    [
+      0.000398,
+      "Receiving objects:   6% (24/386)   \r"
+    ],
+    [
+      0.000435,
+      "Receiving objects:   7% (28/386)   \r"
+    ],
+    [
+      0.000292,
+      "Receiving objects:   8% (31/386)   \r"
+    ],
+    [
+      0.000345,
+      "Receiving objects:   9% (35/386)   \r"
+    ],
+    [
+      0.000338,
+      "Receiving objects:  10% (39/386)   \r"
+    ],
+    [
+      0.000358,
+      "Receiving objects:  11% (43/386)   \r"
+    ],
+    [
+      0.000347,
+      "Receiving objects:  12% (47/386)   \r"
+    ],
+    [
+      0.132302,
+      "Receiving objects:  13% (51/386)   \rReceiving objects:  14% (55/386)   \rReceiving objects:  15% (58/386)   \rReceiving objects:  16% (62/386)   \rReceiving objects:  17% (66/386)   \rReceiving objects:  18% (70/386)   \rReceiving objects:  19% (74/386)   \r"
+    ],
+    [
+      0.000528,
+      "Receiving objects:  20% (78/386)   \r"
+    ],
+    [
+      0.000319,
+      "Receiving objects:  21% (82/386)   \r"
+    ],
+    [
+      0.000209,
+      "Receiving objects:  22% (85/386)   \r"
+    ],
+    [
+      0.709286,
+      "Receiving objects:  23% (89/386), 196.01 KiB | 344.00 KiB/s   \r"
+    ],
+    [
+      0.216232,
+      "Receiving objects:  23% (89/386), 1.11 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      1.007782,
+      "Receiving objects:  23% (92/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.062865,
+      "Receiving objects:  24% (93/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.000113,
+      "Receiving objects:  25% (97/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.000047,
+      "Receiving objects:  26% (101/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.000049,
+      "Receiving objects:  27% (105/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.000033,
+      "Receiving objects:  28% (109/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.000060,
+      "Receiving objects:  29% (112/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.007587,
+      "Receiving objects:  30% (116/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.000289,
+      "Receiving objects:  31% (120/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.000160,
+      "Receiving objects:  32% (124/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.007448,
+      "Receiving objects:  33% (128/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.000015,
+      "Receiving objects:  34% (132/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.000041,
+      "Receiving objects:  35% (136/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.000067,
+      "Receiving objects:  36% (139/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.000106,
+      "Receiving objects:  37% (143/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.000316,
+      "Receiving objects:  38% (147/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.000005,
+      "Receiving objects:  39% (151/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.000041,
+      "Receiving objects:  40% (155/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.000023,
+      "Receiving objects:  41% (159/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.000023,
+      "Receiving objects:  42% (163/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.000014,
+      "Receiving objects:  43% (166/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.000018,
+      "Receiving objects:  44% (170/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.000011,
+      "Receiving objects:  45% (174/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.000015,
+      "Receiving objects:  46% (178/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.006770,
+      "Receiving objects:  47% (182/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.000116,
+      "Receiving objects:  48% (186/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.000135,
+      "Receiving objects:  49% (190/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.000055,
+      "Receiving objects:  50% (193/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.000048,
+      "Receiving objects:  51% (197/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.000035,
+      "Receiving objects:  52% (201/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.000050,
+      "Receiving objects:  53% (205/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.000025,
+      "Receiving objects:  54% (209/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.000023,
+      "Receiving objects:  55% (213/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.000083,
+      "Receiving objects:  56% (217/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.000004,
+      "Receiving objects:  57% (221/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.000015,
+      "Receiving objects:  58% (224/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.000011,
+      "Receiving objects:  59% (228/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.000009,
+      "Receiving objects:  60% (232/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.000011,
+      "Receiving objects:  61% (236/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.000059,
+      "Receiving objects:  62% (240/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.000015,
+      "Receiving objects:  63% (244/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.000009,
+      "Receiving objects:  64% (248/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.000008,
+      "Receiving objects:  65% (251/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.000011,
+      "Receiving objects:  66% (255/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.006950,
+      "Receiving objects:  67% (259/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.000102,
+      "Receiving objects:  68% (263/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.000005,
+      "Receiving objects:  69% (267/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.000016,
+      "Receiving objects:  70% (271/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.000048,
+      "Receiving objects:  71% (275/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.000018,
+      "Receiving objects:  72% (278/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.000053,
+      "Receiving objects:  73% (282/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.000004,
+      "Receiving objects:  74% (286/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.000003,
+      "Receiving objects:  75% (290/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      0.000074,
+      "Receiving objects:  76% (294/386), 3.14 MiB | 1.52 MiB/s   \r"
+    ],
+    [
+      1.042290,
+      "Receiving objects:  76% (297/386), 3.66 MiB | 1.30 MiB/s   \r"
+    ],
+    [
+      0.000150,
+      "Receiving objects:  77% (298/386), 3.66 MiB | 1.30 MiB/s   \r"
+    ],
+    [
+      0.000205,
+      "Receiving objects:  78% (302/386), 3.66 MiB | 1.30 MiB/s   \r"
+    ],
+    [
+      0.000011,
+      "Receiving objects:  79% (305/386), 3.66 MiB | 1.30 MiB/s   \r"
+    ],
+    [
+      0.000034,
+      "Receiving objects:  80% (309/386), 3.66 MiB | 1.30 MiB/s   \r"
+    ],
+    [
+      0.000172,
+      "Receiving objects:  81% (313/386), 3.66 MiB | 1.30 MiB/s   \r"
+    ],
+    [
+      1.004760,
+      "Receiving objects:  81% (316/386), 6.32 MiB | 1.66 MiB/s   \r"
+    ],
+    [
+      0.000014,
+      "Receiving objects:  82% (317/386), 6.32 MiB | 1.66 MiB/s   \r"
+    ],
+    [
+      0.000124,
+      "Receiving objects:  83% (321/386), 6.32 MiB | 1.66 MiB/s   \r"
+    ],
+    [
+      0.000033,
+      "Receiving objects:  84% (325/386), 6.32 MiB | 1.66 MiB/s   \r"
+    ],
+    [
+      0.000006,
+      "Receiving objects:  85% (329/386), 6.32 MiB | 1.66 MiB/s   \r"
+    ],
+    [
+      0.000131,
+      "Receiving objects:  86% (332/386), 6.32 MiB | 1.66 MiB/s   \r"
+    ],
+    [
+      0.003262,
+      "Receiving objects:  87% (336/386), 6.32 MiB | 1.66 MiB/s   \r"
+    ],
+    [
+      0.000167,
+      "Receiving objects:  88% (340/386), 6.32 MiB | 1.66 MiB/s   \r"
+    ],
+    [
+      0.000112,
+      "Receiving objects:  89% (344/386), 6.32 MiB | 1.66 MiB/s   \r"
+    ],
+    [
+      0.334487,
+      "Receiving objects:  90% (348/386), 7.31 MiB | 1.69 MiB/s   \rReceiving objects:  91% (352/386), 7.31 MiB | 1.69 MiB/s   \rReceiving objects:  92% (356/386), 7.31 MiB | 1.69 MiB/s   \rReceiving objects:  93% (359/386), 7.31 MiB | 1.69 MiB/s   \rReceiving objects:  94% (363/386), 7.31 MiB | 1.69 MiB/s   \rReceiving objects:  95% (367/386), 7.31 MiB | 1.69 MiB/s   \rReceiving objects:  96% (371/386), 7.31 MiB | 1.69 MiB/s   \rReceiving objects:  97% (375/386), 7.31 MiB | 1.69 MiB/s   \rReceiving objects:  98% (379/386), 7.31 MiB | 1.69 MiB/s   \r"
+    ],
+    [
+      0.002966,
+      "Receiving objects:  99% (383/386), 7.31 MiB | 1.69 MiB/s   \r"
+    ],
+    [
+      0.009350,
+      "remote: Total 386 (delta 0), reused 0 (delta 0), pack-reused 386\u001b[K\r\n"
+    ],
+    [
+      0.000448,
+      "Receiving objects: 100% (386/386), 7.31 MiB | 1.69 MiB/s   \rReceiving objects: 100% (386/386), 7.81 MiB | 1.69 MiB/s, done.\r\n"
+    ],
+    [
+      0.000005,
+      "Resolving deltas:   0% (0/195)   \r"
+    ],
+    [
+      0.000180,
+      "Resolving deltas:   1% (2/195)   \r"
+    ],
+    [
+      0.000088,
+      "Resolving deltas:   3% (6/195)   \r"
+    ],
+    [
+      0.000289,
+      "Resolving deltas:  11% (22/195)   \r"
+    ],
+    [
+      0.000094,
+      "Resolving deltas:  14% (29/195)   \r"
+    ],
+    [
+      0.000042,
+      "Resolving deltas:  15% (31/195)   \r"
+    ],
+    [
+      0.000016,
+      "Resolving deltas:  16% (32/195)   \r"
+    ],
+    [
+      0.000099,
+      "Resolving deltas:  19% (38/195)   \r"
+    ],
+    [
+      0.000052,
+      "Resolving deltas:  20% (39/195)   \r"
+    ],
+    [
+      0.000111,
+      "Resolving deltas:  23% (46/195)   \r"
+    ],
+    [
+      0.000041,
+      "Resolving deltas:  24% (48/195)   \r"
+    ],
+    [
+      0.000273,
+      "Resolving deltas:  31% (62/195)   \r"
+    ],
+    [
+      0.000074,
+      "Resolving deltas:  33% (66/195)   \r"
+    ],
+    [
+      0.000052,
+      "Resolving deltas:  34% (68/195)   \r"
+    ],
+    [
+      0.000025,
+      "Resolving deltas:  35% (69/195)   \r"
+    ],
+    [
+      0.000136,
+      "Resolving deltas:  37% (74/195)   \r"
+    ],
+    [
+      0.000178,
+      "Resolving deltas:  41% (81/195)   \r"
+    ],
+    [
+      0.000087,
+      "Resolving deltas:  44% (86/195)   \r"
+    ],
+    [
+      0.000036,
+      "Resolving deltas:  45% (88/195)   \r"
+    ],
+    [
+      0.000121,
+      "Resolving deltas:  47% (93/195)   \r"
+    ],
+    [
+      0.000157,
+      "Resolving deltas:  52% (102/195)   \r"
+    ],
+    [
+      0.000109,
+      "Resolving deltas:  55% (108/195)   \r"
+    ],
+    [
+      0.000160,
+      "Resolving deltas:  59% (116/195)   \r"
+    ],
+    [
+      0.000165,
+      "Resolving deltas:  64% (126/195)   \r"
+    ],
+    [
+      0.000122,
+      "Resolving deltas:  68% (133/195)   \r"
+    ],
+    [
+      0.000046,
+      "Resolving deltas:  69% (135/195)   \r"
+    ],
+    [
+      0.000032,
+      "Resolving deltas:  70% (137/195)   \r"
+    ],
+    [
+      0.000416,
+      "Resolving deltas:  83% (162/195)   \r"
+    ],
+    [
+      0.000140,
+      "Resolving deltas:  87% (170/195)   \r"
+    ],
+    [
+      0.000042,
+      "Resolving deltas:  88% (172/195)   \r"
+    ],
+    [
+      0.000061,
+      "Resolving deltas:  89% (175/195)   \r"
+    ],
+    [
+      0.000077,
+      "Resolving deltas:  91% (178/195)   \r"
+    ],
+    [
+      0.000044,
+      "Resolving deltas:  92% (180/195)   \r"
+    ],
+    [
+      0.000058,
+      "Resolving deltas:  93% (183/195)   \r"
+    ],
+    [
+      0.000056,
+      "Resolving deltas:  95% (186/195)   \r"
+    ],
+    [
+      0.000058,
+      "Resolving deltas:  96% (188/195)   \r"
+    ],
+    [
+      0.000389,
+      "Resolving deltas: 100% (195/195)   \r"
+    ],
+    [
+      0.000031,
+      "Resolving deltas: 100% (195/195), done.\r\n"
+    ],
+    [
+      0.151792,
+      "Checking connectivity... "
+    ],
+    [
+      0.003687,
+      "done.\r\n"
+    ],
+    [
+      0.040621,
+      "\u001b]0;fis"
+    ],
+    [
+      0.000008,
+      "h  /opt/vala\u0007"
+    ],
+    [
+      0.000004,
+      "\u001b"
+    ],
+    [
+      0.000003,
+      "[3"
+    ],
+    [
+      0.000014,
+      "0m\u001b("
+    ],
+    [
+      0.000004,
+      "B\u001b["
+    ],
+    [
+      0.000002,
+      "m"
+    ],
+    [
+      0.000100,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000110,
+      "\u001b[44m\u001b[30m /o/vala \u001b[40m\u001b(B\u001b[m\u001b[34m \u001b[K"
+    ],
+    [
+      1.300112,
+      "c"
+    ],
+    [
+      0.001339,
+      "\u0008\u001b[31m\u001b[1mc\u001b(B\u001b[md\u001b[38;5;240m test-project/\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.076535,
+      "\u001b[31m\u001b[1md\u001b(B\u001b[m \u001b[38;5;240mtest-project/\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m\u0008\u0008\u001b[38;5;26mcd\u001b[30m\u001b(B\u001b[m \u001b[38;5;240mtest-project/\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.096832,
+      "\u001b[38;5;26m \u001b[30m\u001b(B\u001b[mt\u001b[38;5;240mest-project/\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m\u0008 t\u001b[38;5;240mest-project/\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.535868,
+      "v\u001b[Ka\u001b[38;5;240mla-stacktrace/\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m\u0008\u001b[38;5;39m\u001b[4mv\u001b[30m\u001b(B\u001b[ma\u001b[38;5;240mla-stacktrace/\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.083014,
+      "\u001b[38;5;39m\u001b[4ma\u001b[30m\u001b(B\u001b[ml\u001b[38;5;240ma-stacktrace/\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.101376,
+      "\u001b[38;5;39m\u001b[4ml\u001b[30m\u001b(B\u001b[ma\u001b[38;5;240m-stacktrace/\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.092232,
+      "\u001b[38;5;39m\u001b[4ma\u001b[30m\u001b(B\u001b[m-\u001b[38;5;240mstacktrace/\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.767438,
+      "\u001b[38;5;39m\u001b[4m-stacktrace/\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.508206,
+      "\r\n\u001b[30m\u001b(B\u001b[m\u001b]0;cd  /opt/vala\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.019531,
+      "\u001b]7;file:///%6f%70%74/%76%61%6c%61/%76%61%6c%61%2d%73%74%61%63%6b%74%72%61%63%65\u0007"
+    ],
+    [
+      0.028966,
+      "\u001b]0;fi"
+    ],
+    [
+      0.000008,
+      "sh  /opt/vala/va"
+    ],
+    [
+      0.000004,
+      "la"
+    ],
+    [
+      0.000003,
+      "-s"
+    ],
+    [
+      0.000002,
+      "t"
+    ],
+    [
+      0.000002,
+      "a"
+    ],
+    [
+      0.000002,
+      "c"
+    ],
+    [
+      0.000002,
+      "k"
+    ],
+    [
+      0.000002,
+      "t"
+    ],
+    [
+      0.000002,
+      "r"
+    ],
+    [
+      0.000002,
+      "a"
+    ],
+    [
+      0.000002,
+      "c"
+    ],
+    [
+      0.000016,
+      "e\u0007"
+    ],
+    [
+      0.000004,
+      "\u001b"
+    ],
+    [
+      0.000003,
+      "["
+    ],
+    [
+      0.000002,
+      "30"
+    ],
+    [
+      0.000002,
+      "m"
+    ],
+    [
+      0.000003,
+      "\u001b"
+    ],
+    [
+      0.000003,
+      "("
+    ],
+    [
+      0.000014,
+      "B"
+    ],
+    [
+      0.000003,
+      "\u001b[m"
+    ],
+    [
+      0.000095,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000148,
+      "\u001b[44m\u001b[30m /o/v/vala-stacktrace \u001b[42m\u001b[34m \u001b[42m\u001b[30m master  \u001b[40m\u001b(B\u001b[m\u001b[32m \u001b[K"
+    ],
+    [
+      1.463876,
+      "ls\u0008\u0008\u001b[31m\u001b[1ml\u001b(B\u001b[ms\u0008"
+    ],
+    [
+      0.056902,
+      "\u001b[31m\u001b[1ms\u001b(B\u001b[m\u0008\u0008\u001b[38;5;26mls\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.098062,
+      "\r\n\u001b[30m\u001b(B\u001b[m\u001b]0;ls  /opt/vala/vala-stacktrace\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.036395,
+      "CHANGELOG.md  LICENSE    recipe.bob       \u001b[0m\u001b[01;34msamples\u001b[0m/  \u001b[01;34mtarget\u001b[0m/\r\n\u001b[01;34mdoc\u001b[0m/          README.md  \u001b[01;32mrun_samples.sh\u001b[0m*  \u001b[01;34msrc\u001b[0m/\r\n"
+    ],
+    [
+      0.019976,
+      "\u001b]0;fish "
+    ],
+    [
+      0.000008,
+      " /opt/vala"
+    ],
+    [
+      0.000003,
+      "/v"
+    ],
+    [
+      0.000002,
+      "a"
+    ],
+    [
+      0.000012,
+      "la-s"
+    ],
+    [
+      0.000003,
+      "t"
+    ],
+    [
+      0.000002,
+      "a"
+    ],
+    [
+      0.000017,
+      "ck"
+    ],
+    [
+      0.000003,
+      "tr"
+    ],
+    [
+      0.000002,
+      "a"
+    ],
+    [
+      0.000002,
+      "c"
+    ],
+    [
+      0.000013,
+      "e"
+    ],
+    [
+      0.000004,
+      "\u0007"
+    ],
+    [
+      0.000013,
+      "\u001b["
+    ],
+    [
+      0.000002,
+      "3"
+    ],
+    [
+      0.000011,
+      "0m"
+    ],
+    [
+      0.000002,
+      "\u001b"
+    ],
+    [
+      0.000013,
+      "("
+    ],
+    [
+      0.000002,
+      "B\u001b"
+    ],
+    [
+      0.000002,
+      "["
+    ],
+    [
+      0.000011,
+      "m"
+    ],
+    [
+      0.000156,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000223,
+      "\u001b[44m\u001b[30m /o/v/vala-stacktrace \u001b[42m\u001b[34m \u001b[42m\u001b[30m master  \u001b[40m\u001b(B\u001b[m\u001b[32m \u001b[K"
+    ],
+    [
+      1.296188,
+      "b"
+    ],
+    [
+      0.000596,
+      "\u0008\u001b[31m\u001b[1mb\u001b(B\u001b[m"
+    ],
+    [
+      0.000931,
+      "o\u001b[38;5;240mb collect-sources repository:scan build …\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.081191,
+      "\u001b[31m\u001b[1mo\u001b(B\u001b[mb\u001b[38;5;240m collect-sources repository:scan build …\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.091728,
+      "\u001b[31m\u001b[1mb\u001b(B\u001b[m \u001b[38;5;240mcollect-sources repository:scan build …\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m\u0008\u0008\u0008\u001b[38;5;26mbob\u001b[30m\u001b(B\u001b[m \u001b[38;5;240mcollect-sources repository:scan build …\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.860939,
+      "\u0008\u0008\u0008\u001b[K\r\n\u001b[38;5;26mbob collect-sources repository:scan build repository:install\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000483,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008 \u001b[38;5;39mcollect-sources\u001b[30m\u001b(B\u001b[m \u001b[38;5;39mrepository:scan\u001b[30m\u001b(B\u001b[m \u001b[38;5;39mbuild\u001b[30m\u001b(B\u001b[m \u001b[38;5;39mrepository:install\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      2.717477,
+      "\r\n\u001b[30m\u001b(B\u001b[m\u001b]0;bob  /opt/vala/vala-stacktrace\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.017865,
+      "\u001b[0;34m[BobBuildProjectRecipe] \u001b[0m\u001b[0;34;39mParsing project dependencies.\r\n"
+    ],
+    [
+      0.000168,
+      "\u001b[0m\u001b[0;34m[BobBuildRecipe] \u001b[0m\u001b[0;34;39mNo plugins configuration found, skipping\r\n"
+    ],
+    [
+      0.000595,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mLoading plugins from directory: /opt/vala/valder/target/plugins\r\n"
+    ],
+    [
+      0.000632,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mLoaded build plugin module: /opt/vala/valder/target/plugins/libplugin-build.so\r\n"
+    ],
+    [
+      0.000126,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mRegistering new plugin: build\r\n"
+    ],
+    [
+      0.000448,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mLoaded build plugin module: /opt/vala/valder/target/plugins/libplugin-collect-sources.so\r\n"
+    ],
+    [
+      0.000038,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mRegistering new plugin: collect-sources\r\n"
+    ],
+    [
+      0.000493,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mLoaded build plugin module: /opt/vala/valder/target/plugins/libplugin-initialize.so\r\n"
+    ],
+    [
+      0.000053,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mRegistering new plugin: initialize:structure\r\n"
+    ],
+    [
+      0.000079,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mRegistering new plugin: initialize:recipe\r\n"
+    ],
+    [
+      0.000404,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mLoaded build plugin module: /opt/vala/valder/target/plugins/libplugin-repository.so\r\n"
+    ],
+    [
+      0.000072,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mRegistering new plugin: repository:install\r\n"
+    ],
+    [
+      0.000069,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mRegistering new plugin: repository:scan\r\n"
+    ],
+    [
+      0.000054,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mRegistering new plugin: repository:copy-libs\r\n"
+    ],
+    [
+      0.000391,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mLoaded build plugin module: /opt/vala/valder/target/plugins/libplugin-uncrustify.so\r\n"
+    ],
+    [
+      0.000097,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mRegistering new plugin: uncrustify\r\n"
+    ],
+    [
+      0.000088,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mUsing build plugin: collect-sources.\r\n"
+    ],
+    [
+      0.000051,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mUsing build plugin: repository:scan.\r\n"
+    ],
+    [
+      0.000033,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mUsing build plugin: build.\r\n"
+    ],
+    [
+      0.000029,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mUsing build plugin: repository:install.\r\n"
+    ],
+    [
+      0.000045,
+      "\u001b[0m\u001b[0;34m[BobBuildContext] \u001b[0m\u001b[0;34;39mBuilding project: vala-stacktrace-2.0 (vala-stacktrace)\r\n"
+    ],
+    [
+      0.000039,
+      "\u001b[0m\u001b[0;34m[BobBuildContext] \u001b[0m\u001b[0;34;39mLoading project plugins recipies...\r\n"
+    ],
+    [
+      0.000052,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mInitializing plugin 'collect-sources' with recipe data.\r\n"
+    ],
+    [
+      0.000207,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mInitializing plugin 'repository:scan' with recipe data.\r\n"
+    ],
+    [
+      0.001058,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: .bob.\r\n"
+    ],
+    [
+      0.000037,
+      "\u001b[0m\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;39mFound repository directory: /home/activey/.bob.\r\n"
+    ],
+    [
+      0.000044,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mInitializing plugin 'build' with recipe data.\r\n"
+    ],
+    [
+      0.000122,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mInitializing plugin 'repository:install' with recipe data.\r\n"
+    ],
+    [
+      0.000063,
+      "\u001b[0m\u001b[0;34m[BobBuildContext] \u001b[0m\u001b[0;34;39mRunning project plugins\r\n"
+    ],
+    [
+      0.000037,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mRunning plugin: collect-sources\r\n"
+    ],
+    [
+      0.001661,
+      "\u001b[0m\u001b[0;34m[CollectSourcesPlugin] \u001b[0m\u001b[0;34;39m/opt/vala/vala-stacktrace/src/library/vala/Stacktrace.vala (23660 bytes)\r\n\u001b[0m\u001b[0;34m[CollectSourcesPlugin] \u001b[0m\u001b[0;34;39mUsing 1 project source files with 23660 bytes in total.\r\n\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mRunning plugin: repository:scan\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[0m\u001b[0;34m[ScanLocalRepositoryPlugin] \u001b[0m\u001b[0;34;39mScanning local repository for project dependencies.\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[0m\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;39mScanning for depedency match in local repository: glib-2.0\r\n"
+    ],
+    [
+      0.000276,
+      "\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;22;33mRepository directory for glib-2.0 does not exist.\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[0m\u001b[0m\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;39mScanning for depedency match in local repository: gobject-2.0\r\n"
+    ],
+    [
+      0.000259,
+      "\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;22;33mRepository directory for gobject-2.0 does not exist.\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[0m\u001b[0m\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;39mScanning for depedency match in local repository: gee-0.8\r\n"
+    ],
+    [
+      0.000282,
+      "\u001b[0;34"
+    ],
+    [
+      0.000005,
+      "m[RepositoryDependencyScanner] \u001b[0m"
+    ],
+    [
+      0.000009,
+      "\u001b[0;34;22;33"
+    ],
+    [
+      0.000002,
+      "m"
+    ],
+    [
+      0.000013,
+      "Repository directory for gee-0.8 does not exist."
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[0m"
+    ],
+    [
+      0.000019,
+      "\u001b[0m\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;39mScanning for depedency match in local repository: posix\r\n"
+    ],
+    [
+      0.000314,
+      "\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m"
+    ],
+    [
+      0.000006,
+      "\u001b[0;34;22;33mRepository directory for posix does not exist."
+    ],
+    [
+      0.000003,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000022,
+      "\u001b[0m\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;39mScanning for depedency match in local repository: linux\r\n"
+    ],
+    [
+      0.000262,
+      "\u001b[0;34"
+    ],
+    [
+      0.000003,
+      "m[RepositoryDependencyScanner] "
+    ],
+    [
+      0.000011,
+      "\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\u001b[0;34;22;33"
+    ],
+    [
+      0.000002,
+      "m"
+    ],
+    [
+      0.000009,
+      "Repository directory for linux does not exist."
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[0m"
+    ],
+    [
+      0.000020,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mRunning plugin: build\r\n"
+    ],
+    [
+      0.000027,
+      "\u001b[0m\u001b[0;34m[BuildApplicationPlugin] \u001b[0m\u001b[0;34;39mGenerating library binary.\r\n"
+    ],
+    [
+      0.000046,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mInitializing CodeContext\r\n"
+    ],
+    [
+      0.000883,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mInitializing dependencies for scope: library.\r\n"
+    ],
+    [
+      0.000037,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: glib-2.0.\r\n"
+    ],
+    [
+      0.000024,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: gobject-2.0.\r\n"
+    ],
+    [
+      0.000022,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: gee-0.8.\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: posix.\r\n"
+    ],
+    [
+      0.000084,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: linux.\r\n"
+    ],
+    [
+      0.000088,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mStarting code compilation ...\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mRunning code parsers.\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mRunning general parser.\r\n"
+    ],
+    [
+      0.087434,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mRunning GENIE parser.\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mRunning GIR parser.\r\n"
+    ],
+    [
+      0.049516,
+      "\u001b[001m/opt/vala/vala-stacktrace/src/library/vala/Stacktrace.vala:305.17-305.38:\u001b[0m \u001b[001;35mwarning:\u001b[0m local variable "
+    ],
+    [
+      0.000010,
+      "\u001b[001m`address'\u001b[0m declared but never used\r\n"
+    ],
+    [
+      0.000337,
+      "            int address = addresses[i];\r\n     "
+    ],
+    [
+      0.000006,
+      "          "
+    ],
+    [
+      0.000005,
+      " "
+    ],
+    [
+      0.000002,
+      "\u001b[001;32m^"
+    ],
+    [
+      0.000020,
+      "^"
+    ],
+    [
+      0.000004,
+      "^^^^"
+    ],
+    [
+      0.000002,
+      "^"
+    ],
+    [
+      0.000014,
+      "^"
+    ],
+    [
+      0.000002,
+      "^^"
+    ],
+    [
+      0.000015,
+      "^"
+    ],
+    [
+      0.000004,
+      "^^^"
+    ],
+    [
+      0.000009,
+      "^"
+    ],
+    [
+      0.000002,
+      "^"
+    ],
+    [
+      0.000007,
+      "^"
+    ],
+    [
+      0.000010,
+      "^"
+    ],
+    [
+      0.000002,
+      "^"
+    ],
+    [
+      0.000002,
+      "^"
+    ],
+    [
+      0.000011,
+      "^"
+    ],
+    [
+      0.000003,
+      "^"
+    ],
+    [
+      0.000003,
+      "\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.050058,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mGenerating VAPI file.\r\n"
+    ],
+    [
+      0.000332,
+      "\u001b[0m\u003e\u003e\u003e\u003e -fPIC,-shared,-Wl,-rpath=$ORIGIN/lib,-Ltarget/lib \r\n"
+    ],
+    [
+      0.163223,
+      "\u001b[01m\u001b[K/opt/vala/vala-stacktrace/src/library/vala/Stacktrace.vala.c:\u001b[m\u001b[K In function ‘\u001b[01m\u001b[K_vala_backtrace_symbols\u001b[m\u001b[K’:\r\n"
+    ],
+    [
+      0.000130,
+      "\u001b[01m\u001b[K/opt/vala/vala-stacktrace/src/library/vala/Stacktrace.vala.c:1094:9:\u001b[m\u001b[K \u001b[01;35m\u001b[Kwarning: \u001b[m\u001b[Kassignment from incompatible pointer type [-Wincompatible-pointer-types]\r\n  _tmp1_ = backtrace_symbols (_tmp0_, _tmp0__length1);\r\n\u001b[01;32m\u001b[K         ^\u001b[m\u001b[K\r\n"
+    ],
+    [
+      0.001615,
+      "In file included from \u001b[01m\u001b[K/usr/include/glib-2.0/glib.h:79:0\u001b[m\u001b[K,\r\n                 from \u001b[01m\u001b[K/opt/vala/vala-stacktrace/src/library/vala/Stacktrace.vala.c:30\u001b[m\u001b[K:\r\n\u001b[01m\u001b[K/opt/vala/vala-stacktrace/src/library/vala/Stacktrace.vala.c:\u001b[m\u001b[K In function ‘\u001b[01m\u001b[Kstring_strip\u001b[m\u001b[K’:\r\n"
+    ],
+    [
+      0.000060,
+      "\u001b[01m\u001b[K/opt/vala/vala-stacktrace/src/library/vala/Stacktrace.vala.c:1406:14:\u001b[m\u001b[K \u001b[01;35m\u001b[Kwarning: \u001b[m\u001b[Kpassing argument 1 of ‘\u001b[01m\u001b[Kg_strchug\u001b[m\u001b[K’ discards ‘\u001b[01m\u001b[Kconst\u001b[m\u001b[K’ qualifier from pointer target type [-Wdiscarded-qualifiers]\r\n  g_strstrip (_tmp1_);\r\n\u001b[01;32m\u001b[K              ^\u001b[m\u001b[K\r\n\u001b[01m\u001b[K/usr/include/glib-2.0/glib/gstrfuncs.h:180:53:\u001b[m\u001b[K \u001b[01;36m\u001b[Knote: \u001b[m\u001b[Kin definition of macro ‘\u001b[01m\u001b[Kg_strstrip\u001b[m\u001b[K’\r\n #define g_strstrip( string ) g_strchomp (g_strchug (string))\r\n\u001b[01;32m\u001b[K                                                     ^\u001b[m\u001b[K\r\n"
+    ],
+    [
+      0.000021,
+      "\u001b[01m\u001b[K/usr/include/glib-2.0/glib/gstrfuncs.h:175:23:\u001b[m\u001b[K \u001b[01;36m\u001b[Knote: \u001b[m\u001b[Kexpected ‘\u001b[01m\u001b[Kgchar * {aka char *}\u001b[m\u001b[K’ but argument is of type ‘\u001b[01m\u001b[Kconst gchar * {aka const char *}\u001b[m\u001b[K’\r\n gchar*                g_strchug        (gchar        *string);\r\n\u001b[01;32m\u001b[K                       ^\u001b[m\u001b[K\r\n"
+    ],
+    [
+      0.006833,
+      "In file included from \u001b[01m\u001b[K/usr/include/glib-2.0/gobject/gobject.h:24:0\u001b[m\u001b[K,\r\n                 from \u001b[01m\u001b[K/usr/include/glib-2.0/gobject/gbinding.h:29\u001b[m\u001b[K,\r\n                 from \u001b[01m\u001b[K/usr/include/glib-2.0/glib-object.h:23\u001b[m\u001b[K,\r\n                 from \u001b[01m\u001b[K/opt/vala/vala-stacktrace/src/library/vala/Stacktrace.vala.c:31\u001b[m\u001b[K:\r\n\u001b[01m\u001b[K/opt/vala/vala-stacktrace/src/library/vala/Stacktrace.vala.c:\u001b[m\u001b[K In function ‘\u001b[01m\u001b[Kstacktrace_print\u001b[m\u001b[K’:\r\n"
+    ],
+    [
+      0.000172,
+      "\u001b[01m\u001b[K/usr/include/glib-2.0/gobject/gtype.h:479:65:\u001b[m\u001b[K \u001b[01;35m\u001b[Kwarning: \u001b[m\u001b[Kpassing argument 1 of ‘\u001b[01m\u001b[Kgee_abstract_collection_get_size\u001b[m\u001b[K’ from incompatible pointer type [-Wincompatible-pointer-types]\r\n #define G_TYPE_CHECK_INSTANCE_CAST(instance, g_type, c_type)    (_G_TYPE_CIC ((instance), (g_type), c_type))\r\n\u001b[01;32m\u001b[K                                                                 ^\u001b[m\u001b[K\r\n\u001b[01m\u001b[K/opt/vala/vala-stacktrace/src/library/vala/Stacktrace.vala.c:2647:47:\u001b[m\u001b[K \u001b[01;36m\u001b[Knote: \u001b[m\u001b[Kin expansion of macro ‘\u001b[01m\u001b[KG_TYPE_CHECK_INSTANCE_CAST\u001b[m\u001b[K’\r\n   _tmp75_ = gee_abstract_collection_get_size (G_TYPE_CHECK_INSTANCE_CAST (_tmp74_, GEE_TYPE_COLLECTION, GeeCollection));\r\n\u001b[01;32m\u001b[K                                               ^\u001b[m\u001b[K\r\n"
+    ],
+    [
+      0.000172,
+      "In file included from \u001b[01m\u001b[K/opt/vala/vala-stacktrace/src/library/vala/Stacktrace.vala.c:32:0\u001b[m\u001b[K:\r\n\u001b[01m\u001b[K/usr/include/gee-0.8/gee.h:1452:6:\u001b[m\u001b[K \u001b[01;36m\u001b[Knote: \u001b[m\u001b[Kexpected ‘\u001b[01m\u001b[KGeeAbstractCollection * {aka struct _GeeAbstractCollection *}\u001b[m\u001b[K’ but argument is of type ‘\u001b[01m\u001b[KGeeCollection * {aka struct _GeeCollection *}\u001b[m\u001b[K’\r\n gint gee_abstract_collection_get_size (GeeAbstractCollection* self);\r\n\u001b[01;32m\u001b[K      ^\u001b[m\u001b[K\r\n"
+    ],
+    [
+      0.219263,
+      "\u001b[0;34m[BuildApplicationPlugin] \u001b[0m\u001b[0;34;1;32mLibrary binary compilation finished.\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[0m\u001b[0;34m[BuildApplicationPlugin] \u001b[0m\u001b[0;34;39mGenerating runtime binary.\r\n\u001b[0m\u001b[0;34m[BuildApplicationPlugin] \u001b[0m\u001b[0;34;39mUsing generated library as dependency.\r\n"
+    ],
+    [
+      0.000055,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mInitializing CodeContext\r\n"
+    ],
+    [
+      0.001972,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing VAPI directory: src/library/vapi for dependency: vala-stacktrace-2.0.\r\n\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing C headers directory: src/library/c for dependency: vala-stacktrace-2.0.\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mInitializing dependencies for scope: runtime.\r\n"
+    ],
+    [
+      0.000038,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: glib-2.0.\r\n"
+    ],
+    [
+      0.000044,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: gobject-2.0.\r\n"
+    ],
+    [
+      0.000037,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: gee-0.8.\r\n"
+    ],
+    [
+      0.000042,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: posix.\r\n"
+    ],
+    [
+      0.000058,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: linux.\r\n"
+    ],
+    [
+      0.000035,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: vala-stacktrace-2.0.\r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mNo VALA source files available, skipping code compilation.\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[0m\u001b[0;34m[BuildApplicationPlugin] \u001b[0m\u001b[0;34;1;32mCode compilation finished.\r\n"
+    ],
+    [
+      0.000029,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mRunning plugin: repository:install\r\n"
+    ],
+    [
+      0.000041,
+      "\u001b[0m\u001b[0;34m[InstallInLocalRepositoryPlugin] \u001b[0m\u001b[0;34;39mInitializing project directory structure in local repository.\r\n"
+    ],
+    [
+      0.000357,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: .bob.\r\n"
+    ],
+    [
+      0.000098,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: vala-stacktrace.\r\n"
+    ],
+    [
+      0.000092,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: 2.0.\r\n"
+    ],
+    [
+      0.000087,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: vapi.\r\n"
+    ],
+    [
+      0.000089,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: c.\r\n"
+    ],
+    [
+      0.000097,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: lib.\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m\u001b[0;34m[InstallInLocalRepositoryPlugin] \u001b[0m\u001b[0;34;1;32mRepository project directory structure ready.\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[0m\u001b[0;34m[InstallInLocalRepositoryPlugin] \u001b[0m\u001b[0;34;39mInstalling project files in local repository.\r\n"
+    ],
+    [
+      0.000025,
+      "\u001b[0m\u001b[0;34m[InstallInLocalRepositoryPlugin] \u001b[0m\u001b[0;34;39mDumping receipe file to directory: /home/activey/.bob/vala-stacktrace/2.0.\r\n"
+    ],
+    [
+      0.000344,
+      "\u001b[0m\u001b[0;34m[InstallInLocalRepositoryPlugin] \u001b[0m\u001b[0;34;39mCopying VAPI file /opt/vala/vala-stacktrace/src/library/vapi/vala-stacktrace-2.0.vapi to directory: /home/activey/.bob/vala-stacktrace/2.0/vapi.\r\n"
+    ],
+    [
+      0.004915,
+      "\u001b[0m\u001b[0;34m[InstallInLocalRepositoryPlugin] \u001b[0m\u001b[0;34;39mCopying C header file /opt/vala/vala-stacktrace/src/library/c/vala-stacktrace-2.0.h to directory: /home/activey/.bob/vala-stacktrace/2.0/c.\r\n"
+    ],
+    [
+      0.003061,
+      "\u001b[0m\u001b[0;34m[InstallInLocalRepositoryPlugin] \u001b[0m\u001b[0;34;39mCopying SO library file /opt/vala/vala-stacktrace/target/lib/libvala-stacktrace.so to directory: /home/activey/.bob/vala-stacktrace/2.0/lib.\r\n"
+    ],
+    [
+      0.006479,
+      "\u001b[0m\u001b[0;34m[BobBuildContext] \u001b[0m\u001b[0;34;39mTook time: 0.603276 seconds.\r\n\u001b[0m"
+    ],
+    [
+      0.021388,
+      "\u001b"
+    ],
+    [
+      0.000007,
+      "]0;fish  "
+    ],
+    [
+      0.000003,
+      "/"
+    ],
+    [
+      0.000003,
+      "o"
+    ],
+    [
+      0.000003,
+      "p"
+    ],
+    [
+      0.000003,
+      "t"
+    ],
+    [
+      0.000003,
+      "/"
+    ],
+    [
+      0.000012,
+      "v"
+    ],
+    [
+      0.000003,
+      "a"
+    ],
+    [
+      0.000003,
+      "l"
+    ],
+    [
+      0.000003,
+      "a"
+    ],
+    [
+      0.000003,
+      "/"
+    ],
+    [
+      0.000007,
+      "v"
+    ],
+    [
+      0.000003,
+      "a"
+    ],
+    [
+      0.000006,
+      "l"
+    ],
+    [
+      0.000003,
+      "a"
+    ],
+    [
+      0.000006,
+      "-"
+    ],
+    [
+      0.000003,
+      "s"
+    ],
+    [
+      0.000016,
+      "t"
+    ],
+    [
+      0.000003,
+      "a"
+    ],
+    [
+      0.000003,
+      "c"
+    ],
+    [
+      0.000007,
+      "k"
+    ],
+    [
+      0.000003,
+      "t"
+    ],
+    [
+      0.000007,
+      "r"
+    ],
+    [
+      0.000003,
+      "a"
+    ],
+    [
+      0.000003,
+      "c"
+    ],
+    [
+      0.000007,
+      "e"
+    ],
+    [
+      0.000003,
+      "\u0007"
+    ],
+    [
+      0.000021,
+      "\u001b"
+    ],
+    [
+      0.000004,
+      "[3"
+    ],
+    [
+      0.000003,
+      "0"
+    ],
+    [
+      0.000003,
+      "m"
+    ],
+    [
+      0.000003,
+      "\u001b"
+    ],
+    [
+      0.000008,
+      "("
+    ],
+    [
+      0.000003,
+      "B"
+    ],
+    [
+      0.000003,
+      "\u001b"
+    ],
+    [
+      0.000003,
+      "["
+    ],
+    [
+      0.000007,
+      "m"
+    ],
+    [
+      0.000164,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000165,
+      "\u001b[44m\u001b[30m /o/v/vala-stacktrace \u001b[43m\u001b[34m \u001b[43m\u001b[30m master ± \u001b[40m\u001b(B\u001b[m\u001b[33m \u001b[K"
+    ],
+    [
+      1.890423,
+      "c\u0008\u001b[31m\u001b[1mc\u001b(B\u001b[md\u001b[38;5;240m /opt/vala/\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.116582,
+      "\u001b[31m\u001b[1md\u001b(B\u001b[m \u001b[38;5;240m/opt/vala/\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m\u0008\u0008\u001b[38;5;26mcd\u001b[30m\u001b(B\u001b[m \u001b[38;5;240m/opt/vala/\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.039570,
+      "\u001b[38;5;26m \u001b[30m\u001b(B\u001b[m/\u001b[38;5;240mopt/vala/\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m\u0008 /\u001b[38;5;240mopt/vala/\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.180057,
+      ".\u001b[K\u0008\u001b[38;5;39m\u001b[4m.\u001b[30m\u001b(B\u001b[m.\u0008"
+    ],
+    [
+      0.142647,
+      "\u001b[38;5;39m\u001b[4m.\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.107479,
+      "\r\n\u001b[30m\u001b(B\u001b[m\u001b]0;cd  /opt/vala/vala-stacktrace\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.006430,
+      "\u001b]7;file:///%6f%70%74/%76%61%6c%61\u0007"
+    ],
+    [
+      0.011262,
+      "\u001b]0;fis"
+    ],
+    [
+      0.000020,
+      "h  /opt/vala\u0007"
+    ],
+    [
+      0.000019,
+      "\u001b[3"
+    ],
+    [
+      0.000003,
+      "0m\u001b"
+    ],
+    [
+      0.000003,
+      "("
+    ],
+    [
+      0.000003,
+      "B"
+    ],
+    [
+      0.000003,
+      "\u001b"
+    ],
+    [
+      0.000003,
+      "[m"
+    ],
+    [
+      0.000164,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000181,
+      "\u001b[44m\u001b[30m /o/vala \u001b[40m\u001b(B\u001b[m\u001b[34m \u001b[K"
+    ],
+    [
+      0.867304,
+      "cd\u001b[38;5;240m ..\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m\u0008\u001b[31m\u001b[1mc\u001b(B\u001b[md\u001b[38;5;240m ..\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.104435,
+      "\u001b[31m\u001b[1md\u001b(B\u001b[m \u001b[38;5;240m..\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m\u0008\u0008\u001b[38;5;26mcd\u001b[30m\u001b(B\u001b[m \u001b[38;5;240m..\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.070041,
+      "\u001b[38;5;26m \u001b[30m\u001b(B\u001b[m.\u001b[38;5;240m.\u0008\u0008\u001b[30m\u001b(B\u001b[m\u0008 .\u001b[38;5;240m.\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.254274,
+      "t\u001b[K\u0008\u001b[38;5;39m\u001b[4mt\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000569,
+      "e\u001b[38;5;240mst-project/\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.044294,
+      "\u001b[38;5;39m\u001b[4me\u001b[30m\u001b(B\u001b[ms\u001b[38;5;240mt-project/\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.113470,
+      "\u001b[38;5;39m\u001b[4ms\u001b[30m\u001b(B\u001b[mt\u001b[38;5;240m-project/\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.087798,
+      "\u001b[38;5;39m\u001b[4mt\u001b[30m\u001b(B\u001b[m-\u001b[38;5;240mproject/\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.469667,
+      "\u001b[38;5;39m\u001b[4m-project/\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.686028,
+      "\r\n\u001b[30m\u001b(B\u001b[m\u001b]0;cd  /opt/vala\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.007879,
+      "\u001b]7;file:///%6f%70%74/%76%61%6c%61/%74%65%73%74%2d%70%72%6f%6a%65%63%74\u0007"
+    ],
+    [
+      0.011626,
+      "\u001b]0"
+    ],
+    [
+      0.000007,
+      ";fish  /opt/va"
+    ],
+    [
+      0.000003,
+      "la"
+    ],
+    [
+      0.000003,
+      "/"
+    ],
+    [
+      0.000003,
+      "t"
+    ],
+    [
+      0.000002,
+      "es"
+    ],
+    [
+      0.000002,
+      "t"
+    ],
+    [
+      0.000003,
+      "-"
+    ],
+    [
+      0.000002,
+      "p"
+    ],
+    [
+      0.000002,
+      "r"
+    ],
+    [
+      0.000003,
+      "o"
+    ],
+    [
+      0.000003,
+      "je"
+    ],
+    [
+      0.000003,
+      "c"
+    ],
+    [
+      0.000003,
+      "t"
+    ],
+    [
+      0.000003,
+      "\u0007"
+    ],
+    [
+      0.000013,
+      "\u001b"
+    ],
+    [
+      0.000003,
+      "[3"
+    ],
+    [
+      0.000003,
+      "0m"
+    ],
+    [
+      0.000003,
+      "\u001b"
+    ],
+    [
+      0.000003,
+      "("
+    ],
+    [
+      0.000003,
+      "B"
+    ],
+    [
+      0.000003,
+      "\u001b"
+    ],
+    [
+      0.000003,
+      "[m"
+    ],
+    [
+      0.000129,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000125,
+      "\u001b[44m\u001b[30m /o/v/test-project \u001b[40m\u001b(B\u001b[m\u001b[34m \u001b[K"
+    ],
+    [
+      0.493920,
+      "l"
+    ],
+    [
+      0.000435,
+      "\u0008\u001b[31m\u001b[1ml\u001b(B\u001b[m"
+    ],
+    [
+      0.000355,
+      "s\u0008"
+    ],
+    [
+      0.063071,
+      "\u001b[31m\u001b[1ms\u001b(B\u001b[m"
+    ],
+    [
+      0.000476,
+      "\u0008\u0008\u001b[38;5;26mls\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.104359,
+      "\r\n\u001b[30m\u001b(B\u001b[m\u001b]0;ls  /opt/vala/test-project\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.007959,
+      "recipe.bob  \u001b[0m\u001b[01;34msrc\u001b[0m/  \u001b[01;34mtarget\u001b[0m/\r\n"
+    ],
+    [
+      0.020606,
+      "\u001b]"
+    ],
+    [
+      0.000011,
+      "0;fish  "
+    ],
+    [
+      0.000005,
+      "/"
+    ],
+    [
+      0.000005,
+      "o"
+    ],
+    [
+      0.000014,
+      "p"
+    ],
+    [
+      0.000004,
+      "t"
+    ],
+    [
+      0.000004,
+      "/"
+    ],
+    [
+      0.000009,
+      "v"
+    ],
+    [
+      0.000004,
+      "a"
+    ],
+    [
+      0.000009,
+      "l"
+    ],
+    [
+      0.000004,
+      "a"
+    ],
+    [
+      0.000009,
+      "/"
+    ],
+    [
+      0.000004,
+      "t"
+    ],
+    [
+      0.000010,
+      "e"
+    ],
+    [
+      0.000004,
+      "s"
+    ],
+    [
+      0.000004,
+      "t"
+    ],
+    [
+      0.000017,
+      "-"
+    ],
+    [
+      0.000151,
+      "p"
+    ],
+    [
+      0.000006,
+      "roj"
+    ],
+    [
+      0.000004,
+      "e"
+    ],
+    [
+      0.000065,
+      "ct\u0007\u001b[30"
+    ],
+    [
+      0.000005,
+      "m"
+    ],
+    [
+      0.000004,
+      "\u001b"
+    ],
+    [
+      0.000004,
+      "("
+    ],
+    [
+      0.000004,
+      "B"
+    ],
+    [
+      0.000012,
+      "\u001b"
+    ],
+    [
+      0.000004,
+      "["
+    ],
+    [
+      0.000004,
+      "m"
+    ],
+    [
+      0.000217,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000271,
+      "\u001b[44m\u001b[30m /o/v/test-project \u001b[40m\u001b(B\u001b[m\u001b[34m \u001b[K"
+    ],
+    [
+      1.436832,
+      "v"
+    ],
+    [
+      0.001133,
+      "\u0008\u001b[31m\u001b[1mv\u001b(B\u001b[mi\u001b[38;5;240mm src/main/vala/Test2.vala \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.093951,
+      "\u001b[31m\u001b[1mi\u001b(B\u001b[mm\u001b[38;5;240m src/main/vala/Test2.vala \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m\u0008\u0008\u001b[38;5;26mvi\u001b[30m\u001b(B\u001b[mm\u001b[38;5;240m src/main/vala/Test2.vala \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.063192,
+      "\u001b[38;5;26mm\u001b[30m\u001b(B\u001b[m \u001b[38;5;240msrc/main/vala/Test2.vala \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.621676,
+      "\u001b[38;5;26m src/main/vala/Test2.vala \u001b[30m\u001b(B\u001b[m\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008 \u001b[38;5;39msrc/main/vala/Test2.vala\u001b[30m\u001b(B\u001b[m "
+    ],
+    [
+      0.669611,
+      "\r\n\u001b[30m\u001b(B\u001b[m\u001b]0;vim  /opt/vala/test-project\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.031058,
+      "\u001b[?1049h\u001b[?1h\u001b=\u001b[2;1H▽\u001b[6n\u001b[2;1H  \u001b[1;1H"
+    ],
+    [
+      0.000008,
+      "\u001b]11;?\u0007"
+    ],
+    [
+      0.000457,
+      "\u001b[1;24r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[?25l\u001b[24;1H\"src/main/vala/Test2.vala\""
+    ],
+    [
+      0.000035,
+      " 10L, 163C"
+    ],
+    [
+      0.002902,
+      "\u001b[\u003ec"
+    ],
+    [
+      0.000647,
+      "\u001b[1;1H\u001b[32mpublic\u001b[m \u001b[32mclass\u001b[m Test {\u001b[3;5H\u001b[32mpublic\u001b[m \u001b[32mvoid\u001b[m helloWorld() {\u001b[4;9Hstdout.printf(\u001b[31m\"Hello world! \u001b[m\u001b[35m\\n\u001b[m\u001b[31m\"\u001b[m);\r\n    }\u001b[7;5H\u001b[32mpublic\u001b[m \u001b[32mstatic\u001b[m \u001b[32mvoid\u001b[m main(\u001b[32mstring\u001b[m[] args) {\u001b[8;9H\u001b[38;5;130mnew\u001b[m Test().helloWorld();\r\n    }\r\n}\r\n\u001b[94m~                                                                               \u001b[12;1H~                                                                               \u001b[13;1H~                                                                               \u001b[14;1H~                                                                               \u001b[15;1H~                                                                               \u001b[16;1H~                                                                               \u001b[17;1H~                                                                               \u001b[18;1H~                                                                               \u001b[19;1H~                                                                               \u001b[20;1H~                                                                               \u001b[21;1H~                                                                               \u001b[22;1H~                                                                               \u001b[23;1H~                                                                               \u001b[m\u001b[24;63H1,1      Wszystko\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.024819,
+      "\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[?25l\u001b[1;1H\u001b[38;5;121mpublic\u001b[m \u001b[38;5;121mclass\u001b[m Test {\u001b[3;5H\u001b[38;5;121mpublic\u001b[m \u001b[38;5;121mvoid\u001b[m helloWorld() {\u001b[4;9Hstdout.printf(\u001b[95m\"Hello world! \u001b[m\u001b[38;5;224m\\n\u001b[m\u001b[95m\"\u001b[m);\r\n    }\u001b[7;5H\u001b[38;5;121mpublic\u001b[m \u001b[38;5;121mstatic\u001b[m \u001b[38;5;121mvoid\u001b[m main(\u001b[38;5;121mstring\u001b[m[] args) {\u001b[8;9H\u001b[93mnew\u001b[m Test().helloWorld();\r\n    }\r\n}\r\n\u001b[94m~                                                                               \u001b[12;1H~                                                                               \u001b[13;1H~                                                                               \u001b[14;1H~                                                                               \u001b[15;1H~                                                                               \u001b[16;1H~                                                                               \u001b[17;1H~                                                                               \u001b[18;1H~                                                                               \u001b[19;1H~                                                                               \u001b[20;1H~                                                                               \u001b[21;1H~                                                                               \u001b[22;1H~                                                                               \u001b[23;1H~                                                                               \u001b[m\u001b[24;63H1,1      Wszystko\r\"src/main/vala/Test2.vala\" 10L, 163C\u001b[1;1H\u001bP+q436f\u001b\\\u001bP+q6b75\u001b\\\u001bP+q6b64\u001b\\\u001bP+q6b72\u001b\\\u001bP+q6b6c\u001b\\\u001bP+q2332\u001b\\\u001bP+q2334\u001b\\\u001bP+q2569\u001b\\\u001bP+q2a37\u001b\\\u001bP+q6b31\u001b\\"
+    ],
+    [
+      0.000012,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.620924,
+      "\u001b[?25l\u001b[24;63H2,0-1\u001b[2;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.124769,
+      "\u001b[?25l\u001b[24;63H3,1-4\u001b[3;4H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.126912,
+      "\u001b[?25l\u001b[24;63H4\u001b[4;4H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.137605,
+      "\u001b[?25l\u001b[24;63H5\u001b[5;4H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.135295,
+      "\u001b[?25l\u001b[24;63H6,0-1\u001b[6;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.127406,
+      "\u001b[?25l\u001b[24;63H7,1-4\u001b[7;4H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.288730,
+      "\u001b[?25l\u001b[24;1H\u001b[K\u001b[24;1H:\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.290915,
+      "q\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.208493,
+      "!\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.381774,
+      "\r\u001b[?25l\u001b[24;1H\u001b[K\u001b[24;1H\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.018856,
+      "\u001b]0;fis"
+    ],
+    [
+      0.000010,
+      "h  /opt/vala/"
+    ],
+    [
+      0.000005,
+      "te"
+    ],
+    [
+      0.000003,
+      "st"
+    ],
+    [
+      0.000002,
+      "-"
+    ],
+    [
+      0.000002,
+      "p"
+    ],
+    [
+      0.000002,
+      "r"
+    ],
+    [
+      0.000019,
+      "oj"
+    ],
+    [
+      0.000005,
+      "ect\u0007"
+    ],
+    [
+      0.000020,
+      "\u001b"
+    ],
+    [
+      0.000004,
+      "[30m"
+    ],
+    [
+      0.000003,
+      "\u001b"
+    ],
+    [
+      0.000003,
+      "("
+    ],
+    [
+      0.000004,
+      "B"
+    ],
+    [
+      0.000004,
+      "\u001b"
+    ],
+    [
+      0.000004,
+      "[m"
+    ],
+    [
+      0.000152,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000175,
+      "\u001b[44m\u001b[30m /o/v/test-project \u001b[40m\u001b(B\u001b[m\u001b[34m \u001b[K"
+    ],
+    [
+      1.590156,
+      "b\u0008\u001b[31m\u001b[1mb\u001b(B\u001b[mo\u001b[38;5;240mb collect-sources repository:scan build repository:inst…\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.094605,
+      "\u001b[31m\u001b[1mo\u001b(B\u001b[mb\u001b[38;5;240m collect-sources repository:scan build repository:inst…\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.085650,
+      "\u001b[31m\u001b[1mb\u001b(B\u001b[m \u001b[38;5;240mcollect-sources repository:scan build repository:inst…\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000358,
+      "\u0008\u0008\u0008\u001b[38;5;26mbob\u001b[30m\u001b(B\u001b[m \u001b[38;5;240mcollect-sources repository:scan build repository:inst…\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.816889,
+      "\u0008\u0008\u0008\u001b[K\r\n\u001b[38;5;26mbob collect-sources repository:scan build repository:install\u001b[30m\u001b(B\u001b[m\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008 \u001b[38;5;39mcollect-sources\u001b[30m\u001b(B\u001b[m \u001b[38;5;39mrepository:scan\u001b[30m\u001b(B\u001b[m \u001b[38;5;39mbuild\u001b[30m\u001b(B\u001b[m \u001b[38;5;39mrepository:install\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      2.884722,
+      "\r\n\u001b[30m\u001b(B\u001b[m\u001b]0;bob  /opt/vala/test-project\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.021266,
+      "\u001b[0;34m[BobBuildProjectRecipe] \u001b[0m\u001b[0;34;39mParsing project dependencies.\r\n"
+    ],
+    [
+      0.000388,
+      "\u001b[0m\u001b[0;34m[BobBuildRecipe] \u001b[0m\u001b[0;34;39mParsing plugin recipe: build\r\n"
+    ],
+    [
+      0.000661,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mLoading plugins from directory: /opt/vala/valder/target/plugins\r\n"
+    ],
+    [
+      0.000703,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mLoaded build plugin module: /opt/vala/valder/target/plugins/libplugin-build.so\r\n"
+    ],
+    [
+      0.000085,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mRegistering new plugin: build\r\n"
+    ],
+    [
+      0.000308,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mLoaded build plugin module: /opt/vala/valder/target/plugins/libplugin-collect-sources.so\r\n"
+    ],
+    [
+      0.000086,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mRegistering new plugin: collect-sources\r\n"
+    ],
+    [
+      0.000346,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mLoaded build plugin module: /opt/vala/valder/target/plugins/libplugin-initialize.so\r\n"
+    ],
+    [
+      0.000083,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mRegistering new plugin: initialize:structure\r\n"
+    ],
+    [
+      0.000089,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mRegistering new plugin: initialize:recipe\r\n"
+    ],
+    [
+      0.000317,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mLoaded build plugin module: /opt/vala/valder/target/plugins/libplugin-repository.so\r\n"
+    ],
+    [
+      0.000034,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mRegistering new plugin: repository:install\r\n"
+    ],
+    [
+      0.000039,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mRegistering new plugin: repository:scan\r\n"
+    ],
+    [
+      0.000031,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mRegistering new plugin: repository:copy-libs\r\n"
+    ],
+    [
+      0.000173,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mLoaded build plugin module: /opt/vala/valder/target/plugins/libplugin-uncrustify.so\r\n"
+    ],
+    [
+      0.000040,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mRegistering new plugin: uncrustify\r\n"
+    ],
+    [
+      0.000047,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mUsing build plugin: collect-sources.\r\n"
+    ],
+    [
+      0.000019,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mUsing build plugin: repository:scan.\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mUsing build plugin: build.\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mUsing build plugin: repository:install.\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[0m\u001b[0;34m[BobBuildContext] \u001b[0m\u001b[0;34;39mBuilding project: test-0.0.1 (Test project)\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[0m\u001b[0;34m[BobBuildContext] \u001b[0m\u001b[0;34;39mLoading project plugins recipies...\r\n"
+    ],
+    [
+      0.000021,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mInitializing plugin 'collect-sources' with recipe data.\r\n"
+    ],
+    [
+      0.000082,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mInitializing plugin 'repository:scan' with recipe data.\r\n"
+    ],
+    [
+      0.000892,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: .bob.\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[0m\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;39mFound repository directory: /home/activey/.bob.\r\n"
+    ],
+    [
+      0.000021,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mInitializing plugin 'build' with recipe data.\r\n"
+    ],
+    [
+      0.000056,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mInitializing plugin 'repository:install' with recipe data.\r\n"
+    ],
+    [
+      0.000032,
+      "\u001b[0m\u001b[0;34m[BobBuildContext] \u001b[0m\u001b[0;34;39mRunning project plugins\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mRunning plugin: collect-sources\r\n"
+    ],
+    [
+      0.001096,
+      "\u001b[0m\u001b[0;34m[CollectSourcesPlugin] \u001b[0m\u001b[0;34;39m/opt/vala/test-project/src/main/vala/Test2.vala (163 bytes)\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[0m\u001b[0;34m[CollectSourcesPlugin] \u001b[0m\u001b[0;34;39mUsing 1 project source files with 163 bytes in total.\r\n\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mRunning plugin: repository:scan\r\n"
+    ],
+    [
+      0.000020,
+      "\u001b[0m\u001b[0;34m[ScanLocalRepositoryPlugin] \u001b[0m\u001b[0;34;39mScanning local repository for project dependencies.\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[0m\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;39mScanning for depedency match in local repository: glib-2.0\r\n"
+    ],
+    [
+      0.000239,
+      "\u001b[0;34"
+    ],
+    [
+      0.000006,
+      "m[RepositoryDependencyScanner] \u001b[0m"
+    ],
+    [
+      0.000005,
+      "\u001b[0;34;22;33"
+    ],
+    [
+      0.000003,
+      "m"
+    ],
+    [
+      0.000004,
+      "Repository directory for glib-2.0 does not exist."
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[0m"
+    ],
+    [
+      0.000019,
+      "\u001b[0m\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;39mScanning for depedency match in local repository: gobject-2.0\r\n"
+    ],
+    [
+      0.000204,
+      "\u001b[0;34"
+    ],
+    [
+      0.000003,
+      "m[RepositoryDependencyScanner] "
+    ],
+    [
+      0.000003,
+      "\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\u001b[0;34;22;33"
+    ],
+    [
+      0.000003,
+      "m"
+    ],
+    [
+      0.000004,
+      "Repository directory for gobject-2.0 does not exist."
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[0m"
+    ],
+    [
+      0.000019,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mRunning plugin: build\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[0m\u001b[0;34m[BuildApplicationPlugin] \u001b[0m\u001b[0;34;39mGenerating library binary.\r\n"
+    ],
+    [
+      0.000036,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mInitializing CodeContext\r\n"
+    ],
+    [
+      0.000692,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mInitializing dependencies for scope: library.\r\n"
+    ],
+    [
+      0.000037,
+      "\u001b[0mLoaded package `/usr/share/vala-0.28/vapi/glib-2.0.vapi'\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: glib-2.0.\r\n"
+    ],
+    [
+      0.000021,
+      "\u001b[0mLoaded package `/usr/share/vala-0.28/vapi/gobject-2.0.vapi'\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: gobject-2.0.\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mNo VALA source files available, skipping code compilation.\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[0m\u001b[0;34m[BuildApplicationPlugin] \u001b[0m\u001b[0;34;39mGenerating runtime binary.\r\n"
+    ],
+    [
+      0.000022,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mInitializing CodeContext\r\n"
+    ],
+    [
+      0.000156,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mInitializing dependencies for scope: runtime.\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[0mLoaded package `/usr/share/vala-0.28/vapi/glib-2.0.vapi'\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: glib-2.0.\r\n"
+    ],
+    [
+      0.000019,
+      "\u001b[0mLoaded package `/usr/share/vala-0.28/vapi/gobject-2.0.vapi'\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: gobject-2.0.\r\n"
+    ],
+    [
+      0.000044,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing source file: /opt/vala/test-project/src/main/vala/Test2.vala.\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mStarting code compilation ...\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mRunning code parsers.\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mRunning general parser.\r\n"
+    ],
+    [
+      0.043160,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mRunning GENIE parser.\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mRunning GIR parser.\r\n"
+    ],
+    [
+      0.025384,
+      "\u001b[0m\u003e\u003e\u003e\u003e -Wl,-rpath=$ORIGIN/lib,-Ltarget/lib \r\n"
+    ],
+    [
+      0.012406,
+      "cc -o '/opt/vala/test-project/target/test' '/opt/vala/test-project/src/main/vala/Test2.vala.c' -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -lgobject-2.0 -lglib-2.0 '-Wl,-rpath=$ORIGIN/lib' '-Ltarget/lib'\r\n"
+    ],
+    [
+      0.115201,
+      "\u001b[0;34m[BuildApplicationPlugin] \u001b[0m\u001b[0;34;1;32mRuntime binary compilation finished.\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[0m\u001b[0;34m[BuildApplicationPlugin] \u001b[0m\u001b[0;34;1;32mCode compilation finished.\r\n\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mRunning plugin: repository:install\r\n"
+    ],
+    [
+      0.000038,
+      "\u001b[0m\u001b[0;34m[InstallInLocalRepositoryPlugin] \u001b[0m\u001b[0;34;39mInitializing project directory structure in local repository.\r\n"
+    ],
+    [
+      0.000580,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: .bob.\r\n"
+    ],
+    [
+      0.000090,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mCreating new directory: test.\r\n"
+    ],
+    [
+      0.000126,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mCreating new directory: 0.0.1.\r\n"
+    ],
+    [
+      0.000101,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mCreating new directory: vapi.\r\n"
+    ],
+    [
+      0.000098,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mCreating new directory: c.\r\n"
+    ],
+    [
+      0.000110,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mCreating new directory: lib.\r\n"
+    ],
+    [
+      0.000044,
+      "\u001b[0m\u001b[0;34m[InstallInLocalRepositoryPlugin] \u001b[0m\u001b[0;34;1;32mRepository project directory structure ready.\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[0m\u001b[0;34m[InstallInLocalRepositoryPlugin] \u001b[0m\u001b[0;34;39mInstalling project files in local repository.\r\n"
+    ],
+    [
+      0.000024,
+      "\u001b[0m\u001b[0;34m[InstallInLocalRepositoryPlugin] \u001b[0m\u001b[0;34;39mDumping receipe file to directory: /home/activey/.bob/test/0.0.1.\r\n"
+    ],
+    [
+      0.051263,
+      "\u001b[0m\u001b[0;34m[BobBuildContext] \u001b[0m\u001b[0;34;39mTook time: 0.252307 seconds.\r\n\u001b[0m"
+    ],
+    [
+      0.011254,
+      "\u001b"
+    ],
+    [
+      0.000007,
+      "]0;fish  "
+    ],
+    [
+      0.000003,
+      "/"
+    ],
+    [
+      0.000003,
+      "o"
+    ],
+    [
+      0.000003,
+      "p"
+    ],
+    [
+      0.000020,
+      "t"
+    ],
+    [
+      0.000006,
+      "/val"
+    ],
+    [
+      0.000004,
+      "a/"
+    ],
+    [
+      0.000009,
+      "test-"
+    ],
+    [
+      0.000003,
+      "pr"
+    ],
+    [
+      0.000004,
+      "o"
+    ],
+    [
+      0.000003,
+      "je"
+    ],
+    [
+      0.000003,
+      "c"
+    ],
+    [
+      0.000002,
+      "t"
+    ],
+    [
+      0.000002,
+      "\u0007"
+    ],
+    [
+      0.000018,
+      "\u001b[3"
+    ],
+    [
+      0.000004,
+      "0m"
+    ],
+    [
+      0.000003,
+      "\u001b("
+    ],
+    [
+      0.000003,
+      "B"
+    ],
+    [
+      0.000003,
+      "\u001b"
+    ],
+    [
+      0.000003,
+      "[m"
+    ],
+    [
+      0.000165,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000098,
+      "\u001b[44m\u001b[30m /o/v/test-project \u001b[40m\u001b(B\u001b[m\u001b[34m \u001b[K"
+    ],
+    [
+      1.410239,
+      ".\u0008\u001b[38;5;26m\u001b[4m.\u001b[30m\u001b(B\u001b[m/\u001b[38;5;240mtarget/test \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.031015,
+      "\u001b[38;5;26m\u001b[4m/\u001b[30m\u001b(B\u001b[mt\u001b[38;5;240marget/test \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.167387,
+      "\u001b[38;5;26m\u001b[4mt\u001b[30m\u001b(B\u001b[ma\u001b[38;5;240mrget/test \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m\u0008\u0008\u0008\u001b[31m\u001b[1m./t\u001b(B\u001b[ma\u001b[38;5;240mrget/test \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.083457,
+      "\u001b[31m\u001b[1ma\u001b(B\u001b[mr\u001b[38;5;240mget/test \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.510381,
+      "\u001b[31m\u001b[1mrget/test \u001b(B\u001b[m\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[38;5;26m./target/test\u001b[30m\u001b(B\u001b[m "
+    ],
+    [
+      1.176223,
+      "\r\n\u001b[30m\u001b(B\u001b[m\u001b]0;./target/test  /opt/vala/test-project\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.002476,
+      "Hello world! \r\n"
+    ],
+    [
+      0.010582,
+      "\u001b]0;fi"
+    ],
+    [
+      0.000008,
+      "sh  /opt/vala/t"
+    ],
+    [
+      0.000004,
+      "est"
+    ],
+    [
+      0.000003,
+      "-p"
+    ],
+    [
+      0.000002,
+      "r"
+    ],
+    [
+      0.000002,
+      "o"
+    ],
+    [
+      0.000002,
+      "j"
+    ],
+    [
+      0.000012,
+      "ect"
+    ],
+    [
+      0.000002,
+      "\u0007"
+    ],
+    [
+      0.000020,
+      "\u001b"
+    ],
+    [
+      0.000003,
+      "["
+    ],
+    [
+      0.000016,
+      "3"
+    ],
+    [
+      0.000004,
+      "0m\u001b(B"
+    ],
+    [
+      0.000002,
+      "\u001b"
+    ],
+    [
+      0.000014,
+      "["
+    ],
+    [
+      0.000004,
+      "m"
+    ],
+    [
+      0.000105,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000118,
+      "\u001b[44m\u001b[30m /o/v/test-project \u001b[40m\u001b(B\u001b[m\u001b[34m \u001b[K"
+    ],
+    [
+      3.556934,
+      "v"
+    ],
+    [
+      0.001067,
+      "\u0008\u001b[31m\u001b[1mv\u001b(B\u001b[mi\u001b[38;5;240mm src/main/vala/Test2.vala \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.162664,
+      "\u001b[31m\u001b[1mi\u001b(B\u001b[mm\u001b[38;5;240m src/main/vala/Test2.vala \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m\u0008\u0008\u001b[38;5;26mvi\u001b[30m\u001b(B\u001b[mm\u001b[38;5;240m src/main/vala/Test2.vala \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.055230,
+      "\u001b[38;5;26mm\u001b[30m\u001b(B\u001b[m \u001b[38;5;240msrc/main/vala/Test2.vala \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.470910,
+      "\u001b[38;5;26m src/main/vala/Test2.vala \u001b[30m\u001b(B\u001b[m\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008 \u001b[38;5;39msrc/main/vala/Test2.vala\u001b[30m\u001b(B\u001b[m "
+    ],
+    [
+      0.395770,
+      "\r\n\u001b[30m\u001b(B\u001b[m\u001b]0;vim  /opt/vala/test-project\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.037371,
+      "\u001b[?1049h\u001b[?1h\u001b="
+    ],
+    [
+      0.000007,
+      "\u001b[2;1H▽\u001b[6n\u001b[2;1H  \u001b[1;1H"
+    ],
+    [
+      0.000022,
+      "\u001b]11;?\u0007"
+    ],
+    [
+      0.000420,
+      "\u001b[1;24r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[?25l\u001b[24;1H\"src/main/vala/Test2.vala\""
+    ],
+    [
+      0.000053,
+      " 10L, 163C"
+    ],
+    [
+      0.003099,
+      "\u001b[\u003ec"
+    ],
+    [
+      0.000640,
+      "\u001b[1;1H\u001b[32mpublic\u001b[m \u001b[32mclass\u001b[m Test {\u001b[3;5H\u001b[32mpublic\u001b[m \u001b[32mvoid\u001b[m helloWorld() {\u001b[4;9Hstdout.printf(\u001b[31m\"Hello world! \u001b[m\u001b[35m\\n\u001b[m\u001b[31m\"\u001b[m);\r\n    }\u001b[7;5H\u001b[32mpublic\u001b[m \u001b[32mstatic\u001b[m \u001b[32mvoid\u001b[m main(\u001b[32mstring\u001b[m[] args) {\u001b[8;9H\u001b[38;5;130mnew\u001b[m Test().helloWorld();\r\n    }\r\n}\r\n\u001b[94m~                                                                               \u001b[12;1H~                                                                               \u001b[13;1H~                                                                               \u001b[14;1H~                                                                               \u001b[15;1H~                                                                               \u001b[16;1H~                                                                               \u001b[17;1H~                                                                               \u001b[18;1H~                                                                               \u001b[19;1H~                                                                               \u001b[20;1H~                                                                               \u001b[21;1H~                                                                               \u001b[22;1H~                                                                               \u001b[23;1H~                                                                               \u001b[m\u001b[24;63H1,1      Wszystko\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.017283,
+      "\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[?25l\u001b[1;1H\u001b[38;5;121mpublic\u001b[m \u001b[38;5;121mclass\u001b[m Test {\u001b[3;5H\u001b[38;5;121mpublic\u001b[m \u001b[38;5;121mvoid\u001b[m helloWorld() {\u001b[4;9Hstdout.printf(\u001b[95m\"Hello world! \u001b[m\u001b[38;5;224m\\n\u001b[m\u001b[95m\"\u001b[m);\r\n    }\u001b[7;5H\u001b[38;5;121mpublic\u001b[m \u001b[38;5;121mstatic\u001b[m \u001b[38;5;121mvoid\u001b[m main(\u001b[38;5;121mstring\u001b[m[] args) {\u001b[8;9H\u001b[93mnew\u001b[m Test().helloWorld();\r\n    }\r\n}\r\n\u001b[94m~                                                                               \u001b[12;1H~                                                                               \u001b[13;1H~                                                                               \u001b[14;1H~                                                                               \u001b[15;1H~                                                                               \u001b[16;1H~                                                                               \u001b[17;1H~                                                                               \u001b[18;1H~                                                                               \u001b[19;1H~                                                                               \u001b[20;1H~                                                                               \u001b[21;1H~                                                                               \u001b[22;1H~                                                                               \u001b[23;1H~                                                                               \u001b[m\u001b[24;63H1,1      Wszystko\r\"src/main/vala/Test2.vala\" 10L, 163C\u001b[1;1H\u001bP+q436f\u001b\\\u001bP+q6b75\u001b\\\u001bP+q6b64\u001b\\\u001bP+q6b72\u001b\\\u001bP+q6b6c\u001b\\\u001bP+q2332\u001b\\\u001bP+q2334\u001b\\\u001bP+q2569\u001b\\\u001bP+q2a37\u001b\\\u001bP+q6b31\u001b\\\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.482206,
+      "\u001b[?25l\u001b[24;63H2,0-1\u001b[2;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.144915,
+      "\u001b[?25l\u001b[24;63H3,1-4\u001b[3;4H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.129781,
+      "\u001b[?25l\u001b[24;63H4\u001b[4;4H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.293609,
+      "\u001b[?25l\u001b[24;65H2-8\u001b[4;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.838533,
+      "\u001b[?25l\u001b[24;1H\u001b[1m-- WPROWADZANIE --\u001b[m\u001b[24;19H\u001b[K\u001b[24;63H4,2-5    Wszystko\u001b[4;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.258936,
+      "\u001b[?25l\u001b[24;65H3-9\u001b[4;9H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.626253,
+      "\u001b[?25l\u001b[5;23r\u001b[5;1H\u001b[L\u001b[1;24r\u001b[4;9H\u001b[K\u001b[5;9Hstdout.printf(\u001b[95m\"Hello world! \u001b[m\u001b[38;5;224m\\n\u001b[m\u001b[95m\"\u001b[m);\u001b[24;63H\u001b[K\u001b[24;63H5,3-9    Wszystko\u001b[5;9H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.315145,
+      "\u001b[?25l\u001b[24;63H4\u001b[4;9H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.408084,
+      "\u001b[?25la\u001b[24;65H4-10\u001b[4;10H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.190085,
+      "\u001b[?25l\u0008\u001b[93mas\u001b[m\u001b[24;65H5-11\u001b[4;11H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.195018,
+      "\u001b[?25l\u0008\u0008ass\u001b[24;65H6-12\u001b[4;12H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.172702,
+      "\u001b[?25le\u001b[24;65H7-13\u001b[4;13H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.083991,
+      "\u001b[?25lr\u001b[24;65H8-14\u001b[4;14H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.168225,
+      "\u001b[?25l\u0008\u0008\u0008\u0008\u0008\u001b[93massert\u001b[m\u001b[24;65H9-15\u001b[4;15H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.310733,
+      "\u001b[?25l(\u001b[24;65H10-16\u001b[4;16H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.520735,
+      "\u001b[?25l\u001b[95m1\u001b[m\u001b[24;66H1-17\u001b[4;17H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.099022,
+      "\u001b[?25l\u001b[24;66H2-18\u001b[4;18H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.142179,
+      "\u001b[?25l=\u001b[24;66H3-19\u001b[4;19H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.149863,
+      "\u001b[?25l=\u001b[24;66H4-20\u001b[4;20H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.099750,
+      "\u001b[?25l\u001b[24;66H5-21\u001b[4;21H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.109947,
+      "\u001b[?25l\u001b[95m2\u001b[m\u001b[24;66H6-22\u001b[4;22H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.455912,
+      "\u001b[?25l)\u001b[4;15H\u001b[46m(\u001b[6C)\u001b[m\u001b[24;66H7-23\u001b[4;23H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.283273,
+      "\u001b[?25l;\u001b[4;15H(\u001b[6C)\u001b[24;66H8-24\u001b[4;24H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.566897,
+      "\u001b[?25l\u001b[24;66H9-25\u001b[4;25H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.615058,
+      "\u001b[?25l/\u001b[24;65H20-26\u001b[4;26H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.138801,
+      "\u001b[?25l\u0008\u001b[96m//\u001b[m\u001b[24;66H1-27\u001b[4;27H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.102159,
+      "\u001b[?25l\u001b[96m \u001b[m\u001b[24;66H2-28\u001b[4;28H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.117039,
+      "\u001b[?25l\u001b[96m;\u001b[m\u001b[24;66H3-29\u001b[4;29H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.228632,
+      "\u001b[?25l\u001b[96m)\u001b[m\u001b[24;66H4-30\u001b[4;30H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.515823,
+      "\u001b[24;1H\u001b[K\u001b[4;29H"
+    ],
+    [
+      0.413690,
+      "\u001b[?25l\u001b[24;63H4,23-29  Wszystko\u001b[4;29H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[24;63H\u001b[K\u001b[24;1H:\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.830468,
+      "w\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.161468,
+      "q\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.537131,
+      "\r\u001b[?25l\"src/main/vala/Test2.vala\""
+    ],
+    [
+      0.070576,
+      " 11L, 187C zapisano\r\r\r\n\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.021657,
+      "\u001b]0;fis"
+    ],
+    [
+      0.000009,
+      "h  /opt"
+    ],
+    [
+      0.000037,
+      "/va"
+    ],
+    [
+      0.000005,
+      "la/"
+    ],
+    [
+      0.000020,
+      "t"
+    ],
+    [
+      0.000005,
+      "es"
+    ],
+    [
+      0.000008,
+      "t"
+    ],
+    [
+      0.000006,
+      "-"
+    ],
+    [
+      0.000005,
+      "p"
+    ],
+    [
+      0.000007,
+      "r"
+    ],
+    [
+      0.000004,
+      "o"
+    ],
+    [
+      0.000022,
+      "j"
+    ],
+    [
+      0.000004,
+      "ec"
+    ],
+    [
+      0.000003,
+      "t"
+    ],
+    [
+      0.000020,
+      "\u0007"
+    ],
+    [
+      0.000026,
+      "\u001b"
+    ],
+    [
+      0.000004,
+      "["
+    ],
+    [
+      0.000003,
+      "3"
+    ],
+    [
+      0.000021,
+      "0"
+    ],
+    [
+      0.000004,
+      "m\u001b"
+    ],
+    [
+      0.000021,
+      "("
+    ],
+    [
+      0.000004,
+      "B\u001b"
+    ],
+    [
+      0.000003,
+      "["
+    ],
+    [
+      0.000020,
+      "m"
+    ],
+    [
+      0.000274,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000273,
+      "\u001b[44m\u001b[30m /o/v/test-project \u001b[40m\u001b(B\u001b[m\u001b[34m \u001b[K"
+    ],
+    [
+      0.492658,
+      "b"
+    ],
+    [
+      0.000410,
+      "\u0008\u001b[31m\u001b[1mb\u001b(B\u001b[m"
+    ],
+    [
+      0.000944,
+      "o\u001b[38;5;240mb collect-sources repository:scan build repository:inst…\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.080222,
+      "\u001b[31m\u001b[1mo\u001b(B\u001b[mb\u001b[38;5;240m collect-sources repository:scan build repository:inst…\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.102909,
+      "\u001b[31m\u001b[1mb\u001b(B\u001b[m \u001b[38;5;240mcollect-sources repository:scan build repository:inst…\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.001012,
+      "\u0008\u0008\u0008\u001b[38;5;26mbob\u001b[30m\u001b(B\u001b[m \u001b[38;5;240mcollect-sources repository:scan build repository:inst…\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.989346,
+      "\u0008\u0008\u0008\u001b[K\r\n\u001b[38;5;26mbob collect-sources repository:scan build repository:install\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.001718,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008 \u001b[38;5;39mcollect-sources\u001b[30m\u001b(B\u001b[m \u001b[38;5;39mrepository:scan\u001b[30m\u001b(B\u001b[m \u001b[38;5;39mbuild\u001b[30m\u001b(B\u001b[m \u001b[38;5;39mrepository:install\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      1.316278,
+      "\r\n\u001b[30m\u001b(B\u001b[m\u001b]0;bob  /opt/vala/test-project\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.020589,
+      "\u001b[0;34m[BobBuildProjectRecipe] \u001b[0m\u001b[0;34;39mParsing project dependencies.\r\n"
+    ],
+    [
+      0.000092,
+      "\u001b[0m\u001b[0;34m[BobBuildRecipe] \u001b[0m\u001b[0;34;39mParsing plugin recipe: build\r\n"
+    ],
+    [
+      0.000482,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mLoading plugins from directory: /opt/vala/valder/target/plugins\r\n"
+    ],
+    [
+      0.000587,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mLoaded build plugin module: /opt/vala/valder/target/plugins/libplugin-build.so\r\n"
+    ],
+    [
+      0.000099,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mRegistering new plugin: build\r\n"
+    ],
+    [
+      0.000333,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mLoaded build plugin module: /opt/vala/valder/target/plugins/libplugin-collect-sources.so\r\n"
+    ],
+    [
+      0.000085,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mRegistering new plugin: collect-sources\r\n"
+    ],
+    [
+      0.000334,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mLoaded build plugin module: /opt/vala/valder/target/plugins/libplugin-initialize.so\r\n"
+    ],
+    [
+      0.000084,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mRegistering new plugin: initialize:structure\r\n"
+    ],
+    [
+      0.000087,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mRegistering new plugin: initialize:recipe\r\n"
+    ],
+    [
+      0.000376,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mLoaded build plugin module: /opt/vala/valder/target/plugins/libplugin-repository.so\r\n"
+    ],
+    [
+      0.000084,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mRegistering new plugin: repository:install\r\n"
+    ],
+    [
+      0.000091,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mRegistering new plugin: repository:scan\r\n"
+    ],
+    [
+      0.000084,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mRegistering new plugin: repository:copy-libs\r\n"
+    ],
+    [
+      0.000351,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mLoaded build plugin module: /opt/vala/valder/target/plugins/libplugin-uncrustify.so\r\n"
+    ],
+    [
+      0.000082,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mRegistering new plugin: uncrustify\r\n"
+    ],
+    [
+      0.000091,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mUsing build plugin: collect-sources.\r\n"
+    ],
+    [
+      0.000070,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mUsing build plugin: repository:scan.\r\n"
+    ],
+    [
+      0.000020,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mUsing build plugin: build.\r\n"
+    ],
+    [
+      0.000024,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mUsing build plugin: repository:install.\r\n"
+    ],
+    [
+      0.000064,
+      "\u001b[0m\u001b[0;34m[BobBuildContext] \u001b[0m\u001b[0;34;39mBuilding project: test-0.0.1 (Test project)\r\n"
+    ],
+    [
+      0.000020,
+      "\u001b[0m\u001b[0;34m[BobBuildContext] \u001b[0m\u001b[0;34;39mLoading project plugins recipies...\r\n"
+    ],
+    [
+      0.000026,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mInitializing plugin 'collect-sources' with recipe data.\r\n"
+    ],
+    [
+      0.000107,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mInitializing plugin 'repository:scan' with recipe data.\r\n"
+    ],
+    [
+      0.000698,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: .bob.\r\n"
+    ],
+    [
+      0.000051,
+      "\u001b[0m\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;39mFound repository directory: /home/activey/.bob.\r\n"
+    ],
+    [
+      0.000061,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mInitializing plugin 'build' with recipe data.\r\n"
+    ],
+    [
+      0.000094,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mInitializing plugin 'repository:install' with recipe data.\r\n"
+    ],
+    [
+      0.000086,
+      "\u001b[0m\u001b[0;34m[BobBuildContext] \u001b[0m\u001b[0;34;39mRunning project plugins\r\n"
+    ],
+    [
+      0.000061,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mRunning plugin: collect-sources\r\n"
+    ],
+    [
+      0.002590,
+      "\u001b[0m\u001b[0;34m[CollectSourcesPlugin] \u001b[0m\u001b[0;34;39m/opt/vala/test-project/src/main/vala/Test2.vala (187 bytes)\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[0m\u001b[0;34m[CollectSourcesPlugin] \u001b[0m\u001b[0;34;39mUsing 1 project source files with 187 bytes in total.\r\n"
+    ],
+    [
+      0.000049,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mRunning plugin: repository:scan\r\n"
+    ],
+    [
+      0.000073,
+      "\u001b[0m\u001b[0;34m[ScanLocalRepositoryPlugin] \u001b[0m\u001b[0;34;39mScanning local repository for project dependencies.\r\n"
+    ],
+    [
+      0.000062,
+      "\u001b[0m\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;39mScanning for depedency match in local repository: glib-2.0\r\n"
+    ],
+    [
+      0.000520,
+      "\u001b[0;34"
+    ],
+    [
+      0.000007,
+      "m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;22;33"
+    ],
+    [
+      0.000006,
+      "m"
+    ],
+    [
+      0.000005,
+      "Repository directory for glib-2.0 does not exist."
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[0m"
+    ],
+    [
+      0.000025,
+      "\u001b[0m\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;39mScanning for depedency match in local repository: gobject-2.0\r\n"
+    ],
+    [
+      0.000438,
+      "\u001b[0;34"
+    ],
+    [
+      0.000008,
+      "m[RepositoryDependencyScanner] \u001b[0m"
+    ],
+    [
+      0.000004,
+      "\u001b[0;34;22;33"
+    ],
+    [
+      0.000003,
+      "m"
+    ],
+    [
+      0.000059,
+      "Repository directory for gobject-2.0 does not exist."
+    ],
+    [
+      0.000025,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000053,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mRunning plugin: build\r\n"
+    ],
+    [
+      0.000084,
+      "\u001b[0m\u001b[0;34m[BuildApplicationPlugin] \u001b[0m\u001b[0;34;39mGenerating library binary.\r\n"
+    ],
+    [
+      0.000115,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mInitializing CodeContext\r\n"
+    ],
+    [
+      0.001273,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mInitializing dependencies for scope: library.\r\n"
+    ],
+    [
+      0.000067,
+      "\u001b[0mLoaded package `/usr/share/vala-0.28/vapi/glib-2.0.vapi'\r\n"
+    ],
+    [
+      0.000050,
+      "\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: glib-2.0.\r\n"
+    ],
+    [
+      0.000096,
+      "\u001b[0mLoaded package `/usr/share/vala-0.28/vapi/gobject-2.0.vapi'\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: gobject-2.0.\r\n"
+    ],
+    [
+      0.000030,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mNo VALA source files available, skipping code compilation.\r\n"
+    ],
+    [
+      0.000065,
+      "\u001b[0m\u001b[0;34m[BuildApplicationPlugin] \u001b[0m\u001b[0;34;39mGenerating runtime binary.\r\n"
+    ],
+    [
+      0.000081,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mInitializing CodeContext\r\n"
+    ],
+    [
+      0.000408,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mInitializing dependencies for scope: runtime.\r\n"
+    ],
+    [
+      0.000026,
+      "\u001b[0mLoaded package `/usr/share/vala-0.28/vapi/glib-2.0.vapi'\r\n"
+    ],
+    [
+      0.000047,
+      "\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: glib-2.0.\r\n"
+    ],
+    [
+      0.000078,
+      "\u001b[0mLoaded package `/usr/share/vala-0.28/vapi/gobject-2.0.vapi'\r\n"
+    ],
+    [
+      0.000047,
+      "\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: gobject-2.0.\r\n"
+    ],
+    [
+      0.000194,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing source file: /opt/vala/test-project/src/main/vala/Test2.vala.\r\n\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mStarting code compilation ...\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mRunning code parsers.\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mRunning general parser.\r\n"
+    ],
+    [
+      0.044162,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mRunning GENIE parser.\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mRunning GIR parser.\r\n"
+    ],
+    [
+      0.023202,
+      "\u001b[0m\u003e\u003e\u003e\u003e -Wl,-rpath=$ORIGIN/lib,-Ltarget/lib \r\n"
+    ],
+    [
+      0.010822,
+      "cc -o '/opt/vala/test-project/target/test' '/opt/vala/test-project/src/main/vala/Test2.vala.c' -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -lgobject-2.0 -lglib-2.0 '-Wl,-rpath=$ORIGIN/lib' '-Ltarget/lib'\r\n"
+    ],
+    [
+      0.112439,
+      "\u001b[0;34m[BuildApplicationPlugin] \u001b[0m\u001b[0;34;1;32mRuntime binary compilation finished.\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[0m\u001b[0;34m[BuildApplicationPlugin] \u001b[0m\u001b[0;34;1;32mCode compilation finished.\r\n\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mRunning plugin: repository:install\r\n"
+    ],
+    [
+      0.000032,
+      "\u001b[0m\u001b[0;34m[InstallInLocalRepositoryPlugin] \u001b[0m\u001b[0;34;39mInitializing project directory structure in local repository.\r\n"
+    ],
+    [
+      0.000582,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: .bob.\r\n"
+    ],
+    [
+      0.000081,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: test.\r\n"
+    ],
+    [
+      0.000062,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: 0.0.1.\r\n"
+    ],
+    [
+      0.000078,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: vapi.\r\n"
+    ],
+    [
+      0.000072,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: c.\r\n"
+    ],
+    [
+      0.000073,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: lib.\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[0m\u001b[0;34m[InstallInLocalRepositoryPlugin] \u001b[0m\u001b[0;34;1;32mRepository project directory structure ready.\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m\u001b[0;34m[InstallInLocalRepositoryPlugin] \u001b[0m\u001b[0;34;39mInstalling project files in local repository.\r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[0m\u001b[0;34m[InstallInLocalRepositoryPlugin] \u001b[0m\u001b[0;34;39mDumping receipe file to directory: /home/activey/.bob/test/0.0.1.\r\n"
+    ],
+    [
+      0.000474,
+      "\u001b[0m\u001b[0;34m[BobBuildContext] \u001b[0m\u001b[0;34;39mTook time: 0.200016 seconds.\r\n"
+    ],
+    [
+      0.000210,
+      "\u001b[0m"
+    ],
+    [
+      0.013221,
+      "\u001b]0;fish  "
+    ],
+    [
+      0.000007,
+      "/opt/vala/test-"
+    ],
+    [
+      0.000004,
+      "pr"
+    ],
+    [
+      0.000003,
+      "oj"
+    ],
+    [
+      0.000002,
+      "e"
+    ],
+    [
+      0.000002,
+      "c"
+    ],
+    [
+      0.000002,
+      "t"
+    ],
+    [
+      0.000015,
+      "\u0007"
+    ],
+    [
+      0.000003,
+      "\u001b"
+    ],
+    [
+      0.000011,
+      "["
+    ],
+    [
+      0.000002,
+      "30"
+    ],
+    [
+      0.000019,
+      "m\u001b("
+    ],
+    [
+      0.000006,
+      "B\u001b["
+    ],
+    [
+      0.000011,
+      "m"
+    ],
+    [
+      0.000200,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000173,
+      "\u001b[44m\u001b[30m /o/v/test-project \u001b[40m\u001b(B\u001b[m\u001b[34m \u001b[K"
+    ],
+    [
+      1.351722,
+      ".\u0008\u001b[38;5;26m\u001b[4m.\u001b[30m\u001b(B\u001b[m/\u001b[38;5;240mtarget/test \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.097785,
+      "\u001b[38;5;26m\u001b[4m/\u001b[30m\u001b(B\u001b[mt\u001b[38;5;240marget/test \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.257429,
+      "\u001b[38;5;26m\u001b[4mt\u001b[30m\u001b(B\u001b[ma\u001b[38;5;240mrget/test \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000157,
+      "\u0008\u0008\u0008\u001b[31m\u001b[1m./t\u001b(B\u001b[ma\u001b[38;5;240mrget/test \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.081266,
+      "\u001b[31m\u001b[1ma\u001b(B\u001b[mr\u001b[38;5;240mget/test \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.309475,
+      "\u001b[31m\u001b[1mrget/test \u001b(B\u001b[m\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[38;5;26m./target/test\u001b[30m\u001b(B\u001b[m "
+    ],
+    [
+      0.355329,
+      "\r\n\u001b[30m\u001b(B\u001b[m\u001b]0;./target/test  /opt/vala/test-project\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.003093,
+      "**\r\nERROR:/opt/vala/test-project/src/main/vala/Test2.vala.c:67:test_helloWorld: assertion failed: (1 == 2)\r\n"
+    ],
+    [
+      0.002648,
+      "\u001b[Kfish: Job 1, './target/test ' terminated by signal SIGABRT (Abort)\r\n"
+    ],
+    [
+      0.011822,
+      "\u001b"
+    ],
+    [
+      0.000007,
+      "]0;fish  "
+    ],
+    [
+      0.000003,
+      "/"
+    ],
+    [
+      0.000003,
+      "o"
+    ],
+    [
+      0.000018,
+      "p"
+    ],
+    [
+      0.000004,
+      "t/va"
+    ],
+    [
+      0.000002,
+      "l"
+    ],
+    [
+      0.000016,
+      "a/"
+    ],
+    [
+      0.000003,
+      "tes"
+    ],
+    [
+      0.000013,
+      "t"
+    ],
+    [
+      0.000003,
+      "-p"
+    ],
+    [
+      0.000011,
+      "r"
+    ],
+    [
+      0.000004,
+      "oj"
+    ],
+    [
+      0.000003,
+      "e"
+    ],
+    [
+      0.000010,
+      "c"
+    ],
+    [
+      0.000002,
+      "t"
+    ],
+    [
+      0.000007,
+      "\u0007"
+    ],
+    [
+      0.000017,
+      "\u001b"
+    ],
+    [
+      0.000002,
+      "["
+    ],
+    [
+      0.000011,
+      "3"
+    ],
+    [
+      0.000002,
+      "0m"
+    ],
+    [
+      0.000009,
+      "\u001b"
+    ],
+    [
+      0.000007,
+      "(B"
+    ],
+    [
+      0.000002,
+      "\u001b"
+    ],
+    [
+      0.000014,
+      "[m"
+    ],
+    [
+      0.000151,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000168,
+      "\u001b[40m\u001b[31m ✘ \u001b[44m\u001b[30m \u001b[44m\u001b[30m/o/v/test-project \u001b[40m\u001b(B\u001b[m\u001b[34m \u001b[K"
+    ],
+    [
+      0.012870,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[30m"
+    ],
+    [
+      0.000003,
+      "\u001b"
+    ],
+    [
+      0.000003,
+      "(B"
+    ],
+    [
+      0.000003,
+      "\u001b"
+    ],
+    [
+      0.000003,
+      "["
+    ],
+    [
+      0.000002,
+      "m"
+    ],
+    [
+      0.000204,
+      "\u001b"
+    ],
+    [
+      0.000003,
+      "]0"
+    ],
+    [
+      0.000003,
+      ";"
+    ],
+    [
+      0.000003,
+      "fi"
+    ],
+    [
+      0.000003,
+      "s"
+    ],
+    [
+      0.000003,
+      "h"
+    ],
+    [
+      0.000003,
+      " "
+    ],
+    [
+      0.000002,
+      " "
+    ],
+    [
+      0.000002,
+      "/"
+    ],
+    [
+      0.000002,
+      "o"
+    ],
+    [
+      0.000002,
+      "p"
+    ],
+    [
+      0.000012,
+      "t"
+    ],
+    [
+      0.000003,
+      "/v"
+    ],
+    [
+      0.000002,
+      "a"
+    ],
+    [
+      0.000010,
+      "l"
+    ],
+    [
+      0.000003,
+      "a/"
+    ],
+    [
+      0.000009,
+      "t"
+    ],
+    [
+      0.000002,
+      "e"
+    ],
+    [
+      0.000002,
+      "s"
+    ],
+    [
+      0.000010,
+      "t"
+    ],
+    [
+      0.000004,
+      "-"
+    ],
+    [
+      0.000003,
+      "p"
+    ],
+    [
+      0.000003,
+      "r"
+    ],
+    [
+      0.000003,
+      "o"
+    ],
+    [
+      0.000010,
+      "j"
+    ],
+    [
+      0.000002,
+      "e"
+    ],
+    [
+      0.000002,
+      "c"
+    ],
+    [
+      0.000007,
+      "t"
+    ],
+    [
+      0.000008,
+      "\u0007"
+    ],
+    [
+      0.000014,
+      "\u001b"
+    ],
+    [
+      0.000002,
+      "["
+    ],
+    [
+      0.000007,
+      "3"
+    ],
+    [
+      0.000002,
+      "0"
+    ],
+    [
+      0.000008,
+      "m"
+    ],
+    [
+      0.000002,
+      "\u001b"
+    ],
+    [
+      0.000012,
+      "(B"
+    ],
+    [
+      0.000002,
+      "\u001b"
+    ],
+    [
+      0.000007,
+      "["
+    ],
+    [
+      0.000002,
+      "m"
+    ],
+    [
+      0.011199,
+      "\u001b"
+    ],
+    [
+      0.000007,
+      "]0;fis"
+    ],
+    [
+      0.000003,
+      "h"
+    ],
+    [
+      0.000003,
+      " "
+    ],
+    [
+      0.000003,
+      " "
+    ],
+    [
+      0.000018,
+      "/"
+    ],
+    [
+      0.000005,
+      "opt/"
+    ],
+    [
+      0.000003,
+      "v"
+    ],
+    [
+      0.000002,
+      "a"
+    ],
+    [
+      0.000003,
+      "l"
+    ],
+    [
+      0.000003,
+      "a"
+    ],
+    [
+      0.000003,
+      "/t"
+    ],
+    [
+      0.000002,
+      "e"
+    ],
+    [
+      0.000002,
+      "s"
+    ],
+    [
+      0.000002,
+      "t"
+    ],
+    [
+      0.000002,
+      "-"
+    ],
+    [
+      0.000002,
+      "p"
+    ],
+    [
+      0.000007,
+      "r"
+    ],
+    [
+      0.000003,
+      "oje"
+    ],
+    [
+      0.000003,
+      "ct"
+    ],
+    [
+      0.000003,
+      "\u0007"
+    ],
+    [
+      0.000019,
+      "\u001b["
+    ],
+    [
+      0.000003,
+      "30m\u001b"
+    ],
+    [
+      0.000002,
+      "("
+    ],
+    [
+      0.000010,
+      "B\u001b"
+    ],
+    [
+      0.000003,
+      "[m"
+    ],
+    [
+      0.000105,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000145,
+      "\u001b[40m\u001b[31m ✘ \u001b[44m\u001b[30m \u001b[44m\u001b[30m/o/v/test-project \u001b[40m\u001b(B\u001b[m\u001b[34m \u001b[K"
+    ],
+    [
+      3.046127,
+      "v\u0008\u001b[31m\u001b[1mv\u001b(B\u001b[mi\u001b[38;5;240mm src/main/vala/Test2.vala \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.060815,
+      "\u001b[31m\u001b[1mi\u001b(B\u001b[mm\u001b[38;5;240m src/main/vala/Test2.vala \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m\u0008\u0008\u001b[38;5;26mvi\u001b[30m\u001b(B\u001b[mm\u001b[38;5;240m src/main/vala/Test2.vala \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.075894,
+      "\u001b[38;5;26mm\u001b[30m\u001b(B\u001b[m \u001b[38;5;240msrc/main/vala/Test2.vala \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.464534,
+      "\u001b[38;5;26m src/main/vala/Test2.vala \u001b[30m\u001b(B\u001b[m\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008 \u001b[38;5;39msrc/main/vala/Test2.vala\u001b[30m\u001b(B\u001b[m "
+    ],
+    [
+      0.641911,
+      "\r\n\u001b[30m\u001b(B\u001b[m\u001b]0;vim  /opt/vala/test-project\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.061219,
+      "\u001b[?1049h\u001b[?1h\u001b="
+    ],
+    [
+      0.000009,
+      "\u001b[2;1H▽\u001b[6n\u001b[2;1H  \u001b[1;1H"
+    ],
+    [
+      0.000044,
+      "\u001b]11;?\u0007"
+    ],
+    [
+      0.000608,
+      "\u001b[1;24r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[?25l\u001b[24;1H\"src/main/vala/Test2.vala\""
+    ],
+    [
+      0.000092,
+      " 11L, 187C"
+    ],
+    [
+      0.004299,
+      "\u001b[\u003ec"
+    ],
+    [
+      0.001090,
+      "\u001b[1;1H\u001b[32mpublic\u001b[m \u001b[32mclass\u001b[m Test {\u001b[3;5H\u001b[32mpublic\u001b[m \u001b[32mvoid\u001b[m helloWorld() {\u001b[4;9H\u001b[38;5;130massert\u001b[m(\u001b[31m1\u001b[m == \u001b[31m2\u001b[m); \u001b[34m// ;)\u001b[m\u001b[5;9Hstdout.printf(\u001b[31m\"Hello world! \u001b[m\u001b[35m\\n\u001b[m\u001b[31m\"\u001b[m);\r\n    }\u001b[8;5H\u001b[32mpublic\u001b[m \u001b[32mstatic\u001b[m \u001b[32mvoid\u001b[m main(\u001b[32mstring\u001b[m[] args) {\u001b[9;9H\u001b[38;5;130mnew\u001b[m Test().helloWorld();\r\n    }\r\n}\r\n\u001b[94m~                                                                               \u001b[13;1H~                                                                               \u001b[14;1H~                                                                               \u001b[15;1H~                                                                               \u001b[16;1H~                                                                               \u001b[17;1H~                                                                               \u001b[18;1H~                                                                               \u001b[19;1H~                                                                               \u001b[20;1H~                                                                               \u001b[21;1H~                                                                               \u001b[22;1H~                                                                               \u001b[23;1H~                                                                               \u001b[m\u001b[24;63H1,1      Wszystko\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.005739,
+      "\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[?25l\u001b[1;1H\u001b[38;5;121mpublic\u001b[m \u001b[38;5;121mclass\u001b[m Test {\u001b[3;5H\u001b[38;5;121mpublic\u001b[m \u001b[38;5;121mvoid\u001b[m helloWorld() {\u001b[4;9H\u001b[93massert\u001b[m(\u001b[95m1\u001b[m == \u001b[95m2\u001b[m); \u001b[96m// ;)\u001b[m\u001b[5;9Hstdout.printf(\u001b[95m\"Hello world! \u001b[m\u001b[38;5;224m\\n\u001b[m\u001b[95m\"\u001b[m);\r\n    }\u001b[8;5H\u001b[38;5;121mpublic\u001b[m \u001b[38;5;121mstatic\u001b[m \u001b[38;5;121mvoid\u001b[m main(\u001b[38;5;121mstring\u001b[m[] args) {\u001b[9;9H\u001b[93mnew\u001b[m Test().helloWorld();\r\n    }\r\n}\r\n\u001b[94m~                                                                               \u001b[13;1H~                                                                               \u001b[14;1H~                                                                               \u001b[15;1H~                                                                               \u001b[16;1H~                                                                               \u001b[17;1H~                                                                               \u001b[18;1H~                                                                               \u001b[19;1H~                                                                               \u001b[20;1H~                                                                               \u001b[21;1H~                                                                               \u001b[22;1H~                                                                               \u001b[23;1H~                                                                               \u001b[m\u001b[24;63H1,1      Wszystko\r\"src/main/vala/Test2.vala\" 11L, 187C\u001b[1;1H\u001b[?12l\u001b[?25h\u001bP+q436f\u001b\\\u001bP+q6b75\u001b\\\u001bP+q6b64\u001b\\\u001bP+q6b72\u001b\\\u001bP+q6b6c\u001b\\\u001bP+q2332\u001b\\\u001bP+q2334\u001b\\\u001bP+q2569\u001b\\\u001bP+q2a37\u001b\\\u001bP+q6b31\u001b\\"
+    ],
+    [
+      0.806930,
+      "\u001b[?25l\u001b[24;63H2,0-1\u001b[2;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.154778,
+      "\u001b[?25l\u001b[24;63H3,1-4\u001b[3;4H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.118791,
+      "\u001b[?25l\u001b[24;63H4\u001b[4;4H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.135946,
+      "\u001b[?25l\u001b[24;63H5\u001b[5;4H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.142546,
+      "\u001b[?25l\u001b[24;63H6\u001b[6;4H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.130973,
+      "\u001b[?25l\u001b[24;63H7,0-1\u001b[7;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.135545,
+      "\u001b[?25l\u001b[24;63H8,1-4\u001b[8;4H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.174107,
+      "\u001b[?25l\u001b[24;63H9\u001b[9;4H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.356167,
+      "\u001b[?25l\u001b[24;1H\u001b[1m-- WPROWADZANIE --\u001b[m\u001b[24;19H\u001b[K\u001b[24;63H9,1      Wszystko\u001b[9;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.214162,
+      "\u001b[?25l\u001b[24;65H2-5\u001b[9;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.331912,
+      "\u001b[?25l\u001b[24;65H3-9\u001b[9;9H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.526952,
+      "\u001b[?25l\u001b[10;23r\u001b[10;1H\u001b[L\u001b[1;24r\u001b[9;9H\u001b[K\u001b[10;9H\u001b[93mnew\u001b[m Test().helloWorld();\u001b[24;63H\u001b[K\u001b[24;63H10,3-9   Wszystko\u001b[10;9H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.341680,
+      "\u001b[?25l\u001b[24;63H9,3-9 \u001b[9;9H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.609397,
+      "\u001b[?25lS\u001b[24;65H4-10\u001b[9;10H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.179955,
+      "\u001b[?25lt\u001b[24;65H5-11\u001b[9;11H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.097540,
+      "\u001b[?25la\u001b[24;65H6-12\u001b[9;12H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.436818,
+      "\u001b[?25lc\u001b[24;65H7-13\u001b[9;13H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.128022,
+      "\u001b[?25lk\u001b[24;65H8-14\u001b[9;14H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.291363,
+      "\u001b[?25lt\u001b[24;65H9-15\u001b[9;15H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.173356,
+      "\u001b[?25lr\u001b[24;65H10-16\u001b[9;16H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.095321,
+      "\u001b[?25la\u001b[24;66H1-17\u001b[9;17H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.220761,
+      "\u001b[?25lc\u001b[24;66H2-18\u001b[9;18H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.115111,
+      "\u001b[?25le\u001b[24;66H3-19\u001b[9;19H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.166609,
+      "\u001b[?25l.\u001b[24;66H4-20\u001b[9;20H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.213746,
+      "\u001b[?25lr\u001b[24;66H5-21\u001b[9;21H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.060688,
+      "\u001b[?25le\u001b[24;66H6-22\u001b[9;22H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.183748,
+      "\u001b[?25lg\u001b[24;66H7-23\u001b[9;23H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.131865,
+      "\u001b[?25li\u001b[24;66H8-24\u001b[9;24H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.061682,
+      "\u001b[?25ls\u001b[24;66H9-25\u001b[9;25H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.081920,
+      "\u001b[?25lt\u001b[24;65H20-26\u001b[9;26H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.104351,
+      "\u001b[?25le\u001b[24;66H1-27\u001b[9;27H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.110820,
+      "\u001b[?25lr\u001b[24;66H2-28\u001b[9;28H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.598072,
+      "\u001b[?25l_\u001b[24;66H3-29\u001b[9;29H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.171400,
+      "\u001b[?25lh\u001b[24;66H4-30\u001b[9;30H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.074522,
+      "\u001b[?25la\u001b[24;66H5-31\u001b[9;31H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.145829,
+      "\u001b[?25ln\u001b[24;66H6-32\u001b[9;32H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.196858,
+      "\u001b[?25ld\u001b[24;66H7-33\u001b[9;33H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.122753,
+      "\u001b[?25ll\u001b[24;66H8-34\u001b[9;34H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.100631,
+      "\u001b[?25le\u001b[24;66H9-35\u001b[9;35H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.101747,
+      "\u001b[?25lr\u001b[24;65H30-36\u001b[9;36H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.106833,
+      "\u001b[?25ls\u001b[24;66H1-37\u001b[9;37H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.507910,
+      "\u001b[?25l(\u001b[24;66H2-38\u001b[9;38H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.108152,
+      "\u001b[?25l)\u0008\u0008\u001b[46m()\u001b[m\u001b[24;66H3-39\u001b[9;39H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.597714,
+      "\u001b[?25l;\u0008\u0008\u0008()\u001b[24;66H4-40\u001b[9;40H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.198758,
+      "\u001b[?25l\u001b[24;66H5-41\u001b[9;41H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.197482,
+      "\u001b[?25l/\u001b[24;66H6-42\u001b[9;42H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.140442,
+      "\u001b[?25l\u0008\u001b[96m//\u001b[m\u001b[24;66H7-43\u001b[9;43H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.175322,
+      "\u001b[?25l\u001b[96m \u001b[m\u001b[24;66H8-44\u001b[9;44H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.201076,
+      "\u001b[?25l\u001b[96mr\u001b[m\u001b[24;66H9-45\u001b[9;45H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.069616,
+      "\u001b[?25l\u001b[96me\u001b[m\u001b[24;65H40-46\u001b[9;46H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.147298,
+      "\u001b[?25l\u001b[96ms\u001b[m\u001b[24;66H1-47\u001b[9;47H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.107531,
+      "\u001b[?25l\u001b[96mg\u001b[m\u001b[24;66H2-48\u001b[9;48H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.123073,
+      "\u001b[?25l\u001b[96mi\u001b[m\u001b[24;66H3-49\u001b[9;49H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.358001,
+      "\u001b[?25l\u001b[9;48H\u001b[K\u001b[24;66H2-48\u001b[9;48H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.123578,
+      "\u001b[?25l\u001b[9;47H\u001b[K\u001b[24;66H1-47\u001b[9;47H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.127781,
+      "\u001b[?25l\u001b[9;46H\u001b[K\u001b[24;66H0-46\u001b[9;46H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.064159,
+      "\u001b[?25l\u001b[96mg\u001b[m\u001b[24;66H1-47\u001b[9;47H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.133111,
+      "\u001b[?25l\u001b[96mi\u001b[m\u001b[24;66H2-48\u001b[9;48H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.083519,
+      "\u001b[?25l\u001b[96ms\u001b[m\u001b[24;66H3-49\u001b[9;49H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.085375,
+      "\u001b[?25l\u001b[96mt\u001b[m\u001b[24;66H4-50\u001b[9;50H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.108025,
+      "\u001b[?25l\u001b[96me\u001b[m\u001b[24;66H5-51\u001b[9;51H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.124433,
+      "\u001b[?25l\u001b[96mr\u001b[m\u001b[24;66H6-52\u001b[9;52H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.102178,
+      "\u001b[?25l\u001b[96m \u001b[m\u001b[24;66H7-53\u001b[9;53H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.963871,
+      "\u001b[?25l\u001b[96ms\u001b[m\u001b[24;66H8-54\u001b[9;54H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.107118,
+      "\u001b[?25l\u001b[96mi\u001b[m\u001b[24;66H9-55\u001b[9;55H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.077122,
+      "\u001b[?25l\u001b[96mg\u001b[m\u001b[24;65H50-56\u001b[9;56H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.111696,
+      "\u001b[?25l\u001b[96mn\u001b[m\u001b[24;66H1-57\u001b[9;57H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.052633,
+      "\u001b[?25l\u001b[96ma\u001b[m\u001b[24;66H2-58\u001b[9;58H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.135142,
+      "\u001b[?25l\u001b[96ml\u001b[m\u001b[24;66H3-59\u001b[9;59H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.103437,
+      "\u001b[?25l\u001b[96m \u001b[m\u001b[24;66H4-60\u001b[9;60H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.119819,
+      "\u001b[?25l\u001b[96mh\u001b[m\u001b[24;66H5-61\u001b[9;61H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.089588,
+      "\u001b[?25l\u001b[96ma\u001b[m\u001b[24;66H6-62\u001b[9;62H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.103638,
+      "\u001b[?25l\u001b[96mn\u001b[m\u001b[24;66H7-63\u001b[9;63H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.115843,
+      "\u001b[?25l\u001b[96md\u001b[m\u001b[24;66H8-64\u001b[9;64H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.133267,
+      "\u001b[?25l\u001b[96ml\u001b[m\u001b[24;66H9-65\u001b[9;65H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.075313,
+      "\u001b[?25l\u001b[96me\u001b[m\u001b[24;65H60-66\u001b[9;66H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.090629,
+      "\u001b[?25l\u001b[96mr\u001b[m\u001b[24;66H1-67\u001b[9;67H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.228142,
+      "\u001b[?25l\u001b[96ms\u001b[m\u001b[24;66H2-68\u001b[9;68H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.816387,
+      "\u001b[24;1H\u001b[K\u001b[9;67H"
+    ],
+    [
+      0.470925,
+      "\u001b[?25l\u001b[24;63H9,61-67  Wszystko\u001b[9;67H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[24;63H\u001b[K\u001b[24;1H:\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.425979,
+      "w\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.773440,
+      "q\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      2.764214,
+      "\r\u001b[?25l\"src/main/vala/Test2.vala\""
+    ],
+    [
+      0.314258,
+      " 12L, 249C zapisano\r\r\r\n\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.025314,
+      "\u001b]0;fish"
+    ],
+    [
+      0.000012,
+      "  /opt/vala/"
+    ],
+    [
+      0.000006,
+      "te"
+    ],
+    [
+      0.000006,
+      "s"
+    ],
+    [
+      0.000004,
+      "t"
+    ],
+    [
+      0.000004,
+      "-"
+    ],
+    [
+      0.000003,
+      "p"
+    ],
+    [
+      0.000003,
+      "r"
+    ],
+    [
+      0.000035,
+      "o"
+    ],
+    [
+      0.000008,
+      "ject"
+    ],
+    [
+      0.000006,
+      "\u0007"
+    ],
+    [
+      0.000033,
+      "\u001b"
+    ],
+    [
+      0.000004,
+      "["
+    ],
+    [
+      0.000003,
+      "3"
+    ],
+    [
+      0.000027,
+      "0"
+    ],
+    [
+      0.000007,
+      "m\u001b("
+    ],
+    [
+      0.000006,
+      "B"
+    ],
+    [
+      0.000021,
+      "\u001b"
+    ],
+    [
+      0.000005,
+      "[m"
+    ],
+    [
+      0.000241,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000283,
+      "\u001b[44m\u001b[30m /o/v/test-project \u001b[40m\u001b(B\u001b[m\u001b[34m \u001b[K"
+    ],
+    [
+      1.149689,
+      "v"
+    ],
+    [
+      0.000409,
+      "\u0008\u001b[31m\u001b[1mv\u001b(B\u001b[m"
+    ],
+    [
+      0.000871,
+      "i\u001b[38;5;240mm src/main/vala/Test2.vala \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.089931,
+      "\u001b[31m\u001b[1mi\u001b(B\u001b[mm\u001b[38;5;240m src/main/vala/Test2.vala \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m\u0008\u0008\u001b[38;5;26mvi\u001b[30m\u001b(B\u001b[mm\u001b[38;5;240m src/main/vala/Test2.vala \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.080522,
+      "\u001b[38;5;26mm\u001b[30m\u001b(B\u001b[m \u001b[38;5;240msrc/main/vala/Test2.vala \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.130994,
+      "\u001b[38;5;26m \u001b[30m\u001b(B\u001b[ms\u001b[38;5;240mrc/main/vala/Test2.vala \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m\u0008 s\u001b[38;5;240mrc/main/vala/Test2.vala \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.250071,
+      "r\u001b[K\u0008\u001b[38;5;39m\u001b[4mr\u001b[30m\u001b(B\u001b[me\u001b[38;5;240mcipe.bob \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.079969,
+      "\u001b[38;5;39m\u001b[4me\u001b[30m\u001b(B\u001b[mc\u001b[38;5;240mipe.bob \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.236632,
+      "\u001b[38;5;39m\u001b[4mc\u001b[30m\u001b(B\u001b[mi\u001b[38;5;240mpe.bob \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.226622,
+      "\u001b[38;5;39m\u001b[4mipe.bob \u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000203,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[38;5;39mrecipe.bob\u001b[30m\u001b(B\u001b[m "
+    ],
+    [
+      1.147403,
+      "\r\n\u001b[30m\u001b(B\u001b[m\u001b]0;vim  /opt/vala/test-project\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.024130,
+      "\r\n"
+    ],
+    [
+      0.010939,
+      "\u001b[?1049h\u001b[?1h\u001b="
+    ],
+    [
+      0.000006,
+      "\u001b[2;1H▽\u001b[6n\u001b[2;1H  \u001b[1;1H"
+    ],
+    [
+      0.000020,
+      "\u001b]11;?\u0007"
+    ],
+    [
+      0.000437,
+      "\u001b[1;24r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[?25l\u001b[24;1H\"recipe.bob\""
+    ],
+    [
+      0.000066,
+      " 22L, 347C"
+    ],
+    [
+      0.002647,
+      "\u001b[\u003ec"
+    ],
+    [
+      0.003854,
+      "\u001b[1;1H\u001b[35m\u001b[106m{\u001b[m\r\n  \u001b[38;5;130mproject\u001b[m : \u001b[35m{\u001b[m\r\n    \u001b[38;5;130mname\u001b[m : \u001b[31mTest project\u001b[m,\r\n    \u001b[38;5;130mshortName\u001b[m : \u001b[31mtest\u001b[m,\r\n    \u001b[38;5;130mversion\u001b[m : \u001b[31m0.0.1\u001b[m,\r\n    \u001b[38;5;130mdependencies\u001b[m : \u001b[35m[\u001b[7;7H{\u001b[m\u001b[8;9H\u001b[38;5;130mdependency\u001b[m : \u001b[31mglib\u001b[m,\u001b[9;9H\u001b[38;5;130mversion\u001b[m : \u001b[31m2.0\u001b[m\u001b[10;7H\u001b[35m}\u001b[m,\u001b[11;7H\u001b[35m{\u001b[m\u001b[12;9H\u001b[38;5;130mdependency\u001b[m : \u001b[31mgobject\u001b[m,\u001b[13;9H\u001b[38;5;130mversion\u001b[m : \u001b[31m2.0\u001b[m\u001b[14;7H\u001b[35m}\r\n\u001b[m    \u001b[35m]\r\n\u001b[m  \u001b[35m}\u001b[m,\r\n  \u001b[38;5;130mplugins\u001b[m: \u001b[35m{\u001b[m\r\n    \u001b[38;5;130mbuild\u001b[m: \u001b[35m{\u001b[m\u001b[19;7H\u001b[38;5;130mverbose\u001b[m : \u001b[35mtrue\r\n\u001b[m    \u001b[35m}\r\n\u001b[m  \u001b[35m}\u001b[m\r\n\u001b[35m\u001b[106m}\u001b[m\r\n\u001b[94m~                                                                               \u001b[m\u001b[24;63H1,1      Wszystko\u001b[1;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[35m{\u001b[m\r\n  \"\u001b[38;5;130mproject\u001b[m\" : \u001b[35m{\u001b[22;1H}\u001b[m\u001b[24;63H2\u001b[2;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.018278,
+      "\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[?25l\u001b[1;1H\u001b[38;5;224m{\u001b[m\r\n  \"\u001b[93mproject\u001b[m\" : \u001b[38;5;224m{\u001b[m\r\n    \u001b[93mname\u001b[m : \u001b[95mTest project\u001b[m,\r\n    \u001b[93mshortName\u001b[m : \u001b[95mtest\u001b[m,\r\n    \u001b[93mversion\u001b[m : \u001b[95m0.0.1\u001b[m,\r\n    \u001b[93mdependencies\u001b[m : \u001b[38;5;224m[\u001b[7;7H{\u001b[m\u001b[8;9H\u001b[93mdependency\u001b[m : \u001b[95mglib\u001b[m,\u001b[9;9H\u001b[93mversion\u001b[m : \u001b[95m2.0\u001b[m\u001b[10;7H\u001b[38;5;224m}\u001b[m,\u001b[11;7H\u001b[38;5;224m{\u001b[m\u001b[12;9H\u001b[93mdependency\u001b[m : \u001b[95mgobject\u001b[m,\u001b[13;9H\u001b[93mversion\u001b[m : \u001b[95m2.0\u001b[m\u001b[14;7H\u001b[38;5;224m}\r\n\u001b[m    \u001b[38;5;224m]\r\n\u001b[m  \u001b[38;5;224m}\u001b[m,\r\n  \u001b[93mplugins\u001b[m: \u001b[38;5;224m{\u001b[m\r\n    \u001b[93mbuild\u001b[m: \u001b[38;5;224m{\u001b[m\u001b[19;7H\u001b[93mverbose\u001b[m : \u001b[38;5;224mtrue\r\n\u001b[m    \u001b[38;5;224m}\r\n\u001b[m  \u001b[38;5;224m}\r\n}\u001b[m\r\n\u001b[94m~                                                                               \u001b[m\u001b[24;63H2,1      Wszystko\r\"recipe.bob\" 22L, 347C\u001b[2;1H\u001bP+q436f\u001b\\\u001bP+q6b75\u001b\\\u001bP+q6b64\u001b\\\u001bP+q6b72\u001b\\\u001bP+q6b6c\u001b\\\u001bP+q2332\u001b\\\u001bP+q2334\u001b\\\u001bP+q2569\u001b\\\u001bP+q2a37\u001b\\\u001bP+q6b31\u001b\\"
+    ],
+    [
+      0.000007,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.519665,
+      "\u001b[?25l\u001b[24;63H3\u001b[2;3H\u001b[93mproject\u001b[m : \u001b[38;5;224m{\u001b[m\u001b[2;15H\u001b[K\u001b[3;5H\"\u001b[93mname\u001b[m\" : \"\u001b[95mTest project\u001b[m\",\r\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.499948,
+      "\u001b[?25l\u001b[24;63H4\u001b[3;5H\u001b[93mname\u001b[m : \u001b[95mTest project\u001b[m,\u001b[3;25H\u001b[K\u001b[4;5H\"\u001b[93mshortName\u001b[m\" : \"\u001b[1C\u001b[95mest\u001b[m\",\r\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.030041,
+      "\u001b[?25l\u001b[24;63H5\u001b[4;5H\u001b[93mshortName\u001b[m : \u001b[95mtes\u001b[m\u001b[1C,\u001b[4;22H\u001b[K\u001b[5;5H\"\u001b[93mversion\u001b[m\" : \"\u001b[95m0.0.1\u001b[m\",\r\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.030413,
+      "\u001b[?25l\u001b[24;63H6\u001b[5;5H\u001b[93mversion\u001b[m : \u001b[95m0.0.1\u001b[m,\u001b[5;21H\u001b[K\u001b[6;5H\"\u001b[93mdependencies\u001b[m\" : \u001b[38;5;224m[\r\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029094,
+      "\u001b[?25l\u001b[m\u001b[24;63H7\u001b[6;5H\u001b[93mdependencies\u001b[m : \u001b[38;5;224m[\u001b[m\u001b[6;22H\u001b[K\u001b[7;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029478,
+      "\u001b[?25l\u001b[24;63H8\u001b[8;9H\"\u001b[93mdependency\u001b[m\" : \"\u001b[95mglib\u001b[m\",\r\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.030437,
+      "\u001b[?25l\u001b[24;63H9\u001b[8;9H\u001b[93mdependency\u001b[m : \u001b[95mglib\u001b[m,\u001b[8;27H\u001b[K\u001b[9;9H\"\u001b[93mversion\u001b[m\" : \"\u001b[95m2.0\u001b[m\"\r\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029748,
+      "\u001b[?25l\u001b[24;63H10,1\u001b[9;9H\u001b[93mversion\u001b[m : \u001b[95m2.0\u001b[m\u001b[9;22H\u001b[K\u001b[10;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.030370,
+      "\u001b[?25l\u001b[24;64H1\u001b[11;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.031032,
+      "\u001b[?25l\u001b[24;64H2\u001b[12;9H\"\u001b[93mdependency\u001b[m\" : \"\u001b[95mgobject\u001b[m\",\r\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.241919,
+      "\u001b[?25l\u001b[24;64H3\u001b[12;9H\u001b[93mdependency\u001b[m : \u001b[95mgobject\u001b[m,\u001b[12;30H\u001b[K\u001b[13;9H\"\u001b[93mversion\u001b[m\" : \"\u001b[95m2.0\u001b[m\"\r\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.148078,
+      "\u001b[?25l\u001b[24;64H4\u001b[13;9H\u001b[93mversion\u001b[m : \u001b[95m2.0\u001b[m\u001b[13;22H\u001b[K\u001b[14;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.213543,
+      "\u001b[?25l\u001b[24;66H2\u001b[14;2H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.309149,
+      "\u001b[?25l\u001b[24;66H3\u001b[14;3H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.143509,
+      "\u001b[?25l\u001b[24;66H4\u001b[14;4H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.120349,
+      "\u001b[?25l\u001b[24;66H5\u001b[14;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.127434,
+      "\u001b[?25l\u001b[24;66H6\u001b[14;6H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.134897,
+      "\u001b[?25l\u001b[11;7H\u001b[38;5;224m\u001b[46m{\u001b[14;7H}\u001b[m\u001b[24;66H7\u001b[14;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.126131,
+      "\u0007"
+    ],
+    [
+      0.827418,
+      "\u001b[?25l\u001b[24;1H\u001b[1m-- WPROWADZANIE --\u001b[m\u001b[24;19H\u001b[K\u001b[24;63H14,7     Wszystko\u001b[14;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.134610,
+      "\u001b[?25l\u001b[24;66H8\u001b[14;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.674765,
+      "\u001b[?25l\u001b[97m\u001b[101m,\r\n    ]\u001b[m\r\n  }\u001b[22;1H}\u001b[11;7H\u001b[38;5;224m{\u001b[14;7H}\u001b[m\u001b[14;7H}\u001b[24;66H9\u001b[14;9H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.662087,
+      "\u001b[?25l\u001b[15;23r\u001b[15;1H\u001b[L\u001b[1;24r\u001b[15;1H\u001b[97m\u001b[101m      \u001b[m\u001b[24;63H\u001b[K\u001b[24;63H15,4-7   Wszystko\u001b[15;1H      \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.440596,
+      "\u001b[?25l\u001b[38;5;224m{\u001b[m\r\n    ]\r\n  \u001b[38;5;224m}\u001b[m\u001b[15;7H\u001b[38;5;224m\u001b[46m{\r\n\r\n\u001b[m  \u001b[38;5;224m\u001b[46m}\u001b[m\u001b[24;66H5-8\u001b[15;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.398535,
+      "\u001b[?25l\u001b[16;23r\u001b[16;1H\u001b[L\u001b[1;24r\u001b[17;3H\u001b[46m \u001b[m\r\n  \u001b[38;5;224m}\u001b[m\u001b[24;63H\u001b[K\u001b[24;63H16,4-7\u001b[7CGóra\u001b[15;7H\u001b[38;5;224m{\u001b[m\r\n\r\n   \u001b[16;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.639542,
+      "\u001b[?25l\u001b[38;5;224m}\u001b[m\r\n\r\n  }\u001b[15;7H\u001b[38;5;224m\u001b[46m{\u001b[16;7H}\u001b[m\u001b[24;66H5-8\u001b[16;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.707021,
+      "\u001b[?25l\u001b[24;64H5\u001b[15;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.751275,
+      "\u001b[?25l\u001b[16;23r\u001b[16;1H\u001b[L\u001b[1;24r\u001b[17;7H\u001b[38;5;224m}\u001b[m\u001b[24;63H\u001b[K\u001b[24;63H16,4-7\u001b[7CGóra\u001b[15;7H\u001b[38;5;224m{\u001b[16;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.406126,
+      "\u001b[?25l\u001b[m\u001b[24;66H5-9\u001b[16;9H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.413009,
+      "\u001b[?25l\u001b[15;7H\u001b[38;5;224m\u001b[46m{\u001b[17;7H}\u001b[m\u001b[24;64H5,5-8\u001b[15;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.147923,
+      "\u001b[?25l\u001b[11;7H\u001b[38;5;224m\u001b[46m{\u001b[14;7H}\u001b[m,\u001b[15;7H\u001b[38;5;224m{\u001b[17;7H}\r\n\u001b[m    \u001b[38;5;224m]\r\n\u001b[m  \u001b[38;5;224m}\u001b[m\u001b[24;64H4,8  \u001b[14;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.857862,
+      "\u001b[?25l\u001b[11;7H\u001b[38;5;224m{\u001b[14;7H}\u001b[m\u001b[15;7H\u001b[38;5;224m\u001b[46m{\u001b[17;7H}\u001b[m\u001b[24;64H5,5-8\u001b[15;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.170505,
+      "\u001b[?25l\u0008\u001b[38;5;224m{\u001b[17;7H}\u001b[m\u001b[24;64H6,4-7\u001b[16;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.461520,
+      "\u001b[?25l\u001b[24;66H5-9\u001b[16;9H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.994632,
+      "\u001b[?25l\u001b[97m\u001b[101md\u001b[m\u001b[24;66H6-10\u001b[16;10H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.094557,
+      "\u001b[?25l\u001b[97m\u001b[101me\u001b[m\u001b[24;66H7-11\u001b[16;11H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.085049,
+      "\u001b[?25l\u001b[97m\u001b[101mp\u001b[m\u001b[24;66H8-12\u001b[16;12H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.119742,
+      "\u001b[?25l\u001b[97m\u001b[101me\u001b[m\u001b[24;66H9-13\u001b[16;13H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.294293,
+      "\u001b[?25l\u0008 \u001b[24;66H8-12\u001b[16;12H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.124922,
+      "\u001b[?25l\u0008 \u001b[24;66H7-11\u001b[16;11H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.121824,
+      "\u001b[?25l\u0008 \u001b[24;66H6-10\u001b[16;10H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.120864,
+      "\u001b[?25l\u0008 \u001b[24;66H5-9 \u001b[16;9H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.398239,
+      "\u001b[?25l\"\u001b[24;66H6-10\u001b[16;10H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.176441,
+      "\u001b[?25l\u001b[97m\u001b[101md\u001b[m\u001b[24;66H7-11\u001b[16;11H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.065888,
+      "\u001b[?25l\u001b[97m\u001b[101me\u001b[m\u001b[24;66H8-12\u001b[16;12H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.218703,
+      "\u001b[?25l\u001b[97m\u001b[101me\u001b[m\u001b[24;66H9-13\u001b[16;13H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.332318,
+      "\u001b[?25l\u0008 \u001b[24;66H8-12\u001b[16;12H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.198891,
+      "\u001b[?25l\u001b[97m\u001b[101mp\u001b[m\u001b[24;66H9-13\u001b[16;13H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.138532,
+      "\u001b[?25l\u001b[97m\u001b[101me\u001b[m\u001b[24;66H10-14\u001b[16;14H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.172642,
+      "\u001b[?25l\u001b[97m\u001b[101mn\u001b[m\u001b[24;67H1-15\u001b[16;15H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.139365,
+      "\u001b[?25l\u001b[97m\u001b[101md\u001b[m\u001b[24;67H2-16\u001b[16;16H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.036461,
+      "\u001b[?25l\u001b[97m\u001b[101me\u001b[m\u001b[24;67H3-17\u001b[16;17H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.116399,
+      "\u001b[?25l\u001b[97m\u001b[101mn\u001b[m\u001b[24;67H4-18\u001b[16;18H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.097937,
+      "\u001b[?25l\u001b[97m\u001b[101mc\u001b[m\u001b[24;67H5-19\u001b[16;19H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.236667,
+      "\u001b[?25l\u001b[97m\u001b[101my\u001b[m\u001b[24;67H6-20\u001b[16;20H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.452687,
+      "\u001b[?25l\u001b[16;10H\u001b[95mdependency\u001b[m\"\u001b[24;67H7-21\u001b[16;21H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.285348,
+      "\u001b[?25l\u001b[16;10H\u001b[93mdependency\u001b[m\":\u001b[24;67H8-22\u001b[16;22H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.712052,
+      "\u001b[?25l\u001b[16;10H\u001b[95mdependency\u001b[m\" \u001b[24;67H7-21\u001b[16;21H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.110774,
+      "\u001b[?25l\u001b[24;67H8-22\u001b[16;22H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.217897,
+      "\u001b[?25l\u001b[16;10H\u001b[93mdependency\u001b[m\" :\u001b[24;67H9-23\u001b[16;23H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.168677,
+      "\u001b[?25l\u001b[24;66H20-24\u001b[16;24H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.271983,
+      "\u001b[?25l\"\u001b[24;67H1-25\u001b[16;25H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.532202,
+      "\u001b[?25l\u001b[97m\u001b[101mv\u001b[m\u001b[24;67H2-26\u001b[16;26H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.081329,
+      "\u001b[?25l\u001b[97m\u001b[101ma\u001b[m\u001b[24;67H3-27\u001b[16;27H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.091900,
+      "\u001b[?25l\u001b[97m\u001b[101ml\u001b[m\u001b[24;67H4-28\u001b[16;28H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.093733,
+      "\u001b[?25l\u001b[97m\u001b[101ma\u001b[m\u001b[24;67H5-29\u001b[16;29H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.181356,
+      "\u001b[?25l=\u001b[24;67H6-30\u001b[16;30H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.515512,
+      "\u001b[?25l\u0008 \u001b[24;67H5-29\u001b[16;29H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.149783,
+      "\u001b[?25l-\u001b[24;67H6-30\u001b[16;30H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.113086,
+      "\u001b[?25l\u001b[97m\u001b[101ms\u001b[m\u001b[24;67H7-31\u001b[16;31H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.094718,
+      "\u001b[?25l\u001b[97m\u001b[101mt\u001b[m\u001b[24;67H8-32\u001b[16;32H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.109693,
+      "\u001b[?25l\u001b[97m\u001b[101ma\u001b[m\u001b[24;67H9-33\u001b[16;33H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.324390,
+      "\u001b[?25l\u001b[97m\u001b[101mc\u001b[m\u001b[24;66H30-34\u001b[16;34H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.117613,
+      "\u001b[?25l\u001b[97m\u001b[101mk\u001b[m\u001b[24;67H1-35\u001b[16;35H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.209868,
+      "\u001b[?25l\u001b[97m\u001b[101mt\u001b[m\u001b[24;67H2-36\u001b[16;36H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.192632,
+      "\u001b[?25l\u001b[97m\u001b[101mr\u001b[m\u001b[24;67H3-37\u001b[16;37H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.061950,
+      "\u001b[?25l\u001b[97m\u001b[101ma\u001b[m\u001b[24;67H4-38\u001b[16;38H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.234910,
+      "\u001b[?25l\u001b[97m\u001b[101mc\u001b[m\u001b[24;67H5-39\u001b[16;39H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.052143,
+      "\u001b[?25l\u001b[97m\u001b[101me\u001b[m\u001b[24;67H6-40\u001b[16;40H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.355002,
+      "\u001b[?25l\u001b[16;25H\u001b[95mvala-stacktrace\u001b[m\"\u001b[24;67H7-41\u001b[16;41H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.428109,
+      "\u001b[?25l\u001b[97m\u001b[101m,   \r\n      }\u001b[m\r\n    ]\u001b[24;67H8-42\u001b[16;42H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.295707,
+      "\u001b[?25l\u001b[17;23r\u001b[17;1H\u001b[L\u001b[1;24r\u001b[16;9H\u001b[93mdependency\u001b[m : \u001b[95mvala-stacktrace\u001b[m\u001b[97m\u001b[101m,\u001b[m\u001b[16;38H\u001b[K\u001b[17;1H\u001b[97m\u001b[101m        \u001b[m\u001b[20;3H}\u001b[24;63H\u001b[K\u001b[24;63H17,3-9\u001b[7CGóra\u001b[17;1H        \u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.439001,
+      "\u001b[?25l\"\r\n      }\u001b[24;66H4-10\u001b[17;10H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.288970,
+      "\u001b[?25l\u001b[97m\u001b[101mv\u001b[m\u001b[24;66H5-11\u001b[17;11H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.142467,
+      "\u001b[?25l\u001b[97m\u001b[101me\u001b[m\u001b[24;66H6-12\u001b[17;12H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.127340,
+      "\u001b[?25l\u001b[97m\u001b[101mr\u001b[m\u001b[24;66H7-13\u001b[17;13H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.082631,
+      "\u001b[?25l\u001b[97m\u001b[101ms\u001b[m\u001b[24;66H8-14\u001b[17;14H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.133952,
+      "\u001b[?25l\u001b[97m\u001b[101mi\u001b[m\u001b[24;66H9-15\u001b[17;15H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.063416,
+      "\u001b[?25l\u001b[97m\u001b[101mo\u001b[m\u001b[24;66H10-16\u001b[17;16H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.177512,
+      "\u001b[?25l\u001b[97m\u001b[101mn\u001b[m\u001b[24;67H1-17\u001b[17;17H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.741778,
+      "\u001b[?25l\u001b[17;10H\u001b[95mversion\u001b[m\"\u001b[24;67H2-18\u001b[17;18H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.528870,
+      "\u001b[?25l\u001b[24;67H3-19\u001b[17;19H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.114569,
+      "\u001b[?25l\u001b[17;10H\u001b[93mversion\u001b[m\" :\u001b[24;67H4-20\u001b[17;20H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.715148,
+      "\u001b[?25l\u001b[24;67H5-21\u001b[17;21H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.369827,
+      "\u001b[?25l\"\u001b[24;67H6-22\u001b[17;22H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.984161,
+      "\u001b[?25l\u001b[38;5;224m2\u001b[m\u001b[24;67H7-23\u001b[17;23H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.069383,
+      "\u001b[?25l\u00082.\u001b[24;67H8-24\u001b[17;24H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.244004,
+      "\u001b[?25l\u0008\u0008\u001b[38;5;224m2.0\u001b[m\u001b[24;67H9-25\u001b[17;25H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.515173,
+      "\u001b[?25l\u0008\u0008\u0008\u001b[95m2.0\u001b[m\"\u001b[24;66H20-26\u001b[17;26H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.504919,
+      "\u001b[?25l\u001b[15;7H\u001b[38;5;224m\u001b[46m{\u001b[m\u001b[16;37H,\u001b[17;9H\u001b[93mversion\u001b[m : \u001b[95m2.0\u001b[m\u001b[17;22H\u001b[K\u001b[18;7H\u001b[38;5;224m\u001b[46m}\u001b[m\u001b[24;64H8,5-8  \u001b[18;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.373250,
+      "\u001b[?25l\u001b[6;20H\u001b[38;5;224m\u001b[46m[\u001b[m\u001b[15;7H\u001b[38;5;224m{\u001b[18;7H}\u001b[m\r\n    \u001b[38;5;224m\u001b[46m]\u001b[m\r\n  \u001b[38;5;224m}\u001b[m\u001b[24;64H9,6  \u001b[19;6H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.132603,
+      "\u001b[?25l\u001b[6;20H\u001b[38;5;224m[\u001b[19;5H]\u001b[m\u001b[24;63H20,5\u001b[20;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.127337,
+      "\u001b[21;3H\"\u001b[93mplugins\u001b[m\": \u001b[38;5;224m{\u001b[?25l\u001b[m\u001b[24;64H1,6\u001b[21;6H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.136068,
+      "\u001b[21;3H\u001b[93mplugins\u001b[m: \u001b[38;5;224m{\u001b[m\u001b[21;14H\u001b[K\u001b[22;5H\"\u001b[93mbuild\u001b[m\": \u001b[38;5;224m{\u001b[?25l\u001b[m\u001b[24;64H2\u001b[22;6H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.419193,
+      "\u001b[22;5H\u001b[93mbuild\u001b[m: \u001b[38;5;224m{\u001b[m\u001b[22;14H\u001b[K\u001b[23;7H\"\u001b[93mverbose\u001b[m\" : \u001b[38;5;224mtrue\u001b[?25l\u001b[m\u001b[24;64H3\u001b[23;6H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.134363,
+      "\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;5H\u001b[38;5;224m}\u001b[m\u001b[24;63H\u001b[K\u001b[24;63H24,6\u001b[10C33%\u001b[21;12H\u001b[38;5;224m\u001b[46m{\u001b[m\u001b[22;7H\u001b[93mverbose\u001b[m : \u001b[38;5;224mtrue\u001b[m\u001b[22;21H\u001b[K\u001b[23;5H\u001b[38;5;224m\u001b[46m}\u001b[23;6H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.136317,
+      "\u001b[?25l\u001b[1;23r\u001b[m\u001b[23;1H\r\n\u001b[1;24r\u001b[23;3H\u001b[38;5;224m}\u001b[m\u001b[24;63H\u001b[K\u001b[24;63H25,4\u001b[10C66%\u001b[19;12H\u001b[38;5;224m\u001b[46m{\u001b[m\u001b[20;12H\u001b[38;5;224m{\u001b[22;5H}\u001b[m\r\n  \u001b[38;5;224m\u001b[46m}\u001b[23;4H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.492220,
+      "\u001b[?25l\u001b[m\u001b[19;12H\u001b[38;5;224m{\u001b[23;3H}\u001b[m\u001b[24;64H4\u001b[22;4H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.125589,
+      "\u001b[21;7H\"\u001b[93mverbose\u001b[m\" : \u001b[38;5;224mtrue\u001b[?25l\u001b[m\u001b[24;64H3\u001b[21;4H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.178987,
+      "\u001b[?25l\u001b[24;66H5\u001b[21;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.827603,
+      "\u001b[?25l\u001b[24;66H16\u001b[21;16H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.004727,
+      "\u001b[?25l\u001b[24;67H7\u001b[21;17H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.030690,
+      "\u001b[?25l\u001b[24;67H8\u001b[21;18H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.030472,
+      "\u001b[?25l\u001b[24;67H9\u001b[21;19H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.030547,
+      "\u001b[?25l\u001b[24;66H20\u001b[21;20H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029906,
+      "\u001b[?25l\u001b[24;67H1\u001b[21;21H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.030605,
+      "\u001b[?25l\u001b[24;67H2\u001b[21;22H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.030507,
+      "\u001b[?25l\u001b[24;67H3\u001b[21;23H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029801,
+      "\u0007"
+    ],
+    [
+      0.030513,
+      "\u0007"
+    ],
+    [
+      0.030044,
+      "\u0007"
+    ],
+    [
+      0.762672,
+      "\u001b[?25l\u001b[97m\u001b[101m,\r\n    }\u001b[m\u001b[24;67H4\u001b[21;24H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.518641,
+      "\u001b[?25l\u001b[21;7H\u001b[93mverbose\u001b[m : \u001b[38;5;224mtrue\u001b[m\u001b[97m\u001b[101m,\u001b[m\u001b[21;22H\u001b[K\u001b[22;5H\u001b[97m\u001b[101m  \r\n    }\u001b[m\u001b[22;1H      \u001b[24;64H4,4-7\u001b[8C50\u001b[22;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.448341,
+      "\u001b[?25l\"\r\n    }\u001b[24;66H5-8\u001b[22;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.349226,
+      "\u001b[?25l\u001b[97m\u001b[101md\u001b[m\u001b[24;66H6-9\u001b[22;9H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.018080,
+      "\u001b[?25l\u001b[97m\u001b[101me\u001b[m\u001b[24;66H7-10\u001b[22;10H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.397705,
+      "\u001b[?25l\u001b[97m\u001b[101mb\u001b[m\u001b[24;66H8-11\u001b[22;11H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.108231,
+      "\u001b[?25l\u001b[97m\u001b[101mu\u001b[m\u001b[24;66H9-12\u001b[22;12H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.108535,
+      "\u001b[?25l\u001b[97m\u001b[101mg\u001b[m\u001b[24;66H10-13\u001b[22;13H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.348222,
+      "\u001b[?25l\u0008\u0008\u0008\u0008\u0008\u001b[95mdebug\u001b[m\"\u001b[24;67H1-14\u001b[22;14H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.388190,
+      "\u001b[?25l\u001b[24;67H2-15\u001b[22;15H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.154857,
+      "\u001b[?25l\u001b[22;8H\u001b[93mdebug\u001b[m\" :\u001b[24;67H3-16\u001b[22;16H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.200254,
+      "\u001b[?25l\u001b[24;67H4-17\u001b[22;17H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.183903,
+      "\u001b[?25l\u001b[97m\u001b[101mt\u001b[m\u001b[24;67H5-18\u001b[22;18H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.094552,
+      "\u001b[?25l\u001b[97m\u001b[101mr\u001b[m\u001b[24;67H6-19\u001b[22;19H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.062181,
+      "\u001b[?25l\u001b[97m\u001b[101mu\u001b[m\u001b[24;67H7-20\u001b[22;20H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.107724,
+      "\u001b[?25l\u0008\u0008\u0008\u001b[38;5;224mtrue\u001b[m\u001b[24;67H8-21\u001b[22;21H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.703301,
+      "\u001b[?25l\u001b[20;12H\u001b[38;5;224m\u001b[46m{\u001b[m\u001b[21;21H,\u001b[22;7H\u001b[93mdebug\u001b[m : \u001b[38;5;224mtrue\u001b[m\u001b[22;19H\u001b[K\u001b[23;5H\u001b[38;5;224m\u001b[46m}\u001b[m\u001b[24;64H5,6    \u001b[23;6H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.130733,
+      "\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;3H}\u001b[24;63H\u001b[K\u001b[24;63H26,4\u001b[10C75%\u001b[18;12H\u001b[38;5;224m\u001b[46m{\u001b[m\u001b[19;12H\u001b[38;5;224m{\u001b[22;5H}\u001b[m\r\n  \u001b[38;5;224m\u001b[46m}\u001b[23;4H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.120941,
+      "\u001b[?25l\u001b[1;23r\u001b[m\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H}\u001b[24;63H\u001b[K\u001b[24;63H27,2\u001b[10CDół\u001b[17;12H\u001b[38;5;224m{\u001b[22;3H}\u001b[23;2H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.106918,
+      "\u0007"
+    ],
+    [
+      0.565585,
+      "\u001b[?25l\u001b[m\u001b[24;64H6\u001b[22;2H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.105310,
+      "\u001b[?25l\u001b[24;64H5\u001b[21;2H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.156970,
+      "\u001b[20;7H\"\u001b[93mdebug\u001b[m\" : \u001b[38;5;224mtrue\u001b[?25l\u001b[m\u001b[24;64H4,1\u001b[20;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.407228,
+      "\u001b[20;7H\u001b[93mdebug\u001b[m : \u001b[38;5;224mtrue\u001b[m\u001b[20;19H\u001b[K\u001b[19;7H\"\u001b[93mverbose\u001b[m\" : \u001b[38;5;224mtrue\u001b[m,\u001b[?25l\u001b[24;64H3,2\u001b[19;2H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.432848,
+      "\u001b[19;7H\u001b[93mverbose\u001b[m : \u001b[38;5;224mtrue\u001b[m,\u001b[19;22H\u001b[K\u001b[20;7H\"\u001b[93mdebug\u001b[m\" : \u001b[38;5;224mtrue\u001b[?25l\u001b[m\u001b[24;64H4,1\u001b[20;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.372938,
+      "\u001b[20;7H\u001b[93mdebug\u001b[m : \u001b[38;5;224mtrue\u001b[m\u001b[20;19H\u001b[K\u001b[19;7H\"\u001b[93mverbose\u001b[m\" : \u001b[38;5;224mtrue\u001b[m,\u001b[?25l\u001b[24;64H3,2\u001b[19;2H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.141318,
+      "\u001b[19;7H\u001b[93mverbose\u001b[m : \u001b[38;5;224mtrue\u001b[m,\u001b[19;22H\u001b[K\u001b[18;5H\"\u001b[93mbuild\u001b[m\": \u001b[38;5;224m{\u001b[?25l\u001b[m\u001b[24;64H2\u001b[18;2H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.694536,
+      "\u001b[24;1H\u001b[K\u001b[18;1H"
+    ],
+    [
+      0.393765,
+      "\u001b[?25l\u001b[24;63H22,1\u001b[10CDół\u001b[18;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[24;63H\u001b[K\u001b[24;1H:\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.282140,
+      "w\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.809311,
+      "q\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.371072,
+      "\r\u001b[?25l\"recipe.bob\""
+    ],
+    [
+      0.078505,
+      " 27L, 435C zapisano\r\r\r\n\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.010891,
+      "\u001b]0;fish  /o"
+    ],
+    [
+      0.000008,
+      "pt/vala/test-pro"
+    ],
+    [
+      0.000003,
+      "jec"
+    ],
+    [
+      0.000002,
+      "t"
+    ],
+    [
+      0.000017,
+      "\u0007"
+    ],
+    [
+      0.000006,
+      "\u001b[3"
+    ],
+    [
+      0.000002,
+      "0m"
+    ],
+    [
+      0.000013,
+      "\u001b("
+    ],
+    [
+      0.000003,
+      "B\u001b[m"
+    ],
+    [
+      0.000177,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000112,
+      "\u001b[44m\u001b[30m /o/v/test-project \u001b[40m\u001b(B\u001b[m\u001b[34m \u001b[K"
+    ],
+    [
+      1.284422,
+      "b\u0008\u001b[31m\u001b[1mb\u001b(B\u001b[mo\u001b[38;5;240mb collect-sources repository:scan build repository:inst…\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.105636,
+      "\u001b[31m\u001b[1mo\u001b(B\u001b[mb\u001b[38;5;240m collect-sources repository:scan build repository:inst…\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.086876,
+      "\u001b[31m\u001b[1mb\u001b(B\u001b[m \u001b[38;5;240mcollect-sources repository:scan build repository:inst…\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m\u0008\u0008\u0008\u001b[38;5;26mbob\u001b[30m\u001b(B\u001b[m \u001b[38;5;240mcollect-sources repository:scan build repository:inst…\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      1.332505,
+      "\u0008\u0008\u0008\u001b[K\r\n\u001b[38;5;26mbob collect-sources repository:scan build repository:install\u001b[30m\u001b(B\u001b[m\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008 \u001b[38;5;39mcollect-sources\u001b[30m\u001b(B\u001b[m \u001b[38;5;39mrepository:scan\u001b[30m\u001b(B\u001b[m \u001b[38;5;39mbuild\u001b[30m\u001b(B\u001b[m \u001b[38;5;39mrepository:install\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.837209,
+      "\r\n\u001b[30m\u001b(B\u001b[m\u001b]0;bob  /opt/vala/test-project\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.011128,
+      "\u001b[0;34m[BobBuildProjectRecipe] \u001b[0m\u001b[0;34;39mParsing project dependencies.\r\n"
+    ],
+    [
+      0.000053,
+      "\u001b[0m\u001b[0;34m[BobBuildRecipe] \u001b[0m\u001b[0;34;39mParsing plugin recipe: build\r\n"
+    ],
+    [
+      0.000282,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mLoading plugins from directory: /opt/vala/valder/target/plugins\r\n"
+    ],
+    [
+      0.000299,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mLoaded build plugin module: /opt/vala/valder/target/plugins/libplugin-build.so\r\n"
+    ],
+    [
+      0.000046,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mRegistering new plugin: build\r\n"
+    ],
+    [
+      0.000139,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mLoaded build plugin module: /opt/vala/valder/target/plugins/libplugin-collect-sources.so\r\n"
+    ],
+    [
+      0.000026,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mRegistering new plugin: collect-sources\r\n"
+    ],
+    [
+      0.000133,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mLoaded build plugin module: /opt/vala/valder/target/plugins/libplugin-initialize.so\r\n"
+    ],
+    [
+      0.000025,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mRegistering new plugin: initialize:structure\r\n"
+    ],
+    [
+      0.000021,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mRegistering new plugin: initialize:recipe\r\n"
+    ],
+    [
+      0.000193,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mLoaded build plugin module: /opt/vala/valder/target/plugins/libplugin-repository.so\r\n"
+    ],
+    [
+      0.000026,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mRegistering new plugin: repository:install\r\n"
+    ],
+    [
+      0.000027,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mRegistering new plugin: repository:scan\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mRegistering new plugin: repository:copy-libs\r\n"
+    ],
+    [
+      0.000126,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mLoaded build plugin module: /opt/vala/valder/target/plugins/libplugin-uncrustify.so\r\n"
+    ],
+    [
+      0.000035,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginsLoader] \u001b[0m\u001b[0;34;39mRegistering new plugin: uncrustify\r\n"
+    ],
+    [
+      0.000037,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mUsing build plugin: collect-sources.\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mUsing build plugin: repository:scan.\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mUsing build plugin: build.\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mUsing build plugin: repository:install.\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[0m\u001b[0;34m[BobBuildContext] \u001b[0m\u001b[0;34;39mBuilding project: test-0.0.1 (Test project)\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[0m\u001b[0;34m[BobBuildContext] \u001b[0m\u001b[0;34;39mLoading project plugins recipies...\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mInitializing plugin 'collect-sources' with recipe data.\r\n"
+    ],
+    [
+      0.000059,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mInitializing plugin 'repository:scan' with recipe data.\r\n"
+    ],
+    [
+      0.000425,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: .bob.\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[0m\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;39mFound repository directory: /home/activey/.bob.\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mInitializing plugin 'build' with recipe data.\r\n"
+    ],
+    [
+      0.000025,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mInitializing plugin 'repository:install' with recipe data.\r\n"
+    ],
+    [
+      0.000025,
+      "\u001b[0m\u001b[0;34m[BobBuildContext] \u001b[0m\u001b[0;34;39mRunning project plugins\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mRunning plugin: collect-sources\r\n"
+    ],
+    [
+      0.001038,
+      "\u001b[0m\u001b[0;34m[CollectSourcesPlugin] \u001b[0m\u001b[0;34;39m/opt/vala/test-project/src/main/vala/Test2.vala (249 bytes)\r\n\u001b[0m\u001b[0;34m[CollectSourcesPlugin] \u001b[0m\u001b[0;34;39mUsing 1 project source files with 249 bytes in total.\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mRunning plugin: repository:scan\r\n\u001b[0m\u001b[0;34m[ScanLocalRepositoryPlugin] \u001b[0m\u001b[0;34;39mScanning local repository for project dependencies.\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[0m\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;39mScanning for depedency match in local repository: glib-2.0\r\n"
+    ],
+    [
+      0.000202,
+      "\u001b[0;34m"
+    ],
+    [
+      0.000004,
+      "[RepositoryDependencyScanner] \u001b[0m"
+    ],
+    [
+      0.000012,
+      "\u001b[0;34;22;33"
+    ],
+    [
+      0.000003,
+      "mRepository directory for glib-2.0 does not exist.\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[0m"
+    ],
+    [
+      0.000020,
+      "\u001b[0m\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;39mScanning for depedency match in local repository: gobject-2.0\r\n"
+    ],
+    [
+      0.000171,
+      "\u001b[0;34"
+    ],
+    [
+      0.000004,
+      "m[RepositoryDependencyScanner] "
+    ],
+    [
+      0.000003,
+      "\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\u001b[0;34;22;33m"
+    ],
+    [
+      0.000011,
+      "Repository directory for gobject-2.0 does not exist.\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\u001b[0m\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;39mScanning for depedency match in local repository: vala-stacktrace-2.0\r\n"
+    ],
+    [
+      0.000080,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: vala-stacktrace.\r\n"
+    ],
+    [
+      0.000052,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: 2.0.\r\n"
+    ],
+    [
+      0.000065,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: vapi.\r\n"
+    ],
+    [
+      0.000063,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: c.\r\n"
+    ],
+    [
+      0.000103,
+      "\u001b[0m\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;39mScanning recipe file: /home/activey/.bob/vala-stacktrace/2.0/recipe.bob\r\n"
+    ],
+    [
+      0.000082,
+      "\u001b[0m\u001b[0;34m[BobBuildProjectRecipe] \u001b[0m\u001b[0;34;39mParsing project dependencies.\r\n"
+    ],
+    [
+      0.000035,
+      "\u001b[0m\u001b[0;34m[BobBuildRecipe] \u001b[0m\u001b[0;34;39mNo plugins configuration found, skipping\r\n"
+    ],
+    [
+      0.000276,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: .bob.\r\n"
+    ],
+    [
+      0.000020,
+      "\u001b[0m\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;39mFound repository directory: /home/activey/.bob.\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[0m\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;39mScanning for depedency match in local repository: glib-2.0\r\n"
+    ],
+    [
+      0.000169,
+      "\u001b[0;34"
+    ],
+    [
+      0.000002,
+      "m[RepositoryDependencyScanner] "
+    ],
+    [
+      0.000002,
+      "\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\u001b[0;34;22;33"
+    ],
+    [
+      0.000003,
+      "mRepository directory for glib-2.0 does not exist."
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[0m"
+    ],
+    [
+      0.000017,
+      "\u001b[0m\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;39mScanning for depedency match in local repository: gobject-2.0\r\n"
+    ],
+    [
+      0.000167,
+      "\u001b[0;34"
+    ],
+    [
+      0.000003,
+      "m[RepositoryDependencyScanner] "
+    ],
+    [
+      0.000002,
+      "\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\u001b[0;34;22;33"
+    ],
+    [
+      0.000003,
+      "mRepository directory for gobject-2.0 does not exist."
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[0m"
+    ],
+    [
+      0.000017,
+      "\u001b[0m\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;39mScanning for depedency match in local repository: gee-0.8\r\n"
+    ],
+    [
+      0.000167,
+      "\u001b[0;34"
+    ],
+    [
+      0.000004,
+      "m[RepositoryDependencyScanner] \u001b[0m"
+    ],
+    [
+      0.000002,
+      "\u001b[0;34;22;33"
+    ],
+    [
+      0.000010,
+      "m"
+    ],
+    [
+      0.000003,
+      "Repository directory for gee-0.8 does not exist.\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[0m"
+    ],
+    [
+      0.000016,
+      "\u001b[0m\u001b[0;34m[ScanLocalRepositoryPlugin] \u001b[0m\u001b[0;34;39mAdding new dependency: gee-0.8.\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[0m\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;39mScanning for depedency match in local repository: posix\r\n"
+    ],
+    [
+      0.000164,
+      "\u001b[0;34"
+    ],
+    [
+      0.000002,
+      "m[RepositoryDependencyScanner] "
+    ],
+    [
+      0.000002,
+      "\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\u001b[0;34;22;33"
+    ],
+    [
+      0.000004,
+      "mRepository directory for posix does not exist."
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\u001b[0m\u001b[0;34m[ScanLocalRepositoryPlugin] \u001b[0m\u001b[0;34;39mAdding new dependency: posix.\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[0m\u001b[0;34m[RepositoryDependencyScanner] \u001b[0m\u001b[0;34;39mScanning for depedency match in local repository: linux\r\n"
+    ],
+    [
+      0.000162,
+      "\u001b[0;34"
+    ],
+    [
+      0.000002,
+      "m"
+    ],
+    [
+      0.000002,
+      "[RepositoryDependencyScanner] "
+    ],
+    [
+      0.000002,
+      "\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\u001b[0;34;22;33"
+    ],
+    [
+      0.000003,
+      "mRepository directory for linux does not exist."
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[0m"
+    ],
+    [
+      0.000015,
+      "\u001b[0m\u001b[0;34m[ScanLocalRepositoryPlugin] \u001b[0m\u001b[0;34;39mAdding new dependency: linux.\r\n"
+    ],
+    [
+      0.000022,
+      "\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mRunning plugin: build\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[0m\u001b[0;34m[BuildApplicationPlugin] \u001b[0m\u001b[0;34;39mGenerating library binary.\r\n"
+    ],
+    [
+      0.000030,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mInitializing CodeContext\r\n"
+    ],
+    [
+      0.000623,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mSetting DEBUG mode.\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing VAPI directory: /home/activey/.bob/vala-stacktrace/2.0/vapi for dependency: vala-stacktrace-2.0.\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing C headers directory: /home/activey/.bob/vala-stacktrace/2.0/c for dependency: vala-stacktrace-2.0.\r\n"
+    ],
+    [
+      0.000031,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mInitializing dependencies for scope: library.\r\n"
+    ],
+    [
+      0.000044,
+      "\u001b[0mLoaded package `/usr/share/vala-0.28/vapi/glib-2.0.vapi'\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: glib-2.0.\r\n"
+    ],
+    [
+      0.000021,
+      "\u001b[0mLoaded package `/usr/share/vala-0.28/vapi/gobject-2.0.vapi'\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: gobject-2.0.\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[0mLoaded package `/home/activey/.bob/vala-stacktrace/2.0/vapi/vala-stacktrace-2.0.vapi'\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: vala-stacktrace-2.0.\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[0mLoaded package `/usr/share/vala/vapi/gee-0.8.vapi'\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: gee-0.8.\r\n"
+    ],
+    [
+      0.000025,
+      "\u001b[0mLoaded package `/usr/share/vala-0.28/vapi/posix.vapi'\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: posix.\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[0mLoaded package `/usr/share/vala-0.28/vapi/linux.vapi'\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: linux.\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mNo VALA source files available, skipping code compilation.\r\n"
+    ],
+    [
+      0.000020,
+      "\u001b[0m\u001b[0;34m[BuildApplicationPlugin] \u001b[0m\u001b[0;34;39mGenerating runtime binary.\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mInitializing CodeContext\r\n"
+    ],
+    [
+      0.000150,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mSetting DEBUG mode.\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing VAPI directory: /home/activey/.bob/vala-stacktrace/2.0/vapi for dependency: vala-stacktrace-2.0.\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing C headers directory: /home/activey/.bob/vala-stacktrace/2.0/c for dependency: vala-stacktrace-2.0.\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mInitializing dependencies for scope: runtime.\r\n"
+    ],
+    [
+      0.000028,
+      "\u001b[0mLoaded package `/usr/share/vala-0.28/vapi/glib-2.0.vapi'\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: glib-2.0.\r\n"
+    ],
+    [
+      0.000019,
+      "\u001b[0mLoaded package `/usr/share/vala-0.28/vapi/gobject-2.0.vapi'\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: gobject-2.0.\r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[0mLoaded package `/home/activey/.bob/vala-stacktrace/2.0/vapi/vala-stacktrace-2.0.vapi'\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: vala-stacktrace-2.0.\r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[0mLoaded package `/usr/share/vala/vapi/gee-0.8.vapi'\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: gee-0.8.\r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[0mLoaded package `/usr/share/vala-0.28/vapi/posix.vapi'\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: posix.\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[0mLoaded package `/usr/share/vala-0.28/vapi/linux.vapi'\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing PKG dependency: linux.\r\n"
+    ],
+    [
+      0.000041,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mUsing source file: /opt/vala/test-project/src/main/vala/Test2.vala.\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mStarting code compilation ...\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mRunning code parsers.\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mRunning general parser.\r\n"
+    ],
+    [
+      0.083975,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mRunning GENIE parser.\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[0m\u001b[0;34m[ValaCodeCompiler] \u001b[0m\u001b[0;34;39mRunning GIR parser.\r\n"
+    ],
+    [
+      0.042939,
+      "\u001b[0m\u003e\u003e\u003e\u003e -Wl,-rpath=$ORIGIN/lib,-Ltarget/lib,-rdynamic,-I/home/activey/.bob/vala-stacktrace/2.0/c,-lvala-stacktrace \r\n"
+    ],
+    [
+      0.028848,
+      "cc -g -o '/opt/vala/test-project/target/test' '/opt/vala/test-project/src/main/vala/Test2.vala.c' -I/usr/include/gee-0.8 -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -lgee-0.8 -lgobject-2.0 -lglib-2.0 '-Wl,-rpath=$ORIGIN/lib' '-Ltarget/lib' '-rdynamic' '-I/home/activey/.bob/vala-stacktrace/2.0/c' '-lvala-stacktrace'\r\n"
+    ],
+    [
+      0.206023,
+      "\u001b[0;34m[BuildApplicationPlugin] \u001b[0m\u001b[0;34;1;32mRuntime binary compilation finished.\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[0m\u001b[0;34m[BuildApplicationPlugin] \u001b[0m\u001b[0;34;1;32mCode compilation finished.\r\n\u001b[0m\u001b[0;34m[BobBuildPluginExecutionChain] \u001b[0m\u001b[0;34;39mRunning plugin: repository:install\r\n"
+    ],
+    [
+      0.000032,
+      "\u001b[0m\u001b[0;34m[InstallInLocalRepositoryPlugin] \u001b[0m\u001b[0;34;39mInitializing project directory structure in local repository.\r\n"
+    ],
+    [
+      0.000845,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: .bob.\r\n"
+    ],
+    [
+      0.000286,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: test.\r\n"
+    ],
+    [
+      0.000095,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: 0.0.1.\r\n"
+    ],
+    [
+      0.000126,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: vapi.\r\n"
+    ],
+    [
+      0.000181,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: c.\r\n"
+    ],
+    [
+      0.000149,
+      "\u001b[0m\u001b[0;34m[DirectoryBuilder] \u001b[0m\u001b[0;34;39mFound directory with name: lib.\r\n"
+    ],
+    [
+      0.000042,
+      "\u001b[0m\u001b[0;34m[InstallInLocalRepositoryPlugin] \u001b[0m\u001b[0;34;1;32mRepository project directory structure ready.\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m\u001b[0;34m[InstallInLocalRepositoryPlugin] \u001b[0m\u001b[0;34;39mInstalling project files in local repository.\r\n"
+    ],
+    [
+      0.000039,
+      "\u001b[0m\u001b[0;34m[InstallInLocalRepositoryPlugin] \u001b[0m\u001b[0;34;39mDumping receipe file to directory: /home/activey/.bob/test/0.0.1.\r\n"
+    ],
+    [
+      0.001281,
+      "\u001b[0m\u001b[0;34m[BobBuildContext] \u001b[0m\u001b[0;34;39mTook time: 0.370155 seconds.\r\n"
+    ],
+    [
+      0.000443,
+      "\u001b[0m"
+    ],
+    [
+      0.013388,
+      "\u001b]0;fis"
+    ],
+    [
+      0.000008,
+      "h  /opt/vala/tes"
+    ],
+    [
+      0.000003,
+      "t-"
+    ],
+    [
+      0.000002,
+      "p"
+    ],
+    [
+      0.000002,
+      "r"
+    ],
+    [
+      0.000002,
+      "o"
+    ],
+    [
+      0.000002,
+      "j"
+    ],
+    [
+      0.000002,
+      "e"
+    ],
+    [
+      0.000002,
+      "c"
+    ],
+    [
+      0.000002,
+      "t"
+    ],
+    [
+      0.000002,
+      "\u0007"
+    ],
+    [
+      0.000017,
+      "\u001b"
+    ],
+    [
+      0.000005,
+      "[30m"
+    ],
+    [
+      0.000003,
+      "\u001b"
+    ],
+    [
+      0.000002,
+      "("
+    ],
+    [
+      0.000003,
+      "B"
+    ],
+    [
+      0.000003,
+      "\u001b["
+    ],
+    [
+      0.000002,
+      "m"
+    ],
+    [
+      0.000113,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000102,
+      "\u001b[44m\u001b[30m /o/v/test-project \u001b[40m\u001b(B\u001b[m\u001b[34m \u001b[K"
+    ],
+    [
+      4.681637,
+      ".\u0008\u001b[38;5;26m\u001b[4m.\u001b[30m\u001b(B\u001b[m/\u001b[38;5;240mtarget/test \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.048423,
+      "\u001b[38;5;26m\u001b[4m/\u001b[30m\u001b(B\u001b[mt\u001b[38;5;240marget/test \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.059638,
+      "\u001b[38;5;26m\u001b[4mt\u001b[30m\u001b(B\u001b[ma\u001b[38;5;240mrget/test \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m\u0008\u0008\u0008\u001b[31m\u001b[1m./t\u001b(B\u001b[ma\u001b[38;5;240mrget/test \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.076087,
+      "\u001b[31m\u001b[1marget/\u001b(B\u001b[mt\u001b[38;5;240mest \u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[38;5;26m\u001b[4m./target/\u001b[30m\u001b(B\u001b[mt\u001b[38;5;240mest \u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.855366,
+      "\u001b[38;5;26m\u001b[4mtest \u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000522,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[38;5;26m./target/test\u001b[30m\u001b(B\u001b[m "
+    ],
+    [
+      0.798525,
+      "\r\n\u001b[30m\u001b(B\u001b[m\u001b]0;./target/test  /opt/vala/test-project\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.004761,
+      "**\r\nERROR:/opt/vala/test-project/src/main/vala/Test2.vala:4:test_helloWorld: assertion failed: (1 == 2)\r\n"
+    ],
+    [
+      0.057543,
+      "\u001b[2;37;41mAn error occured \u001b[1;37;41m(SIGABRT)\u001b[2;37;41m in \u001b[1;37;41msrc/main/vala/Test2.vala\u001b[2;37;41m, line \u001b[1;37;41m10\u001b[2;37;41m in \u001b[1;37;41m'test_main'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000009,
+      "   The reason is likely \u001b[1;37ma failed assertion (assert...)\u001b[0m.\r\n\r\n    #1  \u003cunknown\u003e                            in \u001b[1;37m'gsignal'\u001b[0m\r\n        at /usr/lib/libc.so.6\r\n"
+    ],
+    [
+      0.000003,
+      "    #2  \u003cunknown\u003e                            in \u001b[1;37m'abort'\u001b[0m\r\n"
+    ],
+    [
+      0.000013,
+      "        at /usr/lib/libc.so.6\r\n"
+    ],
+    [
+      0.000007,
+      "    #3  \u003cunknown\u003e                            in \u001b[1;37m'g_assertion_message'\u001b[0m\r\n"
+    ],
+    [
+      0.000004,
+      "        at /usr/lib/libglib-2.0.so.0\r\n"
+    ],
+    [
+      0.000013,
+      "    #4  \u003cunknown\u003e                            in \u001b[1;37m'g_assertion_message_expr'\u001b[0m\r\n"
+    ],
+    [
+      0.000003,
+      "        at /usr/lib/libglib-2.0.so.0\r\n"
+    ],
+    [
+      0.000016,
+      "    #5  \u001b[1;37mTest2.vala.c\u001b[2;37m                line \u001b[1;37m78\u001b[2;37m in \u001b[1;37m'test_main'\u001b[0m\r\n"
+    ],
+    [
+      0.000005,
+      "        at /opt/vala/test-project/Test2.vala.c:78\r\n"
+    ],
+    [
+      0.000018,
+      " *  #6  \u001b[1;37;41msrc/main/vala/Test2.vala\u001b[2;37;41m    line \u001b[1;37;41m10\u001b[2;37;41m in \u001b[1;37;41m'test_main'               \u001b[0m\r\n"
+    ],
+    [
+      0.000003,
+      "        at /opt/vala/test-project/src/main/vala/Test2.vala:10\r\n"
+    ],
+    [
+      0.000021,
+      "    #7  \u001b[1;37msrc/main/vala/Test2.vala\u001b[2;37m    line  \u001b[1;37m8\u001b[2;37m in \u001b[1;37m'main'\u001b[0m\r\n"
+    ],
+    [
+      0.000002,
+      "        at /opt/vala/test-project/src/main/vala/Test2.vala:8\r\n"
+    ],
+    [
+      0.000016,
+      "    #8  \u003cunknown\u003e                            in \u001b[1;37m'__libc_start_main'\u001b[0m\r\n"
+    ],
+    [
+      0.000002,
+      "        at /usr/lib/libc.so.6\r\n"
+    ],
+    [
+      0.000019,
+      "    #9  \u003cunknown\u003e                            in \u001b[1;37m'_start'\u001b[0m\r\n"
+    ],
+    [
+      0.000003,
+      "        at ./target/test\r\n"
+    ],
+    [
+      0.011278,
+      "\u001b]"
+    ],
+    [
+      0.000007,
+      "0;fish  "
+    ],
+    [
+      0.000003,
+      "/"
+    ],
+    [
+      0.000003,
+      "o"
+    ],
+    [
+      0.000016,
+      "p"
+    ],
+    [
+      0.000004,
+      "t/v"
+    ],
+    [
+      0.000002,
+      "a"
+    ],
+    [
+      0.000003,
+      "l"
+    ],
+    [
+      0.000017,
+      "a"
+    ],
+    [
+      0.000005,
+      "/te"
+    ],
+    [
+      0.000004,
+      "st"
+    ],
+    [
+      0.000003,
+      "-"
+    ],
+    [
+      0.000003,
+      "pr"
+    ],
+    [
+      0.000003,
+      "o"
+    ],
+    [
+      0.000003,
+      "j"
+    ],
+    [
+      0.000003,
+      "ec"
+    ],
+    [
+      0.000008,
+      "t\u0007"
+    ],
+    [
+      0.000010,
+      "\u001b"
+    ],
+    [
+      0.000003,
+      "[3"
+    ],
+    [
+      0.000003,
+      "0"
+    ],
+    [
+      0.000003,
+      "m"
+    ],
+    [
+      0.000004,
+      "\u001b("
+    ],
+    [
+      0.000002,
+      "B\u001b"
+    ],
+    [
+      0.000002,
+      "["
+    ],
+    [
+      0.000015,
+      "m"
+    ],
+    [
+      0.000103,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000153,
+      "\u001b[40m\u001b[31m ✘ \u001b[44m\u001b[30m \u001b[44m\u001b[30m/o/v/test-project \u001b[40m\u001b(B\u001b[m\u001b[34m \u001b[K"
+    ],
+    [
+      4.436822,
+      "\r\n"
+    ],
+    [
+      0.000024,
+      "\u001b[30m\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.000032,
+      "\u001b"
+    ],
+    [
+      0.000019,
+      "[3"
+    ],
+    [
+      0.000017,
+      "0m"
+    ],
+    [
+      0.000011,
+      "\u001b"
+    ],
+    [
+      0.000011,
+      "("
+    ],
+    [
+      0.000011,
+      "B"
+    ],
+    [
+      0.000016,
+      "\u001b["
+    ],
+    [
+      0.000017,
+      "m"
+    ]
+  ]
+}
