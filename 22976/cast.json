@@ -1,0 +1,466 @@
+{
+  "version": 1,
+  "width": 113,
+  "height": 33,
+  "duration": 30.556930,
+  "command": "/usr/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/usr/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.343811,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                \r \r"
+    ],
+    [
+      0.000170,
+      "\u001b]2;auke@hannah: ~\u0007"
+    ],
+    [
+      0.000042,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.044085,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ hannah \u001b[32m~ \u001b[33m→ \u001b[00m"
+    ],
+    [
+      0.000036,
+      "\u001b[K"
+    ],
+    [
+      0.000172,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000101,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.050719,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ hannah \u001b[32m~ \u001b[33m→ \u001b[00m"
+    ],
+    [
+      0.000022,
+      "\u001b[K"
+    ],
+    [
+      1.943145,
+      "d"
+    ],
+    [
+      0.136549,
+      "\u0008do"
+    ],
+    [
+      0.100797,
+      "c"
+    ],
+    [
+      0.091687,
+      "k"
+    ],
+    [
+      0.121710,
+      "e"
+    ],
+    [
+      0.060946,
+      "r"
+    ],
+    [
+      0.169047,
+      " "
+    ],
+    [
+      2.306973,
+      "r"
+    ],
+    [
+      0.074863,
+      "u"
+    ],
+    [
+      0.193778,
+      "n"
+    ],
+    [
+      0.133385,
+      " "
+    ],
+    [
+      0.645530,
+      "-"
+    ],
+    [
+      0.891152,
+      "-"
+    ],
+    [
+      0.215768,
+      "r"
+    ],
+    [
+      0.110041,
+      "m"
+    ],
+    [
+      0.208385,
+      " "
+    ],
+    [
+      0.510577,
+      "-"
+    ],
+    [
+      0.465674,
+      "t"
+    ],
+    [
+      0.131747,
+      "i"
+    ],
+    [
+      0.368974,
+      " "
+    ],
+    [
+      0.429018,
+      "p"
+    ],
+    [
+      0.201365,
+      "y"
+    ],
+    [
+      0.115060,
+      "t"
+    ],
+    [
+      0.060688,
+      "h"
+    ],
+    [
+      0.140620,
+      "o"
+    ],
+    [
+      0.171852,
+      "n"
+    ],
+    [
+      0.106922,
+      " "
+    ],
+    [
+      0.135919,
+      "b"
+    ],
+    [
+      0.168370,
+      "a"
+    ],
+    [
+      0.060651,
+      "s"
+    ],
+    [
+      0.162657,
+      "h"
+    ],
+    [
+      0.457053,
+      "\u001b[?1h\u001b=\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.043442,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ hannah \u001b[32m~ \u001b[33m→ \u001b[00mdocker run --rm -ti python bash\u001b[K"
+    ],
+    [
+      0.000124,
+      "\r"
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.002017,
+      "\u001b]2;docker run --rm -ti python bash\u0007"
+    ],
+    [
+      0.000032,
+      "\u001b]1;docker\u0007"
+    ],
+    [
+      0.450257,
+      "root@47a8147c1655:/# "
+    ],
+    [
+      1.966056,
+      "l"
+    ],
+    [
+      0.158071,
+      "s"
+    ],
+    [
+      0.227029,
+      " "
+    ],
+    [
+      2.201365,
+      "-"
+    ],
+    [
+      0.167169,
+      "l"
+    ],
+    [
+      1.491647,
+      " "
+    ],
+    [
+      0.132352,
+      "/"
+    ],
+    [
+      0.262014,
+      "\r\r\n"
+    ],
+    [
+      0.008301,
+      "total 64\r\r\n"
+    ],
+    [
+      0.000025,
+      "drwxr-xr-x   2 root root 4096 Jul  5 13:44 bin\r\r\ndrwxr-xr-x   2 root root 4096 May  4 13:20 boot\r\r\ndrwxr-xr-x   5 root root  380 Jul  5 13:46 dev\r\r\ndrwxr-xr-x   1 root root 4096 Jul  5 13:46 etc\r\r\n"
+    ],
+    [
+      0.000019,
+      "drwxr-xr-x   2 root root 4096 May  4 13:20 home\r\r\n"
+    ],
+    [
+      0.000012,
+      "drwxr-xr-x   9 root root 4096 Jul  5 13:44 lib\r\r\n"
+    ],
+    [
+      0.000011,
+      "drwxr-xr-x   2 root root 4096 Jul  5 13:44 lib64\r"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "drwxr-xr-x   2 root root 4096 Jun 15 18:32 media\r"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "drwxr-xr-x   2 root root 4096 Jun 15 18:32 mnt\r"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000025,
+      "drwxr-xr-x   2 root root 4096 Jun 15 18:32 opt\r\r\n"
+    ],
+    [
+      0.000012,
+      "dr-xr-xr-x 197 root root    0 Jul  5 13:46 proc\r\r\n"
+    ],
+    [
+      0.000011,
+      "drwx------   4 root root 4096 Jul  5 13:44 root\r"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "drwxr-xr-x   3 root root 4096 Jul  5 13:44 run\r"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "drwxr-xr-x   2 root root 4096 Jul  5 13:44 sbin\r"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "drwxr-xr-x   2 root root 4096 Jun 15 18:32 srv\r"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "dr-xr-xr-x  13 root root    0 Jul  5 13:46 sys\r"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "drwxrwxrwt   3 root root 4096 Jul  5 13:44 tmp\r"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "drwxr-xr-x  10 root root 4096 Jul  5 13:44 usr\r"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "drwxr-xr-x  11 root root 4096 Jul  5 13:44 var\r"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000482,
+      "root@47a8147c1655:/# "
+    ],
+    [
+      3.285763,
+      "p"
+    ],
+    [
+      0.151643,
+      "y"
+    ],
+    [
+      0.168202,
+      "h"
+    ],
+    [
+      0.808074,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.126210,
+      "t"
+    ],
+    [
+      0.088642,
+      "h"
+    ],
+    [
+      0.425905,
+      "o"
+    ],
+    [
+      0.191459,
+      "n"
+    ],
+    [
+      0.090995,
+      " "
+    ],
+    [
+      0.741258,
+      "-"
+    ],
+    [
+      0.257667,
+      "m"
+    ],
+    [
+      0.076458,
+      " "
+    ],
+    [
+      0.152824,
+      "t"
+    ],
+    [
+      0.059968,
+      "h"
+    ],
+    [
+      0.084193,
+      "i"
+    ],
+    [
+      0.182751,
+      "s"
+    ],
+    [
+      0.281746,
+      "\r\r\n"
+    ],
+    [
+      0.383264,
+      "The Zen of Python, by Tim Peters\r\r\n\r\r\nBeautiful is better than ugly.\r\r\nExplicit is better than implicit."
+    ],
+    [
+      0.000300,
+      "\r\r\nSimple is better than complex.\r\r\nComplex is better than complicated.\r\r\nFlat is better than nested.\r\r\nSparse is better than dense.\r\r\nReadability counts.\r\r\nSpecial cases aren't special enough to break the rules.\r\r\nAlthough practicality beats purity.\r\r\nErrors should never pass silently.\r\r\nUnless explicitly silenced.\r\r\nIn the face of ambiguity, refuse the temptation to guess.\r\r\nThere should be one-- and preferably only one --obvious way to do it.\r\r\nAlthough that way may not be obvious at first unless you're Dutch.\r\r\n"
+    ],
+    [
+      0.000513,
+      "Now is better than never.\r\r\nAlthough never is often better than *right* now.\r\r\nIf the implementation is hard to explain, it's a bad idea.\r\r\nIf the implementation is easy to explain, it may be a good idea.\r\r\nNamespaces are one honking great idea -- let's do more of those!\r\r\n"
+    ],
+    [
+      0.015968,
+      "root@47a8147c1655:/# "
+    ],
+    [
+      2.148884,
+      "exit\r\r\n"
+    ],
+    [
+      0.244903,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                \r \r\u001b]2;auke@hannah: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.019203,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ hannah \u001b[32m~ \u001b[33m→ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000203,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000100,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.019932,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ hannah \u001b[32m~ \u001b[33m→ \u001b[00m"
+    ],
+    [
+      0.000034,
+      "\u001b[K"
+    ],
+    [
+      1.878009,
+      "\r\r\n"
+    ]
+  ]
+}
