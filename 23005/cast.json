@@ -1,0 +1,1850 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 25,
+  "duration": 87.660451,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.131800,
+      "\u001b]0;oussama@oussama-pc: ~\u0007\u001b[00;34m~\u001b[00m  "
+    ],
+    [
+      0.918423,
+      "\r\n"
+    ],
+    [
+      0.004549,
+      "\u001b]0;oussama@oussama-pc: ~\u0007\u001b[00;34m~\u001b[00m  "
+    ],
+    [
+      0.136685,
+      "\r\n"
+    ],
+    [
+      0.008462,
+      "\u001b]0;oussama@oussama-pc: ~\u0007\u001b[00;34m~\u001b[00m  "
+    ],
+    [
+      0.932842,
+      "l"
+    ],
+    [
+      0.070461,
+      "a"
+    ],
+    [
+      0.852314,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.250537,
+      "\u0008\u001b[K"
+    ],
+    [
+      2.516366,
+      "t"
+    ],
+    [
+      0.173328,
+      "y"
+    ],
+    [
+      0.046808,
+      "p"
+    ],
+    [
+      0.109812,
+      "e"
+    ],
+    [
+      0.271459,
+      " "
+    ],
+    [
+      0.160119,
+      "l"
+    ],
+    [
+      0.129967,
+      "s"
+    ],
+    [
+      0.482544,
+      "\r\nls is aliased to `ls --color=auto'\r\n"
+    ],
+    [
+      0.007760,
+      "\u001b]0;oussama@oussama-pc: ~\u0007\u001b[00;34m~\u001b[00m  "
+    ],
+    [
+      0.633621,
+      "\r\n"
+    ],
+    [
+      0.007300,
+      "\u001b]0;oussama@oussama-pc: ~\u0007\u001b[00;34m~\u001b[00m  "
+    ],
+    [
+      0.133239,
+      "\r\n"
+    ],
+    [
+      0.004964,
+      "\u001b]0;oussama@oussama-pc: ~\u0007\u001b[00;34m~\u001b[00m  "
+    ],
+    [
+      0.405228,
+      "l"
+    ],
+    [
+      0.100254,
+      "s"
+    ],
+    [
+      0.180176,
+      " "
+    ],
+    [
+      0.200775,
+      "-"
+    ],
+    [
+      0.220052,
+      "l"
+    ],
+    [
+      0.150946,
+      "a"
+    ],
+    [
+      0.593436,
+      "\r\n"
+    ],
+    [
+      0.005640,
+      "total 1260\r\n"
+    ],
+    [
+      0.000123,
+      "drwxr-xr-x  36 oussama oussama   4096 Jul  5 21:06 \u001b[0m\u001b[01;34m.\u001b[0m"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "drwxr-xr-x   3 root    root      4096 May 30 11:12 \u001b[01;34m..\u001b[0m"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000039,
+      "-rw-------   1 oussama oussama  35935 Jul  6 01:16 .bash_history\r\n"
+    ],
+    [
+      0.000042,
+      "-rw-r--r--   1 oussama oussama    220 Jan  1  2013 .bash_logout"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "-rw-r--r--   1 oussama oussama     76 Jun 27 16:41 .bash_profile"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000037,
+      "-rw-r--r--   1 oussama oussama   3533 Jun 28 15:43 .bashrc"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000033,
+      "-rw-r--r--   1 oussama oussama   3436 May 30 15:38 .bashrc~"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000039,
+      "-rw-r--r--   1 oussama oussama   3392 Jan  1  2013 .bashrc.original\r\n"
+    ],
+    [
+      0.000029,
+      "drwx------  21 oussama oussama   4096 Jul  5 21:11 \u001b[01;34m.cache\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "drwxr-xr-x   2 oussama oussama   4096 Jul  1 14:02 \u001b[01;34m.chirp\u001b[0m\r\n"
+    ],
+    [
+      0.000111,
+      "drwxr-xr-x   4 oussama oussama   4096 Jun 30 21:56 \u001b[01;34m.composer\u001b[0m\r\n"
+    ],
+    [
+      0.000040,
+      "drwx------  30 oussama oussama   4096 Jul  5 22:54 \u001b[01;34m.config\u001b[0m\r\n"
+    ],
+    [
+      0.000034,
+      "drwx------   3 oussama oussama   4096 May 30 11:37 \u001b[01;34m.dbus\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000043,
+      "drwxr-xr-x   8 oussama oussama   4096 Jul  5 21:11 \u001b[01;34mDesktop\u001b[0m\r\n"
+    ],
+    [
+      0.000027,
+      "drwx------   2 oussama oussama   4096 Jul  5 22:40 \u001b[01;34mDownloads\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000040,
+      "drwx------   2 oussama oussama   4096 Jul  3 20:36 \u001b[01;34m.filezilla\u001b[0m\r\n"
+    ],
+    [
+      0.000037,
+      "drwx------   3 oussama oussama   4096 Jul  5 21:02 \u001b[01;34m.gconf\u001b[0m\r\n"
+    ],
+    [
+      0.000039,
+      "-rw-r--r--   1 oussama oussama  56558 Jun 27 16:29 .git-completion.bash"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000043,
+      "-rw-r--r--   1 oussama oussama    156 Jun 27 22:15 .gitconfig\r\n"
+    ],
+    [
+      0.000029,
+      "-rw-r--r--   1 oussama oussama    149 Jun 30 14:17 .gitignore_global"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "-rw-r-----   1 oussama oussama      0 Jun 27 13:36 .gksu.lock"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000036,
+      "drwx------   3 oussama oussama   4096 May 30 11:59 \u001b[01;34m.gnome\u001b[0m\r\n"
+    ],
+    [
+      0.000034,
+      "drwx------   6 oussama oussama   4096 Jun 11 00:07 \u001b[01;34m.gnome2\u001b[0m"
+    ],
+    [
+      0.000041,
+      "\r\ndrwx------   2 oussama oussama   4096 May 30 11:49 \u001b[01;34m.gnome2_private\u001b[0m\r\n"
+    ],
+    [
+      0.000038,
+      "-rw-r--r--   1 oussama oussama    135 Jun  7 17:47 .gscriptor"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000029,
+      "drwxr-xr-x   2 oussama oussama   4096 Jul  5 12:39 \u001b[01;34m.gstreamer-0.10\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000043,
+      "-rw-r--r--   1 oussama oussama    334 Jul  5 20:47 .gtk-bookmarks\r\n"
+    ],
+    [
+      0.000030,
+      "-rw-r--r--   1 oussama oussama    952 Jul  5 17:21 .gtk-recordmydesktop"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "drwx------   2 oussama oussama   4096 May 30 11:37 \u001b[01;34m.gvfs\u001b[0m\r\n"
+    ],
+    [
+      0.000037,
+      "-rw-------   1 oussama oussama  32736 Jul  5 21:01 .ICEauthority"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000029,
+      "drwxr-xr-x   4 oussama oussama   4096 Jun 19 20:49 \u001b[01;34m.java\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000044,
+      "drwxr-xr-x   2 oussama oussama   4096 Jun 29 21:58 \u001b[01;34m.kchmviewer\u001b[0m\r\n"
+    ],
+    [
+      0.000030,
+      "drwx------   3 oussama oussama   4096 May 30 23:07 \u001b[01;34m.kde\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "-rw-------   1 oussama oussama     35 Jul  2 12:34 .lesshst\r\n"
+    ],
+    [
+      0.000036,
+      "drwxr-xr-x   3 oussama oussama   4096 May 30 11:37 \u001b[01;34m.local\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000029,
+      "drwx------   3 oussama oussama   4096 May 30 11:37 \u001b[01;34m.mission-control\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000044,
+      "drwx------   4 oussama oussama   4096 May 30 11:49 \u001b[01;34m.mozilla\u001b[0m\r\n"
+    ],
+    [
+      0.000028,
+      "drwxr-xr-x   2 oussama oussama   4096 Jul  1 11:55 \u001b[01;34m.mplayer\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000036,
+      "-rw-r--r--   1 oussama oussama      1 Jul  5 13:31 .NERDTreeBookmarks\r\n"
+    ],
+    [
+      0.000036,
+      "drwxr-xr-x   3 oussama oussama   4096 Jun 30 18:51 \u001b[01;34m.node-gyp\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000030,
+      "drwxr-xr-x 644 oussama oussama  20480 Jun 30 19:06 \u001b[01;34m.npm\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000043,
+      "drwxr-xr-x   2 oussama oussama   4096 Jul  1 11:42 \u001b[01;34m.pip\u001b[0m\r\n"
+    ],
+    [
+      0.000092,
+      "drwx------   3 oussama oussama   4096 May 30 11:58 \u001b[01;34m.pki\u001b[0m\r\n"
+    ],
+    [
+      0.000033,
+      "-rw-r--r--   1 oussama oussama      4 Jun 30 22:12 .port"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000047,
+      "-rw-r--r--   1 oussama oussama    710 Jul  1 12:56 .profile\r\n"
+    ],
+    [
+      0.000023,
+      "drwx------   2 oussama oussama   4096 Jul  5 20:52 \u001b[01;34m.pulse\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000041,
+      "-rw-------   1 oussama oussama    256 May 30 11:37 .pulse-cookie\r\n"
+    ],
+    [
+      0.000037,
+      "drwx------   6 oussama oussama   4096 Jul  5 20:48 \u001b[01;34m.Skype\u001b[0m\r\n"
+    ],
+    [
+      0.000040,
+      "-rw-------   1 oussama oussama    565 Jun 21 18:26 .sqlite_history"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000043,
+      "drwxr-xr-x   3 oussama oussama   4096 May 30 12:18 \u001b[01;34m.subversion\u001b[0m\r\n"
+    ],
+    [
+      0.000028,
+      "drwx------   4 oussama oussama   4096 May 30 11:42 \u001b[01;34m.thumbnails\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "drwx------   2 oussama oussama   4096 Jul  1 13:59 \u001b[01;34m.TrueCrypt\u001b[0m\r\n"
+    ],
+    [
+      0.000038,
+      "-rw-r--r--   1 oussama oussama   6789 Jun 21 19:10 .v8flags.3.28.71.19.oussama.json"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000081,
+      "drwxr-xr-x   3 oussama oussama   4096 May 30 13:19 \u001b[01;34m.vim\u001b[0m\r\n-rw-------   1 oussama oussama  28854 Jul  5 21:06 .viminfo\r\n"
+    ],
+    [
+      0.000026,
+      "-rw-r--r--   1 oussama oussama   5767 Jun 10 16:15 .vimrc"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000050,
+      "-rw-r--r--   1 oussama oussama   3483 May 30 23:10 .vimrc~\r\n"
+    ],
+    [
+      0.000024,
+      "drwxr-xr-x   3 oussama oussama   4096 Jun 18 14:55 \u001b[01;34mVirtualBox VMs\u001b[0m"
+    ],
+    [
+      0.000037,
+      "\r\n"
+    ],
+    [
+      0.000163,
+      "-rw-------   1 oussama oussama 124322 Jul  5 17:06 \u001b[01;35mwashbasin.jpg\u001b[0m\r\n-rw-------   1 oussama oussama   1026 Jul  5 17:06 washbasin.txt\r\ndrwxr-xr-x   4 oussama oussama   4096 Jun 19 15:57 \u001b[01;34m.WebIde80\u001b[0m\r\n"
+    ],
+    [
+      0.000018,
+      "drwxr-xr-x   2 oussama oussama   4096 Jun 10 11:00 \u001b[01;34m.wireshark\u001b[0m\r\n"
+    ],
+    [
+      0.000054,
+      "-rw-------   1 oussama oussama 263194 Jul  6 01:40 .xsession-errors\r\n"
+    ],
+    [
+      0.000013,
+      "-rw-------   1 oussama oussama 463459 Jul  5 21:03 .xsession-errors.old"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.004314,
+      "\u001b]0;oussama@oussama-pc: ~\u0007\u001b[00;34m~\u001b[00m  "
+    ],
+    [
+      0.929136,
+      "\r\n"
+    ],
+    [
+      0.008526,
+      "\u001b]0;oussama@oussama-pc: ~\u0007\u001b[00;34m~\u001b[00m  "
+    ],
+    [
+      0.151503,
+      "\r\n"
+    ],
+    [
+      0.007876,
+      "\u001b]0;oussama@oussama-pc: ~\u0007\u001b[00;34m~\u001b[00m  "
+    ],
+    [
+      1.094484,
+      "\u001b[H\u001b[2J\u001b]0;oussama@oussama-pc: ~\u0007\u001b[00;34m~\u001b[00m  "
+    ],
+    [
+      0.961660,
+      "a"
+    ],
+    [
+      0.281532,
+      "l"
+    ],
+    [
+      0.099998,
+      "a"
+    ],
+    [
+      0.019694,
+      "i"
+    ],
+    [
+      0.130854,
+      "s"
+    ],
+    [
+      0.482108,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.180547,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.170384,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.290703,
+      "i"
+    ],
+    [
+      0.110108,
+      "a"
+    ],
+    [
+      0.060364,
+      "s"
+    ],
+    [
+      0.261841,
+      " "
+    ],
+    [
+      0.229916,
+      "l"
+    ],
+    [
+      0.080100,
+      "s"
+    ],
+    [
+      0.351448,
+      "="
+    ],
+    [
+      0.260578,
+      "\""
+    ],
+    [
+      0.862120,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.129663,
+      "("
+    ],
+    [
+      0.602111,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.130366,
+      "'"
+    ],
+    [
+      0.480437,
+      "l"
+    ],
+    [
+      0.122100,
+      "s"
+    ],
+    [
+      0.389963,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.109934,
+      "a"
+    ],
+    [
+      0.501566,
+      "="
+    ],
+    [
+      0.591133,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.210876,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.220401,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.200548,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.180516,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.190322,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.150121,
+      "a"
+    ],
+    [
+      0.392291,
+      ")"
+    ],
+    [
+      0.451195,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.249673,
+      "="
+    ],
+    [
+      0.200675,
+      "'"
+    ],
+    [
+      0.903056,
+      "l"
+    ],
+    [
+      0.120294,
+      "s"
+    ],
+    [
+      0.230474,
+      " "
+    ],
+    [
+      0.110290,
+      "-"
+    ],
+    [
+      0.200296,
+      "l"
+    ],
+    [
+      0.210421,
+      "a"
+    ],
+    [
+      0.582727,
+      "'"
+    ],
+    [
+      1.604840,
+      "\r\n"
+    ],
+    [
+      0.008514,
+      "\u001b]0;oussama@oussama-pc: ~\u0007\u001b[00;34m~\u001b[00m  "
+    ],
+    [
+      0.512608,
+      "\r\n"
+    ],
+    [
+      0.007828,
+      "\u001b]0;oussama@oussama-pc: ~\u0007\u001b[00;34m~\u001b[00m  "
+    ],
+    [
+      0.151591,
+      "\r\n"
+    ],
+    [
+      0.004384,
+      "\u001b]0;oussama@oussama-pc: ~\u0007\u001b[00;34m~\u001b[00m  "
+    ],
+    [
+      0.305877,
+      "l"
+    ],
+    [
+      0.049823,
+      "a"
+    ],
+    [
+      0.412864,
+      "\r\n"
+    ],
+    [
+      0.005824,
+      "total 1260\r\n"
+    ],
+    [
+      0.000133,
+      "drwxr-xr-x  36 oussama oussama   4096 Jul  5 21:06 \u001b[0m\u001b[01;34m.\u001b[0m\r\n"
+    ],
+    [
+      0.000041,
+      "drwxr-xr-x   3 root    root      4096 May 30 11:12 \u001b[01;34m..\u001b[0m"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000030,
+      "-rw-------   1 oussama oussama  35935 Jul  6 01:16 .bash_history"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000037,
+      "-rw-r--r--   1 oussama oussama    220 Jan  1  2013 .bash_logout\r\n"
+    ],
+    [
+      0.000030,
+      "-rw-r--r--   1 oussama oussama     76 Jun 27 16:41 .bash_profile"
+    ],
+    [
+      0.000040,
+      "\r\n"
+    ],
+    [
+      0.000047,
+      "-rw-r--r--   1 oussama oussama   3533 Jun 28 15:43 .bashrc\r\n"
+    ],
+    [
+      0.000023,
+      "-rw-r--r--   1 oussama oussama   3436 May 30 15:38 .bashrc~"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000042,
+      "-rw-r--r--   1 oussama oussama   3392 Jan  1  2013 .bashrc.original\r\n"
+    ],
+    [
+      0.000038,
+      "drwx------  21 oussama oussama   4096 Jul  5 21:11 \u001b[01;34m.cache\u001b[0m\r\n"
+    ],
+    [
+      0.000036,
+      "drwxr-xr-x   2 oussama oussama   4096 Jul  1 14:02 \u001b[01;34m.chirp\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000044,
+      "drwxr-xr-x   4 oussama oussama   4096 Jun 30 21:56 \u001b[01;34m.composer\u001b[0m\r\n"
+    ],
+    [
+      0.000029,
+      "drwx------  30 oussama oussama   4096 Jul  5 22:54 \u001b[01;34m.config\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000039,
+      "drwx------   3 oussama oussama   4096 May 30 11:37 \u001b[01;34m.dbus\u001b[0m\r\n"
+    ],
+    [
+      0.000036,
+      "drwxr-xr-x   8 oussama oussama   4096 Jul  5 21:11 \u001b[01;34mDesktop\u001b[0m\r\n"
+    ],
+    [
+      0.000038,
+      "drwx------   2 oussama oussama   4096 Jul  5 22:40 \u001b[01;34mDownloads\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000043,
+      "drwx------   2 oussama oussama   4096 Jul  3 20:36 \u001b[01;34m.filezilla\u001b[0m\r\n"
+    ],
+    [
+      0.000029,
+      "drwx------   3 oussama oussama   4096 Jul  5 21:02 \u001b[01;34m.gconf\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000037,
+      "-rw-r--r--   1 oussama oussama  56558 Jun 27 16:29 .git-completion.bash\r\n"
+    ],
+    [
+      0.000036,
+      "-rw-r--r--   1 oussama oussama    156 Jun 27 22:15 .gitconfig"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000033,
+      "-rw-r--r--   1 oussama oussama    149 Jun 30 14:17 .gitignore_global"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000037,
+      "-rw-r-----   1 oussama oussama      0 Jun 27 13:36 .gksu.lock\r\n"
+    ],
+    [
+      0.000028,
+      "drwx------   3 oussama oussama   4096 May 30 11:59 \u001b[01;34m.gnome\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000037,
+      "drwx------   6 oussama oussama   4096 Jun 11 00:07 \u001b[01;34m.gnome2\u001b[0m\r\n"
+    ],
+    [
+      0.000037,
+      "drwx------   2 oussama oussama   4096 May 30 11:49 \u001b[01;34m.gnome2_private\u001b[0m\r\n"
+    ],
+    [
+      0.000039,
+      "-rw-r--r--   1 oussama oussama    135 Jun  7 17:47 .gscriptor"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000043,
+      "drwxr-xr-x   2 oussama oussama   4096 Jul  5 12:39 \u001b[01;34m.gstreamer-0.10\u001b[0m\r\n"
+    ],
+    [
+      0.000028,
+      "-rw-r--r--   1 oussama oussama    334 Jul  5 20:47 .gtk-bookmarks"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "-rw-r--r--   1 oussama oussama    952 Jul  5 17:21 .gtk-recordmydesktop\r\n"
+    ],
+    [
+      0.000037,
+      "drwx------   2 oussama oussama   4096 May 30 11:37 \u001b[01;34m.gvfs\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000032,
+      "-rw-------   1 oussama oussama  32736 Jul  5 21:01 .ICEauthority"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000038,
+      "drwxr-xr-x   4 oussama oussama   4096 Jun 19 20:49 \u001b[01;34m.java\u001b[0m\r\n"
+    ],
+    [
+      0.000029,
+      "drwxr-xr-x   2 oussama oussama   4096 Jun 29 21:58 \u001b[01;34m.kchmviewer\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000040,
+      "drwx------   3 oussama oussama   4096 May 30 23:07 \u001b[01;34m.kde\u001b[0m\r\n"
+    ],
+    [
+      0.000037,
+      "-rw-------   1 oussama oussama     35 Jul  2 12:34 .lesshst\r\n"
+    ],
+    [
+      0.000032,
+      "drwxr-xr-x   3 oussama oussama   4096 May 30 11:37 \u001b[01;34m.local\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000033,
+      "drwx------   3 oussama oussama   4096 May 30 11:37 \u001b[01;34m.mission-control\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000036,
+      "drwx------   4 oussama oussama   4096 May 30 11:49 \u001b[01;34m.mozilla\u001b[0m\r\n"
+    ],
+    [
+      0.000032,
+      "drwxr-xr-x   2 oussama oussama   4096 Jul  1 11:55 \u001b[01;34m.mplayer\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000047,
+      "-rw-r--r--   1 oussama oussama      1 Jul  5 13:31 .NERDTreeBookmarks\r\n"
+    ],
+    [
+      0.000023,
+      "drwxr-xr-x   3 oussama oussama   4096 Jun 30 18:51 \u001b[01;34m.node-gyp\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000040,
+      "drwxr-xr-x 644 oussama oussama  20480 Jun 30 19:06 \u001b[01;34m.npm\u001b[0m\r\n"
+    ],
+    [
+      0.000036,
+      "drwxr-xr-x   2 oussama oussama   4096 Jul  1 11:42 \u001b[01;34m.pip\u001b[0m\r\n"
+    ],
+    [
+      0.000038,
+      "drwx------   3 oussama oussama   4096 May 30 11:58 \u001b[01;34m.pki\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000043,
+      "-rw-r--r--   1 oussama oussama      4 Jun 30 22:12 .port\r\n"
+    ],
+    [
+      0.000028,
+      "-rw-r--r--   1 oussama oussama    710 Jul  1 12:56 .profile"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "drwx------   2 oussama oussama   4096 Jul  5 20:52 \u001b[01;34m.pulse\u001b[0m\r\n"
+    ],
+    [
+      0.000036,
+      "-rw-------   1 oussama oussama    256 May 30 11:37 .pulse-cookie"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000032,
+      "drwx------   6 oussama oussama   4096 Jul  5 20:48 \u001b[01;34m.Skype\u001b[0m\r\n"
+    ],
+    [
+      0.000048,
+      "-rw-------   1 oussama oussama    565 Jun 21 18:26 .sqlite_history\r\n"
+    ],
+    [
+      0.000031,
+      "drwxr-xr-x   3 oussama oussama   4096 May 30 12:18 \u001b[01;34m.subversion\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000032,
+      "drwx------   4 oussama oussama   4096 May 30 11:42 \u001b[01;34m.thumbnails\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000036,
+      "drwx------   2 oussama oussama   4096 Jul  1 13:59 \u001b[01;34m.TrueCrypt\u001b[0m\r\n"
+    ],
+    [
+      0.000035,
+      "-rw-r--r--   1 oussama oussama   6789 Jun 21 19:10 .v8flags.3.28.71.19.oussama.json"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000043,
+      "drwxr-xr-x   3 oussama oussama   4096 May 30 13:19 \u001b[01;34m.vim\u001b[0m\r\n"
+    ],
+    [
+      0.000027,
+      "-rw-------   1 oussama oussama  28854 Jul  5 21:06 .viminfo"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000037,
+      "-rw-r--r--   1 oussama oussama   5767 Jun 10 16:15 .vimrc\r\n"
+    ],
+    [
+      0.000037,
+      "-rw-r--r--   1 oussama oussama   3483 May 30 23:10 .vimrc~"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000029,
+      "drwxr-xr-x   3 oussama oussama   4096 Jun 18 14:55 \u001b[01;34mVirtualBox VMs\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000042,
+      "-rw-------   1 oussama oussama 124322 Jul  5 17:06 \u001b[01;35mwashbasin.jpg\u001b[0m\r\n"
+    ],
+    [
+      0.000079,
+      "-rw-------   1 oussama oussama   1026 Jul  5 17:06 washbasin.txt\r\ndrwxr-xr-x   4 oussama oussama   4096 Jun 19 15:57 \u001b[01;34m.WebIde80\u001b[0m\r\n"
+    ],
+    [
+      0.000038,
+      "drwxr-xr-x   2 oussama oussama   4096 Jun 10 11:00 \u001b[01;34m.wireshark\u001b[0m\r\n"
+    ],
+    [
+      0.000034,
+      "-rw-------   1 oussama oussama 263194 Jul  6 01:40 .xsession-errors"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000047,
+      "-rw-------   1 oussama oussama 463459 Jul  5 21:03 .xsession-errors.old\r\n"
+    ],
+    [
+      0.006999,
+      "\u001b]0;oussama@oussama-pc: ~\u0007\u001b[00;34m~\u001b[00m  "
+    ],
+    [
+      0.946687,
+      "\r\n"
+    ],
+    [
+      0.008368,
+      "\u001b]0;oussama@oussama-pc: ~\u0007\u001b[00;34m~\u001b[00m  "
+    ],
+    [
+      0.111081,
+      "\r\n"
+    ],
+    [
+      0.005801,
+      "\u001b]0;oussama@oussama-pc: ~\u0007\u001b[00;34m~\u001b[00m  "
+    ],
+    [
+      0.594963,
+      "\u001b[H\u001b[2J\u001b]0;oussama@oussama-pc: ~\u0007\u001b[00;34m~\u001b[00m  "
+    ],
+    [
+      1.594169,
+      "t"
+    ],
+    [
+      0.059979,
+      "y"
+    ],
+    [
+      0.104663,
+      "p"
+    ],
+    [
+      0.046679,
+      "e"
+    ],
+    [
+      0.200664,
+      " "
+    ],
+    [
+      0.481920,
+      "l"
+    ],
+    [
+      0.130119,
+      "s"
+    ],
+    [
+      0.532404,
+      "\r\nls is aliased to `ls --color=auto'\r\n"
+    ],
+    [
+      0.004564,
+      "\u001b]0;oussama@oussama-pc: ~\u0007\u001b[00;34m~\u001b[00m  "
+    ],
+    [
+      2.922434,
+      "\r\n"
+    ],
+    [
+      0.005572,
+      "\u001b]0;oussama@oussama-pc: ~\u0007\u001b[00;34m~\u001b[00m  "
+    ],
+    [
+      0.214910,
+      "\r\n"
+    ],
+    [
+      0.008410,
+      "\u001b]0;oussama@oussama-pc: ~\u0007\u001b[00;34m~\u001b[00m  "
+    ],
+    [
+      2.235979,
+      "u"
+    ],
+    [
+      0.089951,
+      "n"
+    ],
+    [
+      0.241171,
+      "a"
+    ],
+    [
+      0.541429,
+      "l"
+    ],
+    [
+      0.060048,
+      "i"
+    ],
+    [
+      0.070138,
+      "a"
+    ],
+    [
+      0.120018,
+      "s"
+    ],
+    [
+      0.242014,
+      " "
+    ],
+    [
+      0.322007,
+      "l"
+    ],
+    [
+      0.110239,
+      "s"
+    ],
+    [
+      1.503776,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.499907,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030522,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030369,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030622,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030504,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.029825,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.029780,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030521,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030856,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.029407,
+      "\u0007"
+    ],
+    [
+      0.030577,
+      "\u0007"
+    ],
+    [
+      0.030479,
+      "\u0007"
+    ],
+    [
+      0.030101,
+      "\u0007"
+    ],
+    [
+      0.030284,
+      "\u0007"
+    ],
+    [
+      0.288807,
+      "t"
+    ],
+    [
+      0.080040,
+      "y"
+    ],
+    [
+      0.090312,
+      "p"
+    ],
+    [
+      0.069820,
+      "e"
+    ],
+    [
+      0.171817,
+      " "
+    ],
+    [
+      0.150366,
+      "l"
+    ],
+    [
+      0.100381,
+      "a"
+    ],
+    [
+      0.221229,
+      "\r\nla is aliased to `ls -la'\r\n"
+    ],
+    [
+      0.008355,
+      "\u001b]0;oussama@oussama-pc: ~\u0007\u001b[00;34m~\u001b[00m  "
+    ],
+    [
+      0.633298,
+      "\r\n"
+    ],
+    [
+      0.005896,
+      "\u001b]0;oussama@oussama-pc: ~\u0007\u001b[00;34m~\u001b[00m  "
+    ],
+    [
+      0.133552,
+      "\r\n"
+    ],
+    [
+      0.006357,
+      "\u001b]0;oussama@oussama-pc: ~\u0007\u001b[00;34m~\u001b[00m  "
+    ],
+    [
+      1.287071,
+      "u"
+    ],
+    [
+      0.100087,
+      "n"
+    ],
+    [
+      0.411140,
+      "a"
+    ],
+    [
+      0.320893,
+      "l"
+    ],
+    [
+      0.089945,
+      "i"
+    ],
+    [
+      0.090254,
+      "a"
+    ],
+    [
+      0.089561,
+      "s"
+    ],
+    [
+      0.211128,
+      " "
+    ],
+    [
+      1.002664,
+      "l"
+    ],
+    [
+      0.109687,
+      "a"
+    ],
+    [
+      0.472423,
+      "\r\n"
+    ],
+    [
+      0.008397,
+      "\u001b]0;oussama@oussama-pc: ~\u0007\u001b[00;34m~\u001b[00m  "
+    ],
+    [
+      0.672284,
+      "\r\n"
+    ],
+    [
+      0.004651,
+      "\u001b]0;oussama@oussama-pc: ~\u0007\u001b[00;34m~\u001b[00m  "
+    ],
+    [
+      0.267023,
+      "\r\n"
+    ],
+    [
+      0.007484,
+      "\u001b]0;oussama@oussama-pc: ~\u0007\u001b[00;34m~\u001b[00m  "
+    ],
+    [
+      0.291911,
+      "l"
+    ],
+    [
+      0.029907,
+      "a"
+    ],
+    [
+      0.050957,
+      "l"
+    ],
+    [
+      0.512288,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.562159,
+      "\r\n"
+    ],
+    [
+      0.000335,
+      "bash: la: command not found\r\n"
+    ],
+    [
+      0.008472,
+      "\u001b]0;oussama@oussama-pc: ~\u0007\u001b[00;34m~\u001b[00m  "
+    ],
+    [
+      0.642050,
+      "\r\n"
+    ],
+    [
+      0.005296,
+      "\u001b]0;oussama@oussama-pc: ~\u0007\u001b[00;34m~\u001b[00m  "
+    ],
+    [
+      0.165039,
+      "\r\n"
+    ],
+    [
+      0.005837,
+      "\u001b]0;oussama@oussama-pc: ~\u0007\u001b[00;34m~\u001b[00m  "
+    ],
+    [
+      1.036761,
+      "a"
+    ],
+    [
+      0.310813,
+      "l"
+    ],
+    [
+      0.069555,
+      "i"
+    ],
+    [
+      0.060053,
+      "a"
+    ],
+    [
+      0.090194,
+      "s"
+    ],
+    [
+      0.155093,
+      " "
+    ],
+    [
+      0.237759,
+      "l"
+    ],
+    [
+      0.070029,
+      "a"
+    ],
+    [
+      0.581530,
+      "="
+    ],
+    [
+      0.200592,
+      "\""
+    ],
+    [
+      0.481920,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.099357,
+      "'"
+    ],
+    [
+      0.492301,
+      "l"
+    ],
+    [
+      0.079800,
+      "a"
+    ],
+    [
+      0.491546,
+      "-"
+    ],
+    [
+      0.440527,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.120696,
+      " "
+    ],
+    [
+      0.110393,
+      "-"
+    ],
+    [
+      0.260645,
+      "l"
+    ],
+    [
+      0.190238,
+      "s"
+    ],
+    [
+      0.432365,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.170331,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.190563,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.200380,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.180501,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.160185,
+      "s"
+    ],
+    [
+      0.311027,
+      " "
+    ],
+    [
+      0.089914,
+      "-"
+    ],
+    [
+      0.190188,
+      "l"
+    ],
+    [
+      0.211032,
+      "s"
+    ],
+    [
+      0.501160,
+      "'"
+    ],
+    [
+      0.482627,
+      "\r\n"
+    ],
+    [
+      0.008599,
+      "\u001b]0;oussama@oussama-pc: ~\u0007\u001b[00;34m~\u001b[00m  "
+    ],
+    [
+      0.411806,
+      "\r\n"
+    ],
+    [
+      0.008151,
+      "\u001b]0;oussama@oussama-pc: ~\u0007\u001b[00;34m~\u001b[00m  "
+    ],
+    [
+      0.151370,
+      "\r\n"
+    ],
+    [
+      0.006267,
+      "\u001b]0;oussama@oussama-pc: ~\u0007\u001b[00;34m~\u001b[00m  "
+    ],
+    [
+      2.059050,
+      "l"
+    ],
+    [
+      0.059257,
+      "a"
+    ],
+    [
+      0.302279,
+      "\r\n"
+    ],
+    [
+      0.005373,
+      "total 140\r\n"
+    ],
+    [
+      0.000022,
+      "  4 drwxr-xr-x 8 oussama oussama   4096 Jul  5 21:11 \u001b[0m\u001b[01;34mDesktop\u001b[0m\r\n"
+    ],
+    [
+      0.000011,
+      "  4 drwx------ 2 oussama oussama   4096 Jul  5 22:40 \u001b[01;34mDownloads\u001b[0m\r\n"
+    ],
+    [
+      0.000271,
+      "  4 drwxr-xr-x 3 oussama oussama   4096 Jun 18 14:55 \u001b[01;34mVirtualBox VMs\u001b[0m\r\n124 -rw------- 1 oussama oussama 124322 Jul  5 17:06 \u001b[01;35mwashbasin.jpg\u001b[0m\r\n  4 -rw------- 1 oussama oussama   1026 Jul  5 17:06 washbasin.txt\r\n"
+    ],
+    [
+      0.008452,
+      "\u001b]0;oussama@oussama-pc: ~\u0007\u001b[00;34m~\u001b[00m  "
+    ],
+    [
+      0.998261,
+      "\r\n"
+    ],
+    [
+      0.008538,
+      "\u001b]0;oussama@oussama-pc: ~\u0007\u001b[00;34m~\u001b[00m  "
+    ],
+    [
+      0.171049,
+      "\r\n"
+    ],
+    [
+      0.006331,
+      "\u001b]0;oussama@oussama-pc: ~\u0007\u001b[00;34m~\u001b[00m  "
+    ],
+    [
+      2.460249,
+      "l"
+    ],
+    [
+      0.099295,
+      "a"
+    ],
+    [
+      0.592255,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.460203,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.612026,
+      "\\"
+    ],
+    [
+      0.450675,
+      "l"
+    ],
+    [
+      0.151205,
+      "a"
+    ],
+    [
+      0.622387,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.260617,
+      "s"
+    ],
+    [
+      0.472095,
+      "\r\n"
+    ],
+    [
+      0.003074,
+      "Desktop  Downloads  VirtualBox VMs  washbasin.jpg  washbasin.txt\r\n"
+    ],
+    [
+      0.010886,
+      "\u001b]0;oussama@oussama-pc: ~\u0007\u001b[00;34m~\u001b[00m  "
+    ],
+    [
+      0.836979,
+      "\r\n"
+    ],
+    [
+      0.006432,
+      "\u001b]0;oussama@oussama-pc: ~\u0007\u001b[00;34m~\u001b[00m  "
+    ],
+    [
+      0.174083,
+      "\r\n"
+    ],
+    [
+      0.005773,
+      "\u001b]0;oussama@oussama-pc: ~\u0007\u001b[00;34m~\u001b[00m  "
+    ],
+    [
+      0.969308,
+      "\\ls"
+    ],
+    [
+      0.589044,
+      " "
+    ],
+    [
+      0.240570,
+      "-"
+    ],
+    [
+      0.852027,
+      "F"
+    ],
+    [
+      0.562382,
+      "\r\n"
+    ],
+    [
+      0.003083,
+      "Desktop/  Downloads/  VirtualBox VMs/  washbasin.jpg  washbasin.txt\r\n"
+    ],
+    [
+      0.008703,
+      "\u001b]0;oussama@oussama-pc: ~\u0007\u001b[00;34m~\u001b[00m  "
+    ],
+    [
+      1.952960,
+      "\r\n"
+    ],
+    [
+      0.007735,
+      "\u001b]0;oussama@oussama-pc: ~\u0007\u001b[00;34m~\u001b[00m  "
+    ],
+    [
+      0.192563,
+      "\r\n"
+    ],
+    [
+      0.007378,
+      "\u001b]0;oussama@oussama-pc: ~\u0007\u001b[00;34m~\u001b[00m  "
+    ],
+    [
+      3.540775,
+      "k"
+    ],
+    [
+      0.079879,
+      "s"
+    ],
+    [
+      0.440559,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.171057,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.240752,
+      "l"
+    ],
+    [
+      0.089587,
+      "s"
+    ],
+    [
+      0.143832,
+      "\r\n"
+    ],
+    [
+      0.003142,
+      "\u001b[0m\u001b[01;34mDesktop\u001b[0m  \u001b[01;34mDownloads\u001b[0m  \u001b[01;34mVirtualBox VMs\u001b[0m  \u001b[01;35mwashbasin.jpg\u001b[0m  washbasin.txt\r\n"
+    ],
+    [
+      0.007274,
+      "\u001b]0;oussama@oussama-pc: ~\u0007\u001b[00;34m~\u001b[00m  "
+    ],
+    [
+      0.579040,
+      "\r\n"
+    ],
+    [
+      0.008405,
+      "\u001b]0;oussama@oussama-pc: ~\u0007\u001b[00;34m~\u001b[00m  "
+    ],
+    [
+      0.150711,
+      "\r\n"
+    ],
+    [
+      0.004888,
+      "\u001b]0;oussama@oussama-pc: ~\u0007\u001b[00;34m~\u001b[00m  "
+    ],
+    [
+      0.267952,
+      "ls"
+    ],
+    [
+      0.830496,
+      " "
+    ],
+    [
+      0.190111,
+      "-"
+    ],
+    [
+      0.591410,
+      "F"
+    ],
+    [
+      0.641936,
+      "\r\n"
+    ],
+    [
+      0.002262,
+      "\u001b[0m\u001b[01;34mDesktop\u001b[0m/  \u001b[01;34mDownloads\u001b[0m/  \u001b[01;34mVirtualBox VMs\u001b[0m/  \u001b[01;35mwashbasin.jpg\u001b[0m  washbasin.txt\r\n"
+    ],
+    [
+      0.006305,
+      "\u001b]0;oussama@oussama-pc: ~\u0007\u001b[00;34m~\u001b[00m  "
+    ],
+    [
+      0.954230,
+      "\r\n"
+    ],
+    [
+      0.008698,
+      "\u001b]0;oussama@oussama-pc: ~\u0007\u001b[00;34m~\u001b[00m  "
+    ],
+    [
+      0.161691,
+      "\r\n"
+    ],
+    [
+      0.005250,
+      "\u001b]0;oussama@oussama-pc: ~\u0007\u001b[00;34m~\u001b[00m  "
+    ],
+    [
+      1.439547,
+      "exit\r\n"
+    ]
+  ]
+}
