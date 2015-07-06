@@ -1,0 +1,1094 @@
+{
+  "version": 1,
+  "width": 119,
+  "height": 33,
+  "duration": 52.642150,
+  "command": "/usr/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/usr/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.339733,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                      \r \r"
+    ],
+    [
+      0.000173,
+      "\u001b]2;auke@hannah: ~/projects/docker-buildroot\u0007"
+    ],
+    [
+      0.000075,
+      "\u001b]1;..ker-buildroot\u0007"
+    ],
+    [
+      0.062753,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ hannah \u001b[32mdocker-buildroot \u001b[33m→ λ \u001b[34mgit \u001b[31mmaster*\u001b[33m → \u001b[00m\u001b[00m\u001b[K"
+    ],
+    [
+      0.000229,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000023,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.063340,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ hannah \u001b[32mdocker-buildroot \u001b[33m→ λ \u001b[34mgit \u001b[31mmaster*\u001b[33m → \u001b[00m\u001b[00m"
+    ],
+    [
+      0.000021,
+      "\u001b[K"
+    ],
+    [
+      2.216613,
+      "."
+    ],
+    [
+      0.042402,
+      "\u0008./"
+    ],
+    [
+      0.147490,
+      "f"
+    ],
+    [
+      0.090393,
+      "i"
+    ],
+    [
+      0.220469,
+      "xup.sh\u001b[1m \u001b[0m"
+    ],
+    [
+      2.474028,
+      "\u0008\u001b[0m \u0008\u001b[?1h\u001b=\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.032043,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ hannah \u001b[32mdocker-buildroot \u001b[33m→ λ \u001b[34mgit \u001b[31mmaster*\u001b[33m → \u001b[00m\u001b[00m./fixup.sh\u001b[K"
+    ],
+    [
+      0.000153,
+      "\r"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.002221,
+      "\u001b]2;./fixup.sh\u0007"
+    ],
+    [
+      0.000018,
+      "\u001b]1;./fixup.sh\u0007"
+    ],
+    [
+      0.142840,
+      "./\r\n"
+    ],
+    [
+      0.000019,
+      "./lib/\r\n"
+    ],
+    [
+      0.000065,
+      "./lib/libc.so.6"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.008208,
+      "./lib/libpthread.so.0\r\n"
+    ],
+    [
+      0.000818,
+      "./sbin/\r\n"
+    ],
+    [
+      0.000013,
+      "./sbin/init\r\n"
+    ],
+    [
+      0.000068,
+      "./lib64/"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000040,
+      "./lib64/ld-linux-x86-64.so.2"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000983,
+      "./etc/"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "./etc/resolv.conf"
+    ],
+    [
+      0.000039,
+      "\r\n"
+    ],
+    [
+      0.001266,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                      \r \r"
+    ],
+    [
+      0.000221,
+      "\u001b]2;auke@hannah: ~/projects/docker-buildroot\u0007"
+    ],
+    [
+      0.000078,
+      "\u001b]1;..ker-buildroot\u0007"
+    ],
+    [
+      0.041641,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ hannah \u001b[32mdocker-buildroot \u001b[33m→ λ \u001b[34mgit \u001b[31mmaster*\u001b[33m → \u001b[00m\u001b[00m"
+    ],
+    [
+      0.000021,
+      "\u001b[K"
+    ],
+    [
+      0.000206,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000078,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.030368,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ hannah \u001b[32mdocker-buildroot \u001b[33m→ λ \u001b[34mgit \u001b[31mmaster*\u001b[33m → \u001b[00m\u001b[00m"
+    ],
+    [
+      0.000021,
+      "\u001b[K"
+    ],
+    [
+      3.188601,
+      "l"
+    ],
+    [
+      0.150266,
+      "\u0008ls"
+    ],
+    [
+      0.181376,
+      "\u001b[?1h\u001b=\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.031909,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ hannah \u001b[32mdocker-buildroot \u001b[33m→ λ \u001b[34mgit \u001b[31mmaster*\u001b[33m → \u001b[00m\u001b[00mls\u001b[K"
+    ],
+    [
+      0.000157,
+      "\r"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.001639,
+      "\u001b]2;ls --color=tty\u0007"
+    ],
+    [
+      0.000018,
+      "\u001b]1;ls\u0007"
+    ],
+    [
+      0.010788,
+      "\u001b[0m\u001b[01;34mbuildroot_defconfig\u001b[0m  Dockerfile  \u001b[01;34mexample\u001b[0m  \u001b[01;34mextra\u001b[0m  \u001b[01;34mextract\u001b[0m  \u001b[01;32mfixup.sh\u001b[0m  fixup.tar  LICENSE  README.md"
+    ],
+    [
+      0.000103,
+      "\r\n"
+    ],
+    [
+      0.001134,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                      \r \r"
+    ],
+    [
+      0.000415,
+      "\u001b]2;auke@hannah: ~/projects/docker-buildroot\u0007"
+    ],
+    [
+      0.000192,
+      "\u001b]1;..ker-buildroot\u0007"
+    ],
+    [
+      0.042205,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ hannah \u001b[32mdocker-buildroot \u001b[33m→ λ \u001b[34mgit \u001b[31mmaster*\u001b[33m → \u001b[00m\u001b[00m"
+    ],
+    [
+      0.000021,
+      "\u001b[K"
+    ],
+    [
+      0.000251,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000051,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.032375,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ hannah \u001b[32mdocker-buildroot \u001b[33m→ λ \u001b[34mgit \u001b[31mmaster*\u001b[33m → \u001b[00m\u001b[00m\u001b[K"
+    ],
+    [
+      3.376215,
+      "d"
+    ],
+    [
+      0.145769,
+      "\u0008do"
+    ],
+    [
+      0.106754,
+      "c"
+    ],
+    [
+      0.105650,
+      "k"
+    ],
+    [
+      0.141132,
+      "e"
+    ],
+    [
+      0.060278,
+      "r"
+    ],
+    [
+      0.194500,
+      " "
+    ],
+    [
+      0.157545,
+      "i"
+    ],
+    [
+      0.061120,
+      "m"
+    ],
+    [
+      0.202931,
+      "p"
+    ],
+    [
+      0.045599,
+      "o"
+    ],
+    [
+      0.063114,
+      "r"
+    ],
+    [
+      0.046366,
+      "t"
+    ],
+    [
+      0.091273,
+      " "
+    ],
+    [
+      0.834366,
+      "-"
+    ],
+    [
+      0.232776,
+      " "
+    ],
+    [
+      0.144101,
+      "d"
+    ],
+    [
+      0.094425,
+      "i"
+    ],
+    [
+      0.466010,
+      "e"
+    ],
+    [
+      0.150984,
+      "r"
+    ],
+    [
+      0.511638,
+      "\u0008 \u0008"
+    ],
+    [
+      0.037834,
+      "t"
+    ],
+    [
+      0.220270,
+      "f"
+    ],
+    [
+      0.096854,
+      "s"
+    ],
+    [
+      0.311459,
+      " "
+    ],
+    [
+      0.205692,
+      "\u003c"
+    ],
+    [
+      0.128032,
+      " "
+    ],
+    [
+      0.168953,
+      "f"
+    ],
+    [
+      0.105672,
+      "o"
+    ],
+    [
+      0.164351,
+      "\u0007"
+    ],
+    [
+      0.395910,
+      "\u0008 \u0008"
+    ],
+    [
+      0.168386,
+      "i"
+    ],
+    [
+      0.113816,
+      "xup."
+    ],
+    [
+      0.677581,
+      "t"
+    ],
+    [
+      0.131558,
+      "ar\u001b[1m \u001b[0m"
+    ],
+    [
+      0.371105,
+      "\u0008\u001b[0m \u0008\u001b[?1h\u001b=\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.035864,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ hannah \u001b[32mdocker-buildroot \u001b[33m→ λ \u001b[34mgit \u001b[31mmaster*\u001b[33m → \u001b[00m\u001b[00mdocker import - dietfs \u003c fixup.tar\u001b[K"
+    ],
+    [
+      0.000114,
+      "\r\r\n"
+    ],
+    [
+      0.001367,
+      "\u001b]2;docker import - dietfs \u003c fixup.tar\u0007"
+    ],
+    [
+      0.000081,
+      "\u001b]1;docker\u0007"
+    ],
+    [
+      0.432875,
+      "934e6b61c6cbeefb4b4984e48c6d4f23ea25ba28640bd2d0a09c3207e4ff326e\r\n"
+    ],
+    [
+      0.000485,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                      \r \r"
+    ],
+    [
+      0.000278,
+      "\u001b]2;auke@hannah: ~/projects/docker-buildroot\u0007"
+    ],
+    [
+      0.000116,
+      "\u001b]1;..ker-buildroot\u0007"
+    ],
+    [
+      0.038755,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ hannah \u001b[32mdocker-buildroot \u001b[33m→ λ \u001b[34mgit \u001b[31mmaster*\u001b[33m → \u001b[00m\u001b[00m\u001b[K"
+    ],
+    [
+      0.000403,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000240,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.033293,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ hannah \u001b[32mdocker-buildroot \u001b[33m→ λ \u001b[34mgit \u001b[31mmaster*\u001b[33m → \u001b[00m\u001b[00m\u001b[K"
+    ],
+    [
+      1.583018,
+      "d"
+    ],
+    [
+      0.473803,
+      "\u0008do"
+    ],
+    [
+      0.143264,
+      "c"
+    ],
+    [
+      0.092875,
+      "k"
+    ],
+    [
+      0.160955,
+      "e"
+    ],
+    [
+      0.059942,
+      "r"
+    ],
+    [
+      0.209476,
+      " "
+    ],
+    [
+      1.507202,
+      "r"
+    ],
+    [
+      0.091656,
+      "u"
+    ],
+    [
+      0.090052,
+      "n"
+    ],
+    [
+      0.138698,
+      " "
+    ],
+    [
+      0.994490,
+      "-"
+    ],
+    [
+      0.196786,
+      "-"
+    ],
+    [
+      0.166586,
+      "r"
+    ],
+    [
+      0.089906,
+      "m"
+    ],
+    [
+      0.110499,
+      " "
+    ],
+    [
+      0.220771,
+      "-"
+    ],
+    [
+      0.150373,
+      "t"
+    ],
+    [
+      0.479443,
+      "i"
+    ],
+    [
+      0.268530,
+      " "
+    ],
+    [
+      0.715098,
+      "f"
+    ],
+    [
+      0.370943,
+      "i"
+    ],
+    [
+      0.264745,
+      "i"
+    ],
+    [
+      0.519004,
+      "\u0008 \u0008"
+    ],
+    [
+      0.128186,
+      "\u0008 \u0008"
+    ],
+    [
+      0.095461,
+      "\u0008 \u0008"
+    ],
+    [
+      0.092365,
+      "d"
+    ],
+    [
+      0.106130,
+      "i"
+    ],
+    [
+      0.089373,
+      "e"
+    ],
+    [
+      0.257319,
+      "t"
+    ],
+    [
+      0.315673,
+      "f"
+    ],
+    [
+      0.414513,
+      "s"
+    ],
+    [
+      0.240900,
+      " "
+    ],
+    [
+      0.513663,
+      "/"
+    ],
+    [
+      0.230714,
+      "b"
+    ],
+    [
+      0.096919,
+      "b"
+    ],
+    [
+      0.487655,
+      "\u0008 \u0008"
+    ],
+    [
+      0.153929,
+      "i"
+    ],
+    [
+      0.060656,
+      "n"
+    ],
+    [
+      0.181574,
+      "/"
+    ],
+    [
+      0.260389,
+      "s"
+    ],
+    [
+      0.107616,
+      "h"
+    ],
+    [
+      0.262286,
+      "\u001b[?1h\u001b=\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.039859,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ hannah \u001b[32mdocker-buildroot \u001b[33m→ λ \u001b[34mgit \u001b[31mmaster*\u001b[33m → \u001b[00m\u001b[00m"
+    ],
+    [
+      0.000033,
+      "docker run --rm -ti dietfs /bin/sh\u001b[K"
+    ],
+    [
+      0.000183,
+      "\r"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.001688,
+      "\u001b]2;docker run --rm -ti dietfs /bin/sh\u0007"
+    ],
+    [
+      0.000016,
+      "\u001b]1;docker\u0007"
+    ],
+    [
+      0.446237,
+      "/ # \r/ # \u001b[J"
+    ],
+    [
+      0.870763,
+      "l"
+    ],
+    [
+      0.127887,
+      "s"
+    ],
+    [
+      0.165826,
+      " "
+    ],
+    [
+      0.540440,
+      "/"
+    ],
+    [
+      0.269282,
+      "\r\r\n"
+    ],
+    [
+      0.000550,
+      "\u001b[1;34mbin\u001b[0m      \u001b[1;34metc\u001b[0m      \u001b[1;34mlib\u001b[0m      \u001b[1;36mlinuxrc\u001b[0m  \u001b[1;34mmnt\u001b[0m      \u001b[1;34mproc\u001b[0m     \u001b[1;34mrun\u001b[0m      \u001b[1;34msys\u001b[0m      \u001b[1;34musr\u001b[0m\r\r\n\u001b[1;34mdev\u001b[0m      \u001b[1;34mhome\u001b[0m     \u001b[1;34mlib64\u001b[0m    \u001b[1;34mmedia\u001b[0m    \u001b[1;34mopt\u001b[0m      \u001b[1;34mroot\u001b[0m     \u001b[1;34msbin\u001b[0m     \u001b[1;34mtmp\u001b[0m      \u001b[1;34mvar\u001b[0m\r\r\n/ # "
+    ],
+    [
+      2.387061,
+      "p"
+    ],
+    [
+      0.076789,
+      "y"
+    ],
+    [
+      0.130013,
+      "t"
+    ],
+    [
+      0.063979,
+      "h"
+    ],
+    [
+      0.121358,
+      "o"
+    ],
+    [
+      0.121372,
+      "n"
+    ],
+    [
+      0.424686,
+      " "
+    ],
+    [
+      0.559365,
+      "-"
+    ],
+    [
+      1.006665,
+      "m"
+    ],
+    [
+      0.090850,
+      " "
+    ],
+    [
+      0.660900,
+      "t"
+    ],
+    [
+      0.162950,
+      "h"
+    ],
+    [
+      0.088797,
+      "i"
+    ],
+    [
+      0.107284,
+      "s"
+    ],
+    [
+      0.178017,
+      "\r\r\n"
+    ],
+    [
+      0.121256,
+      "The Zen of Python, by Tim Peters\r\r\n"
+    ],
+    [
+      0.000049,
+      "\r\r\nBeautiful is better than ugly.\r\r\nExplicit is better than implicit.\r\r\nSimple is better than complex.\r\r\nComplex is better than complicated.\r\r\nFlat is better than nested.\r\r\nSparse is better than dense.\r\r\nReadability counts.\r\r\nSpecial cases aren't special enough to break the rules.\r\r\n"
+    ],
+    [
+      0.000408,
+      "Although practicality beats purity.\r\r\nErrors should never pass silently.\r\r\nUnless explicitly silenced.\r\r\nIn the face of ambiguity, refuse the temptation to guess.\r\r\nThere should be one-- and preferably only one --obvious way to do it.\r\r\nAlthough that way may not be obvious at first unless you're Dutch.\r\r\nNow is better than never.\r\r\nAlthough never is often better than *right* now.\r\r\nIf the implementation is hard to explain, it's a bad idea.\r\r\nIf the implementation is easy to explain, it may be a good idea.\r\r\nNamespaces are one honking great idea -- let's do more of those!"
+    ],
+    [
+      0.000196,
+      "\r\r\n"
+    ],
+    [
+      0.017955,
+      "/ # "
+    ],
+    [
+      2.417731,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                      \r \r\u001b]2;auke@hannah: ~/projects/docker-buildroot\u0007\u001b]1;..ker-buildroot\u0007"
+    ],
+    [
+      0.038433,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ hannah \u001b[32mdocker-buildroot \u001b[33m→ λ \u001b[34mgit \u001b[31mmaster*\u001b[33m → \u001b[00m\u001b[00m"
+    ],
+    [
+      0.000025,
+      "\u001b[K"
+    ],
+    [
+      0.000289,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000085,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.033139,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ hannah \u001b[32mdocker-buildroot \u001b[33m→ λ \u001b[34mgit \u001b[31mmaster*\u001b[33m → \u001b[00m\u001b[00m"
+    ],
+    [
+      0.000019,
+      "\u001b[K"
+    ],
+    [
+      1.758991,
+      "d"
+    ],
+    [
+      0.090769,
+      "\u0008do"
+    ],
+    [
+      0.147000,
+      "c"
+    ],
+    [
+      0.089875,
+      "k"
+    ],
+    [
+      0.170798,
+      "e"
+    ],
+    [
+      0.143868,
+      "r"
+    ],
+    [
+      0.158400,
+      " "
+    ],
+    [
+      0.173001,
+      "i"
+    ],
+    [
+      0.047370,
+      "m"
+    ],
+    [
+      0.106818,
+      "a"
+    ],
+    [
+      0.178087,
+      "g"
+    ],
+    [
+      0.135744,
+      "e"
+    ],
+    [
+      0.196450,
+      "s"
+    ],
+    [
+      0.775667,
+      "\u001b[?1h\u001b=\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.038138,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ hannah \u001b[32mdocker-buildroot \u001b[33m→ λ \u001b[34mgit \u001b[31mmaster*\u001b[33m → \u001b[00m\u001b[00mdocker images\u001b[K"
+    ],
+    [
+      0.000289,
+      "\r\r\n"
+    ],
+    [
+      0.001883,
+      "\u001b]2;docker images\u0007"
+    ],
+    [
+      0.000039,
+      "\u001b]1;docker\u0007"
+    ],
+    [
+      0.184592,
+      "REPOSITORY"
+    ],
+    [
+      0.000019,
+      "            TAG                "
+    ],
+    [
+      0.000009,
+      " "
+    ],
+    [
+      0.000033,
+      "IMAGE ID"
+    ],
+    [
+      0.000010,
+      "        "
+    ],
+    [
+      0.000007,
+      "    "
+    ],
+    [
+      0.000057,
+      "CREATED"
+    ],
+    [
+      0.000238,
+      "        "
+    ],
+    [
+      0.000009,
+      "     "
+    ],
+    [
+      0.000040,
+      "VIRTUAL SIZE"
+    ],
+    [
+      0.000095,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "dietfs        "
+    ],
+    [
+      0.000197,
+      "        latest              934e6b61c6cb        29 seconds ago      16.38 MB\r\n\u003cnone\u003e"
+    ],
+    [
+      0.000017,
+      "                "
+    ],
+    [
+      0.000008,
+      "\u003cnone\u003e"
+    ],
+    [
+      0.000139,
+      "              043fa1dcec64        2 minutes ago       16.38 MB\r\n"
+    ],
+    [
+      0.000010,
+      "\u003cnone\u003e"
+    ],
+    [
+      0.000118,
+      "                \u003cnone\u003e              05df0a62b212"
+    ],
+    [
+      0.000010,
+      "        3 minutes ago"
+    ],
+    [
+      0.000102,
+      "       16.38 MB\r\n0rangetux/buildroot   "
+    ],
+    [
+      0.000009,
+      "latest        "
+    ],
+    [
+      0.000165,
+      "      dfb9bbe972b0        14 hours ago        468.2 MB\r\n"
+    ],
+    [
+      0.000010,
+      "\u003cnone\u003e"
+    ],
+    [
+      0.000134,
+      "                \u003cnone\u003e              0a7afcaed927        "
+    ],
+    [
+      0.000010,
+      "14 hours ago"
+    ],
+    [
+      0.000115,
+      "        468.2 MB\r\npython                "
+    ],
+    [
+      0.000018,
+      "latest        "
+    ],
+    [
+      0.000007,
+      "      "
+    ],
+    [
+      0.000121,
+      "e4bdd56b3e3c        3 days ago          683.3 MB"
+    ],
+    [
+      0.000011,
+      "\r\n\u003cnone\u003e"
+    ],
+    [
+      0.000103,
+      "                \u003cnone\u003e              "
+    ],
+    [
+      0.000010,
+      "dee37e876d21"
+    ],
+    [
+      0.000007,
+      "        "
+    ],
+    [
+      0.000115,
+      "11 days ago         40.65 MB\r\n\u003cnone\u003e"
+    ],
+    [
+      0.000009,
+      "        "
+    ],
+    [
+      0.000007,
+      "        "
+    ],
+    [
+      0.000120,
+      "\u003cnone\u003e              0a24fc985c3e        11 days ago        "
+    ],
+    [
+      0.000010,
+      " "
+    ],
+    [
+      0.000120,
+      "38.14 MB\r\norangetux/buildroot   latest              "
+    ],
+    [
+      0.000010,
+      "14f7efbdf871"
+    ],
+    [
+      0.000047,
+      "        11 days ago"
+    ],
+    [
+      0.000011,
+      "        "
+    ],
+    [
+      0.000007,
+      " "
+    ],
+    [
+      0.000029,
+      "468.2 MB"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "ubuntu"
+    ],
+    [
+      0.000043,
+      "                "
+    ],
+    [
+      0.000061,
+      "14.10               "
+    ],
+    [
+      0.000009,
+      "ab57dbafeeea        "
+    ],
+    [
+      0.000035,
+      "3 weeks ago"
+    ],
+    [
+      0.000009,
+      "        "
+    ],
+    [
+      0.000007,
+      " "
+    ],
+    [
+      0.000049,
+      "194.4 MB\r\n"
+    ],
+    [
+      0.003590,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                      \r \r\u001b]2;auke@hannah: ~/projects/docker-buildroot\u0007\u001b]1;..ker-buildroot\u0007"
+    ],
+    [
+      0.037146,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ hannah \u001b[32mdocker-buildroot \u001b[33m→ λ \u001b[34mgit \u001b[31mmaster*\u001b[33m → \u001b[00m\u001b[00m"
+    ],
+    [
+      0.000028,
+      "\u001b[K"
+    ],
+    [
+      0.000257,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000053,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.033027,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ hannah \u001b[32mdocker-buildroot \u001b[33m→ λ \u001b[34mgit \u001b[31mmaster*\u001b[33m → \u001b[00m\u001b[00m\u001b[K"
+    ],
+    [
+      3.036777,
+      "\r\r\n"
+    ]
+  ]
+}
