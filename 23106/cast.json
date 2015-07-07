@@ -1,0 +1,430 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 20,
+  "duration": 28.818838,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.222547,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000121,
+      "\u001b]2;bede@localhost: ~\u0007"
+    ],
+    [
+      0.000095,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.014852,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36m~ \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000048,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.039850,
+      "t"
+    ],
+    [
+      0.076862,
+      "\u0008tm"
+    ],
+    [
+      0.162446,
+      "u"
+    ],
+    [
+      0.114545,
+      "x"
+    ],
+    [
+      0.075857,
+      " "
+    ],
+    [
+      0.122414,
+      "a"
+    ],
+    [
+      0.230947,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;tmux a\u0007\u001b]1;tmux\u0007"
+    ],
+    [
+      0.010691,
+      "\u001b[?1049h\u001b(B\u001b[m\u001b[?1l\u001b\u003e\u001b[H\u001b[2J\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[?1006l\u001b[?1005l\u001b[c\u001b[\u003e4;1m\u001b[?1004h\u001b]112\u0007\u001b[?25l\u001b[1;1H    ws.require(__requires__)\u001b[K\r\n  File \"/usr/lib/python2.7/dist-packages/pkg_resources.py\", line 725, in require\u001b[3;1H    needed = self.resolve(parse_requirements(requirements))\u001b[K\r\n  File \"/usr/lib/python2.7/dist-packages/pkg_resources.py\", line 633, in resolve\u001b[5;1H    requirements.extend(dist.requires(req.extras)[::-1])\u001b[K\r\n  File \"/usr/lib/python2.7/dist-packages/pkg_resources.py\", line 2291, in requir\u001b[7;1H    dm = self._dep_map\u001b[K\r\n  File \"/usr/lib/python2.7/dist-packages/pkg_resources.py\", line 2484, in _dep_m\u001b[9;1H    self.__dep_map = self._compute_dependencies()\u001b[K\r\n  File \"/usr/lib/python2.7/dist-packages/pkg_resources.py\", line 2506, in _compu\u001b[11;1H    for req in self._parsed_pkg_info.get_all('Requires-Dist') or []:\u001b[K\r\n  File \"/usr/lib/python2.7/dist-packages/pkg_resources.py\", line 2475, in _parse\u001b[13;1H    from email.parser import Parser\u001b[K\r\n  File \"/usr/lib/python2.7/email/parser.py\", line 12, in \u003cmodule\u003e\u001b[K\r\n    from email.feedparser import FeedParser\u001b[K\r\n  File \"/usr/lib/python2.7/email/feedparser.py\", line 20, in \u003cmodule\u003e\u001b[K\r\n    \"\"\"\u001b[K\r\nKeyboardInterrupt\u001b[K\r\n\u001b[32m\u001b[1m \u001b[36mHackingTeam \u001b[34m \u001b(B\u001b[m\u001b[K\r\n\u001b[30m\u001b[42m[0] 0:tmux*                                          \"localhost\" 20:41 07-Jul-15\u001b(B\u001b[m\u001b[20;1H\u001b[1;20r\u001b[H\u001b[19;15H\u001b[?12l\u001b[?25h\u001b[?1h\u001b="
+    ],
+    [
+      0.062674,
+      "\u001b[1;19r\u001b[H  File \"/usr/lib/python2.7/dist-packages/pkg_resources.py\", line 2291, in requires\u001b[K\r\n    dm = self._dep_map\u001b[K\r\n  File \"/usr/lib/python2.7/dist-packages/pkg_resources.py\", line 2484, in _dep_map\u001b[K\r\n    self.__dep_map = self._compute_dependencies()\u001b[K\r\n  File \"/usr/lib/python2.7/dist-packages/pkg_resources.py\", line 2506, in _compute_dependencies\u001b[K\r\n    for req in self._parsed_pkg_info.get_all('Requires-Dist') or []:\u001b[K\r\n  File \"/usr/lib/python2.7/dist-packages/pkg_resources.py\", line 2475, in _parsed_pkg_info\u001b[K\r\n    from email.parser import Parser\u001b[K\r\n  File \"/usr/lib/python2.7/email/parser.py\", line 12, in \u003cmodule\u003e\u001b[K\r\n    from email.feedparser import FeedParser\u001b[K\r\n  File \"/usr/lib/python2.7/email/feedparser.py\", line 20, in \u003cmodule\u003e\u001b[K\r\n    \"\"\"\u001b[K\r\nKeyboardInterrupt\u001b[K\r\n\u001b[32m\u001b[1m \u001b[36mHackingTeam \u001b[34m \u001b(B\u001b[m\u001b[K\r\n\u001b[30m\u001b[42m[0] 0:~/HackingTeam*                                    \"ladtop\" 20:41 07-Jul-15\u001b[19;1H\u001b[1;20r\u001b[H\u001b[18;15H\u001b(B\u001b[m"
+    ],
+    [
+      0.008774,
+      "\r\u001b[K\u001b[1;18r\u001b[H\u001b[18d\u001b[32m\u001b[1m \u001b[36mHackingTeam \u001b[34m \u001b[1;20r\u001b[H\u001b[18;15H\u001b(B\u001b[m"
+    ],
+    [
+      1.472079,
+      "\u001b[H\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[H\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[1;18r\u001b[H\u001b[32m\u001b[1m \u001b[36mHackingTeam \u001b[34m \u001b(B\u001b[m\u001b[K\u001b[1;20r\u001b[H\u001b[14C"
+    ],
+    [
+      1.090447,
+      "\u001b[1;18r\u001b[H\u001b[14C\u001b[32mg\u001b[1;20r\u001b[H\u001b[15C\u001b(B\u001b[m"
+    ],
+    [
+      0.086726,
+      "\u001b[1;18r\u001b[H\u001b[14C\u001b[32mgr\u001b[1;20r\u001b[H\u001b[16C\u001b(B\u001b[m"
+    ],
+    [
+      0.051447,
+      "\u001b[1;18r\u001b[H\u001b[14C\u001b[31m\u001b[1mgre\u001b[1;20r\u001b[H\u001b[17C\u001b(B\u001b[m"
+    ],
+    [
+      0.232560,
+      "\u001b[1;18r\u001b[H\u001b[14C\u001b[32mgrep\u001b[1;20r\u001b[H\u001b[18C\u001b(B\u001b[m"
+    ],
+    [
+      0.190887,
+      "\u001b[1;18r\u001b[H\u001b[18C \u001b[1;20r\u001b[H\u001b[19C"
+    ],
+    [
+      0.252577,
+      "\u001b[1;18r\u001b[H\u001b[19C-\u001b[1;20r\u001b[H\u001b[20C"
+    ],
+    [
+      0.138026,
+      "\u001b[1;18r\u001b[H\u001b[20Cr\u001b[1;20r\u001b[H\u001b[21C"
+    ],
+    [
+      0.261166,
+      "\u001b[1;18r\u001b[H\u001b[21C \u001b[1;20r\u001b[H\u001b[22C"
+    ],
+    [
+      0.465492,
+      "\u001b[1;18r\u001b[H\u001b[22C\u001b[33m\u001b[4m\"\u001b[1;20r\u001b[H\u001b[23C\u001b(B\u001b[m"
+    ],
+    [
+      0.352822,
+      "\u001b[1;18r\u001b[H\u001b[22C\u001b[33m\u001b[4m\"f\u001b[1;20r\u001b[H\u001b[24C\u001b(B\u001b[m"
+    ],
+    [
+      0.185931,
+      "\u001b[1;18r\u001b[H\u001b[23C\u001b[33m\u001b[4mfu\u001b[1;20r\u001b[H\u001b[25C\u001b(B\u001b[m"
+    ],
+    [
+      0.258583,
+      "\u001b[1;18r\u001b[H\u001b[22C\"fuc\u001b[1;20r\u001b[H\u001b[26C"
+    ],
+    [
+      0.150782,
+      "\u001b[1;18r\u001b[H\u001b[26Ck\u001b[1;20r\u001b[H\u001b[27C"
+    ],
+    [
+      0.307731,
+      "\u001b[1;18r\u001b[H\u001b[22C\u001b[33m\"fuck\"\u001b[1;20r\u001b[H\u001b[28C\u001b(B\u001b[m"
+    ],
+    [
+      0.475045,
+      "\r\n\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001406,
+      "\u001b[1;19r\u001b[H\u001b[19d\u001b[30m\u001b[42m[0] 0:grep*                                             \"ladtop\" 20:42 07-Jul-15\u001b[19;1H\u001b[1;20r\u001b[H\r\n\u001b(B\u001b[m"
+    ],
+    [
+      0.358047,
+      "\u001b[K\u001b[1;18r\u001b[H\r\n\u001b[35mrcs-db-ext/Ruby/lib/ruby/2.0.0/rubygems/indexer.rb\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K        # HACK: \u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K this shit - borks all tests that use pl1\u001b[1;20r\u001b[H\u001b[3B"
+    ],
+    [
+      0.137009,
+      "\u001b[K\u001b[1;18r\u001b[H\u001b[3B\u001b[35mrcs-db-ext/Ruby/lib/ruby/gems/2.0.0/gems/yajl-ruby-1.2.1/benchmark/subjects/twitter_stream.json\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K{\"truncated\":false,\"text\":\"Just learned everytime by britney spears on the piano... Now im watchin remember the titians\",\"created_at\":\"Mon May 25 01:59:02 +0000 2009\",\"in_reply_to_user_id\":null,\"favorited\":false,\"user\":{\"notifications\":null,\"statuses_count\":206,\"favourites_count\":0,\"description\":\"im ashley and im \u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[King amazing. tattoos, physcobilly, high hair\u0026amp; high heels...bitch.\",\"screen_name\":\"animosity_13\",\"following\":null,\"utc_offset\":-25200,\"created_at\":\"Fri Apr 17 02:57:30 +0000 2009\",\"profile_link_color\":\"FF0000\",\"profile_background_image_url\":\"http:\\/\\/static.twitter.com\\/images\\/themes\\/theme12\\/bg.gif\",\"profile_sidebar_fill_color\":\"FFF7CC\",\"protected\":false,\"location\":\"billings montana\",\"name\":\"ashley neutgens\",\"profile_sidebar_border_color\":\"F2E195\",\"profile_background_tile\":false,\"url\":\"http:\\/\\/www.myspace.com\\/loserfaceiloveyou\",\"time_zone\":\"Mountain Time (US \u0026 Canada)\",\"followers_count\":36,\"profile_background_color\":\"BADFCD\",\"friends_count\":46,\"profile_image_url\":\"http:\\/\\/s3.amazonaws.com\\/twitter_production\\/profile_images\\/141798745\\/IMG_4649_normal.jpg\",\"id\":32272643,\"profile_text_color\":\"0C3E53\"},\"in_reply_to_screen_name\":null,\"in_reply_to_status_id\":null,\"id\":1908230302,\"source\":\"\u003ca href=\\\"http:\\/\\/help.twitter.com\\/index.php?pg=kb.page\u0026id=75\\\"\u003etxt\u003c\\/a\u003e\"}\r\n\u001b[K\u001b[35mrcs-db-ext/Ruby/lib/ruby/gems/2.0.0/gems/yajl-ruby-1.2.1/benchmark/subjects/twitter_stream.json\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K{\"truncated\":false,\"text\":\"RT mos def have said this b4 @KadeejiaDenise #3drunkwords \\\"\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K that nigga...\\\" (On some Dream stuff) followed by \\\"wassup wit you\\\" *lolz*\",\"created_at\":\"Mon May 25 01:59:16 +0000 2009\",\"in_reply_to_user_id\":null,\"favorited\":false,\"user\":{\"notifications\":null,\"statuses_count\":2671,\"favourites_count\":6,\"description\":\"\\u2606college girl, dancer, lifeaholic, future PR phenom...i'm blessed \u0026amp; lovin' life \\u2606\",\"screen_name\":\"lilmizsunshyne\",\"following\":null,\"utc_offset\":-18000,\"created_at\":\"Wed Feb 11 04:55:23 +0000 2009\",\"profile_link_color\":\"170d26\",\"profile_background_image_url\":\"http:\\/\\/s3.amazonaws.com\\/twitter_production\\/profile_background_images\\/7262523\\/n1143060539_31097820_8569.jpg\",\"profile_sidebar_fill_color\":\"f2da6e\",\"protected\":false,\"location\":\"\\u00dcT: 38.983101,-76.965605\",\"name\":\"Chasity Cooper\",\"profile_sidebar_border_color\":\"241424\",\"profile_background_tile\":true,\"url\":\"http:\\/\\/lilmizsunshyne11.blogspot.com\\/\",\"time_zone\":\"Eastern Time (US \u0026 Canada)\",\"followers_count\":292,\"profile_background_color\":\"642D8B\",\"friends_count\":399,\"profile_image_url\":\"http:\\/\\/s3.amazonaws.com\\/twitter_production\\/profile_images\\/227162884\\/mee_normal.JPG\",\"id\":20572111,\"profile_text_color\":\"504d3f\"},\"in_reply_to_screen_name\":null,\"in_reply_to_status_id\":null,\"id\":1908232404,\"source\":\"web\"}\r\n\u001b[K\u001b[35mrcs-db-ext/Ruby/lib/ruby/gems/2.0.0/gems/yajl-ruby-1.2.1/benchmark/subjects/twitter_stream.json\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K{\"text\":\"OMG JF \u0026 I are LMAO in YVR.\",\"created_at\":\"Mon May 25 01:59:22 +0000 2009\",\"truncated\":false,\"in_reply_to_user_id\":null,\"user\":{\"profile_background_color\":\"9ae4e8\",\"description\":\"To know me is to love me. Now buy me a \u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[King drink.\",\"screen_name\":\"Robbie1969\",\"following\":null,\"utc_offset\":-18000,\"created_at\":\"Fri Mar 13 14:47:42 +0000 2009\",\"friends_count\":20,\"profile_text_color\":\"000000\",\"notifications\":null,\"statuses_count\":216,\"favourites_count\":0,\"protected\":false,\"profile_link_color\":\"0000ff\",\"location\":\"Joliette\",\"name\":\"Robert Mercier\",\"profile_background_image_url\":\"http:\\/\\/static.twitter.com\\/images\\/themes\\/theme1\\/bg.gif\",\"profile_sidebar_fill_color\":\"e0ff92\",\"url\":\"http:\\/\\/www.tpimousevoyages.com\\/1\\/robadv\",\"profile_sidebar_border_color\":\"87bc44\",\"profile_background_tile\":false,\"profile_image_url\":\"http:\\/\\/s3.amazonaws.com\\/twitter_production\\/profile_images\\/95212271\\/sept06_412_normal.jpg\",\"id\":24182170,\"time_zone\":\"Easte\u001b[1;20r\u001b[H\u001b[18;2"
+    ],
+    [
+      0.000234,
+      "0H\u001b[1;18r\u001b[H\u001b[18;20Hrn Time (US \u0026 Canada)\",\"followers_count\":31},\"favorited\":false,\"in_reply_to_screen_name\":null,\"in_reply_to_status_id\":null,\"id\":1908233204,\"source\":\"\u003ca href=\\\"http:\\/\\/www.atebits.com\\/\\\"\u003eTweetie\u003c\\/a\u003e\"}\r\n\u001b[K\u001b[35mrcs-db-ext/Ruby/lib/ruby/gems/2.0.0/gems/yajl-ruby-1.2.1/benchmark/subjects/twitter_stream.json\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K{\"truncated\":false,\"text\":\"@beckmermaid http:\\/\\/twitpic.com\\/5w9k9 - That's a damn shame.\",\"created_at\":\"Mon May 25 01:59:53 +0000 2009\",\"in_reply_to_user_id\":13530922,\"favorited\":false,\"user\":{\"notifications\":null,\"statuses_count\":1059,\"favourites_count\":0,\"description\":\"Bon vivant, raconteur, cluster\u001b[18;80H\u001b[Kr\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K operator, wang dang doodler.\",\"screen_name\":\"scearley\",\"following\":null,\"utc_offset\":-28800,\"created_at\":\"Sat Jun 02 04:57:41 +0000 2007\",\"profile_link_color\":\"2A5E0A\",\"profile_background_image_url\":\"http:\\/\\/s3.amazonaws.com\\/twitter_production\\/profile_background_images\\/7066002\\/darkblue.gif\",\"profile_sidebar_fill_color\":\"a7d7af\",\"protected\":false,\"location\":\"Various areas outside Seattle\",\"name\":\"Luscious Dick\",\"profile_sidebar_border_color\":\"60AC34\",\"profile_background_tile\":false,\"url\":\"http:\\/\\/scearley.livejournal.com\",\"time_zone\":\"Pacific Time (US \u0026 Canada)\",\"followers_count\":84,\"profile_background_color\":\"c47D3b\",\"friends_count\":67,\"profile_image_url\":\"http:\\/\\/s3.amazonaws.com\\/twitter_production\\/profile_images\\/114968858\\/144736_normal.gif\",\"id\":6516702,\"profile_text_color\":\"39375D\"},\"in_reply_to_screen_name\":\"beckmermaid\",\"in_reply_to_status_id\":null,\"id\":1908237501,\"source\":\"\u003ca href=\\\"http:\\/\\/twitpic.com\\/\\\"\u003eTwitPic\u003c\\/a\u003e\"}\r\n\u001b[K\u001b[35mrcs-db-ext/Ruby/lib/ruby/gems/2.0.0/gems/pry-0.10.1-x86-mingw32/lib/pry/code_object.rb\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K  # TODO: This class is a cluster\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K. We need a much more robust\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      1.757079,
+      "\u001b[K\u001b[1;18r\u001b[H\u001b[18d\u001b[35mrcs-db-ext/Ruby/lib/ruby/gems/2.0.0/gems/http_parser.rb-0.6.0/spec/support/requests.json\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K    \"name\": \"dumb\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K\",\r\n\u001b[K\u001b[35mrcs-db-ext/Ruby/lib/ruby/gems/2.0.0/gems/http_parser.rb-0.6.0/spec/support/requests.json\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K    \"raw\": \"GET /dumb\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K HTTP/1.1\\r\\naaaaaaaaaaaaa:++++++++++\\r\\n\\r\\n\",\r\n\u001b[K\u001b[35mrcs-db-ext/Ruby/lib/ruby/gems/2.0.0/gems/http_parser.rb-0.6.0/spec/support/requests.json\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K    \"request_path\": \"/dumb\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K\",\r\n\u001b[K\u001b[35mrcs-db-ext/Ruby/lib/ruby/gems/2.0.0/gems/http_parser.rb-0.6.0/spec/support/requests.json\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K    \"request_url\": \"/dumb\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K\",\r\n\u001b[K\u001b[35mrcs-db-ext/Ruby/lib/ruby/gems/2.0.0/gems/http_parser.rb-0.6.0/spec/support/requests.json\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K    \"raw\": \"POST /chunked_w_bullshit_after_length HTTP/1.1\\r\\nTransfer-Encoding: chunked\\r\\n\\r\\n5; ihatew3;whatthe\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K=aretheseparametersfor\\r\\nhello\\r\\n6; blahblah; blah\\r\\n world\\r\\n0\\r\\n\\r\\n\",\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.059465,
+      "\u001b[K\u001b[1;18r\u001b[H\u001b[18d\u001b[35mrcs-db-ext/Ruby/lib/ruby/gems/2.0.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser/vendor/http-parser/test.c\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K, {.name= \"dumb\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K\"\r\n\u001b[K\u001b[35mrcs-db-ext/Ruby/lib/ruby/gems/2.0.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser/vendor/http-parser/test.c\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K  ,.raw= \"GET /dumb\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K HTTP/1.1\\r\\n\"\r\n\u001b[K\u001b[35mrcs-db-ext/Ruby/lib/ruby/gems/2.0.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser/vendor/http-parser/test.c\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K  ,.request_path= \"/dumb\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K\"\r\n\u001b[K\u001b[35mrcs-db-ext/Ruby/lib/ruby/gems/2.0.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser/vendor/http-parser/test.c\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K  ,.request_url= \"/dumb\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K\"\r\n\u001b[K\u001b[35mrcs-db-ext/Ruby/lib/ruby/gems/2.0.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser/vendor/http-parser/test.c\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K         \"5; ihatew3;whatthe\u001b[K\u001b[31m\u001b[1m"
+    ],
+    [
+      0.000759,
+      "fuck\u001b(B\u001b[m\u001b[K=aretheseparametersfor\\r\\nhello\\r\\n\"\r\n\u001b[K\u001b[35mrcs-db-ext/Ruby/lib/ruby/gems/2.0.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser/vendor/http-parser/test.c\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K  const char *dumb\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K2 =\r\n\u001b[K\u001b[35mrcs-db-ext/Ruby/lib/ruby/gems/2.0.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser/vendor/http-parser/test.c\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K  test_simple(dumb\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K2, HPE_OK);\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.081990,
+      "\u001b[K\u001b[1;18r\u001b[H\u001b[18d\u001b[35mrcs-db-ext/Ruby/lib/ruby/gems/2.0.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser/vendor/http-parser-java/src/test/http_parser/lolevel/TestLoaderNG.java\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K          // you can not be \u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[King serious!?\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.006376,
+      "\u001b[K\u001b[1;18r\u001b[H\u001b[18d\u001b[35mrcs-db-ext/Ruby/lib/ruby/gems/2.0.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser/vendor/http-parser-java/tests.dumped\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[Kname  :dumb\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K\r\n\u001b[K\u001b[35mrcs-db-ext/Ruby/lib/ruby/gems/2.0.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser/vendor/http-parser-java/tests.dumped\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[Kraw   :\"GET /dumb\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K HTTP/1.1\\r\\naaaaaaaaaaaaa:++++++++++\\r\\n\\r\\n\"\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.001739,
+      "\u001b[K\u001b[1;18r\u001b[H\u001b[18d\u001b[35mrcs-db-ext/Ruby/lib/ruby/gems/2.0.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser/vendor/http-parser-java/tests.dumped\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[Krequest_path:/dumb\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K\r\n\u001b[K\u001b[35mrcs-db-ext/Ruby/lib/ruby/gems/2.0.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser/vendor/http-parser-java/tests.dumped\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[Krequest_url :/dumb\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K\r\n\u001b[K\u001b[35mrcs-db-ext/Ruby/lib/ruby/gems/2.0.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser/vendor/http-parser-java/tests.dumped\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[Kraw   :\"POST /chunked_w_bullshit_after_length HTTP/1.1\\r\\nTransfer-Encoding: chunked\\r\\n\\r\\n5; ihatew3;whatthe\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K=aretheseparametersfor\\r\\nhello\\r\\n6; blahblah; blah\\r\\n world\\r\\n0\\r\\n\\r\\n\"\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.012870,
+      "\u001b[K\u001b[1;18r\u001b[H\u001b[18d\u001b[35mrcs-db-ext/Ruby/lib/ruby/gems/2.0.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser/vendor/http-parser-java/test.c\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K, {.name= \"dumb\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K\"\r\n\u001b[K\u001b[35mrcs-db-ext/Ruby/lib/ruby/gems/2.0.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser/vendor/http-parser-java/test.c\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K  ,.raw= \"GET /dumb\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K HTTP/1.1\\r\\n\"\r\n\u001b[K\u001b[35mrcs-db-ext/Ruby/lib/ruby/gems/2.0.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser/vendor/http-parser-java/test.c\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K  ,.request_path= \"/dumb\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K\"\r\n\u001b[K\u001b[35mrcs-db-ext/Ruby/lib/ruby/gems/2.0.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser/vendor/http-parser-java/test.c\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K  ,.request_url= \"/dumb\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K\"\r\n\u001b[K\u001b[35mrcs-db-ext/Ruby/lib/ruby/gems/2.0.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser/vendor/http-parser-java/test.c\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K         \"5; ihatew3;whatthe\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K=aretheseparametersfor\\r\\nhello\\r\\n\"\r\n\u001b[K\u001b[35mrcs-db-ext/Ruby/lib/ruby/gems/2.0.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser/vendor/http-parser-java/test.c\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K  const char *dumb\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K2 =\r\n\u001b[K\u001b[35mrcs-db-ext/Ruby/lib/ruby/gems/2.0.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser/vendor/http-parser-java/test.c\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K  test_simple(dumb\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K2, HPE_OK);\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      1.984138,
+      "\u001b[K\u001b[1;18r\u001b[H\u001b[18d\u001b[35mcore-packer/core-packer/ExeEntryPoint32.cpp\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[Kvoid WINAPI __\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[Kcrt0startup(struct _strings *ptr)\r\n\u001b[K\u001b[35mcore-packer/core-packer/ExeEntryPoint32.cpp\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K\u001b[4C__\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[Kcrt0startup(\u0026init);\r\n\u001b[1;20r\u001b[H\u001b[18d\u001b[K\u001b[1;18r\u001b[H\u001b[18d\u001b[35mrcs-common/test/test_mime.rb\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K    # \u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[King IE mobile not understanding the real mime type\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      2.120483,
+      "\u001b[1;18r\u001b[H\u001b[18dBinary file vector-exploit/src/PMIEFuck-WinWord/Debug/PMIEFuck-WinWord.pdb matches\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.053881,
+      "\u001b[1;18r\u001b[H\u001b[18dBinary file vector-exploit/src/PMIEFuck-WinWord/ReleaseOK/PMIEFuck-WinWord.pdb matches\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.048189,
+      "\u001b[1;18r\u001b[H\u001b[18dBinary file vector-exploit/src/PMIEFuck-WinWord/Release/PMIEFuck-WinWord.pdb matches\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.038078,
+      "\u001b[1;18r\u001b[H\u001b[18dBinary file vector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/Debug/vc110.pdb matches\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.013903,
+      "\u001b[K\u001b[1;18r\u001b[H\u001b[18d\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/Debug/vbe6ext.tlh\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K// d:\\sources\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\debug\\vbe6ext.tlh\r\n\u001b[K\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/Debug/vbe6ext.tlh\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K#include \"d:\\sources\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\debug\\mso.tlh\"\r\n\u001b[1;20r\u001b[H\u001b[18d\u001b[1;19r\u001b[H\u001b[35mcore-packer/core-packer/ExeEntryPoint32.cpp\u001b[36m:\u001b[39m    __\u001b[31m\u001b[1mfuck\u001b(B\u001b[mcrt0startup(\u0026init);\u001b[K\r\n\u001b[35mrcs-common/test/test_mime.rb\u001b[36m:\u001b[39m    # \u001b[31m\u001b[1mfuck\u001b(B\u001b[ming IE mobile not understanding the real mime type\u001b[K\r\nBinary file vector-exploit/src/PMIEFuck-WinWord/Debug/PMIEFuck-WinWord.pdb matches\u001b[K\r\nBinary file vector-exploit/src/PMIEFuck-WinWord/ReleaseOK/PMIEFuck-WinWord.pdb matches\u001b[K\r\nBinary file vector-exploit/src/PMIEFuck-WinWord/Release/PMIEFuck-WinWord.pdb matches\u001b[K\r\nBinary file vector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/Debug/vc110.pdb matches\u001b[K\r\n\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/Debug/vbe6ext.tlh\u001b[36m:\u001b[39m// d:\\sources\\pmie\u001b[31m\u001b[1mfuck\u001b(B\u001b[m-winword\\pmie\u001b[31m\u001b[1mfuck\u001b(B\u001b[m-winword\\debug\\vbe6ext.tlh\u001b[K\r\n\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/Debug/vbe6ext.tlh\u001b[36m:\u001b[39m#include \"d:\\sources\\pmie\u001b[31m\u001b[1mfuck\u001b(B\u001b[m-winword\\pmie\u001b[31m\u001b[1mfuck\u001b(B\u001b[m-winword\\debug\\mso.tlh\"\u001b[K\r\n\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/Debug/vbe6ext.tlh\u001b[36m:\u001b[39m#include \"d:\\sources\\pmie\u001b[31m\u001b[1mfuck\u001b(B\u001b[m-winword\\pmie\u001b[31m\u001b[1mfuck\u001b(B\u001b[m-winword\\debug\\vbe6ext.tli\"\u001b[K\r\n\u001b[K\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.024900,
+      "\u001b[K\u001b[1;18r\u001b[H\u001b[18d\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/Debug/mso.tlh\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K// d:\\sources\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\debug\\mso.tlh\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.000668,
+      "\u001b[K\u001b[1;18r\u001b[H\u001b[18d\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/Debug/mso.tlh\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K#pragma start_map_region(\"d:\\sources\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\debug\\mso.tli\")\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.026611,
+      "\u001b[K\u001b[1;18r\u001b[H\u001b[18d\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/Debug/msword.tlh\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K// d:\\sources\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\debug\\msword.tlh\r\n\u001b[K\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/Debug/msword.tlh\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K#include \"d:\\sources\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\debug\\mso.tlh\"\r\n\u001b[K\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/Debug/msword.tlh\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K#include \"d:\\sources\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\debug\\vbe6ext.tlh\"\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.006359,
+      "\u001b[K\u001b[1;18r\u001b[H\u001b[18d\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/Debug/msword.tlh\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K#include \"d:\\sources\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\debug\\msword.tli\"\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.034851,
+      "\u001b[K\u001b[1;18r\u001b[H\u001b[18d\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/Debug/msword.tli\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K// d:\\sources\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\debug\\msword.tli\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.034391,
+      "\u001b[K\u001b[1;18r\u001b[H\u001b[18d\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/Debug/mso.tli\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K// d:\\sources\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\debug\\mso.tli\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.001454,
+      "\u001b[K\u001b[1;18r\u001b[H\u001b[18d\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/Debug/vbe6ext.tli\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K// d:\\sources\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\debug\\vbe6ext.tli\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.016541,
+      "\u001b[1;18r\u001b[H\u001b[18dBinary file vector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/Debug/vc110.idb matches\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.005874,
+      "\u001b[1;18r\u001b[H\u001b[18dBinary file vector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/Debug/Source.obj matches\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.046120,
+      "\u001b[1;18r\u001b[H\u001b[18dBinary file vector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/ReleaseOK/vc110.pdb matches\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.010007,
+      "\u001b[K\u001b[1;18r\u001b[H\u001b[18d\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/ReleaseOK/vbe6ext.tlh\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K// d:\\sources\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\releaseok\\vbe6ext.tlh\r\n\u001b[K\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/ReleaseOK/vbe6ext.tlh\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K#include \"d:\\sources\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\releaseok\\mso.tlh\"\r\n\u001b[1;20r\u001b[H\u001b[18d\u001b[K\u001b[1;18r\u001b[H\u001b[18d\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/ReleaseOK/vbe6ext.tlh\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K#include \"d:\\sources\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\releaseok\\vbe6ext.tli\"\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.026401,
+      "\u001b[K\u001b[1;18r\u001b[H\u001b[18d\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/ReleaseOK/mso.tlh\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K// d:\\sources\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\releaseok\\mso.tlh\r\n\u001b[1;20r\u001b[H\u001b[18d\u001b[K\u001b[1;18r\u001b[H\u001b[18d\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/ReleaseOK/mso.tlh\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K#pragma start_map_region(\"d:\\sources\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\releaseok\\mso.tli\")\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.034414,
+      "\u001b[K\u001b[1;18r\u001b[H\u001b[18d\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/ReleaseOK/msword.tlh\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K// d:\\sources\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\releaseok\\msword.tlh\r\n\u001b[K\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/ReleaseOK/msword.tlh\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K#include \"d:\\sources\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\releaseok\\mso.tlh\"\r\n\u001b[K\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/ReleaseOK/msword.tlh\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K#include \"d:\\sources\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\releaseok\\vbe6ext.tlh\"\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.005488,
+      "\u001b[K\u001b[1;18r\u001b[H\u001b[18d\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/ReleaseOK/msword.tlh\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K#include \"d:\\sources\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\releaseok\\msword.tli\"\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.034451,
+      "\u001b[K\u001b[1;18r\u001b[H\u001b[18d\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/ReleaseOK/msword.tli\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K// d:\\sources\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\releaseok\\msword.tli\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.028627,
+      "\u001b[K\u001b[1;18r\u001b[H\u001b[18d\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/ReleaseOK/mso.tli\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K// d:\\sources\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\releaseok\\mso.tli\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.023090,
+      "\u001b[K\u001b[1;18r\u001b[H\u001b[18d\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/ReleaseOK/vbe6ext.tli\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K// d:\\sources\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\releaseok\\vbe6ext.tli\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.028441,
+      "\u001b[1;18r\u001b[H\u001b[18dBinary file vector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/ReleaseOK/vc110.idb matches\r\n\u001b[K\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/ReleaseOK/PMIEFuck-WinWord.log\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K     1\u003ed:\\sources\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\source.cpp(31): error C2440: 'return' : cannot convert from 'void' to 'BOOL'\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.039625,
+      "\u001b[1;18r\u001b[H\u001b[18dBinary file vector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/Release/vc110.pdb matches\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.010434,
+      "\u001b[K\u001b[1;18r\u001b[H\u001b[18d\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/Release/vbe6ext.tlh\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K// d:\\sources\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\release\\vbe6ext.tlh\r\n\u001b[K\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/Release/vbe6ext.tlh\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K#include \"d:\\sources\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\release\\mso.tlh\"\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.002854,
+      "\u001b[?25l\u001b[H\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/ReleaseOK/mso.tli\u001b[36m:\u001b[39m// d:\\sources\\pmie\u001b[31m\u001b[1mfuck\u001b(B\u001b[m-winword\\pmie\u001b[31m\u001b[1mfuck\u001b(B\u001b[m-winword\\releaseok\\mso.tli\u001b[K\r\n\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/ReleaseOK/vbe6ext.tli\u001b[36m:\u001b[39m// d:\\sources\\pmie\u001b[31m\u001b[1mfuck\u001b(B\u001b[m-winword\\pmie\u001b[31m\u001b[1mfuck\u001b(B\u001b[m-winword\\releaseok\\vbe6ext.tli\u001b[K\r\nBinary file vector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/ReleaseOK/vc110.idb matches\u001b[K\r\n\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/ReleaseOK/PMIEFuck-WinWord.log\u001b[36m:\u001b[39m     1\u003ed:\\sources\\pmie\u001b[31m\u001b[1mfuck\u001b(B\u001b[m-winword\\pmie\u001b[31m\u001b[1mfuck\u001b(B\u001b[m-winword\\source.cpp(31): error C2440: 'return' : cannot convert from 'void' to 'BOOL'\u001b[K\r\nBinary file vector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/Release/vc110.pdb matches\u001b[K\r\n\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/Release/vbe6ext.tlh\u001b[36m:\u001b[39m// d:\\sources\\pmie\u001b[31m\u001b[1mfuck\u001b(B\u001b[m-winword\\pmie\u001b[31m\u001b[1mfuck\u001b(B\u001b[m-winword\\release\\vbe6ext.tlh\u001b[K\r\n\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/Release/vbe6ext.tlh\u001b[36m:\u001b[39m#include \"d:\\sources\\pmie\u001b[31m\u001b[1mfuck\u001b(B\u001b[m-winword\\pmie\u001b[31m\u001b[1mfuck\u001b(B\u001b[m-winword\\release\\mso.tlh\"\u001b[K\r\n\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/Release/vbe6ext.tlh\u001b[36m:\u001b[39m#include \"d:\\sources\\pmie\u001b[31m\u001b[1mfuck\u001b(B\u001b[m-winword\\pmie\u001b[31m\u001b[1mfuck\u001b(B\u001b[m-winword\\release\\vbe6ext.tli\"\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[42m[0] 0:grep*                                             \"ladtop\" 20:42 07-Jul-15\u001b(B\u001b[m\u001b[18;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.023956,
+      "\u001b[K\u001b[1;18r\u001b[H\u001b[18d\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/Release/mso.tlh\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K// d:\\sources\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\release\\mso.tlh\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.000781,
+      "\u001b[K\u001b[1;18r\u001b[H\u001b[18d\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/Release/mso.tlh\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K#pragma start_map_region(\"d:\\sources\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\release\\mso.tli\")\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.027375,
+      "\u001b[K\u001b[1;18r\u001b[H\u001b[18d\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/Release/msword.tlh\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K// d:\\sources\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\release\\msword.tlh\r\n\u001b[K\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/Release/msword.tlh\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K#include \"d:\\sources\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\release\\mso.tlh\"\r\n\u001b[K\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/Release/msword.tlh\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K#include \"d:\\sources\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\release\\vbe6ext.tlh\"\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.008632,
+      "\u001b[K\u001b[1;18r\u001b[H\u001b[18d\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/Release/msword.tlh\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K#include \"d:\\sources\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\release\\msword.tli\"\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.050111,
+      "\u001b[K\u001b[1;18r\u001b[H\u001b[18d\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/Release/msword.tli\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K// d:\\sources\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\release\\msword.tli\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.032468,
+      "\u001b[K\u001b[1;18r\u001b[H\u001b[18d\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/Release/mso.tli\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K// d:\\sources\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\release\\mso.tli\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.005927,
+      "\u001b[K\u001b[1;18r\u001b[H\u001b[18d\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/Release/vbe6ext.tli\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K// d:\\sources\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\release\\vbe6ext.tli\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.013791,
+      "\u001b[1;18r\u001b[H\u001b[18dBinary file vector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/Release/Source.obj matches\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.006570,
+      "\u001b[K\u001b[1;18r\u001b[H\u001b[18d\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/ReleaseDLL/vbe6ext.tlh\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K// d:\\sources\\dev\\vector-exploit\\src\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\releasedll\\vbe6ext.tlh\r\n\u001b[K\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/ReleaseDLL/vbe6ext.tlh\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K#include \"d:\\sources\\dev\\vector-exploit\\src\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\releasedll\\mso.tlh\"\r\n\u001b[K\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/ReleaseDLL/vbe6ext.tlh\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K#include \"d:\\sources\\dev\\vector-exploit\\src\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\releasedll\\vbe6ext.tli\"\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.024744,
+      "\u001b[K\u001b[1;18r\u001b[H\u001b[18d\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/ReleaseDLL/mso.tlh\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K// d:\\sources\\dev\\vector-exploit\\src\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\releasedll\\mso.tlh\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.003047,
+      "\u001b[K\u001b[1;18r\u001b[H\u001b[18d\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/ReleaseDLL/mso.tlh\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K#pragma start_map_region(\"d:\\sources\\dev\\vector-exploit\\src\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\releasedll\\mso.tli\")\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.027310,
+      "\u001b[K\u001b[1;18r\u001b[H\u001b[18d\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/ReleaseDLL/msword.tlh\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K// d:\\sources\\dev\\vector-exploit\\src\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\releasedll\\msword.tlh\r\n\u001b[K\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/ReleaseDLL/msword.tlh\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K#include \"d:\\sources\\dev\\vector-exploit\\src\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\releasedll\\mso.tlh\"\r\n\u001b[K\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/ReleaseDLL/msword.tlh\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K#include \"d:\\sources\\dev\\vector-exploit\\src\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\releasedll\\vbe6ext.tlh\"\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.010632,
+      "\u001b[K\u001b[1;18r\u001b[H\u001b[18d\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/ReleaseDLL/msword.tlh\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K#include \"d:\\sources\\dev\\vector-exploit\\src\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\releasedll\\msword.tli\"\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.039711,
+      "\u001b[1;18r\u001b[H\u001b[18dBinary file vector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/ReleaseDLL/vc100.pdb matches\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.027997,
+      "\u001b[K\u001b[1;18r\u001b[H\u001b[18d\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/ReleaseDLL/msword.tli\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K// d:\\sources\\dev\\vector-exploit\\src\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\releasedll\\msword.tli\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.027001,
+      "\u001b[K\u001b[1;18r\u001b[H\u001b[18d\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/ReleaseDLL/mso.tli\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K// d:\\sources\\dev\\vector-exploit\\src\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\releasedll\\mso.tli\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.004276,
+      "\u001b[K\u001b[1;18r\u001b[H\u001b[18d\u001b[35mvector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/ReleaseDLL/vbe6ext.tli\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K// d:\\sources\\dev\\vector-exploit\\src\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\pmie\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[K-winword\\releasedll\\vbe6ext.tli\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.005517,
+      "\u001b[1;18r\u001b[H\u001b[18dBinary file vector-exploit/src/PMIEFuck-WinWord/PMIEFuck-WinWord/ReleaseDLL/Source.obj matches\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.155966,
+      "\u001b[1;18r\u001b[H\u001b[18dBinary file vector-exploit/src/PMIEFuck-Java/Debug/PMIEFuck-Java.pdb matches\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.105321,
+      "\u001b[1;18r\u001b[H\u001b[18dBinary file vector-exploit/src/PMIEFuck-Java/PMIEFuck-Java/Debug/vc100.idb matches\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.006367,
+      "\u001b[1;18r\u001b[H\u001b[18dBinary file vector-exploit/src/PMIEFuck-Java/PMIEFuck-Java/Debug/Source.obj matches\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.032753,
+      "\u001b[1;18r\u001b[H\u001b[18dBinary file vector-exploit/src/PMIEFuck-Java/PMIEFuck-Java/Release/vc110.pdb matches\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.019025,
+      "\u001b[1;18r\u001b[H\u001b[18dBinary file vector-exploit/src/PMIEFuck-Java/PMIEFuck-Java/Release/Source.obj matches\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      0.612458,
+      "\u001b[?25l\u001b[20d\u001b[30m\u001b[42m[0] 0:tmux*                                          \"localhost\" 20:42 07-Jul-15\u001b(B\u001b[m\u001b[18;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      8.171274,
+      "\u001b[K\u001b[1;18r\u001b[H\u001b[18d\u001b[35mrcs-collector/lib/rcs-collector/http_controller.rb\u001b(B\u001b[m\u001b[K\u001b[K\u001b[36m:\u001b(B\u001b[m\u001b[K        # if the file is still in use (\u001b[K\u001b[31m\u001b[1mfuck\u001b(B\u001b[m\u001b[King windows) retry for at least 100 times\r\n\u001b[1;20r\u001b[H\u001b[18d"
+    ],
+    [
+      2.676213,
+      "\u001b[1;20r\u001b(B\u001b[m\u001b[?1l\u001b\u003e\u001b[H\u001b[2J"
+    ],
+    [
+      0.000096,
+      "\u001b]112\u0007\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[?1006l\u001b[?1005l\u001b[\u003e4m\u001b[?1004l"
+    ],
+    [
+      0.000051,
+      "\u001b[?1049l"
+    ],
+    [
+      0.001114,
+      "[detached]\r\n"
+    ],
+    [
+      0.001240,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.002516,
+      "\u001b]2;bede@localhost: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.019466,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36m~ \u001b[01;34m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000259,
+      "\u001b[K"
+    ],
+    [
+      0.000518,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.417775,
+      "\r\r\n"
+    ]
+  ]
+}
