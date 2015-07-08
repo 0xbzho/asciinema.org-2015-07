@@ -1,0 +1,5478 @@
+{
+  "version": 1,
+  "width": 133,
+  "height": 45,
+  "duration": 127.055947,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "rxvt-unicode-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.049728,
+      "\u001b]0;user@tizen-tc-fastmodels: ~/git/tizen/platform/upstream/bc\u0007user@tizen-tc-fastmodels:~/git/tizen/platform/upstream/bc$ "
+    ],
+    [
+      1.334135,
+      "v"
+    ],
+    [
+      0.143751,
+      "i"
+    ],
+    [
+      0.040312,
+      "m"
+    ],
+    [
+      0.231781,
+      " "
+    ],
+    [
+      0.231851,
+      "p"
+    ],
+    [
+      0.248168,
+      "a"
+    ],
+    [
+      0.831965,
+      "c"
+    ],
+    [
+      0.264090,
+      "k"
+    ],
+    [
+      0.338188,
+      "aging/"
+    ],
+    [
+      0.757754,
+      "b"
+    ],
+    [
+      0.256033,
+      "c"
+    ],
+    [
+      0.191905,
+      "."
+    ],
+    [
+      0.135898,
+      "s"
+    ],
+    [
+      0.154572,
+      "pec "
+    ],
+    [
+      0.525530,
+      "\r\n"
+    ],
+    [
+      0.023441,
+      "\u001b[?1049h\u001b[?1h\u001b=\u001b[2;1H▽\u001b[6n\u001b[1;1H  \u001b[1;1H"
+    ],
+    [
+      0.000401,
+      "\u001b[1;45r\u001b[?25h\u001b[?25h\u001b[27m\u001b[23m\u001b[m\u001b[H\u001b[2J\u001b[?25l\u001b[45;1H\"packaging/bc.spec\""
+    ],
+    [
+      0.000076,
+      " 59L, 1729C"
+    ],
+    [
+      0.001426,
+      "\u001b[\u003ec"
+    ],
+    [
+      0.001686,
+      "\u001b[1;1H\u001b[38;5;130mName\u001b[m\u001b[38;5;5m:\u001b[m\u001b[11Cbc\r\n\r\n\u001b[38;5;130mBuildRequires\u001b[m\u001b[38;5;5m:\u001b[m  automake\r\n\u001b[38;5;130mBuildRequires\u001b[m\u001b[38;5;5m:\u001b[m  bison\r\n\u001b[38;5;130mBuildRequires\u001b[m\u001b[38;5;5m:\u001b[m  ed\r\n\u001b[38;5;130mBuildRequires\u001b[m\u001b[38;5;5m:\u001b[m  flex\r\n\u001b[38;5;130mBuildRequires\u001b[m\u001b[38;5;5m:\u001b[m  readline-devel\r\n\r\n\u001b[38;5;130mUrl\u001b[m\u001b[38;5;5m:\u001b[12Cftp://ftp.gnu.org/pub/gnu/bc\u001b[m\r\n\u001b[38;5;130mLicense\u001b[m\u001b[38;5;5m:\u001b[m\u001b[8C\u001b[38;5;1mGPL\u001b[m-2.0+\r\n\u001b[38;5;130mGroup\u001b[m\u001b[38;5;5m:\u001b[m\u001b[10CBase/Utilities\r\n\u001b[38;5;130mVersion\u001b[m\u001b[38;5;5m:\u001b[m\u001b[8C1.06\r\n\u001b[38;5;130mRelease\u001b[m\u001b[38;5;5m:\u001b[m\u001b[8C0\r\n\u001b[38;5;130mSummary\u001b[m\u001b[38;5;5m:\u001b[m\u001b[8C\u001b[38;5;1mGNU\u001b[m Command Line Calculator\r\n\u001b[38;5;130mSource\u001b[m\u001b[38;5;5m:\u001b[9C%{\u001b[m\u001b[38;5;6mname\u001b[m\u001b[38;5;5m}\u001b[m-\u001b[38;5;5m%{\u001b[m\u001b[38;5;6mversion\u001b[m\u001b[38;5;5m}\u001b[m.tar.bz2\r\n\u001b[38;5;130mSource1001\u001b[m\u001b[38;5;5m:\u001b[m     bc.manifest\r\n\r\n\u001b[38;5;2m%description\u001b[m\r\nbc is an interpreter that supports numbers of arbitrary precision and\r\nthe interactive execution of statements. The syntax has some\r\nsimilarities to the C programming language. A standard math library is\r\navailable through command line options. When used, the math library is\r\nread in before any other input files. bc then reads in all other files\r\nfrom the command line, evaluating their contents. Then bc reads from\r\nstandard input (usually the keyboard).\r\n\r\nThe dc program is also included. dc is a calculator that supports\r\nreverse-polish notation and allows unlimited precision arithmetic.\r\nMacros can also be defined. Normally, dc reads from standard input but\r\ncan also read in files specified on the command line. A calculator with\r\nreverse-polish notation saves numbers to a stack. Arguments to\r\nmathematical operations (operands) are \"pushed\" onto the stack until\r\nthe next operator is read in, which \"pops\" its arguments off the stack\r\nand \"pushes\" its results back onto the stack.\r\n\r\n\u001b[38;5;2m%prep\u001b[m\r\n\u001b[38;5;5m%setup\u001b[m \u001b[38;5;130m-q\r\ncp\u001b[m \u001b[38;5;5m%{\u001b[m\u001b[38;5;6mSOURCE1001\u001b[m\u001b[38;5;5m}\u001b[m .\r\n\r\n\u001b[38;5;2m%build\u001b[m\r\n%reconfigure --with-readline\r\n\r\nrm bc/libmath.h\r\nsed -i 's|\\(^_P"
+    ],
+    [
+      0.000008,
+      "R.*readline.*$\\)|/* \\1 */|' bc/scan.l\u001b[45;116H1,1\u001b[11CTop\u001b[1;1H\u001b[?25h"
+    ],
+    [
+      0.725185,
+      "\u001b[?25l\u001b[45;116H2,0-1\u001b[2;1H\u001b[?25h"
+    ],
+    [
+      0.659205,
+      "\u001b[?25l\u001b[45;116H3,1  \u001b[3;1H\u001b[?25h"
+    ],
+    [
+      0.040499,
+      "\u001b[?25l\u001b[45;116H4\u001b[4;1H\u001b[?25h"
+    ],
+    [
+      0.040261,
+      "\u001b[?25l\u001b[45;116H5\u001b[5;1H\u001b[?25h"
+    ],
+    [
+      0.040324,
+      "\u001b[?25l\u001b[45;116H6\u001b[6;1H\u001b[?25h"
+    ],
+    [
+      0.039793,
+      "\u001b[?25l\u001b[45;116H7\u001b[7;1H\u001b[?25h"
+    ],
+    [
+      0.040143,
+      "\u001b[?25l\u001b[45;116H8,0-1\u001b[8;1H\u001b[?25h"
+    ],
+    [
+      0.041015,
+      "\u001b[?25l\u001b[45;116H9,1  \u001b[9;1H\u001b[?25h"
+    ],
+    [
+      0.040001,
+      "\u001b[?25l\u001b[45;116H10,1\u001b[10;1H\u001b[?25h"
+    ],
+    [
+      0.040197,
+      "\u001b[?25l\u001b[45;117H1\u001b[11;1H\u001b[?25h"
+    ],
+    [
+      0.039906,
+      "\u001b[?25l\u001b[45;117H2\u001b[12;1H\u001b[?25h"
+    ],
+    [
+      0.040254,
+      "\u001b[?25l\u001b[45;117H3\u001b[13;1H\u001b[?25h"
+    ],
+    [
+      0.039745,
+      "\u001b[?25l\u001b[45;117H4\u001b[14;1H\u001b[?25h"
+    ],
+    [
+      0.039993,
+      "\u001b[?25l\u001b[45;117H5\u001b[15;1H\u001b[?25h"
+    ],
+    [
+      0.040133,
+      "\u001b[?25l\u001b[45;117H6\u001b[16;1H\u001b[?25h"
+    ],
+    [
+      0.039913,
+      "\u001b[?25l\u001b[45;117H7,0-1\u001b[17;1H\u001b[?25h"
+    ],
+    [
+      0.040660,
+      "\u001b[?25l\u001b[45;117H8,1  \u001b[18;1H\u001b[?25h"
+    ],
+    [
+      0.040341,
+      "\u001b[?25l\u001b[45;117H9\u001b[19;1H\u001b[?25h"
+    ],
+    [
+      0.039811,
+      "\u001b[?25l\u001b[45;116H20\u001b[20;1H\u001b[?25h"
+    ],
+    [
+      0.040878,
+      "\u001b[?25l\u001b[45;117H1\u001b[21;1H\u001b[?25h"
+    ],
+    [
+      0.040326,
+      "\u001b[?25l\u001b[45;117H2\u001b[22;1H\u001b[?25h"
+    ],
+    [
+      0.040575,
+      "\u001b[?25l\u001b[45;117H3\u001b[23;1H\u001b[?25h"
+    ],
+    [
+      0.040604,
+      "\u001b[?25l\u001b[45;117H4\u001b[24;1H\u001b[?25h"
+    ],
+    [
+      0.040406,
+      "\u001b[?25l\u001b[45;117H5\u001b[25;1H\u001b[?25h"
+    ],
+    [
+      0.040339,
+      "\u001b[?25l\u001b[45;117H6,0-1\u001b[26;1H\u001b[?25h"
+    ],
+    [
+      0.039898,
+      "\u001b[?25l\u001b[45;117H7,1  \u001b[27;1H\u001b[?25h"
+    ],
+    [
+      0.040692,
+      "\u001b[?25l\u001b[45;117H8\u001b[28;1H\u001b[?25h"
+    ],
+    [
+      0.039839,
+      "\u001b[?25l\u001b[45;117H9\u001b[29;1H\u001b[?25h"
+    ],
+    [
+      0.039490,
+      "\u001b[?25l\u001b[45;116H30\u001b[30;1H\u001b[?25h"
+    ],
+    [
+      0.040506,
+      "\u001b[?25l\u001b[45;117H1\u001b[31;1H\u001b[?25h"
+    ],
+    [
+      0.039512,
+      "\u001b[?25l\u001b[45;117H2\u001b[32;1H\u001b[?25h"
+    ],
+    [
+      0.040111,
+      "\u001b[?25l\u001b[45;117H3\u001b[33;1H\u001b[?25h"
+    ],
+    [
+      0.040190,
+      "\u001b[?25l\u001b[45;117H4\u001b[34;1H\u001b[?25h"
+    ],
+    [
+      0.039709,
+      "\u001b[?25l\u001b[45;117H5,0-1\u001b[35;1H\u001b[?25h"
+    ],
+    [
+      0.040495,
+      "\u001b[?25l\u001b[45;117H6,1  \u001b[36;1H\u001b[?25h"
+    ],
+    [
+      0.039723,
+      "\u001b[?25l\u001b[45;117H7\u001b[37;1H\u001b[?25h"
+    ],
+    [
+      0.190414,
+      "\u001b[?25l\u001b[45;117H8\u001b[38;1H\u001b[?25h"
+    ],
+    [
+      0.152039,
+      "\u001b[?25l\u001b[45;117H9,0-1\u001b[39;1H\u001b[?25h"
+    ],
+    [
+      0.144238,
+      "\u001b[?25l\u001b[45;116H40,1  \u001b[40;1H\u001b[?25h"
+    ],
+    [
+      0.215733,
+      "\u001b[?25l\u001b[45;1H\u001b[1m-- INSERT --\u001b[m\u001b[45;13H\u001b[K\u001b[45;116H41,1\u001b[10CTop"
+    ],
+    [
+      0.000208,
+      "\u001b[41;44r\u001b[41;1H\u001b[L\u001b[1;45r"
+    ],
+    [
+      0.000209,
+      "\u001b[45;116H\u001b[K\u001b[45;116H41,1\u001b[10CTop\u001b[41;1H\u001b[?25h"
+    ],
+    [
+      0.319781,
+      "\u001b[?25l\u001b[38;5;4m#\u001b[m\u001b[45;119H2\u001b[41;2H\u001b[?25h"
+    ],
+    [
+      0.399953,
+      "\u001b[?25l\u001b[38;5;4m \u001b[m\u001b[45;119H3\u001b[41;3H\u001b[?25h"
+    ],
+    [
+      0.160006,
+      "\u001b[?25l\u001b[38;5;4mL\u001b[m\u001b[45;119H4\u001b[41;4H\u001b[?25h"
+    ],
+    [
+      0.231926,
+      "\u001b[?25l\u001b[38;5;4me\u001b[m\u001b[45;119H5\u001b[41;5H\u001b[?25h"
+    ],
+    [
+      0.168059,
+      "\u001b[?25l\u001b[38;5;4mt\u001b[m\u001b[45;119H6\u001b[41;6H\u001b[?25h"
+    ],
+    [
+      0.240029,
+      "\u001b[?25l\u001b[38;5;4m'\u001b[m\u001b[45;119H7\u001b[41;7H\u001b[?25h"
+    ],
+    [
+      0.119935,
+      "\u001b[?25l\u001b[38;5;4ms\u001b[m\u001b[45;119H8\u001b[41;8H\u001b[?25h"
+    ],
+    [
+      0.104416,
+      "\u001b[?25l\u001b[38;5;4m \u001b[m\u001b[45;119H9\u001b[41;9H\u001b[?25h"
+    ],
+    [
+      0.263624,
+      "\u001b[?25l\u001b[38;5;4mc\u001b[m\u001b[45;119H10\u001b[41;10H\u001b[?25h"
+    ],
+    [
+      0.112036,
+      "\u001b[?25l\u001b[38;5;4mh\u001b[m\u001b[45;120H1\u001b[41;11H\u001b[?25h"
+    ],
+    [
+      0.088008,
+      "\u001b[?25l\u001b[38;5;4me\u001b[m\u001b[45;120H2\u001b[41;12H\u001b[?25h"
+    ],
+    [
+      0.103902,
+      "\u001b[?25l\u001b[38;5;4mc\u001b[m\u001b[45;120H3\u001b[41;13H\u001b[?25h"
+    ],
+    [
+      0.144140,
+      "\u001b[?25l\u001b[38;5;4mk\u001b[m\u001b[45;120H4\u001b[41;14H\u001b[?25h"
+    ],
+    [
+      0.207985,
+      "\u001b[?25l\u001b[38;5;4m \u001b[m\u001b[45;120H5\u001b[41;15H\u001b[?25h"
+    ],
+    [
+      0.199972,
+      "\u001b[?25l\u001b[38;5;4mm\u001b[m\u001b[45;120H6\u001b[41;16H\u001b[?25h"
+    ],
+    [
+      0.056007,
+      "\u001b[?25l\u001b[38;5;4me\u001b[m\u001b[45;120H7\u001b[41;17H\u001b[?25h"
+    ],
+    [
+      0.111905,
+      "\u001b[?25l\u001b[38;5;4mm\u001b[m\u001b[45;120H8\u001b[41;18H\u001b[?25h"
+    ],
+    [
+      0.064029,
+      "\u001b[?25l\u001b[38;5;4mo\u001b[m\u001b[45;120H9\u001b[41;19H\u001b[?25h"
+    ],
+    [
+      0.144027,
+      "\u001b[?25l\u001b[38;5;4mr\u001b[m\u001b[45;119H20\u001b[41;20H\u001b[?25h"
+    ],
+    [
+      0.152019,
+      "\u001b[?25l\u001b[38;5;4my\u001b[m\u001b[45;120H1\u001b[41;21H\u001b[?25h"
+    ],
+    [
+      0.096015,
+      "\u001b[?25l\u001b[38;5;4m \u001b[m\u001b[45;120H2\u001b[41;22H\u001b[?25h"
+    ],
+    [
+      0.511974,
+      "\u001b[?25l\u001b[38;5;4ms\u001b[m\u001b[45;120H3\u001b[41;23H\u001b[?25h"
+    ],
+    [
+      0.224090,
+      "\u001b[?25l\u001b[38;5;4ma\u001b[m\u001b[45;120H4\u001b[41;24H\u001b[?25h"
+    ],
+    [
+      0.183973,
+      "\u001b[?25l\u001b[38;5;4mf\u001b[m\u001b[45;120H5\u001b[41;25H\u001b[?25h"
+    ],
+    [
+      0.695907,
+      "\u001b[?25l\u001b[38;5;4me\u001b[m\u001b[45;120H6\u001b[41;26H\u001b[?25h"
+    ],
+    [
+      0.200052,
+      "\u001b[?25l\u001b[38;5;4mt\u001b[m\u001b[45;120H7\u001b[41;27H\u001b[?25h"
+    ],
+    [
+      0.200002,
+      "\u001b[?25l\u001b[38;5;4my\u001b[m\u001b[45;120H8\u001b[41;28H\u001b[?25h"
+    ],
+    [
+      0.863880,
+      "\u001b[?25l\u001b[42;44r\u001b[42;1H\u001b[L\u001b[1;45r"
+    ],
+    [
+      0.000231,
+      "\u001b[45;116H\u001b[K\u001b[45;116H42,1\u001b[10CTop\u001b[42;1H\u001b[?25h"
+    ],
+    [
+      0.383716,
+      "\u001b[?25lC\u001b[45;119H2\u001b[42;2H\u001b[?25h"
+    ],
+    [
+      0.248156,
+      "\u001b[?25lF\u001b[45;119H3\u001b[42;3H\u001b[?25h"
+    ],
+    [
+      0.160017,
+      "\u001b[?25lL\u001b[45;119H4\u001b[42;4H\u001b[?25h"
+    ],
+    [
+      0.063940,
+      "\u001b[?25lA\u001b[45;119H5\u001b[42;5H\u001b[?25h"
+    ],
+    [
+      0.184103,
+      "\u001b[?25lG\u001b[45;119H6\u001b[42;6H\u001b[?25h"
+    ],
+    [
+      0.152124,
+      "\u001b[?25lS\u001b[45;119H7\u001b[42;7H\u001b[?25h"
+    ],
+    [
+      0.359821,
+      "\u001b[?25l=\u001b[45;119H8\u001b[42;8H\u001b[?25h"
+    ],
+    [
+      0.399938,
+      "\u001b[?25l\u001b[38;5;130m'\u001b[m\r\n\u001b[38;5;5m%\u001b[m\u001b[11C\u001b[38;5;1m --with-readline\u001b[m\u001b[45;119H9\u001b[42;9H\u001b[?25h"
+    ],
+    [
+      0.359935,
+      "\u001b[?25l\u001b[38;5;1m-\u001b[m\u001b[45;119H10\u001b[42;10H\u001b[?25h"
+    ],
+    [
+      0.352066,
+      "\u001b[?25l\u001b[38;5;1mf\u001b[m\u001b[45;120H1\u001b[42;11H\u001b[?25h"
+    ],
+    [
+      0.360045,
+      "\u001b[?25l\u001b[38;5;1ms\u001b[m\u001b[45;120H2\u001b[42;12H\u001b[?25h"
+    ],
+    [
+      0.200032,
+      "\u001b[?25l\u001b[38;5;1ma\u001b[m\u001b[45;120H3\u001b[42;13H\u001b[?25h"
+    ],
+    [
+      0.471876,
+      "\u001b[?25l\u001b[38;5;1mn\u001b[m\u001b[45;120H4\u001b[42;14H\u001b[?25h"
+    ],
+    [
+      0.184029,
+      "\u001b[?25l\u001b[38;5;1mi\u001b[m\u001b[45;120H5\u001b[42;15H\u001b[?25h"
+    ],
+    [
+      0.152024,
+      "\u001b[?25l\u001b[38;5;1mt\u001b[m\u001b[45;120H6\u001b[42;16H\u001b[?25h"
+    ],
+    [
+      0.183948,
+      "\u001b[?25l\u001b[38;5;1mi\u001b[m\u001b[45;120H7\u001b[42;17H\u001b[?25h"
+    ],
+    [
+      0.143910,
+      "\u001b[?25l\u001b[38;5;1mz\u001b[m\u001b[45;120H8\u001b[42;18H\u001b[?25h"
+    ],
+    [
+      0.104088,
+      "\u001b[?25l\u001b[38;5;1me\u001b[m\u001b[45;120H9\u001b[42;19H\u001b[?25h"
+    ],
+    [
+      0.240778,
+      "\u001b[?25l\u001b[38;5;1m=\u001b[m\u001b[45;119H20\u001b[42;20H\u001b[?25h"
+    ],
+    [
+      0.175383,
+      "\u001b[?25l\u001b[38;5;1ma\u001b[m\u001b[45;120H1\u001b[42;21H\u001b[?25h"
+    ],
+    [
+      0.223864,
+      "\u001b[?25l\u001b[38;5;1md\u001b[m\u001b[45;120H2\u001b[42;22H\u001b[?25h"
+    ],
+    [
+      0.151936,
+      "\u001b[?25l\u001b[38;5;1md\u001b[m\u001b[45;120H3\u001b[42;23H\u001b[?25h"
+    ],
+    [
+      0.200117,
+      "\u001b[?25l\u001b[38;5;1mr\u001b[m\u001b[45;120H4\u001b[42;24H\u001b[?25h"
+    ],
+    [
+      0.092063,
+      "\u001b[?25l\u001b[38;5;1me\u001b[m\u001b[45;120H5\u001b[42;25H\u001b[?25h"
+    ],
+    [
+      0.236553,
+      "\u001b[?25l\u001b[38;5;1ms\u001b[m\u001b[45;120H6\u001b[42;26H\u001b[?25h"
+    ],
+    [
+      0.200048,
+      "\u001b[?25l\u001b[38;5;1ms\u001b[m\u001b[45;120H7\u001b[42;27H\u001b[?25h"
+    ],
+    [
+      0.167565,
+      "\u001b[?25l\u001b[38;5;130m'\u001b[m\r\n%\u001b[11C --with-readline\u001b[45;120H8\u001b[42;28H\u001b[?25h"
+    ],
+    [
+      0.215965,
+      "\u001b[?25l\u001b[45;120H9\u001b[42;29H\u001b[?25h"
+    ],
+    [
+      0.263976,
+      "\u001b[?25l\u001b[38;5;5m\\\u001b[m\u001b[45;119H30\u001b[42;30H\u001b[?25h"
+    ],
+    [
+      0.577324,
+      "\u001b[45;1H\u001b[K\u001b[42;29H"
+    ],
+    [
+      0.518258,
+      "\u001b[?25l"
+    ],
+    [
+      0.000299,
+      "\u001b[45;116H42,29\u001b[9CTop\u001b[42;29H\u001b[?25h"
+    ],
+    [
+      0.191768,
+      "\u001b[?25l\r\r\n"
+    ],
+    [
+      0.000014,
+      "\r\r\n\r\r\n\"packaging/bc.spec\"\u001b[45;116H\u001b[K"
+    ],
+    [
+      0.033577,
+      "\u001b[45;21H61L, 1787C written\r\r\r\n\u001b[?1l\u001b\u003e\u001b[?25h\u001b[r\u001b[?1049l"
+    ],
+    [
+      0.000752,
+      "\u001b]0;user@tizen-tc-fastmodels: ~/git/tizen/platform/upstream/bc\u0007user@tizen-tc-fastmodels:~/git/tizen/platform/upstream/bc$ "
+    ],
+    [
+      2.360115,
+      "g"
+    ],
+    [
+      0.000014,
+      "b"
+    ],
+    [
+      0.000028,
+      "s"
+    ],
+    [
+      0.000089,
+      " "
+    ],
+    [
+      0.000013,
+      "b"
+    ],
+    [
+      0.000048,
+      "u"
+    ],
+    [
+      0.000083,
+      "i"
+    ],
+    [
+      0.000013,
+      "l"
+    ],
+    [
+      0.000048,
+      "d"
+    ],
+    [
+      0.000081,
+      " "
+    ],
+    [
+      0.000013,
+      "-"
+    ],
+    [
+      0.000045,
+      "A"
+    ],
+    [
+      0.000048,
+      " "
+    ],
+    [
+      0.000045,
+      "a"
+    ],
+    [
+      0.000053,
+      "r"
+    ],
+    [
+      0.000049,
+      "m"
+    ],
+    [
+      0.000049,
+      "v"
+    ],
+    [
+      0.000080,
+      "7"
+    ],
+    [
+      0.000050,
+      "l"
+    ],
+    [
+      0.000047,
+      " "
+    ],
+    [
+      0.000055,
+      "-"
+    ],
+    [
+      0.000056,
+      "-"
+    ],
+    [
+      0.000048,
+      "i"
+    ],
+    [
+      0.000055,
+      "n"
+    ],
+    [
+      0.000057,
+      "c"
+    ],
+    [
+      0.000052,
+      "l"
+    ],
+    [
+      0.000053,
+      "u"
+    ],
+    [
+      0.000058,
+      "d"
+    ],
+    [
+      0.000058,
+      "e"
+    ],
+    [
+      0.000051,
+      "-"
+    ],
+    [
+      0.000059,
+      "a"
+    ],
+    [
+      0.000059,
+      "l"
+    ],
+    [
+      0.000056,
+      "l"
+    ],
+    [
+      0.000053,
+      " "
+    ],
+    [
+      0.000061,
+      "-"
+    ],
+    [
+      0.000061,
+      "-"
+    ],
+    [
+      0.000057,
+      "n"
+    ],
+    [
+      0.000056,
+      "o"
+    ],
+    [
+      0.000062,
+      "i"
+    ],
+    [
+      0.000062,
+      "n"
+    ],
+    [
+      0.000062,
+      "i"
+    ],
+    [
+      0.000056,
+      "t"
+    ],
+    [
+      1.931207,
+      "\r\n"
+    ],
+    [
+      0.218788,
+      "\u001b[32minfo: \u001b[0mstart building packages from: /home/user/git/tizen/platform/upstream/bc (git)\r\n"
+    ],
+    [
+      0.002142,
+      "2015-07-08 09:12 +0300\r\n"
+    ],
+    [
+      0.059191,
+      "gbs 0.23.2\r\n"
+    ],
+    [
+      0.005227,
+      "\u001b[32minfo: \u001b[0mprepare sources...\r\n"
+    ],
+    [
+      0.003524,
+      "\u001b[32minfo: \u001b[0mstart export source from: /home/user/git/tizen/platform/upstream/bc ...\r\n"
+    ],
+    [
+      0.000055,
+      "Argument \"\" isn't numeric in numeric eq (==) at /usr/bin/depanneur line 642.\r\n"
+    ],
+    [
+      0.091487,
+      "info: the following untracked files would be included:\r\n"
+    ],
+    [
+      0.000011,
+      "   gbs-asan\r\n"
+    ],
+    [
+      0.000058,
+      "info: the following uncommitted changes would be included:\r\n   packaging/bc.spec\r\n"
+    ],
+    [
+      0.008270,
+      "info: tracking branch: origin/upstream -\u003e upstream\r\n"
+    ],
+    [
+      0.009099,
+      "info: tracking branch: origin/pristine-tar -\u003e pristine-tar\r\n"
+    ],
+    [
+      0.093163,
+      "warning: Deprecated option '--git-export-only', please use '--no-build' instead!\r\n"
+    ],
+    [
+      0.064955,
+      "info: Generating patches from git (upstream/1.06..3dabc02e9644660d9b3c1dab423110b4f96e3dad)\r\n"
+    ],
+    [
+      0.152598,
+      "info: Generating diff file HEAD..3dabc02e9644660d9b3c1dab423110b4f96e3dad\r\n"
+    ],
+    [
+      0.244463,
+      "pristine-tar: successfully generated /mnt/data/temp/.gbs_export_gwVAGM/bc-1.06.tar.bz2\r\n"
+    ],
+    [
+      0.052869,
+      "info: package files have been exported to:\r\n"
+    ],
+    [
+      0.000010,
+      "     /mnt/data/gbs/buildroot_aarch64/local/sources/tizen/bc-1.06-0\r\n"
+    ],
+    [
+      0.008497,
+      "\u001b[32minfo: \u001b[0mretrieving repo metadata...\r\n"
+    ],
+    [
+      0.091318,
+      "\u001b[32minfo: \u001b[0mparsing package data...\r\n"
+    ],
+    [
+      0.001920,
+      "\u001b[32minfo: \u001b[0mbuilding repo metadata ...\r\n"
+    ],
+    [
+      0.001752,
+      "\u001b[32minfo: \u001b[0mpackage dependency resolving ...\r\n"
+    ],
+    [
+      0.086498,
+      "\u001b[32minfo: \u001b[0m*** [1/1] building bc-1.06-0 armv7l tizen (worker: 0) ***\r\n"
+    ],
+    [
+      0.031841,
+      "VM_IMAGE: , VM_SWAP: \r\n"
+    ],
+    [
+      0.009360,
+      "--repository /mnt/data/gbs/buildroot_aarch64/local/repos/tizen/armv7l/RPMS\r\n"
+    ],
+    [
+      0.007332,
+      "logging output to /mnt/data/gbs/buildroot_aarch64/local/BUILD-ROOTS/scratch.armv7l.0/.build.log...\r\n"
+    ],
+    [
+      0.006480,
+      "[    0s] Memory limit set to 48744488KB\r\n"
+    ],
+    [
+      0.001356,
+      "[    0s] Using BUILD_ROOT=/mnt/data/gbs/buildroot_aarch64/local/BUILD-ROOTS/scratch.armv7l.0\r\n"
+    ],
+    [
+      0.000014,
+      "[    0s] Using BUILD_ARCH=armv7l:armv7el:armv6l:armv5tejl:armv5tel:armv5l:armv4tl:armv4l:armv3l:noarch\r\n[    0s] "
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.008467,
+      "[    0s] \r\n"
+    ],
+    [
+      0.001196,
+      "[    0s] tizen-tc-fastmodels started \"build bc.spec\" at Wed Jul  8 06:12:46 UTC 2015.\r\n"
+    ],
+    [
+      0.000014,
+      "[    0s] \r\n[    0s] \r\n"
+    ],
+    [
+      0.001322,
+      "[    0s] processing specfile /mnt/data/gbs/buildroot_aarch64/local/sources/tizen/bc-1.06-0/bc.spec ...\r\n"
+    ],
+    [
+      0.062543,
+      "[    0s] qemu: Unsupported syscall: 311\r\n"
+    ],
+    [
+      0.285624,
+      "[    1s] -----------------------------------------------------------------\r\n"
+    ],
+    [
+      0.000019,
+      "[    1s] ----- building bc.spec (user abuild)\r\n[    1s] -----------------------------------------------------------------\r\n"
+    ],
+    [
+      0.000007,
+      "[    1s] -----------------------------------------------------------------\r\n"
+    ],
+    [
+      0.037158,
+      "[    1s] qemu: Unsupported syscall: 311\r\n"
+    ],
+    [
+      0.009162,
+      "[    1s] + exec rpmbuild --define '_srcdefattr (-,root,root)' --nosignature --target=armv7l-tizen-linux --define '_build_create_debug 1' -ba /home/abuild/rpmbuild/SOURCES/bc.spec\r\n"
+    ],
+    [
+      0.028127,
+      "[    1s] Building target platforms: armv7l-tizen-linux\r\n"
+    ],
+    [
+      0.000016,
+      "[    1s] Building for target armv7l-tizen-linux\r\n[    1s] Executing(%prep): /bin/sh -e /var/tmp/rpm-tmp.5uEj0e\r\n"
+    ],
+    [
+      0.002107,
+      "[    1s] + umask 022\r\n"
+    ],
+    [
+      0.000016,
+      "[    1s] + cd /home/abuild/rpmbuild/BUILD\r\n"
+    ],
+    [
+      0.000011,
+      "[    1s] + cd /home/abuild/rpmbuild/BUILD\r\n"
+    ],
+    [
+      0.000044,
+      "[    1s] + rm -rf bc-1.06\r\n"
+    ],
+    [
+      0.001551,
+      "[    1s] + /bin/bzip2 -dc /home/abuild/rpmbuild/SOURCES/bc-1.06.tar.bz2\r\n"
+    ],
+    [
+      0.000344,
+      "[    1s] + /bin/tar -xf -\r\n"
+    ],
+    [
+      0.032539,
+      "[    1s] + STATUS=0\r\n"
+    ],
+    [
+      0.000018,
+      "[    1s] + '[' 0 -ne 0 ']'\r\n[    1s] + cd bc-1.06"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000118,
+      "[    1s] + /bin/chmod -Rf a+rX,u+w,g-w,o-w ."
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.017581,
+      "[    1s] + echo 'Patch #0 (0001-flex.patch):'"
+    ],
+    [
+      0.000016,
+      "\r\n[    1s] Patch #0 (0001-flex.patch):\r\n"
+    ],
+    [
+      0.000318,
+      "[    1s] + /bin/cat /home/abuild/rpmbuild/SOURCES/0001-flex.patch\r\n"
+    ],
+    [
+      0.000416,
+      "[    1s] + /bin/patch -p1 --fuzz=2\r\n"
+    ],
+    [
+      0.000981,
+      "[    1s] patching file bc/load.c\r\n"
+    ],
+    [
+      0.000247,
+      "[    1s] patching file bc/scan.l\r\n"
+    ],
+    [
+      0.000299,
+      "[    1s] patching file bc/util.c\r\n"
+    ],
+    [
+      0.000308,
+      "[    1s] patching file configure.in\r\n"
+    ],
+    [
+      0.000226,
+      "[    1s] patching file doc/bc.info\r\n"
+    ],
+    [
+      0.000962,
+      "[    1s] + echo 'Patch #1 (0002-decl.patch):'\r\n"
+    ],
+    [
+      0.000013,
+      "[    1s] Patch #1 (0002-decl.patch):\r\n"
+    ],
+    [
+      0.000223,
+      "[    1s] + /bin/cat /home/abuild/rpmbuild/SOURCES/0002-decl.patch\r\n"
+    ],
+    [
+      0.000150,
+      "[    1s] + /bin/patch -p1 --fuzz=2"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000780,
+      "[    1s] patching file lib/number.c\r\n"
+    ],
+    [
+      0.000391,
+      "[    1s] + echo 'Patch #2 (0003-strict-aliasing.patch):'\r\n"
+    ],
+    [
+      0.000019,
+      "[    1s] Patch #2 (0003-strict-aliasing.patch):"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000253,
+      "[    1s] + /bin/cat /home/abuild/rpmbuild/SOURCES/0003-strict-aliasing.patch"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000055,
+      "[    1s] + /bin/patch -p1 --fuzz=2"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.001083,
+      "[    1s] patching file dc/numeric.c\r\n"
+    ],
+    [
+      0.000563,
+      "[    1s] + echo 'Patch #3 (0004-getopt.patch):'\r\n"
+    ],
+    [
+      0.000013,
+      "[    1s] Patch #3 (0004-getopt.patch):\r\n"
+    ],
+    [
+      0.000232,
+      "[    1s] + /bin/cat /home/abuild/rpmbuild/SOURCES/0004-getopt.patch"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000081,
+      "[    1s] + /bin/patch -p1 --fuzz=2"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.001133,
+      "[    1s] patching file bc/main.c\r\n"
+    ],
+    [
+      0.000421,
+      "[    1s] + echo 'Patch #4 (0005-opt-expression.patch):'\r\n"
+    ],
+    [
+      0.000013,
+      "[    1s] Patch #4 (0005-opt-expression.patch):\r\n"
+    ],
+    [
+      0.000233,
+      "[    1s] + /bin/cat /home/abuild/rpmbuild/SOURCES/0005-opt-expression.patch\r\n"
+    ],
+    [
+      0.000213,
+      "[    1s] + /bin/patch -p1 --fuzz=2\r\n"
+    ],
+    [
+      0.001177,
+      "[    1s] patching file bc/bc.y\r\n"
+    ],
+    [
+      0.000577,
+      "[    1s] + echo 'Patch #5 (HEAD-to-3dabc02e9644660d9b3c1dab423110b4f96e3dad.diff):'\r\n"
+    ],
+    [
+      0.000012,
+      "[    1s] Patch #5 (HEAD-to-3dabc02e9644660d9b3c1dab423110b4f96e3dad.diff):\r\n"
+    ],
+    [
+      0.000246,
+      "[    1s] + /bin/cat /home/abuild/rpmbuild/SOURCES/HEAD-to-3dabc02e9644660d9b3c1dab423110b4f96e3dad.diff\r\n"
+    ],
+    [
+      0.000125,
+      "[    1s] + /bin/patch -p1 --fuzz=2\r\n"
+    ],
+    [
+      0.001082,
+      "[    1s] patching file gbs-asan\r\n"
+    ],
+    [
+      0.000379,
+      "[    1s] + cp /home/abuild/rpmbuild/SOURCES/bc.manifest .\r\n"
+    ],
+    [
+      0.020740,
+      "[    1s] + exit 0\r\n"
+    ],
+    [
+      0.000352,
+      "[    1s] Executing(%build): /bin/sh -e /var/tmp/rpm-tmp.vDgtxa\r\n"
+    ],
+    [
+      0.001346,
+      "[    1s] + umask 022\r\n[    1s] + cd /home/abuild/rpmbuild/BUILD\r\n"
+    ],
+    [
+      0.000015,
+      "[    1s] + cd bc-1.06\r\n"
+    ],
+    [
+      0.000432,
+      "[    1s] ++ uname -m\r\n"
+    ],
+    [
+      0.015208,
+      "[    1s] + [[ armv7l == \\a\\a\\r\\c\\h\\6\\4 ]]\r\n"
+    ],
+    [
+      0.000006,
+      "[    1s] + LANG=C\r\n[    1s] + export LANG"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "[    1s] + unset DISPLAY"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "[    1s] + CFLAGS='-O2 -g2 -feliminate-unused-debug-types -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=32 -Wformat -Wformat-security -fmessage-length=0 -finline-functions -fdiagnostics-color=never -march=armv7-a -mtune=cortex-a8 -mlittle-endian -mfpu=neon -mfloat-abi=softfp -Wp,-D__SOFTFP__ -g'\r\n"
+    ],
+    [
+      0.000005,
+      "[    1s] + export CFLAGS\r\n"
+    ],
+    [
+      0.000109,
+      "[    1s] + CXXFLAGS='-O2 -g2 -feliminate-unused-debug-types -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=32 -Wformat -Wformat-security -fmessage-length=0 -finline-functions -fdiagnostics-color=never -march=armv7-a -mtune=cortex-a8 -mlittle-endian -mfpu=neon -mfloat-abi=softfp -Wp,-D__SOFTFP__ -g'\r\n"
+    ],
+    [
+      0.000006,
+      "[    1s] + export CXXFLAGS\r\n"
+    ],
+    [
+      0.000014,
+      "[    1s] + FFLAGS='-O2 -g2 -feliminate-unused-debug-types -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=32 -Wformat -Wformat-security -fmessage-length=0 -finline-functions -fdiagnostics-color=never -march=armv7-a -mtune=cortex-a8 -mlittle-endian -mfpu=neon -mfloat-abi=softfp -Wp,-D__SOFTFP__ -g -I%_fmoddir'"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "[    1s] + export FFLAGS\r\n"
+    ],
+    [
+      0.000004,
+      "[    1s] + LD_AS_NEEDED=1"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "[    1s] + export LD_AS_NEEDED"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "[    1s] + CFLAGS=-fsanitize=address\r\n"
+    ],
+    [
+      0.000105,
+      "[    1s] + CFLAGS=-fsanitize=address\r\n"
+    ],
+    [
+      0.000005,
+      "[    1s] + export CFLAGS\r\n"
+    ],
+    [
+      0.000012,
+      "[    1s] + CXXFLAGS='-O2 -g2 -feliminate-unused-debug-types -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=32 -Wformat -Wformat-security -fmessage-length=0 -finline-functions -fdiagnostics-color=never -march=armv7-a -mtune=cortex-a8 -mlittle-endian -mfpu=neon -mfloat-abi=softfp -Wp,-D__SOFTFP__ -g'"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "[    1s] + export CXXFLAGS"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000083,
+      "[    1s] + FFLAGS='-O2 -g2 -feliminate-unused-debug-types -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=32 -Wformat -Wformat-security -fmessage-length=0 -finline-functions -fdiagnostics-color=never -march=armv7-a -mtune=cortex-a8 -mlittle-endian -mfpu=neon -mfloat-abi=softfp -Wp,-D__SOFTFP__ -g -I%_fmoddir'"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "[    1s] + export FFLAGS"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "[    1s] + autoreconf -v --install --force"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      2.015814,
+      "[    3s] autoreconf: Entering directory `.'\r\n"
+    ],
+    [
+      0.006046,
+      "[    3s] autoreconf: configure.in: not using Gettext\r\n"
+    ],
+    [
+      1.001773,
+      "[    4s] autoreconf: running: aclocal --force \r\n"
+    ],
+    [
+      0.533372,
+      "[    4s] aclocal: warning: autoconf input should be named 'configure.ac', not 'configure.in'\r\n"
+    ],
+    [
+      1.609302,
+      "[    6s] autoreconf: configure.in: tracing\r\n"
+    ],
+    [
+      1.064972,
+      "[    7s] autoreconf: configure.in: not using Libtool\r\n"
+    ],
+    [
+      0.000296,
+      "[    7s] autoreconf: running: /usr/bin/autoconf --force\r\n"
+    ],
+    [
+      1.822427,
+      "[    9s] autoreconf: running: /usr/bin/autoheader --force\r\n"
+    ],
+    [
+      0.554464,
+      "[    9s] autoheader: WARNING: Using auxiliary files such as `acconfig.h', `config.h.bot'\r\n"
+    ],
+    [
+      0.000011,
+      "[    9s] autoheader: WARNING: and `config.h.top', to define templates for `config.h.in'\r\n[    9s] autoheader: WARNING: is deprecated and discouraged.\r\n[    9s] autoheader: \r\n"
+    ],
+    [
+      0.000005,
+      "[    9s] autoheader: WARNING: Using the third argument of `AC_DEFINE' and"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "[    9s] autoheader: WARNING: `AC_DEFINE_UNQUOTED' allows one to define a template without"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "[    9s] autoheader: WARNING: `acconfig.h':"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "[    9s] autoheader: "
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "[    9s] autoheader: WARNING:   AC_DEFINE([NEED_FUNC_MAIN], 1,"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "[    9s] autoheader: "
+    ],
+    [
+      0.000003,
+      "\u0009\u0009[Define if a function `main' is needed.])"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "[    9s] autoheader: "
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "[    9s] autoheader: WARNING: More sophisticated templates can also be produced, see the"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "[    9s] autoheader: WARNING: documentation."
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.975453,
+      "[   10s] autoreconf: running: automake --add-missing --copy --force-missing\r\n"
+    ],
+    [
+      0.827758,
+      "[   11s] automake: warning: autoconf input should be named 'configure.ac', not 'configure.in'\r\n"
+    ],
+    [
+      1.209960,
+      "[   12s] configure.in:3: warning: AM_INIT_AUTOMAKE: two- and three-arguments forms are deprecated.  For more info, see:\r\n"
+    ],
+    [
+      0.000009,
+      "[   12s] configure.in:3: http://www.gnu.org/software/automake/manual/automake.html#Modernize-AM_005fINIT_005fAUTOMAKE-invocation\r\n"
+    ],
+    [
+      0.040358,
+      "[   12s] configure.in:12: installing './compile'\r\n"
+    ],
+    [
+      0.484978,
+      "[   13s] bc/Makefile.am:14: warning: 'INCLUDES' is the old name for 'AM_CPPFLAGS' (or '*_CPPFLAGS')\r\n"
+    ],
+    [
+      0.103530,
+      "[   13s] bc/Makefile.am: installing './depcomp'\r\n"
+    ],
+    [
+      0.042339,
+      "[   13s] automake: warning: autoconf input should be named 'configure.ac', not 'configure.in'\r\n"
+    ],
+    [
+      0.000627,
+      "[   13s] bc/Makefile.am:21: warning: 'CFLAGS' is a user variable, you should not override it;\r\n"
+    ],
+    [
+      0.000015,
+      "[   13s] bc/Makefile.am:21: use 'AM_CFLAGS' instead\r\n"
+    ],
+    [
+      0.035117,
+      "[   13s] configure.in: installing './ylwrap'\r\n"
+    ],
+    [
+      0.015458,
+      "[   13s] bc/Makefile.am:19: warning: 'YFLAGS' is a user variable, you should not override it;\r\n"
+    ],
+    [
+      0.000015,
+      "[   13s] bc/Makefile.am:19: use 'AM_YFLAGS' instead\r\n"
+    ],
+    [
+      0.228497,
+      "[   13s] dc/Makefile.am:7: warning: 'INCLUDES' is the old name for 'AM_CPPFLAGS' (or '*_CPPFLAGS')\r\n"
+    ],
+    [
+      0.140430,
+      "[   13s] dc/Makefile.am:12: warning: 'CFLAGS' is a user variable, you should not override it;\r\n"
+    ],
+    [
+      0.000028,
+      "[   13s] dc/Makefile.am:12: use 'AM_CFLAGS' instead\r\n"
+    ],
+    [
+      0.614008,
+      "[   14s] lib/Makefile.am:4: warning: 'INCLUDES' is the old name for 'AM_CPPFLAGS' (or '*_CPPFLAGS')\r\n"
+    ],
+    [
+      0.130280,
+      "[   14s] lib/Makefile.am:10: warning: 'CFLAGS' is a user variable, you should not override it;\r\n"
+    ],
+    [
+      0.000017,
+      "[   14s] lib/Makefile.am:10: use 'AM_CFLAGS' instead\r\n"
+    ],
+    [
+      0.221085,
+      "[   14s] autoreconf: Leaving directory `.'\r\n"
+    ],
+    [
+      0.010406,
+      "[   14s] + ./configure --build=armv7l-tizen-linux-gnueabi --host=armv7l-tizen-linux-gnueabi --program-prefix= --prefix=/usr --exec-prefix=/usr --bindir=/usr/bin --sbindir=/usr/sbin --sysconfdir=/etc --datadir=/usr/share --includedir=/usr/include --libdir=/usr/lib --libexecdir=/usr/libexec --localstatedir=/var --sharedstatedir=/usr/com --mandir=/usr/share/man --infodir=/usr/share/info --with-readline\r\n"
+    ],
+    [
+      0.415755,
+      "[   15s] checking for a BSD-compatible install... /bin/install -c\r\n"
+    ],
+    [
+      0.020235,
+      "[   15s] checking whether build environment is sane... yes"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.009518,
+      "[   15s] checking for a thread-safe mkdir -p... /bin/mkdir -p"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.001191,
+      "[   15s] checking for gawk... gawk"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.021464,
+      "[   15s] checking whether make sets $(MAKE)... yes"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.020317,
+      "[   15s] checking whether make supports nested variables... yes"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.010960,
+      "[   15s] checking for armv7l-tizen-linux-gnueabi-gcc... no\r\n"
+    ],
+    [
+      0.000775,
+      "[   15s] checking for gcc... gcc\r\n"
+    ],
+    [
+      0.214100,
+      "[   15s] checking whether the C compiler works... yes\r\n"
+    ],
+    [
+      0.000146,
+      "[   15s] checking for C compiler default output file name... a.out\r\n"
+    ],
+    [
+      0.083111,
+      "[   15s] checking for suffix of executables... \r\n"
+    ],
+    [
+      0.132704,
+      "[   15s] checking whether we are cross compiling... no\r\n"
+    ],
+    [
+      0.041742,
+      "[   15s] checking for suffix of object files... o\r\n"
+    ],
+    [
+      0.038832,
+      "[   15s] checking whether we are using the GNU C compiler... yes\r\n"
+    ],
+    [
+      0.042210,
+      "[   15s] checking whether gcc accepts -g... yes\r\n"
+    ],
+    [
+      0.050252,
+      "[   16s] checking for gcc option to accept ISO C89... none needed\r\n"
+    ],
+    [
+      0.069837,
+      "[   16s] checking whether gcc understands -c and -o together... yes\r\n"
+    ],
+    [
+      0.024939,
+      "[   16s] checking for style of include used by make... GNU\r\n"
+    ],
+    [
+      0.077869,
+      "[   16s] checking dependency style of gcc... gcc3\r\n"
+    ],
+    [
+      0.063504,
+      "[   16s] checking how to run the C preprocessor... gcc -E\r\n"
+    ],
+    [
+      0.066575,
+      "[   16s] checking for grep that handles long lines and -e... /bin/grep\r\n"
+    ],
+    [
+      0.002182,
+      "[   16s] checking for egrep... /bin/grep -E\r\n"
+    ],
+    [
+      0.250928,
+      "[   16s] checking for ANSI C header files... yes\r\n"
+    ],
+    [
+      0.052801,
+      "[   16s] checking for sys/types.h... yes\r\n"
+    ],
+    [
+      0.054249,
+      "[   16s] checking for sys/stat.h... yes\r\n"
+    ],
+    [
+      0.048411,
+      "[   16s] checking for stdlib.h... yes\r\n"
+    ],
+    [
+      0.055308,
+      "[   16s] checking for string.h... yes\r\n"
+    ],
+    [
+      0.051085,
+      "[   16s] checking for memory.h... yes\r\n"
+    ],
+    [
+      0.050912,
+      "[   16s] checking for strings.h... yes\r\n"
+    ],
+    [
+      0.056142,
+      "[   16s] checking for inttypes.h... yes\r\n"
+    ],
+    [
+      0.051322,
+      "[   17s] checking for stdint.h... yes\r\n"
+    ],
+    [
+      0.058253,
+      "[   17s] checking for unistd.h... yes\r\n"
+    ],
+    [
+      0.059368,
+      "[   17s] checking minix/config.h usability... no\r\n"
+    ],
+    [
+      0.034691,
+      "[   17s] checking minix/config.h presence... no\r\n"
+    ],
+    [
+      0.000162,
+      "[   17s] checking for minix/config.h... no\r\n"
+    ],
+    [
+      0.049362,
+      "[   17s] checking whether it is safe to define __EXTENSIONS__... yes\r\n"
+    ],
+    [
+      0.000820,
+      "[   17s] checking for flex... flex\r\n"
+    ],
+    [
+      0.049695,
+      "[   17s] checking lex output file root... lex.yy\r\n"
+    ],
+    [
+      0.567862,
+      "[   17s] checking lex library... -lfl\r\n"
+    ],
+    [
+      0.202324,
+      "[   18s] checking whether yytext is a pointer... yes\r\n"
+    ],
+    [
+      0.002121,
+      "[   18s] checking for bison... bison -y\r\n"
+    ],
+    [
+      0.000604,
+      "[   18s] checking for armv7l-tizen-linux-gnueabi-ranlib... no\r\n"
+    ],
+    [
+      0.000643,
+      "[   18s] checking for ranlib... ranlib\r\n"
+    ],
+    [
+      0.002707,
+      "[   18s] checking whether make sets $(MAKE)... (cached) yes\r\n"
+    ],
+    [
+      0.057022,
+      "[   18s] checking stdarg.h usability... yes\r\n"
+    ],
+    [
+      0.028936,
+      "[   18s] checking stdarg.h presence... yes\r\n"
+    ],
+    [
+      0.000197,
+      "[   18s] checking for stdarg.h... yes\r\n"
+    ],
+    [
+      0.059771,
+      "[   18s] checking stddef.h usability... yes\r\n"
+    ],
+    [
+      0.029856,
+      "[   18s] checking stddef.h presence... yes\r\n"
+    ],
+    [
+      0.000153,
+      "[   18s] checking for stddef.h... yes"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.007288,
+      "[   18s] checking for stdlib.h... (cached) yes\r\n"
+    ],
+    [
+      0.007189,
+      "[   18s] checking for string.h... (cached) yes\r\n"
+    ],
+    [
+      0.061571,
+      "[   18s] checking limits.h usability... yes\r\n"
+    ],
+    [
+      0.029902,
+      "[   18s] checking limits.h presence... yes\r\n"
+    ],
+    [
+      0.000199,
+      "[   18s] checking for limits.h... yes"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.007599,
+      "[   18s] checking for unistd.h... (cached) yes\r\n"
+    ],
+    [
+      0.062947,
+      "[   18s] checking lib.h usability... no\r\n"
+    ],
+    [
+      0.036350,
+      "[   18s] checking lib.h presence... no\r\n"
+    ],
+    [
+      0.000184,
+      "[   18s] checking for lib.h... no\r\n"
+    ],
+    [
+      0.048177,
+      "[   18s] checking for an ANSI C-conforming const... yes\r\n"
+    ],
+    [
+      0.108532,
+      "[   18s] checking for size_t... yes\r\n"
+    ],
+    [
+      0.109318,
+      "[   18s] checking for ptrdiff_t... yes\r\n"
+    ],
+    [
+      0.123997,
+      "[   18s] checking for vprintf... yes\r\n"
+    ],
+    [
+      0.251452,
+      "[   19s] checking for _doprnt... no\r\n"
+    ],
+    [
+      0.102890,
+      "[   19s] checking for isgraph... yes\r\n"
+    ],
+    [
+      0.104372,
+      "[   19s] checking for setvbuf... yes\r\n"
+    ],
+    [
+      0.097014,
+      "[   19s] checking for tparm in -lncurses... yes\r\n"
+    ],
+    [
+      0.096271,
+      "[   19s] checking for readline in -lreadline... yes\r\n"
+    ],
+    [
+      0.048925,
+      "[   19s] checking readline/readline.h usability... yes\r\n"
+    ],
+    [
+      0.027701,
+      "[   19s] checking readline/readline.h presence... yes\r\n"
+    ],
+    [
+      0.000211,
+      "[   19s] checking for readline/readline.h... yes\r\n"
+    ],
+    [
+      0.000130,
+      "[   19s] Using the readline library."
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.081143,
+      "[   19s] checking that generated files are newer than configure... done\r\n"
+    ],
+    [
+      0.000277,
+      "[   19s] configure: creating ./config.status"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.278165,
+      "[   19s] config.status: creating Makefile\r\n"
+    ],
+    [
+      0.074447,
+      "[   19s] config.status: creating bc/Makefile\r\n"
+    ],
+    [
+      0.070422,
+      "[   20s] config.status: creating dc/Makefile\r\n"
+    ],
+    [
+      0.073251,
+      "[   20s] config.status: creating doc/Makefile\r\n"
+    ],
+    [
+      0.071853,
+      "[   20s] config.status: creating lib/Makefile\r\n"
+    ],
+    [
+      0.069879,
+      "[   20s] config.status: creating config.h\r\n"
+    ],
+    [
+      0.114043,
+      "[   20s] config.status: executing depfiles commands\r\n"
+    ],
+    [
+      0.512748,
+      "[   20s] + rm bc/libmath.h\r\n"
+    ],
+    [
+      0.001299,
+      "[   20s] + sed -i 's|\\(^_PR.*readline.*$\\)|/* \\1 */|' bc/scan.l\r\n"
+    ],
+    [
+      0.003317,
+      "[   20s] + make\r\n"
+    ],
+    [
+      0.005886,
+      "[   20s] make  all-recursive\r\n"
+    ],
+    [
+      0.002578,
+      "[   20s] make[1]: Entering directory '/home/abuild/rpmbuild/BUILD/bc-1.06'\r\n"
+    ],
+    [
+      0.004295,
+      "[   20s] Making all in lib\r\n"
+    ],
+    [
+      0.003199,
+      "[   20s] make[2]: Entering directory '/home/abuild/rpmbuild/BUILD/bc-1.06/lib'\r\n"
+    ],
+    [
+      0.000012,
+      "[   20s] gcc -DHAVE_CONFIG_H  -I. -I.. -I. -I.. -I./../h    -fsanitize=address -Wall -funsigned-char -MT getopt.o -MD -MP -MF .deps/getopt.Tpo -c -o getopt.o getopt.c\r\n"
+    ],
+    [
+      0.035753,
+      "[   20s] mv -f .deps/getopt.Tpo .deps/getopt.Po\r\n"
+    ],
+    [
+      0.001006,
+      "[   20s] gcc -DHAVE_CONFIG_H  -I. -I.. -I. -I.. -I./../h    -fsanitize=address -Wall -funsigned-char -MT getopt1.o -MD -MP -MF .deps/getopt1.Tpo -c -o getopt1.o getopt1.c\r\n"
+    ],
+    [
+      0.032008,
+      "[   20s] mv -f .deps/getopt1.Tpo .deps/getopt1.Po\r\n"
+    ],
+    [
+      0.001049,
+      "[   20s] gcc -DHAVE_CONFIG_H  -I. -I.. -I. -I.. -I./../h    -fsanitize=address -Wall -funsigned-char -MT vfprintf.o -MD -MP -MF .deps/vfprintf.Tpo -c -o vfprintf.o vfprintf.c\r\n"
+    ],
+    [
+      0.029491,
+      "[   21s] mv -f .deps/vfprintf.Tpo .deps/vfprintf.Po\r\n"
+    ],
+    [
+      0.001453,
+      "[   21s] gcc -DHAVE_CONFIG_H  -I. -I.. -I. -I.. -I./../h    -fsanitize=address -Wall -funsigned-char -MT number.o -MD -MP -MF .deps/number.Tpo -c -o number.o number.c\r\n"
+    ],
+    [
+      0.036854,
+      "[   21s] number.c: In function '_bc_rec_mul':\r\n"
+    ],
+    [
+      0.000027,
+      "[   21s] number.c:763:14: warning: variable 'v0len' set but not used [-Wunused-but-set-variable]"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "[   21s]    int u0len, v0len;\r\n"
+    ],
+    [
+      0.000014,
+      "[   21s]               ^\r\n"
+    ],
+    [
+      0.000038,
+      "[   21s] number.c:763:7: warning: variable 'u0len' set but not used [-Wunused-but-set-variable]\r\n[   21s]    int u0len, v0len;\r\n"
+    ],
+    [
+      0.000023,
+      "[   21s]        ^\r\n"
+    ],
+    [
+      0.202592,
+      "[   21s] mv -f .deps/number.Tpo .deps/number.Po\r\n"
+    ],
+    [
+      0.001434,
+      "[   21s] rm -f libbc.a\r\n"
+    ],
+    [
+      0.001028,
+      "[   21s] ar cru libbc.a getopt.o getopt1.o vfprintf.o number.o \r\n"
+    ],
+    [
+      0.001473,
+      "[   21s] ranlib libbc.a\r\n"
+    ],
+    [
+      0.002371,
+      "[   21s] make[2]: Leaving directory '/home/abuild/rpmbuild/BUILD/bc-1.06/lib'\r\n"
+    ],
+    [
+      0.000373,
+      "[   21s] Making all in bc\r\n"
+    ],
+    [
+      0.004232,
+      "[   21s] make[2]: Entering directory '/home/abuild/rpmbuild/BUILD/bc-1.06/bc'\r\n[   21s] gcc -DHAVE_CONFIG_H -I. -I.. -I. -I./../h    -fsanitize=address -Wall -funsigned-char -MT main.o -MD -MP -MF .deps/main.Tpo -c -o main.o main.c"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.050205,
+      "[   21s] main.c: In function 'open_new_file':\r\n"
+    ],
+    [
+      0.000009,
+      "[   21s] main.c:294:12: warning: variable 'tmp' set but not used [-Wunused-but-set-variable]\r\n"
+    ],
+    [
+      0.000016,
+      "[   21s]        char tmp;"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "[   21s]             ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.032272,
+      "[   21s] mv -f .deps/main.Tpo .deps/main.Po\r\n"
+    ],
+    [
+      0.001621,
+      "[   21s] /bin/sh ../ylwrap bc.y y.tab.c bc.c y.tab.h `echo bc.c | sed -e s/cc$/hh/ -e s/cpp$/hpp/ -e s/cxx$/hxx/ -e s/c++$/h++/ -e s/c$/h/` y.output bc.output -- bison -y  -d\r\n"
+    ],
+    [
+      0.057542,
+      "[   21s] /home/abuild/rpmbuild/BUILD/bc-1.06/bc/bc.y:82.26: warning: stray ',' treated as white space\r\n"
+    ],
+    [
+      0.000184,
+      "[   21s] /home/abuild/rpmbuild/BUILD/bc-1.06/bc/bc.y:82.32: warning: stray ',' treated as white space\r\n"
+    ],
+    [
+      0.000110,
+      "[   21s] /home/abuild/rpmbuild/BUILD/bc-1.06/bc/bc.y:82.38: warning: stray ',' treated as white space\r\n"
+    ],
+    [
+      0.000074,
+      "[   21s] /home/abuild/rpmbuild/BUILD/bc-1.06/bc/bc.y:82.48: warning: stray ',' treated as white space\r\n"
+    ],
+    [
+      0.000072,
+      "[   21s] /home/abuild/rpmbuild/BUILD/bc-1.06/bc/bc.y:82.55: warning: stray ',' treated as white space\r\n"
+    ],
+    [
+      0.029957,
+      "[   21s] conflicts: 3 shift/reduce\r\n"
+    ],
+    [
+      0.089226,
+      "[   21s] updating bc.h\r\n"
+    ],
+    [
+      0.002070,
+      "[   21s] gcc -DHAVE_CONFIG_H -I. -I.. -I. -I./../h    -fsanitize=address -Wall -funsigned-char -MT bc.o -MD -MP -MF .deps/bc.Tpo -c -o bc.o bc.c\r\n"
+    ],
+    [
+      0.149029,
+      "[   21s] mv -f .deps/bc.Tpo .deps/bc.Po\r\n"
+    ],
+    [
+      0.001579,
+      "[   21s] /bin/sh ../ylwrap scan.l lex.yy.c scan.c -- flex -I -8  \r\n"
+    ],
+    [
+      0.093388,
+      "[   21s] gcc -DHAVE_CONFIG_H -I. -I.. -I. -I./../h    -fsanitize=address -Wall -funsigned-char -MT scan.o -MD -MP -MF .deps/scan.Tpo -c -o scan.o scan.c\r\n"
+    ],
+    [
+      0.048870,
+      "[   21s] scan.l: In function 'yylex':\r\n"
+    ],
+    [
+      0.000012,
+      "[   21s] scan.l:319:18: warning: pointer targets in assignment differ in signedness [-Wpointer-sign]\r\n"
+    ],
+    [
+      0.000006,
+      "[   21s]         for (look = yytext; *look != 0; look++)\r\n"
+    ],
+    [
+      0.000006,
+      "[   21s]                   ^\r\n"
+    ],
+    [
+      0.000114,
+      "[   21s] scan.l:335:12: warning: pointer targets in assignment differ in signedness [-Wpointer-sign]\r\n"
+    ],
+    [
+      0.000022,
+      "[   21s]         src = yytext;"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "[   21s]             ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "[   21s] scan.l:336:12: warning: pointer targets in assignment differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "[   21s]         dst = yytext;"
+    ],
+    [
+      0.000005,
+      "\r\n[   21s]             ^"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.002245,
+      "[   21s] scan.l: At top level:\r\n"
+    ],
+    [
+      0.000110,
+      "[   21s] scan.c:1813:17: warning: 'yyunput' defined but not used [-Wunused-function]\r\n"
+    ],
+    [
+      0.000022,
+      "[   21s]      static void yyunput (int c, register char * yy_bp )"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "[   21s]                  ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.122291,
+      "[   21s] mv -f .deps/scan.Tpo .deps/scan.Po\r\n"
+    ],
+    [
+      0.001648,
+      "[   21s] gcc -DHAVE_CONFIG_H -I. -I.. -I. -I./../h    -fsanitize=address -Wall -funsigned-char -MT execute.o -MD -MP -MF .deps/execute.Tpo -c -o execute.o execute.c\r\n"
+    ],
+    [
+      0.145284,
+      "[   22s] mv -f .deps/execute.Tpo .deps/execute.Po\r\n"
+    ],
+    [
+      0.001232,
+      "[   22s] gcc -DHAVE_CONFIG_H -I. -I.. -I. -I./../h    -fsanitize=address -Wall -funsigned-char -MT load.o -MD -MP -MF .deps/load.Tpo -c -o load.o load.c\r\n"
+    ],
+    [
+      0.083925,
+      "[   22s] mv -f .deps/load.Tpo .deps/load.Po\r\n"
+    ],
+    [
+      0.001522,
+      "[   22s] gcc -DHAVE_CONFIG_H -I. -I.. -I. -I./../h    -fsanitize=address -Wall -funsigned-char -MT storage.o -MD -MP -MF .deps/storage.Tpo -c -o storage.o storage.c\r\n"
+    ],
+    [
+      0.049046,
+      "[   22s] storage.c: In function 'process_params':\r\n"
+    ],
+    [
+      0.000019,
+      "[   22s] storage.c:997:11: warning: variable 'n_temp' set but not used [-Wunused-but-set-variable]\r\n[   22s]    bc_num *n_temp;\r\n[   22s]            ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.123196,
+      "[   22s] mv -f .deps/storage.Tpo .deps/storage.Po\r\n"
+    ],
+    [
+      0.001670,
+      "[   22s] gcc -DHAVE_CONFIG_H -I. -I.. -I. -I./../h    -fsanitize=address -Wall -funsigned-char -MT util.o -MD -MP -MF .deps/util.Tpo -c -o util.o util.c\r\n"
+    ],
+    [
+      0.136157,
+      "[   22s] mv -f .deps/util.Tpo .deps/util.Po\r\n"
+    ],
+    [
+      0.001506,
+      "[   22s] echo '{0}' \u003e libmath.h\r\n"
+    ],
+    [
+      0.001895,
+      "[   22s] make fbc\r\n"
+    ],
+    [
+      0.009075,
+      "[   22s] make[3]: Entering directory '/home/abuild/rpmbuild/BUILD/bc-1.06/bc'\r\n[   22s] gcc -DHAVE_CONFIG_H -I. -I.. -I. -I./../h    -fsanitize=address -Wall -funsigned-char -MT global.o -MD -MP -MF .deps/global.Tpo -c -o global.o global.c"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.040860,
+      "[   22s] mv -f .deps/global.Tpo .deps/global.Po\r\n"
+    ],
+    [
+      0.001106,
+      "[   22s] gcc  -fsanitize=address -Wall -funsigned-char   -o fbc main.o bc.o scan.o execute.o global.o load.o storage.o util.o ../lib/libbc.a -lfl -lreadline -lncurses \r\n"
+    ],
+    [
+      0.076044,
+      "[   22s] make[3]: Leaving directory '/home/abuild/rpmbuild/BUILD/bc-1.06/bc'\r\n"
+    ],
+    [
+      0.000154,
+      "[   22s] ./fbc -c ./libmath.b \u003c/dev/null \u003elibmath.h\r\n"
+    ],
+    [
+      0.097793,
+      "[   22s] ./fix-libmath_h\r\n"
+    ],
+    [
+      0.019057,
+      "[   22s] 2311\r\n"
+    ],
+    [
+      0.011509,
+      "[   22s] 2431\r\n"
+    ],
+    [
+      0.001222,
+      "[   22s] rm -f ./fbc\r\n"
+    ],
+    [
+      0.001302,
+      "[   22s] gcc -DHAVE_CONFIG_H -I. -I.. -I. -I./../h    -fsanitize=address -Wall -funsigned-char -MT global.o -MD -MP -MF .deps/global.Tpo -c -o global.o global.c\r\n"
+    ],
+    [
+      0.043624,
+      "[   22s] mv -f .deps/global.Tpo .deps/global.Po\r\n"
+    ],
+    [
+      0.002881,
+      "[   22s] gcc  -fsanitize=address -Wall -funsigned-char   -o bc main.o bc.o scan.o execute.o load.o storage.o util.o global.o ../lib/libbc.a -lfl -lreadline -lncurses \r\n"
+    ],
+    [
+      0.077885,
+      "[   22s] make[2]: Leaving directory '/home/abuild/rpmbuild/BUILD/bc-1.06/bc'\r\n"
+    ],
+    [
+      0.000184,
+      "[   22s] Making all in dc\r\n"
+    ],
+    [
+      0.003358,
+      "[   22s] make[2]: Entering directory '/home/abuild/rpmbuild/BUILD/bc-1.06/dc'\r\n"
+    ],
+    [
+      0.000014,
+      "[   22s] gcc -DHAVE_CONFIG_H -I. -I.. -I./.. -I./../h    -fsanitize=address -Wall -funsigned-char -MT dc.o -MD -MP -MF .deps/dc.Tpo -c -o dc.o dc.c\r\n"
+    ],
+    [
+      0.056030,
+      "[   22s] mv -f .deps/dc.Tpo .deps/dc.Po\r\n"
+    ],
+    [
+      0.000958,
+      "[   22s] gcc -DHAVE_CONFIG_H -I. -I.. -I./.. -I./../h    -fsanitize=address -Wall -funsigned-char -MT misc.o -MD -MP -MF .deps/misc.Tpo -c -o misc.o misc.c\r\n"
+    ],
+    [
+      0.055239,
+      "[   23s] mv -f .deps/misc.Tpo .deps/misc.Po\r\n"
+    ],
+    [
+      0.001403,
+      "[   23s] gcc -DHAVE_CONFIG_H -I. -I.. -I./.. -I./../h    -fsanitize=address -Wall -funsigned-char -MT eval.o -MD -MP -MF .deps/eval.Tpo -c -o eval.o eval.c\r\n"
+    ],
+    [
+      0.076377,
+      "[   23s] mv -f .deps/eval.Tpo .deps/eval.Po\r\n"
+    ],
+    [
+      0.001387,
+      "[   23s] gcc -DHAVE_CONFIG_H -I. -I.. -I./.. -I./../h    -fsanitize=address -Wall -funsigned-char -MT stack.o -MD -MP -MF .deps/stack.Tpo -c -o stack.o stack.c\r\n"
+    ],
+    [
+      0.098127,
+      "[   23s] mv -f .deps/stack.Tpo .deps/stack.Po\r\n"
+    ],
+    [
+      0.000969,
+      "[   23s] gcc -DHAVE_CONFIG_H -I. -I.. -I./.. -I./../h    -fsanitize=address -Wall -funsigned-char -MT array.o -MD -MP -MF .deps/array.Tpo -c -o array.o array.c\r\n"
+    ],
+    [
+      0.048041,
+      "[   23s] mv -f .deps/array.Tpo .deps/array.Po\r\n"
+    ],
+    [
+      0.000960,
+      "[   23s] gcc -DHAVE_CONFIG_H -I. -I.. -I./.. -I./../h    -fsanitize=address -Wall -funsigned-char -MT numeric.o -MD -MP -MF .deps/numeric.Tpo -c -o numeric.o numeric.c\r\n"
+    ],
+    [
+      0.034895,
+      "[   23s] numeric.c: In function 'dc_int2data':\r\n"
+    ],
+    [
+      0.000017,
+      "[   23s] numeric.c:257:14: warning: passing argument 1 of 'bc_init_num' from incompatible pointer type\r\n[   23s]   bc_init_num(\u0026result.v.number);\r\n"
+    ],
+    [
+      0.000005,
+      "[   23s]               ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "[   23s] In file included from numeric.c:39:0:\r\n"
+    ],
+    [
+      0.000011,
+      "[   23s] ./../h/number.h:110:17: note: expected 'struct bc_struct **' but argument is of type 'struct dc_number **'\r\n"
+    ],
+    [
+      0.000021,
+      "[   23s]  _PROTOTYPE(void bc_init_num, (bc_num *num));\r\n"
+    ],
+    [
+      0.000005,
+      "[   23s]                  ^\r\n"
+    ],
+    [
+      0.000004,
+      "[   23s] ./../h/number.h:96:32: note: in definition of macro '_PROTOTYPE'\r\n"
+    ],
+    [
+      0.000004,
+      "[   23s]  #define _PROTOTYPE(func, args) func args"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "[   23s]                                 ^"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "[   23s] numeric.c:258:13: warning: passing argument 1 of 'bc_int2num' from incompatible pointer type"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "[   23s]   bc_int2num(\u0026result.v.number, value);"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "[   23s]              ^\r\n"
+    ],
+    [
+      0.000009,
+      "[   23s] In file included from numeric.c:39:0:"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "[   23s] ./../h/number.h:116:17: note: expected 'struct bc_struct **' but argument is of type 'struct dc_number **'\r\n"
+    ],
+    [
+      0.000004,
+      "[   23s]  _PROTOTYPE(void bc_int2num, (bc_num *num, int val));"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "[   23s]                  ^"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "[   23s] ./../h/number.h:96:32: note: in definition of macro '_PROTOTYPE'"
+    ],
+    [
+      0.000003,
+      "\r\n[   23s]  #define _PROTOTYPE(func, args) func args\r\n"
+    ],
+    [
+      0.000010,
+      "[   23s]                                 ^"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.044604,
+      "[   23s] mv -f .deps/numeric.Tpo .deps/numeric.Po\r\n"
+    ],
+    [
+      0.000888,
+      "[   23s] gcc -DHAVE_CONFIG_H -I. -I.. -I./.. -I./../h    -fsanitize=address -Wall -funsigned-char -MT string.o -MD -MP -MF .deps/string.Tpo -c -o string.o string.c\r\n"
+    ],
+    [
+      0.052625,
+      "[   23s] mv -f .deps/string.Tpo .deps/string.Po\r\n"
+    ],
+    [
+      0.002124,
+      "[   23s] gcc  -fsanitize=address -Wall -funsigned-char   -o dc dc.o misc.o eval.o stack.o array.o numeric.o string.o ../lib/libbc.a \r\n"
+    ],
+    [
+      0.076399,
+      "[   23s] make[2]: Leaving directory '/home/abuild/rpmbuild/BUILD/bc-1.06/dc'\r\n"
+    ],
+    [
+      0.000251,
+      "[   23s] Making all in doc\r\n"
+    ],
+    [
+      0.001843,
+      "[   23s] make[2]: Entering directory '/home/abuild/rpmbuild/BUILD/bc-1.06/doc'\r\n[   23s] make[2]: Nothing to be done for 'all'."
+    ],
+    [
+      0.000015,
+      "\r\n[   23s] make[2]: Leaving directory '/home/abuild/rpmbuild/BUILD/bc-1.06/doc'\r\n"
+    ],
+    [
+      0.002885,
+      "[   23s] make[2]: Entering directory '/home/abuild/rpmbuild/BUILD/bc-1.06'\r\n"
+    ],
+    [
+      0.003420,
+      "[   23s] make[2]: Leaving directory '/home/abuild/rpmbuild/BUILD/bc-1.06'\r\n"
+    ],
+    [
+      0.000237,
+      "[   23s] make[1]: Leaving directory '/home/abuild/rpmbuild/BUILD/bc-1.06'\r\n"
+    ],
+    [
+      0.000450,
+      "[   23s] + exit 0\r\n"
+    ],
+    [
+      0.000551,
+      "[   23s] Executing(%install): /bin/sh -e /var/tmp/rpm-tmp.0ANqwq\r\n"
+    ],
+    [
+      0.001962,
+      "[   23s] + umask 022\r\n"
+    ],
+    [
+      0.000016,
+      "[   23s] + cd /home/abuild/rpmbuild/BUILD\r\n"
+    ],
+    [
+      0.000010,
+      "[   23s] + cd bc-1.06\r\n"
+    ],
+    [
+      0.000032,
+      "[   23s] + LANG=C\r\n"
+    ],
+    [
+      0.000011,
+      "[   23s] + export LANG"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000038,
+      "[   23s] + unset DISPLAY\r\n"
+    ],
+    [
+      0.000122,
+      "[   23s] + rm -rf /home/abuild/rpmbuild/BUILDROOT/bc-1.06-0.arm\r\n"
+    ],
+    [
+      0.001097,
+      "[   23s] + mkdir -p /home/abuild/rpmbuild/BUILDROOT/bc-1.06-0.arm\r\n"
+    ],
+    [
+      0.001116,
+      "[   23s] + make install DESTDIR=/home/abuild/rpmbuild/BUILDROOT/bc-1.06-0.arm\r\n"
+    ],
+    [
+      0.004655,
+      "[   23s] Making install in lib\r\n"
+    ],
+    [
+      0.002862,
+      "[   23s] make[1]: Entering directory '/home/abuild/rpmbuild/BUILD/bc-1.06/lib'\r\n"
+    ],
+    [
+      0.002769,
+      "[   23s] make[2]: Entering directory '/home/abuild/rpmbuild/BUILD/bc-1.06/lib'\r\n"
+    ],
+    [
+      0.000012,
+      "[   23s] make[2]: Nothing to be done for 'install-exec-am'.\r\n"
+    ],
+    [
+      0.000029,
+      "[   23s] make[2]: Nothing to be done for 'install-data-am'."
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "[   23s] make[2]: Leaving directory '/home/abuild/rpmbuild/BUILD/bc-1.06/lib'"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000029,
+      "[   23s] make[1]: Leaving directory '/home/abuild/rpmbuild/BUILD/bc-1.06/lib'\r\n"
+    ],
+    [
+      0.000312,
+      "[   23s] Making install in bc\r\n"
+    ],
+    [
+      0.012521,
+      "[   23s] make[1]: Entering directory '/home/abuild/rpmbuild/BUILD/bc-1.06/bc'\r\n"
+    ],
+    [
+      0.013462,
+      "[   23s] make[2]: Entering directory '/home/abuild/rpmbuild/BUILD/bc-1.06/bc'\r\n"
+    ],
+    [
+      0.001204,
+      "[   23s]  /bin/mkdir -p '/home/abuild/rpmbuild/BUILDROOT/bc-1.06-0.arm/usr/bin'\r\n"
+    ],
+    [
+      0.025962,
+      "[   23s]   /bin/install -c bc '/home/abuild/rpmbuild/BUILDROOT/bc-1.06-0.arm/usr/bin'\r\n"
+    ],
+    [
+      0.023713,
+      "[   23s] make[2]: Nothing to be done for 'install-data-am'.\r\n"
+    ],
+    [
+      0.000008,
+      "[   23s] make[2]: Leaving directory '/home/abuild/rpmbuild/BUILD/bc-1.06/bc'\r\n"
+    ],
+    [
+      0.000201,
+      "[   23s] make[1]: Leaving directory '/home/abuild/rpmbuild/BUILD/bc-1.06/bc'\r\n"
+    ],
+    [
+      0.000378,
+      "[   23s] Making install in dc\r\n"
+    ],
+    [
+      0.008335,
+      "[   23s] make[1]: Entering directory '/home/abuild/rpmbuild/BUILD/bc-1.06/dc'\r\n"
+    ],
+    [
+      0.007968,
+      "[   23s] make[2]: Entering directory '/home/abuild/rpmbuild/BUILD/bc-1.06/dc'\r\n"
+    ],
+    [
+      0.001011,
+      "[   23s]  /bin/mkdir -p '/home/abuild/rpmbuild/BUILDROOT/bc-1.06-0.arm/usr/bin'\r\n"
+    ],
+    [
+      0.028135,
+      "[   23s]   /bin/install -c dc '/home/abuild/rpmbuild/BUILDROOT/bc-1.06-0.arm/usr/bin'\r\n"
+    ],
+    [
+      0.019293,
+      "[   23s] make[2]: Nothing to be done for 'install-data-am'.\r\n"
+    ],
+    [
+      0.000019,
+      "[   23s] make[2]: Leaving directory '/home/abuild/rpmbuild/BUILD/bc-1.06/dc'\r\n"
+    ],
+    [
+      0.000205,
+      "[   23s] make[1]: Leaving directory '/home/abuild/rpmbuild/BUILD/bc-1.06/dc'\r\n"
+    ],
+    [
+      0.000406,
+      "[   23s] Making install in doc\r\n"
+    ],
+    [
+      0.003016,
+      "[   23s] make[1]: Entering directory '/home/abuild/rpmbuild/BUILD/bc-1.06/doc'\r\n"
+    ],
+    [
+      0.001324,
+      "[   23s] make[2]: Entering directory '/home/abuild/rpmbuild/BUILD/bc-1.06/doc'\r\n"
+    ],
+    [
+      0.000006,
+      "[   23s] make[2]: Nothing to be done for 'install-exec-am'.\r\n"
+    ],
+    [
+      0.002362,
+      "[   23s]  /bin/mkdir -p '/home/abuild/rpmbuild/BUILDROOT/bc-1.06-0.arm/usr/share/info'\r\n"
+    ],
+    [
+      0.008172,
+      "[   23s]  /bin/install -c -m 644 ./bc.info ./dc.info '/home/abuild/rpmbuild/BUILDROOT/bc-1.06-0.arm/usr/share/info'\r\n"
+    ],
+    [
+      0.024968,
+      "[   23s]  /bin/mkdir -p '/home/abuild/rpmbuild/BUILDROOT/bc-1.06-0.arm/usr/share/man/man1'\r\n"
+    ],
+    [
+      0.004472,
+      "[   23s]  /bin/install -c -m 644 bc.1 dc.1 '/home/abuild/rpmbuild/BUILDROOT/bc-1.06-0.arm/usr/share/man/man1'\r\n"
+    ],
+    [
+      0.022924,
+      "[   23s] make[2]: Leaving directory '/home/abuild/rpmbuild/BUILD/bc-1.06/doc'\r\n"
+    ],
+    [
+      0.000217,
+      "[   23s] make[1]: Leaving directory '/home/abuild/rpmbuild/BUILD/bc-1.06/doc'\r\n"
+    ],
+    [
+      0.002974,
+      "[   23s] make[1]: Entering directory '/home/abuild/rpmbuild/BUILD/bc-1.06'\r\n"
+    ],
+    [
+      0.003639,
+      "[   23s] make[2]: Entering directory '/home/abuild/rpmbuild/BUILD/bc-1.06'\r\n"
+    ],
+    [
+      0.000012,
+      "[   23s] make[2]: Nothing to be done for 'install-exec-am'.\r\n"
+    ],
+    [
+      0.000030,
+      "[   23s] make[2]: Nothing to be done for 'install-data-am'.\r\n"
+    ],
+    [
+      0.000020,
+      "[   23s] make[2]: Leaving directory '/home/abuild/rpmbuild/BUILD/bc-1.06'"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "[   23s] make[1]: Leaving directory '/home/abuild/rpmbuild/BUILD/bc-1.06'"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000644,
+      "[   23s] + /usr/lib/rpm/find-debuginfo.sh /home/abuild/rpmbuild/BUILD/bc-1.06\r\n"
+    ],
+    [
+      0.090470,
+      "[   23s] extracting debug info from /home/abuild/rpmbuild/BUILDROOT/bc-1.06-0.arm/usr/bin/bc\r\n"
+    ],
+    [
+      0.294000,
+      "[   24s] extracting debug info from /home/abuild/rpmbuild/BUILDROOT/bc-1.06-0.arm/usr/bin/dc\r\n"
+    ],
+    [
+      0.457598,
+      "[   24s] cpio: gcc-4.9.2/libgcc/config/arm/lib1funcs.S: Cannot stat: No such file or directory\r\n"
+    ],
+    [
+      0.000104,
+      "[   24s] cpio: gcc-4.9.2/libsanitizer/asan/asan_flags.h: Cannot stat: No such file or directory\r\n"
+    ],
+    [
+      0.000124,
+      "[   24s] cpio: gcc-4.9.2/libsanitizer/asan/asan_interface_internal.h: Cannot stat: No such file or directory\r\n"
+    ],
+    [
+      0.000006,
+      "[   24s] cpio: gcc-4.9.2/libsanitizer/asan/asan_internal.h: Cannot stat: No such file or directory\r\n"
+    ],
+    [
+      0.000077,
+      "[   24s] cpio: gcc-4.9.2/libsanitizer/asan/asan_preinit.cc: Cannot stat: No such file or directory\r\n"
+    ],
+    [
+      0.000113,
+      "[   24s] cpio: gcc-4.9.2/libsanitizer/sanitizer_common/sanitizer_common.h: Cannot stat: No such file or directory\r\n"
+    ],
+    [
+      0.000143,
+      "[   24s] cpio: gcc-4.9.2/libsanitizer/sanitizer_common/sanitizer_internal_defs.h: Cannot stat: No such file or directory"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "[   24s] cpio: gcc-4.9.2/libsanitizer/sanitizer_common/sanitizer_libc.h: Cannot stat: No such file or directory"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000094,
+      "[   24s] cpio: gcc-4.9.2/libsanitizer/sanitizer_common/sanitizer_stacktrace.h: Cannot stat: No such file or directory\r\n"
+    ],
+    [
+      0.000043,
+      "[   24s] cpio: gcc-4.9.2/obj-armv7l-tizen-linux-gnueabi/armv7l-tizen-linux-gnueabi/libgcc: Cannot stat: No such file or directory"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000091,
+      "[   24s] cpio: gcc-4.9.2/obj-armv7l-tizen-linux-gnueabi/armv7l-tizen-linux-gnueabi/libsanitizer/asan: Cannot stat: No such file or directory\r\n"
+    ],
+    [
+      0.000006,
+      "[   24s] cpio: glibc-2.21/csu: Cannot stat: No such file or directory\r\n"
+    ],
+    [
+      0.000070,
+      "[   24s] cpio: glibc-2.21/csu/elf-init.c: Cannot stat: No such file or directory\r\n"
+    ],
+    [
+      0.000014,
+      "[   24s] cpio: glibc-2.21/csu/init.c: Cannot stat: No such file or directory\r\n"
+    ],
+    [
+      0.000057,
+      "[   24s] cpio: glibc-2.21/sysdeps/arm/crti.S: Cannot stat: No such file or directory\r\n"
+    ],
+    [
+      0.000052,
+      "[   24s] cpio: glibc-2.21/sysdeps/arm/crtn.S: Cannot stat: No such file or directory\r\n"
+    ],
+    [
+      0.000054,
+      "[   24s] cpio: glibc-2.21/sysdeps/arm/start.S: Cannot stat: No such file or directory\r\n"
+    ],
+    [
+      0.000358,
+      "[   24s] 0 blocks\r\n"
+    ],
+    [
+      0.140492,
+      "[   24s] + /usr/lib/rpm/brp-compress\r\n"
+    ],
+    [
+      0.100612,
+      "[   24s] + /usr/lib/rpm/brp-tizen\r\n"
+    ],
+    [
+      0.001774,
+      "[   24s] + /usr/lib/rpm/tizen/find-docs.sh /home/abuild/rpmbuild/BUILDROOT/bc-1.06-0.arm\r\n"
+    ],
+    [
+      0.044900,
+      "[   24s] Processing files: bc-1.06-0.armv7l\r\n"
+    ],
+    [
+      0.000018,
+      "[   24s] Aptk: PG1hbmlmZXN0PgogPHJlcXVlc3Q+CiAgICA8ZG9tYWluIG5hbWU9Il8iLz4KIDwv\r\n"
+    ],
+    [
+      0.000009,
+      "[   24s] cmVxdWVzdD4KPC9tYW5pZmVzdD4K\r\n"
+    ],
+    [
+      0.000007,
+      "[   24s] "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000488,
+      "[   24s] Executing(%doc): /bin/sh -e /var/tmp/rpm-tmp.b7VnzL\r\n"
+    ],
+    [
+      0.002206,
+      "[   24s] + umask 022\r\n"
+    ],
+    [
+      0.000013,
+      "[   24s] + cd /home/abuild/rpmbuild/BUILD\r\n"
+    ],
+    [
+      0.000051,
+      "[   24s] + cd bc-1.06\r\n"
+    ],
+    [
+      0.000088,
+      "[   24s] + DOCDIR=/home/abuild/rpmbuild/BUILDROOT/bc-1.06-0.arm/usr/share/doc/packages/bc\r\n[   24s] + export DOCDIR\r\n"
+    ],
+    [
+      0.000033,
+      "[   24s] + /bin/mkdir -p /home/abuild/rpmbuild/BUILDROOT/bc-1.06-0.arm/usr/share/doc/packages/bc"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.001313,
+      "[   24s] + cp -pr COPYING /home/abuild/rpmbuild/BUILDROOT/bc-1.06-0.arm/usr/share/doc/packages/bc"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.016549,
+      "[   24s] + exit 0\r\n"
+    ],
+    [
+      0.111802,
+      "[   24s] Provides: bc = 1.06-0 bc(armv7l-32) = 1.06-0\r\n"
+    ],
+    [
+      0.000010,
+      "[   24s] Requires(rpmlib): rpmlib(CompressedFileNames) \u003c= 3.0.4-1 rpmlib(PayloadFilesHavePrefix) \u003c= 4.0-1\r\n[   24s] Requires: libasan.so.1 libc.so.6 libc.so.6(GLIBC_2.4) libgcc_s.so.1 libgcc_s.so.1(GCC_3.5) libncurses.so.5 libreadline.so.5\r\n"
+    ],
+    [
+      0.000159,
+      "[   24s] Processing files: bc-debugsource-1.06-0.armv7l\r\n"
+    ],
+    [
+      0.000252,
+      "[   24s] Provides: bc-debugsource = 1.06-0 bc-debugsource(armv7l-32) = 1.06-0"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000025,
+      "[   24s] Requires(rpmlib): rpmlib(PayloadFilesHavePrefix) \u003c= 4.0-1 rpmlib(CompressedFileNames) \u003c= 3.0.4-1\r\n"
+    ],
+    [
+      0.000051,
+      "[   24s] Processing files: bc-debuginfo-1.06-0.armv7l"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000199,
+      "[   24s] warning: File listed twice: /usr/lib/debug/.build-id"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.019529,
+      "[   24s] Provides: debuginfo(build-id) = 6da5c897be216b7c24bd824af52a0dd4feadf828 debuginfo(build-id) = 90c3712b678512fd286de5066bd0f62d7d66e219\r\n"
+    ],
+    [
+      0.000013,
+      "[   24s] Requires(rpmlib): rpmlib(CompressedFileNames) \u003c= 3.0.4-1 rpmlib(PayloadFilesHavePrefix) \u003c= 4.0-1"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000317,
+      "[   24s] Checking for unpackaged file(s): /usr/lib/rpm/check-files /home/abuild/rpmbuild/BUILDROOT/bc-1.06-0.arm\r\n"
+    ],
+    [
+      0.101369,
+      "[   25s] warning: Could not canonicalize hostname: tizen-tc-fastmodels\r\n"
+    ],
+    [
+      0.013012,
+      "[   25s] Wrote: /home/abuild/rpmbuild/SRPMS/bc-1.06-0.src.rpm\r\n"
+    ],
+    [
+      0.079430,
+      "[   25s] Wrote: /home/abuild/rpmbuild/RPMS/armv7l/bc-1.06-0.armv7l.rpm\r\n"
+    ],
+    [
+      0.004296,
+      "[   25s] Wrote: /home/abuild/rpmbuild/RPMS/armv7l/bc-debugsource-1.06-0.armv7l.rpm\r\n"
+    ],
+    [
+      0.016531,
+      "[   25s] Wrote: /home/abuild/rpmbuild/RPMS/armv7l/bc-debuginfo-1.06-0.armv7l.rpm"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000100,
+      "[   25s] Executing(%clean): /bin/sh -e /var/tmp/rpm-tmp.AQbkHy"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.002244,
+      "[   25s] + umask 022\r\n"
+    ],
+    [
+      0.000014,
+      "[   25s] + cd /home/abuild/rpmbuild/BUILD\r\n[   25s] + cd bc-1.06\r\n"
+    ],
+    [
+      0.000026,
+      "[   25s] + /bin/rm -rf /home/abuild/rpmbuild/BUILDROOT/bc-1.06-0.arm"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.002163,
+      "[   25s] + exit 0\r\n"
+    ],
+    [
+      0.031571,
+      "[   25s] ... checking for files with abuild user/group\r\n"
+    ],
+    [
+      0.008372,
+      "[   25s] error: db5 error(-30969) from dbenv-\u003eopen: BDB0091 DB_VERSION_MISMATCH: Database environment version mismatch\r\n"
+    ],
+    [
+      0.000013,
+      "[   25s] error: cannot open Packages index using db5 -  (-30969)\r\n"
+    ],
+    [
+      0.001106,
+      "[   25s] error: cannot open Packages database in /home/user/.rpmdb\r\n"
+    ],
+    [
+      0.009404,
+      "[   25s] \r\n"
+    ],
+    [
+      0.000014,
+      "[   25s] RPMLINT report:\r\n[   25s] ===============\r\n"
+    ],
+    [
+      0.039131,
+      "[   25s] qemu: Unsupported syscall: 311\r\n"
+    ],
+    [
+      4.954651,
+      "[   30s] bc.src: W: strange-permission HEAD-to-3dabc02e9644660d9b3c1dab423110b4f96e3dad.diff 0664L\r\n"
+    ],
+    [
+      0.000025,
+      "[   30s] bc.src: W: strange-permission 0003-strict-aliasing.patch 0664L\r\n[   30s] bc.src: W: strange-permission 0004-getopt.patch 0664L"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "[   30s] bc.src: W: strange-permission bc.spec 0664L\r\n"
+    ],
+    [
+      0.000013,
+      "[   30s] bc.src: W: strange-permission 0001-flex.patch 0664L\r\n"
+    ],
+    [
+      0.000006,
+      "[   30s] bc.src: W: strange-permission 0002-decl.patch 0664L"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "[   30s] bc.src: W: strange-permission 0005-opt-expression.patch 0664L\r\n"
+    ],
+    [
+      0.000012,
+      "[   30s] bc.src: W: strange-permission bc.manifest 0664L\r\n"
+    ],
+    [
+      0.000019,
+      "[   30s] bc.src: W: strange-permission bc-1.06.tar.bz2 0664L"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "[   30s] A file that you listed to include in your package has strange permissions."
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "[   30s] Usually, a file should have 0644 permissions.\r\n"
+    ],
+    [
+      0.000006,
+      "[   30s] "
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "[   30s] bc.armv7l: E: license-file-in-docs (Badness: 200) /usr/share/doc/packages/bc/COPYING"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "[   30s] A file whose name suggests that it contains a license is included in the"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "[   30s] package as a document. Such files need to be marked with %license and not with"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "[   30s] %doc, which will install them in a special directory seperated from the"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "[   30s] documentation.\r\n"
+    ],
+    [
+      0.000013,
+      "[   30s] "
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "[   30s] 2 packages and 0 specfiles checked; 1 errors, 9 warnings.\r\n"
+    ],
+    [
+      0.000026,
+      "[   30s] \r\n"
+    ],
+    [
+      0.017158,
+      "[   30s] \r\n"
+    ],
+    [
+      0.001039,
+      "[   30s] tizen-tc-fastmodels finished \"build bc.spec\" at Wed Jul  8 06:13:16 UTC 2015.\r\n"
+    ],
+    [
+      0.000018,
+      "[   30s] \r\n"
+    ],
+    [
+      0.078532,
+      "qemu: Unsupported syscall: 311\r\n"
+    ],
+    [
+      0.078113,
+      "qemu: Unsupported syscall: 311\r\n"
+    ],
+    [
+      0.150280,
+      "\u001b[32minfo: \u001b[0mfinished building bc\r\n"
+    ],
+    [
+      0.000091,
+      "\u001b[32minfo: \u001b[0mupdating local repo\r\n"
+    ],
+    [
+      2.151781,
+      "\u001b[32minfo: \u001b[0m*** Build Status Summary ***\r\n=== Total succeeded built packages: (1) ===\r\n\u001b[32minfo: \u001b[0mgenerated html format report:\r\n"
+    ],
+    [
+      0.000026,
+      "     /mnt/data/gbs/buildroot_aarch64/local/repos/tizen/armv7l/index.html\r\n\u001b[32minfo: \u001b[0mgenerated RPM packages can be found from local repo:\r\n     /mnt/data/gbs/buildroot_aarch64/local/repos/tizen/armv7l/RPMS\r\n\u001b[32minfo: \u001b[0mgenerated source RPM packages can be found from local repo:\r\n     /mnt/data/gbs/buildroot_aarch64/local/repos/tizen/armv7l/SRPMS\r\n\u001b[32minfo: \u001b[0mbuild logs can be found in:\r\n     /mnt/data/gbs/buildroot_aarch64/local/repos/tize"
+    ],
+    [
+      0.000011,
+      "n/armv7l/logs\r\n\u001b[32minfo: \u001b[0mbuild roots located in:\r\n"
+    ],
+    [
+      0.000010,
+      "     /mnt/data/gbs/buildroot_aarch64/local/BUILD-ROOTS/scratch.armv7l.*\r\n"
+    ],
+    [
+      0.023094,
+      "\u001b[32minfo: \u001b[0mDone\r\n"
+    ],
+    [
+      0.012224,
+      "\u001b]0;user@tizen-tc-fastmodels: ~/git/tizen/platform/upstream/bc\u0007user@tizen-tc-fastmodels:~/git/tizen/platform/upstream/bc$ "
+    ],
+    [
+      1.995807,
+      "v"
+    ],
+    [
+      0.151997,
+      "i"
+    ],
+    [
+      0.215953,
+      "m"
+    ],
+    [
+      0.176043,
+      " "
+    ],
+    [
+      0.192121,
+      "s"
+    ],
+    [
+      0.263827,
+      "r"
+    ],
+    [
+      0.272045,
+      "c"
+    ],
+    [
+      0.231844,
+      "/"
+    ],
+    [
+      0.234222,
+      "\u0007"
+    ],
+    [
+      0.391957,
+      "\u0007"
+    ],
+    [
+      1.429891,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.120043,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.135926,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.144015,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.192030,
+      "b"
+    ],
+    [
+      0.072564,
+      "s"
+    ],
+    [
+      0.175451,
+      "/"
+    ],
+    [
+      0.207948,
+      "m"
+    ],
+    [
+      0.320355,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.119710,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.127925,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.080006,
+      "c"
+    ],
+    [
+      0.168936,
+      "/"
+    ],
+    [
+      0.191117,
+      "m"
+    ],
+    [
+      0.111917,
+      "a"
+    ],
+    [
+      0.042512,
+      "in.c "
+    ],
+    [
+      0.845479,
+      "\r\n"
+    ],
+    [
+      0.026278,
+      "\u001b[?1049h\u001b[?1h\u001b=\u001b[2;1H▽\u001b[6n\u001b[1;1H  \u001b[1;1H"
+    ],
+    [
+      0.000445,
+      "\u001b[1;45r\u001b[?25h\u001b[?25h\u001b[27m\u001b[23m\u001b[m\u001b[H\u001b[2J\u001b[?25l\u001b[45;1H\"bc/main.c\""
+    ],
+    [
+      0.000095,
+      " 355L, 8007C"
+    ],
+    [
+      0.002198,
+      "\u001b[\u003ec"
+    ],
+    [
+      0.000948,
+      "\u001b[1;1H\u001b[38;5;4m/* main.c: The main program for bc.  */\r\n\r\n/*  This file is part of GNU bc.\r\n    Copyright (C) 1991-1994, 1997, 1998, 2000 Free Software Foundation, Inc.\r\n\r\n    This program is free software; you can redistribute it and/or modify\r\n    it under the terms of the GNU General Public License as published by\r\n    the Free Software Foundation; either version 2 of the License , or\r\n    (at your option) any later version.\r\n\r\n    This program is distributed in the hope that it will be useful,\r\n    but WITHOUT ANY WARRANTY; without even the implied warranty of\r\n    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\r\n    GNU General Public License for more details.\r\n\r\n    You should have received a copy of the GNU General Public License\r\n    along with this program; see the file COPYING.  If not, write to\r\n      The Free Software Foundation, Inc.\r\n      59 Temple Place, Suite 330\r\n      Boston, MA 02111 USA\r\n\r\n    You may contact the author by:\r\n       e-mail:  philnelson@acm.org\r\n      us-mail:  Philip A. Nelson\r\n                Computer Science Department, 9062\r\n                Western Washington University\r\n                Bellingham, WA 98226-9062\r\n       \r\n*************************************************************************/\u001b[m\r\n\r\n\u001b[38;5;5m#include \u001b[m\u001b[38;5;1m\"bcdefs.h\"\u001b[m\r\n\u001b[38;5;5m#include \u001b[m\u001b[38;5;1m\u003csignal.h\u003e\u001b[m\r\n\u001b[38;5;5m#include \u001b[m\u001b[38;5;1m\"global.h\"\u001b[m\r\n\u001b[38;5;5m#include \u001b[m\u001b[38;5;1m\"proto.h\"\u001b[m\r\n\u001b[38;5;5m#include \u001b[m\u001b[38;5;1m\"getopt.h\"\u001b[m\r\n\r\n\r\n\u001b[38;5;4m/* Variables for processing multiple files. */\u001b[m\r\n\u001b[38;5;2mstatic\u001b[m \u001b[38;5;2mchar\u001b[m first_file;\r\n\r\n\u001b[38;5;4m/* Points to the last node in the file name list for easy adding. */\u001b[m\r\n\u001b[38;5;2mstatic\u001b[m file_node *last = \u001b[38;5;1mNULL\u001b[m;\r\n\r\n\u001b[38;5;4m/* long option support */\u001b[m\u001b[45;116H1,1\u001b[11CTop\u001b[1;1H\u001b[?25h"
+    ],
+    [
+      0.418653,
+      "\u001b[?25l\u001b[45;116H2,0-1\u001b[2;1H\u001b[?25h"
+    ],
+    [
+      0.863549,
+      "\u001b[?25l\u001b[45;116H3,1  \u001b[3;1H\u001b[?25h"
+    ],
+    [
+      0.519939,
+      "\u001b[?25l\u001b[45;1H\u001b[K\u001b[45;1H/"
+    ],
+    [
+      0.000014,
+      "\u001b[?25h"
+    ],
+    [
+      0.223906,
+      "m"
+    ],
+    [
+      0.000014,
+      "\u001b[?25l\u001b[?25h"
+    ],
+    [
+      0.112316,
+      "a"
+    ],
+    [
+      0.000014,
+      "\u001b[?25l\u001b[?25h"
+    ],
+    [
+      0.095678,
+      "i"
+    ],
+    [
+      0.000014,
+      "\u001b[?25l\u001b[?25h"
+    ],
+    [
+      0.055891,
+      "n"
+    ],
+    [
+      0.000014,
+      "\u001b[?25l\u001b[?25h"
+    ],
+    [
+      0.328357,
+      "\r"
+    ],
+    [
+      0.000014,
+      "\u001b[?25l"
+    ],
+    [
+      0.006580,
+      "\u001b[27m\u001b[23m\u001b[m\u001b[H\u001b[2J\u001b[1;9H\u001b[38;5;130mdefault\u001b[m:\u001b[2;11Husage(argv[\u001b[38;5;1m0\u001b[m]);\u001b[3;11Hexit (\u001b[38;5;1m1\u001b[m);\u001b[4;9H}\r\n    }\r\n\r\n  \u001b[38;5;4m/* Add file names to a list of files to process. */\u001b[m\r\n  \u001b[38;5;130mwhile\u001b[m (optind \u003c argc)\r\n    {\u001b[10;7Htemp = (file_node *) bc_malloc(\u001b[38;5;130msizeof\u001b[m(file_node));\u001b[11;7Htemp-\u003ename = argv[optind];\u001b[12;7Htemp-\u003enext = \u001b[38;5;1mNULL\u001b[m;\u001b[13;7H\u001b[38;5;130mif\u001b[m (last == \u001b[38;5;1mNULL\u001b[m)\u001b[14;9Hfile_names = temp;\u001b[15;7H\u001b[38;5;130melse\u001b[m\u001b[16;9Hlast-\u003enext = temp;\u001b[17;7Hlast = temp;\u001b[18;7Hoptind++;\r\n    }\r\n}\r\n\r\n\u001b[38;5;4m/* The main program for bc. */\u001b[m\r\n\u001b[38;5;2mint\u001b[m\r\nmain (argc, argv)\u001b[25;6H\u001b[38;5;2mint\u001b[m argc;\u001b[26;6H\u001b[38;5;2mchar\u001b[m *argv[];\r\n{\r\n  \u001b[38;5;2mchar\u001b[m *env_value;\r\n  \u001b[38;5;2mchar\u001b[m *env_argv[\u001b[38;5;1m30\u001b[m];\r\n  \u001b[38;5;2mint\u001b[m   env_argc;\r\n\r\n  \u001b[38;5;4m/* Initialize many variables. */\u001b[m\r\n  compile_only = FALSE;\r\n  use_math = FALSE;\r\n  warn_not_std = FALSE;\r\n  std_only = FALSE;\r\n  \u001b[38;5;130mif\u001b[m (isatty(\u001b[38;5;1m0\u001b[m) \u0026\u0026 isatty(\u001b[38;5;1m1\u001b[m))\r\n    interactive = TRUE;\r\n  \u001b[38;5;130melse\u001b[m\r\n    interactive = FALSE;\r\n  quiet = FALSE;\r\n  file_names = \u001b[38;5;1mNULL\u001b[m;\r\n\r\n\u001b[38;5;5m#ifdef HAVE_SETVBUF\u001b[m\u001b[45;116H154,8\u001b[9C42%\u001b[22;8H\u001b[?25h"
+    ],
+    [
+      0.777196,
+      "\u001b[?25l\u001b[45;118H5,3\u001b[23;3H\u001b[?25h"
+    ],
+    [
+      0.184109,
+      "\u001b[?25l\u001b[45;118H6,8\u001b[24;8H\u001b[?25h"
+    ],
+    [
+      0.135934,
+      "\u001b[?25l\u001b[45;118H7\u001b[25;8H\u001b[?25h"
+    ],
+    [
+      0.152017,
+      "\u001b[?25l\u001b[45;118H8\u001b[26;8H\u001b[?25h"
+    ],
+    [
+      0.136336,
+      "\u001b[?25l\u001b[45;118H9,1\u001b[27;1H\u001b[?25h"
+    ],
+    [
+      0.135601,
+      "\u001b[?25l\u001b[45;117H60,8\u001b[28;8H\u001b[?25h"
+    ],
+    [
+      0.152501,
+      "\u001b[?25l\u001b[45;118H1\u001b[29;8H\u001b[?25h"
+    ],
+    [
+      0.151549,
+      "\u001b[?25l\u001b[45;118H2\u001b[30;8H\u001b[?25h"
+    ],
+    [
+      0.608236,
+      "\u001b[?25l\u001b[45;1H\u001b[1m-- INSERT --\u001b[m\u001b[45;116H\u001b[K\u001b[45;116H163,1\u001b[9C42%"
+    ],
+    [
+      0.000118,
+      "\u001b[31;44r\u001b[31;1H\u001b[L\u001b[1;45r"
+    ],
+    [
+      0.000203,
+      "\u001b[45;116H\u001b[K\u001b[45;116H163,1\u001b[9C42%\u001b[31;1H\u001b[?25h"
+    ],
+    [
+      0.575369,
+      "\u001b[?25l\u001b[32;44r\u001b[32;1H\u001b[L\u001b[1;45r"
+    ],
+    [
+      0.000192,
+      "\u001b[45;116H\u001b[K\u001b[45;116H164,1\u001b[9C42%\u001b[32;1H\u001b[?25h"
+    ],
+    [
+      0.536027,
+      "\u001b[?25l\u001b[45;120H2\u001b[32;2H\u001b[?25h"
+    ],
+    [
+      0.168107,
+      "\u001b[?25l\u001b[45;120H3\u001b[32;3H\u001b[?25h"
+    ],
+    [
+      0.175856,
+      "\u001b[?25l/\u001b[45;120H4\u001b[32;4H\u001b[?25h"
+    ],
+    [
+      0.464124,
+      "\u001b[?25l\u0008\u001b[38;5;4m/*\r\n  \r\n  \u001b[m\u001b[38;5;15m\u001b[48;5;9m/\u001b[m\u001b[45;120H5\u001b[32;5H\u001b[?25h"
+    ],
+    [
+      0.375877,
+      "\u001b[?25l\u001b[38;5;4m \u001b[m\u001b[45;120H6\u001b[32;6H\u001b[?25h"
+    ],
+    [
+      0.159950,
+      "\u001b[?25l\u001b[38;5;4mA\u001b[m\u001b[45;120H7\u001b[32;7H\u001b[?25h"
+    ],
+    [
+      0.216106,
+      "\u001b[?25l\u001b[38;5;4mn\u001b[m\u001b[45;120H8\u001b[32;8H\u001b[?25h"
+    ],
+    [
+      0.087990,
+      "\u001b[?25l\u001b[38;5;4md\u001b[m\u001b[45;120H9\u001b[32;9H\u001b[?25h"
+    ],
+    [
+      0.175952,
+      "\u001b[?25l\u001b[38;5;4m \u001b[m\u001b[45;120H10\u001b[32;10H\u001b[?25h"
+    ],
+    [
+      0.159954,
+      "\u001b[?25l\u001b[38;5;4ml\u001b[m\u001b[45;121H1\u001b[32;11H\u001b[?25h"
+    ],
+    [
+      0.064095,
+      "\u001b[?25l\u001b[38;5;4me\u001b[m\u001b[45;121H2\u001b[32;12H\u001b[?25h"
+    ],
+    [
+      0.168021,
+      "\u001b[?25l\u001b[38;5;4mt\u001b[m\u001b[45;121H3\u001b[32;13H\u001b[?25h"
+    ],
+    [
+      0.207971,
+      "\u001b[?25l\u001b[38;5;4m'\u001b[m\u001b[45;121H4\u001b[32;14H\u001b[?25h"
+    ],
+    [
+      0.128189,
+      "\u001b[?25l\u001b[38;5;4ms\u001b[m\u001b[45;121H5\u001b[32;15H\u001b[?25h"
+    ],
+    [
+      0.079735,
+      "\u001b[?25l\u001b[38;5;4m \u001b[m\u001b[45;121H6\u001b[32;16H\u001b[?25h"
+    ],
+    [
+      0.263936,
+      "\u001b[?25l\u001b[38;5;4ma\u001b[m\u001b[45;121H7\u001b[32;17H\u001b[?25h"
+    ],
+    [
+      0.216058,
+      "\u001b[?25l\u001b[38;5;4ms\u001b[m\u001b[45;121H8\u001b[32;18H\u001b[?25h"
+    ],
+    [
+      0.136062,
+      "\u001b[?25l\u001b[38;5;4ms\u001b[m\u001b[45;121H9\u001b[32;19H\u001b[?25h"
+    ],
+    [
+      0.064153,
+      "\u001b[?25l\u001b[38;5;4mu\u001b[m\u001b[45;120H20\u001b[32;20H\u001b[?25h"
+    ],
+    [
+      0.183831,
+      "\u001b[?25l\u001b[38;5;4mm\u001b[m\u001b[45;121H1\u001b[32;21H\u001b[?25h"
+    ],
+    [
+      0.119910,
+      "\u001b[?25l\u001b[38;5;4me\u001b[m\u001b[45;121H2\u001b[32;22H\u001b[?25h"
+    ],
+    [
+      0.287960,
+      "\u001b[?25l\u001b[38;5;4m \u001b[m\u001b[45;121H3\u001b[32;23H\u001b[?25h"
+    ],
+    [
+      0.200031,
+      "\u001b[?25l\u001b[38;5;4mt\u001b[m\u001b[45;121H4\u001b[32;24H\u001b[?25h"
+    ],
+    [
+      0.104060,
+      "\u001b[?25l\u001b[38;5;4mh\u001b[m\u001b[45;121H5\u001b[32;25H\u001b[?25h"
+    ],
+    [
+      0.040012,
+      "\u001b[?25l\u001b[38;5;4me\u001b[m\u001b[45;121H6\u001b[32;26H\u001b[?25h"
+    ],
+    [
+      0.111977,
+      "\u001b[?25l\u001b[38;5;4mr\u001b[m\u001b[45;121H7\u001b[32;27H\u001b[?25h"
+    ],
+    [
+      0.104089,
+      "\u001b[?25l\u001b[38;5;4me\u001b[m\u001b[45;121H8\u001b[32;28H\u001b[?25h"
+    ],
+    [
+      0.175939,
+      "\u001b[?25l\u001b[38;5;4m \u001b[m\u001b[45;121H9\u001b[32;29H\u001b[?25h"
+    ],
+    [
+      0.449267,
+      "\u001b[?25l\u001b[38;5;4mw\u001b[m\u001b[45;120H30\u001b[32;30H\u001b[?25h"
+    ],
+    [
+      0.254640,
+      "\u001b[?25l\u001b[38;5;4ma\u001b[m\u001b[45;121H1\u001b[32;31H\u001b[?25h"
+    ],
+    [
+      0.136046,
+      "\u001b[?25l\u001b[38;5;4ms\u001b[m\u001b[45;121H2\u001b[32;32H\u001b[?25h"
+    ],
+    [
+      0.095998,
+      "\u001b[?25l\u001b[38;5;4m \u001b[m\u001b[45;121H3\u001b[32;33H\u001b[?25h"
+    ],
+    [
+      0.176037,
+      "\u001b[?25l\u001b[38;5;4ma\u001b[m\u001b[45;121H4\u001b[32;34H\u001b[?25h"
+    ],
+    [
+      0.192018,
+      "\u001b[?25l\u001b[38;5;4m \u001b[m\u001b[45;121H5\u001b[32;35H\u001b[?25h"
+    ],
+    [
+      0.183952,
+      "\u001b[?25l\u001b[38;5;4mp\u001b[m\u001b[45;121H6\u001b[32;36H\u001b[?25h"
+    ],
+    [
+      0.144087,
+      "\u001b[?25l\u001b[38;5;4mr\u001b[m\u001b[45;121H7\u001b[32;37H\u001b[?25h"
+    ],
+    [
+      0.343969,
+      "\u001b[?25l\u001b[38;5;4mo\u001b[m\u001b[45;121H8\u001b[32;38H\u001b[?25h"
+    ],
+    [
+      0.192083,
+      "\u001b[?25l\u001b[38;5;4mb\u001b[m\u001b[45;121H9\u001b[32;39H\u001b[?25h"
+    ],
+    [
+      0.191954,
+      "\u001b[?25l\u001b[38;5;4ml\u001b[m\u001b[45;120H40\u001b[32;40H\u001b[?25h"
+    ],
+    [
+      0.152046,
+      "\u001b[?25l\u001b[38;5;4me\u001b[m\u001b[45;121H1\u001b[32;41H\u001b[?25h"
+    ],
+    [
+      0.111844,
+      "\u001b[?25l\u001b[38;5;4mm\u001b[m\u001b[45;121H2\u001b[32;42H\u001b[?25h"
+    ],
+    [
+      0.296088,
+      "\u001b[?25l\u001b[38;5;4m.\u001b[m\u001b[45;121H3\u001b[32;43H\u001b[?25h"
+    ],
+    [
+      0.152127,
+      "\u001b[?25l\u001b[38;5;4m.\u001b[m\u001b[45;121H4\u001b[32;44H\u001b[?25h"
+    ],
+    [
+      0.183945,
+      "\u001b[?25l\u001b[38;5;4m.\u001b[m\u001b[45;121H5\u001b[32;45H\u001b[?25h"
+    ],
+    [
+      0.127896,
+      "\u001b[?25l\u001b[38;5;4m \u001b[m\u001b[45;121H6\u001b[32;46H\u001b[?25h"
+    ],
+    [
+      0.167984,
+      "\u001b[?25l\u001b[38;5;4m*\u001b[m\u001b[45;121H7\u001b[32;47H\u001b[?25h"
+    ],
+    [
+      0.584145,
+      "\u001b[?25l\u001b[38;5;4m/\u001b[m\r\n  \r\n  \u001b[38;5;4m/\u001b[m\u001b[45;121H8\u001b[32;48H\u001b[?25h"
+    ],
+    [
+      0.479738,
+      "\u001b[?25l\u001b[33;44r\u001b[33;1H\u001b[L\u001b[1;45r"
+    ],
+    [
+      0.000199,
+      "\u001b[45;116H\u001b[K\u001b[45;116H165,1\u001b[9C42%\u001b[33;1H\u001b[?25h"
+    ],
+    [
+      0.503836,
+      "\u001b[?25l\u001b[45;120H2\u001b[33;2H\u001b[?25h"
+    ],
+    [
+      0.288061,
+      "\u001b[?25l\u001b[45;120H3\u001b[33;3H\u001b[?25h"
+    ],
+    [
+      0.583977,
+      "\u001b[?25lc\u001b[45;120H4\u001b[33;4H\u001b[?25h"
+    ],
+    [
+      0.111935,
+      "\u001b[?25lh\u001b[45;120H5\u001b[33;5H\u001b[?25h"
+    ],
+    [
+      0.071999,
+      "\u001b[?25la\u001b[45;120H6\u001b[33;6H\u001b[?25h"
+    ],
+    [
+      0.184029,
+      "\u001b[?25l\u0008\u0008\u0008\u001b[38;5;2mchar\u001b[m\u001b[45;120H7\u001b[33;7H\u001b[?25h"
+    ],
+    [
+      0.216204,
+      "\u001b[?25l\u001b[45;120H8\u001b[33;8H\u001b[?25h"
+    ],
+    [
+      1.207878,
+      "\u001b[?25lt\u001b[45;120H9\u001b[33;9H\u001b[?25h"
+    ],
+    [
+      0.087940,
+      "\u001b[?25le\u001b[45;120H10\u001b[33;10H\u001b[?25h"
+    ],
+    [
+      0.136022,
+      "\u001b[?25ls\u001b[45;121H1\u001b[33;11H\u001b[?25h"
+    ],
+    [
+      0.096031,
+      "\u001b[?25lt\u001b[45;121H2\u001b[33;12H\u001b[?25h"
+    ],
+    [
+      0.256120,
+      "\u001b[?25l_\u001b[45;121H3\u001b[33;13H\u001b[?25h"
+    ],
+    [
+      0.136002,
+      "\u001b[?25lc\u001b[45;121H4\u001b[33;14H\u001b[?25h"
+    ],
+    [
+      0.111834,
+      "\u001b[?25lh\u001b[45;121H5\u001b[33;15H\u001b[?25h"
+    ],
+    [
+      0.056083,
+      "\u001b[?25la\u001b[45;121H6\u001b[33;16H\u001b[?25h"
+    ],
+    [
+      0.384057,
+      "\u001b[?25lr\u001b[45;121H7\u001b[33;17H\u001b[?25h"
+    ],
+    [
+      0.151871,
+      "\u001b[?25l\u001b[45;121H8\u001b[33;18H\u001b[?25h"
+    ],
+    [
+      0.240120,
+      "\u001b[?25l=\u001b[45;121H9\u001b[33;19H\u001b[?25h"
+    ],
+    [
+      0.176000,
+      "\u001b[?25l\u001b[45;120H20\u001b[33;20H\u001b[?25h"
+    ],
+    [
+      0.743844,
+      "\u001b[?25le\u001b[45;121H1\u001b[33;21H\u001b[?25h"
+    ],
+    [
+      0.184206,
+      "\u001b[?25ln\u001b[45;121H2\u001b[33;22H\u001b[?25h"
+    ],
+    [
+      0.239965,
+      "\u001b[?25lc\u001b[45;121H3\u001b[33;23H\u001b[?25h"
+    ],
+    [
+      0.271944,
+      "\u001b[?25l\u001b[33;22H\u001b[K\u001b[45;121H2\u001b[33;22H\u001b[?25h"
+    ],
+    [
+      0.064179,
+      "\u001b[?25lv\u001b[45;121H3\u001b[33;23H\u001b[?25h"
+    ],
+    [
+      0.887871,
+      "\u001b[?25l_\u001b[45;121H4\u001b[33;24H\u001b[?25h"
+    ],
+    [
+      0.279947,
+      "\u001b[?25la\u001b[45;121H5\u001b[33;25H\u001b[?25h"
+    ],
+    [
+      0.183941,
+      "\u001b[?25lr\u001b[45;121H6\u001b[33;26H\u001b[?25h"
+    ],
+    [
+      0.119927,
+      "\u001b[?25lg\u001b[45;121H7\u001b[33;27H\u001b[?25h"
+    ],
+    [
+      0.272022,
+      "\u001b[?25lv\u001b[45;121H8\u001b[33;28H\u001b[?25h"
+    ],
+    [
+      0.516803,
+      "\u001b[?25l[\u001b[36;23H\u001b[38;5;15m\u001b[48;5;9m;\u001b[37;19H;\u001b[38;23H;\u001b[39;19H;\u001b[41;23H;\u001b[43;24H;\u001b[44;16H;"
+    ],
+    [
+      0.000052,
+      "\u001b[m\u001b[45;116H\u001b[K\u001b[45;116H165,29\u001b[8C42%\u001b[33;29H\u001b[?25h"
+    ],
+    [
+      0.331239,
+      "\u001b[?25l\u001b[38;5;1m3\u001b[m\u001b[45;120H30\u001b[33;30H\u001b[?25h"
+    ],
+    [
+      0.208006,
+      "\u001b[?25l\u001b[38;5;1m0\u001b[m\u001b[45;121H1\u001b[33;31H\u001b[?25h"
+    ],
+    [
+      0.221033,
+      "\u001b[?25l]\u001b[36;23H;\u001b[37;19H;\u001b[38;23H;\u001b[39;19H;\u001b[41;23H;\u001b[43;24H;\u001b[44;16H;\u001b[33;28H\u001b[48;5;14m[\u001b[2C]"
+    ],
+    [
+      0.000048,
+      "\u001b[m\u001b[45;116H\u001b[K\u001b[45;116H165,32\u001b[8C42%\u001b[33;32H\u001b[?25h"
+    ],
+    [
+      0.599288,
+      "\u001b[?25l;\u0008\u0008\u0008\u0008\u0008[\u001b[2C]\u001b[45;121H3\u001b[33;33H\u001b[?25h"
+    ],
+    [
+      0.452417,
+      "\u001b[45;1H\u001b[K\u001b[33;32H"
+    ],
+    [
+      0.270861,
+      "\u001b[?25l"
+    ],
+    [
+      0.000320,
+      "\u001b[45;116H165,32\u001b[8C42%\u001b[33;32H\u001b[?25h\u001b[?25l\u001b[45;116H\u001b[K\u001b[45;1H:"
+    ],
+    [
+      0.000006,
+      "\u001b[?25h"
+    ],
+    [
+      0.279713,
+      "w"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l\u001b[?25h"
+    ],
+    [
+      0.071951,
+      "q"
+    ],
+    [
+      0.000013,
+      "\u001b[?25l\u001b[?25h"
+    ],
+    [
+      1.024102,
+      "\r"
+    ],
+    [
+      0.000012,
+      "\u001b[?25l"
+    ],
+    [
+      0.000115,
+      "\"bc/main.c\""
+    ],
+    [
+      0.002545,
+      " 358L, 8089C written"
+    ],
+    [
+      0.000121,
+      "\r\r\r\n\u001b[?1l\u001b\u003e\u001b[?25h\u001b[r\u001b[?1049l"
+    ],
+    [
+      0.001401,
+      "\u001b]0;user@tizen-tc-fastmodels: ~/git/tizen/platform/upstream/bc\u0007user@tizen-tc-fastmodels:~/git/tizen/platform/upstream/bc$ "
+    ],
+    [
+      1.299699,
+      "\r\u001b[37P(reverse-i-search)`':\u001b[C"
+    ],
+    [
+      1.223960,
+      "\u0008\u0008\u0008\u001b[15@b': vim bc/main.c\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.136154,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008u': gbs build -A armv7l --include-all --noinit\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.056079,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[1@i\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.040006,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[1@l\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.079985,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[1@d\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.488356,
+      "\r\u001b]0;user@tizen-tc-fastmodels: ~/git/tizen/platform/upstream/bc\u0007user@tizen-tc-fastmodels:~/git/tizen/platform/upstream/bc$ gbs build -A armv7l --include-all --noinit\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\r\n"
+    ],
+    [
+      0.221973,
+      "\u001b[32minfo: \u001b[0mstart building packages from: /home/user/git/tizen/platform/upstream/bc (git)\r\n"
+    ],
+    [
+      0.002132,
+      "2015-07-08 09:13 +0300\r\n"
+    ],
+    [
+      0.058000,
+      "gbs 0.23.2\r\n"
+    ],
+    [
+      0.005099,
+      "\u001b[32minfo: \u001b[0mprepare sources...\r\n"
+    ],
+    [
+      0.003614,
+      "\u001b[32minfo: \u001b[0mstart export source from: /home/user/git/tizen/platform/upstream/bc ...\r\n"
+    ],
+    [
+      0.000019,
+      "Argument \"\" isn't numeric in numeric eq (==) at /usr/bin/depanneur line 642.\r\n"
+    ],
+    [
+      0.089917,
+      "info: the following untracked files would be included:\r\n   gbs-asan\r\n"
+    ],
+    [
+      0.000016,
+      "info: the following uncommitted changes would be included:\r\n   bc/main.c\r\n   packaging/bc.spec\r\n"
+    ],
+    [
+      0.009021,
+      "info: tracking branch: origin/upstream -\u003e upstream\r\n"
+    ],
+    [
+      0.010483,
+      "info: tracking branch: origin/pristine-tar -\u003e pristine-tar\r\n"
+    ],
+    [
+      0.093604,
+      "warning: Deprecated option '--git-export-only', please use '--no-build' instead!\r\n"
+    ],
+    [
+      0.065926,
+      "info: Generating patches from git (upstream/1.06..8e9df451c240be0d25660d92648fba5b48ace150)\r\n"
+    ],
+    [
+      0.132078,
+      "info: Generating diff file HEAD..8e9df451c240be0d25660d92648fba5b48ace150\r\n"
+    ],
+    [
+      0.241630,
+      "pristine-tar: successfully generated /mnt/data/temp/.gbs_export_N6F0NY/bc-1.06.tar.bz2\r\n"
+    ],
+    [
+      0.055373,
+      "info: package files have been exported to:\r\n"
+    ],
+    [
+      0.000017,
+      "     /mnt/data/gbs/buildroot_aarch64/local/sources/tizen/bc-1.06-0\r\n"
+    ],
+    [
+      0.008736,
+      "\u001b[32minfo: \u001b[0mretrieving repo metadata...\r\n"
+    ],
+    [
+      0.091880,
+      "\u001b[32minfo: \u001b[0mparsing package data...\r\n"
+    ],
+    [
+      0.001979,
+      "\u001b[32minfo: \u001b[0mbuilding repo metadata ...\r\n"
+    ],
+    [
+      0.001775,
+      "\u001b[32minfo: \u001b[0mpackage dependency resolving ...\r\n"
+    ],
+    [
+      0.086339,
+      "\u001b[32minfo: \u001b[0m*** [1/1] building bc-1.06-0 armv7l tizen (worker: 0) ***\r\n"
+    ],
+    [
+      0.033951,
+      "VM_IMAGE: , VM_SWAP: \r\n"
+    ],
+    [
+      0.009345,
+      "--repository /mnt/data/gbs/buildroot_aarch64/local/repos/tizen/armv7l/RPMS\r\n"
+    ],
+    [
+      0.006638,
+      "logging output to /mnt/data/gbs/buildroot_aarch64/local/BUILD-ROOTS/scratch.armv7l.0/.build.log...\r\n"
+    ],
+    [
+      0.006726,
+      "[    0s] Memory limit set to 48744488KB\r\n"
+    ],
+    [
+      0.001339,
+      "[    0s] Using BUILD_ROOT=/mnt/data/gbs/buildroot_aarch64/local/BUILD-ROOTS/scratch.armv7l.0\r\n"
+    ],
+    [
+      0.000009,
+      "[    0s] Using BUILD_ARCH=armv7l:armv7el:armv6l:armv5tejl:armv5tel:armv5l:armv4tl:armv4l:armv3l:noarch\r\n[    0s] \r\n"
+    ],
+    [
+      0.005897,
+      "[    0s] \r\n"
+    ],
+    [
+      0.000932,
+      "[    0s] tizen-tc-fastmodels started \"build bc.spec\" at Wed Jul  8 06:13:59 UTC 2015.\r\n[    0s] \r\n"
+    ],
+    [
+      0.000008,
+      "[    0s] \r\n"
+    ],
+    [
+      0.001031,
+      "[    0s] processing specfile /mnt/data/gbs/buildroot_aarch64/local/sources/tizen/bc-1.06-0/bc.spec ...\r\n"
+    ],
+    [
+      0.053369,
+      "[    0s] qemu: Unsupported syscall: 311\r\n"
+    ],
+    [
+      0.282519,
+      "[    0s] -----------------------------------------------------------------\r\n"
+    ],
+    [
+      0.000012,
+      "[    0s] ----- building bc.spec (user abuild)\r\n[    0s] -----------------------------------------------------------------\r\n"
+    ],
+    [
+      0.000017,
+      "[    0s] -----------------------------------------------------------------"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.037748,
+      "[    0s] qemu: Unsupported syscall: 311\r\n"
+    ],
+    [
+      0.009158,
+      "[    0s] + exec rpmbuild --define '_srcdefattr (-,root,root)' --nosignature --target=armv7l-tizen-linux --define '_build_create_debug 1' -ba /home/abuild/rpmbuild/SOURCES/bc.spec\r\n"
+    ],
+    [
+      0.024852,
+      "[    1s] Building target platforms: armv7l-tizen-linux\r\n"
+    ],
+    [
+      0.000017,
+      "[    1s] Building for target armv7l-tizen-linux\r\n"
+    ],
+    [
+      0.000005,
+      "[    1s] Executing(%prep): /bin/sh -e /var/tmp/rpm-tmp.qhpyHs\r\n"
+    ],
+    [
+      0.002007,
+      "[    1s] + umask 022\r\n"
+    ],
+    [
+      0.000013,
+      "[    1s] + cd /home/abuild/rpmbuild/BUILD\r\n[    1s] + cd /home/abuild/rpmbuild/BUILD\r\n"
+    ],
+    [
+      0.000011,
+      "[    1s] + rm -rf bc-1.06"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.001316,
+      "[    1s] + /bin/bzip2 -dc /home/abuild/rpmbuild/SOURCES/bc-1.06.tar.bz2\r\n"
+    ],
+    [
+      0.000021,
+      "[    1s] + /bin/tar -xf -\r\n"
+    ],
+    [
+      0.030102,
+      "[    1s] + STATUS=0\r\n"
+    ],
+    [
+      0.000016,
+      "[    1s] + '[' 0 -ne 0 ']'\r\n[    1s] + cd bc-1.06\r\n"
+    ],
+    [
+      0.000022,
+      "[    1s] + /bin/chmod -Rf a+rX,u+w,g-w,o-w ."
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.016343,
+      "[    1s] + echo 'Patch #0 (0001-flex.patch):'\r\n"
+    ],
+    [
+      0.000018,
+      "[    1s] Patch #0 (0001-flex.patch):\r\n"
+    ],
+    [
+      0.000231,
+      "[    1s] + /bin/cat /home/abuild/rpmbuild/SOURCES/0001-flex.patch\r\n"
+    ],
+    [
+      0.000238,
+      "[    1s] + /bin/patch -p1 --fuzz=2\r\n"
+    ],
+    [
+      0.000745,
+      "[    1s] patching file bc/load.c\r\n"
+    ],
+    [
+      0.000136,
+      "[    1s] patching file bc/scan.l\r\n"
+    ],
+    [
+      0.000170,
+      "[    1s] patching file bc/util.c\r\n"
+    ],
+    [
+      0.000159,
+      "[    1s] patching file configure.in\r\n"
+    ],
+    [
+      0.000088,
+      "[    1s] patching file doc/bc.info\r\n"
+    ],
+    [
+      0.000393,
+      "[    1s] + echo 'Patch #1 (0002-decl.patch):'\r\n[    1s] Patch #1 (0002-decl.patch):"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000208,
+      "[    1s] + /bin/cat /home/abuild/rpmbuild/SOURCES/0002-decl.patch\r\n"
+    ],
+    [
+      0.000081,
+      "[    1s] + /bin/patch -p1 --fuzz=2\r\n"
+    ],
+    [
+      0.000691,
+      "[    1s] patching file lib/number.c\r\n"
+    ],
+    [
+      0.000433,
+      "[    1s] + echo 'Patch #2 (0003-strict-aliasing.patch):'\r\n"
+    ],
+    [
+      0.000012,
+      "[    1s] Patch #2 (0003-strict-aliasing.patch):\r\n"
+    ],
+    [
+      0.000226,
+      "[    1s] + /bin/cat /home/abuild/rpmbuild/SOURCES/0003-strict-aliasing.patch\r\n"
+    ],
+    [
+      0.000101,
+      "[    1s] + /bin/patch -p1 --fuzz=2\r\n"
+    ],
+    [
+      0.001034,
+      "[    1s] patching file dc/numeric.c\r\n"
+    ],
+    [
+      0.000503,
+      "[    1s] + echo 'Patch #3 (0004-getopt.patch):'\r\n"
+    ],
+    [
+      0.000011,
+      "[    1s] Patch #3 (0004-getopt.patch):\r\n"
+    ],
+    [
+      0.000221,
+      "[    1s] + /bin/cat /home/abuild/rpmbuild/SOURCES/0004-getopt.patch"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000094,
+      "[    1s] + /bin/patch -p1 --fuzz=2\r\n"
+    ],
+    [
+      0.000698,
+      "[    1s] patching file bc/main.c"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000450,
+      "[    1s] + echo 'Patch #4 (0005-opt-expression.patch):'\r\n"
+    ],
+    [
+      0.000010,
+      "[    1s] Patch #4 (0005-opt-expression.patch):\r\n"
+    ],
+    [
+      0.000283,
+      "[    1s] + /bin/cat /home/abuild/rpmbuild/SOURCES/0005-opt-expression.patch\r\n"
+    ],
+    [
+      0.000115,
+      "[    1s] + /bin/patch -p1 --fuzz=2\r\n"
+    ],
+    [
+      0.001073,
+      "[    1s] patching file bc/bc.y\r\n"
+    ],
+    [
+      0.000497,
+      "[    1s] + echo 'Patch #5 (HEAD-to-8e9df451c240be0d25660d92648fba5b48ace150.diff):'"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "[    1s] Patch #5 (HEAD-to-8e9df451c240be0d25660d92648fba5b48ace150.diff):"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000259,
+      "[    1s] + /bin/cat /home/abuild/rpmbuild/SOURCES/HEAD-to-8e9df451c240be0d25660d92648fba5b48ace150.diff\r\n"
+    ],
+    [
+      0.000082,
+      "[    1s] + /bin/patch -p1 --fuzz=2\r\n"
+    ],
+    [
+      0.000596,
+      "[    1s] patching file bc/main.c\r\n"
+    ],
+    [
+      0.000100,
+      "[    1s] patching file gbs-asan\r\n"
+    ],
+    [
+      0.000318,
+      "[    1s] + cp /home/abuild/rpmbuild/SOURCES/bc.manifest .\r\n"
+    ],
+    [
+      0.015951,
+      "[    1s] + exit 0\r\n"
+    ],
+    [
+      0.000274,
+      "[    1s] Executing(%build): /bin/sh -e /var/tmp/rpm-tmp.cPOoDK"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.002216,
+      "[    1s] + umask 022\r\n"
+    ],
+    [
+      0.000014,
+      "[    1s] + cd /home/abuild/rpmbuild/BUILD\r\n[    1s] + cd bc-1.06\r\n"
+    ],
+    [
+      0.000415,
+      "[    1s] ++ uname -m\r\n"
+    ],
+    [
+      0.016626,
+      "[    1s] + [[ armv7l == \\a\\a\\r\\c\\h\\6\\4 ]]\r\n"
+    ],
+    [
+      0.000054,
+      "[    1s] + LANG=C\r\n[    1s] + export LANG\r\n[    1s] + unset DISPLAY\r\n"
+    ],
+    [
+      0.000312,
+      "[    1s] + CFLAGS='-O2 -g2 -feliminate-unused-debug-types -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=32 -Wformat -Wformat-security -fmessage-length=0 -finline-functions -fdiagnostics-color=never -march=armv7-a -mtune=cortex-a8 -mlittle-endian -mfpu=neon -mfloat-abi=softfp -Wp,-D__SOFTFP__ -g'\r\n"
+    ],
+    [
+      0.000014,
+      "[    1s] + export CFLAGS\r\n"
+    ],
+    [
+      0.000011,
+      "[    1s] + CXXFLAGS='-O2 -g2 -feliminate-unused-debug-types -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=32 -Wformat -Wformat-security -fmessage-length=0 -finline-functions -fdiagnostics-color=never -march=armv7-a -mtune=cortex-a8 -mlittle-endian -mfpu=neon -mfloat-abi=softfp -Wp,-D__SOFTFP__ -g'\r\n"
+    ],
+    [
+      0.000038,
+      "[    1s] + export CXXFLAGS\r\n"
+    ],
+    [
+      0.000011,
+      "[    1s] + FFLAGS='-O2 -g2 -feliminate-unused-debug-types -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=32 -Wformat -Wformat-security -fmessage-length=0 -finline-functions -fdiagnostics-color=never -march=armv7-a -mtune=cortex-a8 -mlittle-endian -mfpu=neon -mfloat-abi=softfp -Wp,-D__SOFTFP__ -g -I%_fmoddir'"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "[    1s] + export FFLAGS\r\n"
+    ],
+    [
+      0.000010,
+      "[    1s] + LD_AS_NEEDED=1\r\n"
+    ],
+    [
+      0.000012,
+      "[    1s] + export LD_AS_NEEDED\r\n"
+    ],
+    [
+      0.000004,
+      "[    1s] + CFLAGS=-fsanitize=address\r\n"
+    ],
+    [
+      0.000325,
+      "[    1s] + CFLAGS=-fsanitize=address\r\n[    1s] + export CFLAGS\r\n[    1s] + CXXFLAGS='-O2 -g2 -feliminate-unused-debug-types -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=32 -Wformat -Wformat-security -fmessage-length=0 -finline-functions -fdiagnostics-color=never -march=armv7-a -mtune=cortex-a8 -mlittle-endian -mfpu=neon -mfloat-abi=softfp -Wp,-D__SOFTFP__ -g'\r\n[    1s] + export CXXFLAGS\r\n"
+    ],
+    [
+      0.000038,
+      "[    1s] + FFLAGS='-O2 -g2 -feliminate-unused-debug-types -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=32 -Wformat -Wformat-security -fmessage-length=0 -finline-functions -fdiagnostics-color=never -march=armv7-a -mtune=cortex-a8 -mlittle-endian -mfpu=neon -mfloat-abi=softfp -Wp,-D__SOFTFP__ -g -I%_fmoddir'"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000047,
+      "[    1s] + export FFLAGS\r\n"
+    ],
+    [
+      0.000005,
+      "[    1s] + autoreconf -v --install --force\r\n"
+    ],
+    [
+      2.006867,
+      "[    3s] autoreconf: Entering directory `.'\r\n"
+    ],
+    [
+      0.005776,
+      "[    3s] autoreconf: configure.in: not using Gettext\r\n"
+    ],
+    [
+      1.001954,
+      "[    4s] autoreconf: running: aclocal --force \r\n"
+    ],
+    [
+      0.528825,
+      "[    4s] aclocal: warning: autoconf input should be named 'configure.ac', not 'configure.in'\r\n"
+    ],
+    [
+      1.600402,
+      "[    6s] autoreconf: configure.in: tracing\r\n"
+    ],
+    [
+      1.068723,
+      "[    7s] autoreconf: configure.in: not using Libtool\r\n"
+    ],
+    [
+      0.000277,
+      "[    7s] autoreconf: running: /usr/bin/autoconf --force\r\n"
+    ],
+    [
+      1.835360,
+      "[    9s] autoreconf: running: /usr/bin/autoheader --force\r\n"
+    ],
+    [
+      0.535806,
+      "[    9s] autoheader: WARNING: Using auxiliary files such as `acconfig.h', `config.h.bot'\r\n"
+    ],
+    [
+      0.000018,
+      "[    9s] autoheader: WARNING: and `config.h.top', to define templates for `config.h.in'\r\n[    9s] autoheader: WARNING: is deprecated and discouraged."
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000026,
+      "[    9s] autoheader: "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000041,
+      "[    9s] autoheader: WARNING: Using the third argument of `AC_DEFINE' and\r\n"
+    ],
+    [
+      0.000010,
+      "[    9s] autoheader: WARNING: `AC_DEFINE_UNQUOTED' allows one to define a template without"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000037,
+      "[    9s] autoheader: WARNING: `acconfig.h':"
+    ],
+    [
+      0.000010,
+      "\r\n[    9s] autoheader: "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000042,
+      "[    9s] autoheader: WARNING:   AC_DEFINE([NEED_FUNC_MAIN], 1,\r\n"
+    ],
+    [
+      0.000010,
+      "[    9s] autoheader: "
+    ],
+    [
+      0.000008,
+      "\u0009\u0009"
+    ],
+    [
+      0.000008,
+      "[Define if a function `main' is needed.])"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000090,
+      "[    9s] autoheader: \r\n[    9s] autoheader: WARNING: More sophisticated templates can also be produced, see the\r\n"
+    ],
+    [
+      0.000013,
+      "[    9s] autoheader: WARNING: documentation.\r\n"
+    ],
+    [
+      0.964776,
+      "[   10s] autoreconf: running: automake --add-missing --copy --force-missing\r\n"
+    ],
+    [
+      0.826488,
+      "[   11s] automake: warning: autoconf input should be named 'configure.ac', not 'configure.in'\r\n"
+    ],
+    [
+      1.237510,
+      "[   12s] configure.in:3: warning: AM_INIT_AUTOMAKE: two- and three-arguments forms are deprecated.  For more info, see:\r\n"
+    ],
+    [
+      0.000017,
+      "[   12s] configure.in:3: http://www.gnu.org/software/automake/manual/automake.html#Modernize-AM_005fINIT_005fAUTOMAKE-invocation\r\n"
+    ],
+    [
+      0.039647,
+      "[   12s] configure.in:12: installing './compile'\r\n"
+    ],
+    [
+      0.478005,
+      "[   13s] bc/Makefile.am:14: warning: 'INCLUDES' is the old name for 'AM_CPPFLAGS' (or '*_CPPFLAGS')\r\n"
+    ],
+    [
+      0.121324,
+      "[   13s] bc/Makefile.am: installing './depcomp'\r\n"
+    ],
+    [
+      0.042957,
+      "[   13s] automake: warning: autoconf input should be named 'configure.ac', not 'configure.in'\r\n"
+    ],
+    [
+      0.000664,
+      "[   13s] bc/Makefile.am:21: warning: 'CFLAGS' is a user variable, you should not override it;\r\n[   13s] bc/Makefile.am:21: use 'AM_CFLAGS' instead\r\n"
+    ],
+    [
+      0.034837,
+      "[   13s] configure.in: installing './ylwrap'\r\n"
+    ],
+    [
+      0.015447,
+      "[   13s] bc/Makefile.am:19: warning: 'YFLAGS' is a user variable, you should not override it;\r\n[   13s] bc/Makefile.am:19: use 'AM_YFLAGS' instead\r\n"
+    ],
+    [
+      0.229071,
+      "[   13s] dc/Makefile.am:7: warning: 'INCLUDES' is the old name for 'AM_CPPFLAGS' (or '*_CPPFLAGS')\r\n"
+    ],
+    [
+      0.140334,
+      "[   13s] dc/Makefile.am:12: warning: 'CFLAGS' is a user variable, you should not override it;\r\n[   13s] dc/Makefile.am:12: use 'AM_CFLAGS' instead\r\n"
+    ],
+    [
+      0.614752,
+      "[   14s] lib/Makefile.am:4: warning: 'INCLUDES' is the old name for 'AM_CPPFLAGS' (or '*_CPPFLAGS')\r\n"
+    ],
+    [
+      0.136147,
+      "[   14s] lib/Makefile.am:10: warning: 'CFLAGS' is a user variable, you should not override it;\r\n[   14s] lib/Makefile.am:10: use 'AM_CFLAGS' instead\r\n"
+    ],
+    [
+      0.221410,
+      "[   14s] autoreconf: Leaving directory `.'\r\n"
+    ],
+    [
+      0.013170,
+      "[   14s] + ./configure --build=armv7l-tizen-linux-gnueabi --host=armv7l-tizen-linux-gnueabi --program-prefix= --prefix=/usr --exec-prefix=/usr --bindir=/usr/bin --sbindir=/usr/sbin --sysconfdir=/etc --datadir=/usr/share --includedir=/usr/include --libdir=/usr/lib --libexecdir=/usr/libexec --localstatedir=/var --sharedstatedir=/usr/com --mandir=/usr/share/man --infodir=/usr/share/info --with-readline"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.446989,
+      "[   15s] checking for a BSD-compatible install... /bin/install -c"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.025071,
+      "[   15s] checking whether build environment is sane... yes"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.012771,
+      "[   15s] checking for a thread-safe mkdir -p... /bin/mkdir -p"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.001041,
+      "[   15s] checking for gawk... gawk"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.022119,
+      "[   15s] checking whether make sets $(MAKE)... yes"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.021393,
+      "[   15s] checking whether make supports nested variables... yes"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.011348,
+      "[   15s] checking for armv7l-tizen-linux-gnueabi-gcc... no"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000675,
+      "[   15s] checking for gcc... gcc"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.207719,
+      "[   15s] checking whether the C compiler works... yes"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000133,
+      "[   15s] checking for C compiler default output file name... a.out"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.087404,
+      "[   15s] checking for suffix of executables... "
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.138823,
+      "[   15s] checking whether we are cross compiling... no"
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ],
+    [
+      0.042644,
+      "[   15s] checking for suffix of object files... o"
+    ],
+    [
+      0.000032,
+      "\r\n"
+    ],
+    [
+      0.039309,
+      "[   15s] checking whether we are using the GNU C compiler... yes\r\n"
+    ],
+    [
+      0.038723,
+      "[   15s] checking whether gcc accepts -g... yes"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.049836,
+      "[   15s] checking for gcc option to accept ISO C89... none needed"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.067672,
+      "[   16s] checking whether gcc understands -c and -o together... yes\r\n"
+    ],
+    [
+      0.024161,
+      "[   16s] checking for style of include used by make... GNU\r\n"
+    ],
+    [
+      0.077728,
+      "[   16s] checking dependency style of gcc... gcc3\r\n"
+    ],
+    [
+      0.065234,
+      "[   16s] checking how to run the C preprocessor... gcc -E\r\n"
+    ],
+    [
+      0.068937,
+      "[   16s] checking for grep that handles long lines and -e... /bin/grep\r\n"
+    ],
+    [
+      0.002290,
+      "[   16s] checking for egrep... /bin/grep -E\r\n"
+    ],
+    [
+      0.254990,
+      "[   16s] checking for ANSI C header files... yes\r\n"
+    ],
+    [
+      0.046125,
+      "[   16s] checking for sys/types.h... yes\r\n"
+    ],
+    [
+      0.048041,
+      "[   16s] checking for sys/stat.h... yes\r\n"
+    ],
+    [
+      0.047889,
+      "[   16s] checking for stdlib.h... yes\r\n"
+    ],
+    [
+      0.048907,
+      "[   16s] checking for string.h... yes\r\n"
+    ],
+    [
+      0.050315,
+      "[   16s] checking for memory.h... yes\r\n"
+    ],
+    [
+      0.058101,
+      "[   16s] checking for strings.h... yes\r\n"
+    ],
+    [
+      0.059338,
+      "[   16s] checking for inttypes.h... yes\r\n"
+    ],
+    [
+      0.059582,
+      "[   16s] checking for stdint.h... yes\r\n"
+    ],
+    [
+      0.061493,
+      "[   17s] checking for unistd.h... yes\r\n"
+    ],
+    [
+      0.060586,
+      "[   17s] checking minix/config.h usability... no\r\n"
+    ],
+    [
+      0.034650,
+      "[   17s] checking minix/config.h presence... no\r\n"
+    ],
+    [
+      0.000172,
+      "[   17s] checking for minix/config.h... no\r\n"
+    ],
+    [
+      0.052953,
+      "[   17s] checking whether it is safe to define __EXTENSIONS__... yes\r\n"
+    ],
+    [
+      0.000824,
+      "[   17s] checking for flex... flex\r\n"
+    ],
+    [
+      0.075544,
+      "[   17s] checking lex output file root... lex.yy\r\n"
+    ],
+    [
+      0.584576,
+      "[   17s] checking lex library... -lfl\r\n"
+    ],
+    [
+      0.207101,
+      "[   18s] checking whether yytext is a pointer... yes\r\n"
+    ],
+    [
+      0.002083,
+      "[   18s] checking for bison... bison -y\r\n"
+    ],
+    [
+      0.000614,
+      "[   18s] checking for armv7l-tizen-linux-gnueabi-ranlib... no\r\n"
+    ],
+    [
+      0.000649,
+      "[   18s] checking for ranlib... ranlib\r\n"
+    ],
+    [
+      0.002614,
+      "[   18s] checking whether make sets $(MAKE)... (cached) yes\r\n"
+    ],
+    [
+      0.054813,
+      "[   18s] checking stdarg.h usability... yes\r\n"
+    ],
+    [
+      0.026695,
+      "[   18s] checking stdarg.h presence... yes\r\n"
+    ],
+    [
+      0.000168,
+      "[   18s] checking for stdarg.h... yes\r\n"
+    ],
+    [
+      0.060464,
+      "[   18s] checking stddef.h usability... yes\r\n"
+    ],
+    [
+      0.028984,
+      "[   18s] checking stddef.h presence... yes\r\n"
+    ],
+    [
+      0.000217,
+      "[   18s] checking for stddef.h... yes\r\n"
+    ],
+    [
+      0.006959,
+      "[   18s] checking for stdlib.h... (cached) yes\r\n"
+    ],
+    [
+      0.006776,
+      "[   18s] checking for string.h... (cached) yes\r\n"
+    ],
+    [
+      0.057459,
+      "[   18s] checking limits.h usability... yes\r\n"
+    ],
+    [
+      0.027605,
+      "[   18s] checking limits.h presence... yes\r\n"
+    ],
+    [
+      0.000170,
+      "[   18s] checking for limits.h... yes\r\n"
+    ],
+    [
+      0.006798,
+      "[   18s] checking for unistd.h... (cached) yes\r\n"
+    ],
+    [
+      0.060846,
+      "[   18s] checking lib.h usability... no\r\n"
+    ],
+    [
+      0.036740,
+      "[   18s] checking lib.h presence... no\r\n"
+    ],
+    [
+      0.000174,
+      "[   18s] checking for lib.h... no\r\n"
+    ],
+    [
+      0.048918,
+      "[   18s] checking for an ANSI C-conforming const... yes\r\n"
+    ],
+    [
+      0.107910,
+      "[   18s] checking for size_t... yes\r\n"
+    ],
+    [
+      0.110547,
+      "[   18s] checking for ptrdiff_t... yes\r\n"
+    ],
+    [
+      0.098505,
+      "[   18s] checking for vprintf... yes\r\n"
+    ],
+    [
+      0.250709,
+      "[   19s] checking for _doprnt... no\r\n"
+    ],
+    [
+      0.104312,
+      "[   19s] checking for isgraph... yes\r\n"
+    ],
+    [
+      0.103030,
+      "[   19s] checking for setvbuf... yes\r\n"
+    ],
+    [
+      0.097342,
+      "[   19s] checking for tparm in -lncurses... yes\r\n"
+    ],
+    [
+      0.099663,
+      "[   19s] checking for readline in -lreadline... yes\r\n"
+    ],
+    [
+      0.047106,
+      "[   19s] checking readline/readline.h usability... yes\r\n"
+    ],
+    [
+      0.025547,
+      "[   19s] checking readline/readline.h presence... yes\r\n"
+    ],
+    [
+      0.000228,
+      "[   19s] checking for readline/readline.h... yes\r\n"
+    ],
+    [
+      0.000172,
+      "[   19s] Using the readline library.\r\n"
+    ],
+    [
+      0.081970,
+      "[   19s] checking that generated files are newer than configure... done\r\n"
+    ],
+    [
+      0.000338,
+      "[   19s] configure: creating ./config.status\r\n"
+    ],
+    [
+      0.286135,
+      "[   19s] config.status: creating Makefile\r\n"
+    ],
+    [
+      0.069159,
+      "[   19s] config.status: creating bc/Makefile\r\n"
+    ],
+    [
+      0.068008,
+      "[   20s] config.status: creating dc/Makefile\r\n"
+    ],
+    [
+      0.071027,
+      "[   20s] config.status: creating doc/Makefile\r\n"
+    ],
+    [
+      0.074657,
+      "[   20s] config.status: creating lib/Makefile\r\n"
+    ],
+    [
+      0.068864,
+      "[   20s] config.status: creating config.h\r\n"
+    ],
+    [
+      0.112906,
+      "[   20s] config.status: executing depfiles commands\r\n"
+    ],
+    [
+      0.526572,
+      "[   20s] + rm bc/libmath.h\r\n"
+    ],
+    [
+      0.001088,
+      "[   20s] + sed -i 's|\\(^_PR.*readline.*$\\)|/* \\1 */|' bc/scan.l\r\n"
+    ],
+    [
+      0.003035,
+      "[   20s] + make\r\n"
+    ],
+    [
+      0.004730,
+      "[   20s] make  all-recursive\r\n"
+    ],
+    [
+      0.002311,
+      "[   20s] make[1]: Entering directory '/home/abuild/rpmbuild/BUILD/bc-1.06'\r\n"
+    ],
+    [
+      0.003108,
+      "[   20s] Making all in lib\r\n"
+    ],
+    [
+      0.001916,
+      "[   20s] make[2]: Entering directory '/home/abuild/rpmbuild/BUILD/bc-1.06/lib'\r\n"
+    ],
+    [
+      0.000016,
+      "[   20s] gcc -DHAVE_CONFIG_H  -I. -I.. -I. -I.. -I./../h    -fsanitize=address -Wall -funsigned-char -MT getopt.o -MD -MP -MF .deps/getopt.Tpo -c -o getopt.o getopt.c\r\n"
+    ],
+    [
+      0.037069,
+      "[   20s] mv -f .deps/getopt.Tpo .deps/getopt.Po\r\n"
+    ],
+    [
+      0.001204,
+      "[   20s] gcc -DHAVE_CONFIG_H  -I. -I.. -I. -I.. -I./../h    -fsanitize=address -Wall -funsigned-char -MT getopt1.o -MD -MP -MF .deps/getopt1.Tpo -c -o getopt1.o getopt1.c\r\n"
+    ],
+    [
+      0.033965,
+      "[   20s] mv -f .deps/getopt1.Tpo .deps/getopt1.Po\r\n"
+    ],
+    [
+      0.001438,
+      "[   20s] gcc -DHAVE_CONFIG_H  -I. -I.. -I. -I.. -I./../h    -fsanitize=address -Wall -funsigned-char -MT vfprintf.o -MD -MP -MF .deps/vfprintf.Tpo -c -o vfprintf.o vfprintf.c\r\n"
+    ],
+    [
+      0.037302,
+      "[   20s] mv -f .deps/vfprintf.Tpo .deps/vfprintf.Po\r\n"
+    ],
+    [
+      0.001253,
+      "[   20s] gcc -DHAVE_CONFIG_H  -I. -I.. -I. -I.. -I./../h    -fsanitize=address -Wall -funsigned-char -MT number.o -MD -MP -MF .deps/number.Tpo -c -o number.o number.c\r\n"
+    ],
+    [
+      0.038307,
+      "[   21s] number.c: In function '_bc_rec_mul':\r\n"
+    ],
+    [
+      0.000008,
+      "[   21s] number.c:763:14: warning: variable 'v0len' set but not used [-Wunused-but-set-variable]\r\n"
+    ],
+    [
+      0.000013,
+      "[   21s]    int u0len, v0len;"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "[   21s]               ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "[   21s] number.c:763:7: warning: variable 'u0len' set but not used [-Wunused-but-set-variable]\r\n"
+    ],
+    [
+      0.000005,
+      "[   21s]    int u0len, v0len;"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000025,
+      "[   21s]        ^\r\n"
+    ],
+    [
+      0.201795,
+      "[   21s] mv -f .deps/number.Tpo .deps/number.Po\r\n"
+    ],
+    [
+      0.001493,
+      "[   21s] rm -f libbc.a\r\n"
+    ],
+    [
+      0.000934,
+      "[   21s] ar cru libbc.a getopt.o getopt1.o vfprintf.o number.o \r\n"
+    ],
+    [
+      0.002303,
+      "[   21s] ranlib libbc.a\r\n"
+    ],
+    [
+      0.001397,
+      "[   21s] make[2]: Leaving directory '/home/abuild/rpmbuild/BUILD/bc-1.06/lib'\r\n"
+    ],
+    [
+      0.000318,
+      "[   21s] Making all in bc\r\n"
+    ],
+    [
+      0.004086,
+      "[   21s] make[2]: Entering directory '/home/abuild/rpmbuild/BUILD/bc-1.06/bc'\r\n"
+    ],
+    [
+      0.000015,
+      "[   21s] gcc -DHAVE_CONFIG_H -I. -I.. -I. -I./../h    -fsanitize=address -Wall -funsigned-char -MT main.o -MD -MP -MF .deps/main.Tpo -c -o main.o main.c\r\n"
+    ],
+    [
+      0.048228,
+      "[   21s] main.c: In function 'main':\r\n"
+    ],
+    [
+      0.000020,
+      "[   21s] main.c:165:20: warning: initialization makes integer from pointer without a cast\r\n"
+    ],
+    [
+      0.000006,
+      "[   21s]    char test_char = env_argv[30];"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "[   21s]                     ^"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000288,
+      "[   21s] main.c:165:8: warning: unused variable 'test_char' [-Wunused-variable]\r\n"
+    ],
+    [
+      0.000015,
+      "[   21s]    char test_char = env_argv[30];"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "[   21s]         ^"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000112,
+      "[   21s] main.c: In function 'open_new_file':\r\n"
+    ],
+    [
+      0.000020,
+      "[   21s] main.c:297:12: warning: variable 'tmp' set but not used [-Wunused-but-set-variable]"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "[   21s]        char tmp;"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "[   21s]             ^"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.032591,
+      "[   21s] mv -f .deps/main.Tpo .deps/main.Po\r\n"
+    ],
+    [
+      0.001518,
+      "[   21s] /bin/sh ../ylwrap bc.y y.tab.c bc.c y.tab.h `echo bc.c | sed -e s/cc$/hh/ -e s/cpp$/hpp/ -e s/cxx$/hxx/ -e s/c++$/h++/ -e s/c$/h/` y.output bc.output -- bison -y  -d\r\n"
+    ],
+    [
+      0.059590,
+      "[   21s] /home/abuild/rpmbuild/BUILD/bc-1.06/bc/bc.y:82.26: warning: stray ',' treated as white space\r\n"
+    ],
+    [
+      0.000143,
+      "[   21s] /home/abuild/rpmbuild/BUILD/bc-1.06/bc/bc.y:82.32: warning: stray ',' treated as white space\r\n"
+    ],
+    [
+      0.000199,
+      "[   21s] /home/abuild/rpmbuild/BUILD/bc-1.06/bc/bc.y:82.38: warning: stray ',' treated as white space\r\n"
+    ],
+    [
+      0.000095,
+      "[   21s] /home/abuild/rpmbuild/BUILD/bc-1.06/bc/bc.y:82.48: warning: stray ',' treated as white space\r\n"
+    ],
+    [
+      0.000078,
+      "[   21s] /home/abuild/rpmbuild/BUILD/bc-1.06/bc/bc.y:82.55: warning: stray ',' treated as white space\r\n"
+    ],
+    [
+      0.030790,
+      "[   21s] conflicts: 3 shift/reduce\r\n"
+    ],
+    [
+      0.090425,
+      "[   21s] updating bc.h\r\n"
+    ],
+    [
+      0.002004,
+      "[   21s] gcc -DHAVE_CONFIG_H -I. -I.. -I. -I./../h    -fsanitize=address -Wall -funsigned-char -MT bc.o -MD -MP -MF .deps/bc.Tpo -c -o bc.o bc.c\r\n"
+    ],
+    [
+      0.148923,
+      "[   21s] mv -f .deps/bc.Tpo .deps/bc.Po\r\n"
+    ],
+    [
+      0.001436,
+      "[   21s] /bin/sh ../ylwrap scan.l lex.yy.c scan.c -- flex -I -8  \r\n"
+    ],
+    [
+      0.094384,
+      "[   21s] gcc -DHAVE_CONFIG_H -I. -I.. -I. -I./../h    -fsanitize=address -Wall -funsigned-char -MT scan.o -MD -MP -MF .deps/scan.Tpo -c -o scan.o scan.c\r\n"
+    ],
+    [
+      0.048069,
+      "[   21s] scan.l: In function 'yylex':\r\n"
+    ],
+    [
+      0.000020,
+      "[   21s] scan.l:319:18: warning: pointer targets in assignment differ in signedness [-Wpointer-sign]\r\n"
+    ],
+    [
+      0.000006,
+      "[   21s]         for (look = yytext; *look != 0; look++)\r\n"
+    ],
+    [
+      0.000006,
+      "[   21s]                   ^\r\n"
+    ],
+    [
+      0.000093,
+      "[   21s] scan.l:335:12: warning: pointer targets in assignment differ in signedness [-Wpointer-sign]\r\n"
+    ],
+    [
+      0.000015,
+      "[   21s]         src = yytext;\r\n"
+    ],
+    [
+      0.000013,
+      "[   21s]             ^\r\n"
+    ],
+    [
+      0.000013,
+      "[   21s] scan.l:336:12: warning: pointer targets in assignment differ in signedness [-Wpointer-sign]\r\n"
+    ],
+    [
+      0.000010,
+      "[   21s]         dst = yytext;"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "[   21s]             ^\r\n"
+    ],
+    [
+      0.002226,
+      "[   21s] scan.l: At top level:\r\n"
+    ],
+    [
+      0.000110,
+      "[   21s] scan.c:1813:17: warning: 'yyunput' defined but not used [-Wunused-function]\r\n"
+    ],
+    [
+      0.000022,
+      "[   21s]      static void yyunput (int c, register char * yy_bp )"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "[   21s]                  ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.122363,
+      "[   21s] mv -f .deps/scan.Tpo .deps/scan.Po\r\n"
+    ],
+    [
+      0.001369,
+      "[   21s] gcc -DHAVE_CONFIG_H -I. -I.. -I. -I./../h    -fsanitize=address -Wall -funsigned-char -MT execute.o -MD -MP -MF .deps/execute.Tpo -c -o execute.o execute.c\r\n"
+    ],
+    [
+      0.145918,
+      "[   22s] mv -f .deps/execute.Tpo .deps/execute.Po\r\n"
+    ],
+    [
+      0.001077,
+      "[   22s] gcc -DHAVE_CONFIG_H -I. -I.. -I. -I./../h    -fsanitize=address -Wall -funsigned-char -MT load.o -MD -MP -MF .deps/load.Tpo -c -o load.o load.c\r\n"
+    ],
+    [
+      0.079528,
+      "[   22s] mv -f .deps/load.Tpo .deps/load.Po\r\n"
+    ],
+    [
+      0.001143,
+      "[   22s] gcc -DHAVE_CONFIG_H -I. -I.. -I. -I./../h    -fsanitize=address -Wall -funsigned-char -MT storage.o -MD -MP -MF .deps/storage.Tpo -c -o storage.o storage.c\r\n"
+    ],
+    [
+      0.043546,
+      "[   22s] storage.c: In function 'process_params':\r\n"
+    ],
+    [
+      0.000019,
+      "[   22s] storage.c:997:11: warning: variable 'n_temp' set but not used [-Wunused-but-set-variable]\r\n"
+    ],
+    [
+      0.000005,
+      "[   22s]    bc_num *n_temp;\r\n"
+    ],
+    [
+      0.000004,
+      "[   22s]            ^\r\n"
+    ],
+    [
+      0.122132,
+      "[   22s] mv -f .deps/storage.Tpo .deps/storage.Po\r\n"
+    ],
+    [
+      0.001414,
+      "[   22s] gcc -DHAVE_CONFIG_H -I. -I.. -I. -I./../h    -fsanitize=address -Wall -funsigned-char -MT util.o -MD -MP -MF .deps/util.Tpo -c -o util.o util.c\r\n"
+    ],
+    [
+      0.135323,
+      "[   22s] mv -f .deps/util.Tpo .deps/util.Po\r\n"
+    ],
+    [
+      0.001544,
+      "[   22s] echo '{0}' \u003e libmath.h\r\n"
+    ],
+    [
+      0.001874,
+      "[   22s] make fbc\r\n"
+    ],
+    [
+      0.008319,
+      "[   22s] make[3]: Entering directory '/home/abuild/rpmbuild/BUILD/bc-1.06/bc'\r\n[   22s] gcc -DHAVE_CONFIG_H -I. -I.. -I. -I./../h    -fsanitize=address -Wall -funsigned-char -MT global.o -MD -MP -MF .deps/global.Tpo -c -o global.o global.c\r\n"
+    ],
+    [
+      0.041487,
+      "[   22s] mv -f .deps/global.Tpo .deps/global.Po\r\n"
+    ],
+    [
+      0.001064,
+      "[   22s] gcc  -fsanitize=address -Wall -funsigned-char   -o fbc main.o bc.o scan.o execute.o global.o load.o storage.o util.o ../lib/libbc.a -lfl -lreadline -lncurses \r\n"
+    ],
+    [
+      0.085753,
+      "[   22s] make[3]: Leaving directory '/home/abuild/rpmbuild/BUILD/bc-1.06/bc'\r\n"
+    ],
+    [
+      0.000123,
+      "[   22s] ./fbc -c ./libmath.b \u003c/dev/null \u003elibmath.h"
+    ],
+    [
+      0.000045,
+      "\r\n"
+    ],
+    [
+      0.044698,
+      "[   22s] =================================================================\r\n"
+    ],
+    [
+      0.000569,
+      "[   22s] ==22322==ERROR: AddressSanitizer: stack-buffer-overflow on address 0x408006f8 at pc 0x11fc1 bp 0x40800620 sp 0x40800624\r\n"
+    ],
+    [
+      0.000092,
+      "[   22s] READ of size 4 at 0x408006f8 thread T0\r\n"
+    ],
+    [
+      0.034830,
+      "[   22s]     #0 0x11fbf in main (/home/abuild/rpmbuild/BUILD/bc-1.06/bc/fbc+0x11fbf)\r\n"
+    ],
+    [
+      0.000265,
+      "[   22s]     #1 0x40db68f5 in __libc_start_main (/lib/libc.so.6+0x168f5)\r\n"
+    ],
+    [
+      0.000006,
+      "[   22s] \r\n"
+    ],
+    [
+      0.000423,
+      "[   22s] Address 0x408006f8 is located in stack of thread T0 at offset 152 in frame\r\n"
+    ],
+    [
+      0.007101,
+      "[   22s]     #0 0x11f27 in main (/home/abuild/rpmbuild/BUILD/bc-1.06/bc/fbc+0x11f27)\r\n"
+    ],
+    [
+      0.000006,
+      "[   22s] \r\n"
+    ],
+    [
+      0.000150,
+      "[   22s]   This frame has 1 object(s):\r\n"
+    ],
+    [
+      0.000199,
+      "[   22s]     [32, 152) 'env_argv' \u003c== Memory access at offset 152 overflows this variable\r\n"
+    ],
+    [
+      0.000006,
+      "[   22s] HINT: this may be a false positive if your program uses some custom stack unwind mechanism or swapcontext\r\n"
+    ],
+    [
+      0.000004,
+      "[   22s]       (longjmp and C++ exceptions *are* supported)\r\n"
+    ],
+    [
+      0.000242,
+      "[   22s] SUMMARY: AddressSanitizer: stack-buffer-overflow ??:0 main\r\n"
+    ],
+    [
+      0.000081,
+      "[   22s] Shadow bytes around the buggy address:\r\n"
+    ],
+    [
+      0.000172,
+      "[   22s]   0x28100080: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00\r\n"
+    ],
+    [
+      0.000104,
+      "[   22s]   0x28100090: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00\r\n"
+    ],
+    [
+      0.000090,
+      "[   22s]   0x281000a0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00\r\n"
+    ],
+    [
+      0.000092,
+      "[   22s]   0x281000b0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00\r\n"
+    ],
+    [
+      0.000107,
+      "[   22s]   0x281000c0: 00 00 00 00 00 00 00 00 00 00 00 00 f1 f1 f1 f1\r\n"
+    ],
+    [
+      0.000082,
+      "[   22s] =\u003e0x281000d0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00[f4]\r\n"
+    ],
+    [
+      0.000070,
+      "[   22s]   0x281000e0: f3 f3 f3 f3 00 00 00 00 00 00 00 00 00 00 00 00\r\n"
+    ],
+    [
+      0.000090,
+      "[   22s]   0x281000f0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000105,
+      "[   22s]   0x28100100: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00\r\n"
+    ],
+    [
+      0.000109,
+      "[   22s]   0x28100110: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000108,
+      "[   22s]   0x28100120: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00\r\n"
+    ],
+    [
+      0.000048,
+      "[   22s] Shadow byte legend (one shadow byte represents 8 application bytes):\r\n[   22s]   Addressable:           00"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000096,
+      "[   22s]   Partially addressable: 01 02 03 04 05 06 07 \r\n"
+    ],
+    [
+      0.000006,
+      "[   22s]   Heap left redzone:       fa\r\n"
+    ],
+    [
+      0.000058,
+      "[   22s]   Heap right redzone:      fb\r\n[   22s]   Freed heap region:       fd\r\n"
+    ],
+    [
+      0.000006,
+      "[   22s]   Stack left redzone:      f1\r\n"
+    ],
+    [
+      0.000047,
+      "[   22s]   Stack mid redzone:       f2\r\n"
+    ],
+    [
+      0.000005,
+      "[   22s]   Stack right redzone:     f3\r\n"
+    ],
+    [
+      0.000017,
+      "[   22s]   Stack partial redzone:   f4\r\n"
+    ],
+    [
+      0.000047,
+      "[   22s]   Stack after return:      f5\r\n"
+    ],
+    [
+      0.000006,
+      "[   22s]   Stack use after scope:   f8\r\n"
+    ],
+    [
+      0.000016,
+      "[   22s]   Global redzone:          f9"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000027,
+      "[   22s]   Global init order:       f6\r\n"
+    ],
+    [
+      0.000015,
+      "[   22s]   Poisoned by user:        f7"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "[   22s]   Contiguous container OOB:fc"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "[   22s]   ASan internal:           fe"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000032,
+      "[   22s] ==22322==ABORTING"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000661,
+      "[   22s] Makefile:613: recipe for target 'libmath.h' failed"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "[   22s] make[2]: *** [libmath.h] Error 1\r\n"
+    ],
+    [
+      0.000016,
+      "[   22s] make[2]: Leaving directory '/home/abuild/rpmbuild/BUILD/bc-1.06/bc'"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000546,
+      "[   22s] Makefile:352: recipe for target 'all-recursive' failed\r\n"
+    ],
+    [
+      0.000006,
+      "[   22s] make[1]: *** [all-recursive] Error 1\r\n"
+    ],
+    [
+      0.000004,
+      "[   22s] make[1]: Leaving directory '/home/abuild/rpmbuild/BUILD/bc-1.06'\r\n"
+    ],
+    [
+      0.000120,
+      "[   22s] Makefile:292: recipe for target 'all' failed"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "[   22s] make: *** [all] Error 2"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000267,
+      "[   22s] error: Bad exit status from /var/tmp/rpm-tmp.cPOoDK (%build)"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "[   22s] "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "[   22s] "
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "[   22s] RPM build errors:"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000036,
+      "[   22s]     Bad exit status from /var/tmp/rpm-tmp.cPOoDK (%build)\r\n"
+    ],
+    [
+      0.080056,
+      "\u001b[33mwarning: \u001b[0mbuild failed, Leaving the logs in /mnt/data/gbs/buildroot_aarch64/local/repos/tizen/armv7l/logs/fail/bc-1.06-0/log.txt\r\n"
+    ],
+    [
+      0.004269,
+      "\u001b[32minfo: \u001b[0m*** Build Status Summary ***\r\n=== the following packages failed to build due to rpmbuild issue (1) ===\r\nbc: /mnt/data/gbs/buildroot_aarch64/local/repos/tizen/armv7l/logs/fail/bc-1.06-0/log.txt\r\n=== Total succeeded built packages: (0) ===\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[32minfo: \u001b[0mgenerated html format report:\r\n     /mnt/data/gbs/buildroot_aarch64/local/repos/tizen/armv7l/index.html\r\n\u001b[32minfo: \u001b[0mgenerated RPM packages can be found from local repo:\r\n     /mnt/data/gbs/buildroot_aarch64/local/repos/tizen/armv7l/RPMS"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[32minfo: \u001b[0mgenerated source RPM packages can be found from local repo:\r\n     /mnt/data/gbs/buildroot_aarch64/local/repos/tizen/armv7l/SRPMS\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[32minfo: \u001b[0mbuild logs can be found in:\r\n"
+    ],
+    [
+      0.000007,
+      "     /mnt/data/gbs/buildroot_aarch64/local/repos/tizen/armv7l/logs\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[32minfo: \u001b[0mbuild roots located in:"
+    ],
+    [
+      0.000006,
+      "\r\n     /mnt/data/gbs/buildroot_aarch64/local/BUILD-ROOTS/scratch.armv7l.*"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.019951,
+      "\u001b[31merror: \u001b[0m\u003cgbs\u003esome packages failed to be built\r\n"
+    ],
+    [
+      0.010569,
+      "\u001b]0;user@tizen-tc-fastmodels: ~/git/tizen/platform/upstream/bc\u0007user@tizen-tc-fastmodels:~/git/tizen/platform/upstream/bc$ "
+    ],
+    [
+      2.888929,
+      "exit\r\n"
+    ]
+  ]
+}
