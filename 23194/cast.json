@@ -1,0 +1,334 @@
+{
+  "version": 1,
+  "width": 127,
+  "height": 37,
+  "duration": 15.240776,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.015584,
+      "\u001b(B\u001b[m"
+    ],
+    [
+      0.514499,
+      "\u001b[?1034h\u001b]2;/Users/gleb/git/chdir-promise\u0001\u0007\u001b]1;git/chdir-promise\u0007\u001b[1m\u001b[38;5;190m~/git/chdir-promise\u001b[38;5;256m on \u001b[38;5;141mmaster\u001b[38;5;256m\r\r\n"
+    ],
+    [
+      0.000018,
+      "$ \u001b(B\u001b[m"
+    ],
+    [
+      1.365923,
+      "n"
+    ],
+    [
+      0.087805,
+      "e"
+    ],
+    [
+      0.144098,
+      "x"
+    ],
+    [
+      0.143811,
+      "t"
+    ],
+    [
+      0.087659,
+      "-"
+    ],
+    [
+      0.207999,
+      "u"
+    ],
+    [
+      0.136285,
+      "p"
+    ],
+    [
+      0.080131,
+      "d"
+    ],
+    [
+      0.167935,
+      "a"
+    ],
+    [
+      0.159669,
+      "t"
+    ],
+    [
+      0.064355,
+      "e"
+    ],
+    [
+      0.039621,
+      " "
+    ],
+    [
+      0.216069,
+      "-"
+    ],
+    [
+      0.744216,
+      "m"
+    ],
+    [
+      0.895668,
+      " "
+    ],
+    [
+      0.352004,
+      "p"
+    ],
+    [
+      0.087998,
+      "r"
+    ],
+    [
+      0.024487,
+      "e"
+    ],
+    [
+      0.159770,
+      "-"
+    ],
+    [
+      0.175746,
+      "g"
+    ],
+    [
+      0.104318,
+      "i"
+    ],
+    [
+      0.087825,
+      "t"
+    ],
+    [
+      0.512114,
+      "\r\n"
+    ],
+    [
+      0.432608,
+      "next-update@0.9.0 - Tests if module's dependencies can be updated to the newer version without breaking the tests\r\n"
+    ],
+    [
+      0.045562,
+      "checking if the current state works\r\n"
+    ],
+    [
+      0.011932,
+      "  npm test"
+    ],
+    [
+      0.504354,
+      "\r\n\u003e chdir-promise@0.2.1 test /Users/gleb/git/chdir-promise\r\n\u003e node test/chdir-promise-spec.js\r\n\r\n"
+    ],
+    [
+      0.076657,
+      "in folder /Users/gleb/git/chdir-promise/test\r\n"
+    ],
+    [
+      0.000429,
+      "in folder /Users/gleb/git/chdir-promise/test\r\n"
+    ],
+    [
+      0.000209,
+      "in folder /Users/gleb/git/chdir-promise/test\r\n"
+    ],
+    [
+      0.000125,
+      "restored folder /Users/gleb/git/chdir-promise/test\r\n"
+    ],
+    [
+      0.000052,
+      "restored folder /Users/gleb/git/chdir-promise/test\r\n"
+    ],
+    [
+      0.000121,
+      "restored folder /Users/gleb/git/chdir-promise\r\n"
+    ],
+    [
+      0.008847,
+      "\u003e tests are passing at the start\r\n"
+    ],
+    [
+      0.000304,
+      "returning dependencies for\r\n"
+    ],
+    [
+      0.001401,
+      "[ 'pre-git' ]\r\n"
+    ],
+    [
+      0.003754,
+      "module's current dependencies:\r\n"
+    ],
+    [
+      0.000057,
+      "-------------------------------\r\nmodule            version  type\r\n----------------  -------  ----\r\ncheck-more-types  1.1.1    prod\r\ncheck-types       1.4.0    prod\r\nlazy-ass          0.5.3    prod\r\nq                 1.1.2    prod\r\nspots             0.4.0    prod\r\npre-git           0.6.0    dev \r\n\r\n"
+    ],
+    [
+      0.000778,
+      "only checking\r\n [ { type: 'dev', name: 'pre-git', version: '0.6.0' } ]\r\n"
+    ],
+    [
+      0.051135,
+      "checking NPM registry\r\n"
+    ],
+    [
+      0.772133,
+      "\r\navailable updates:\r\n"
+    ],
+    [
+      0.001896,
+      "package  current  available  success %       successful updates  failed updates\r\n-------  -------  ---------  --------------  ------------------  --------------\r\npre-git  0.6.0    0.6.2      \u001b[92m100%\u001b[39m                   2               0\r\n\r\n"
+    ],
+    [
+      0.000136,
+      "update stats from \u001b[4mhttp://next-update.herokuapp.com\u001b[24m\r\n"
+    ],
+    [
+      0.002818,
+      "\r\ntesting pre-git@0.6.2\r\n"
+    ],
+    [
+      0.117868,
+      "stats: pre-git 0.6.0 -\u003e 0.6.2 success probability \u001b[92m100%\u001b[39m 2 success(es) 0 failure(s)\r\n"
+    ],
+    [
+      0.000698,
+      "  installing pre-git@0.6.2\r\n"
+    ],
+    [
+      1.492529,
+      "pre-git@0.6.2 installed successfully\r\n"
+    ],
+    [
+      0.000070,
+      "  npm test"
+    ],
+    [
+      0.310972,
+      "\r\n\u003e chdir-promise@0.2.1 test /Users/gleb/git/chdir-promise\r\n\u003e node test/chdir-promise-spec.js\r\n\r\n"
+    ],
+    [
+      0.073254,
+      "in folder /Users/gleb/git/chdir-promise/test\r\n"
+    ],
+    [
+      0.000527,
+      "in folder /Users/gleb/git/chdir-promise/test\r\n"
+    ],
+    [
+      0.000152,
+      "in folder /Users/gleb/git/chdir-promise/test\r\n"
+    ],
+    [
+      0.000117,
+      "restored folder /Users/gleb/git/chdir-promise/test\r\n"
+    ],
+    [
+      0.000064,
+      "restored folder /Users/gleb/git/chdir-promise/test\r\n"
+    ],
+    [
+      0.000113,
+      "restored folder /Users/gleb/git/chdir-promise\r\n"
+    ],
+    [
+      0.007151,
+      "\u001b[92mpre-git@0.6.2 works\u001b[39m\r\n"
+    ],
+    [
+      0.000932,
+      "  installing pre-git@0.6.0\r\n"
+    ],
+    [
+      0.718293,
+      "pre-git@0.6.0 installed successfully\r\n"
+    ],
+    [
+      0.000547,
+      "\r\n\u003e next updates:\r\n"
+    ],
+    [
+      0.000200,
+      "pre-git 0.6.0 -\u003e \u001b[92m0.6.2\u001b[39m\r\n"
+    ],
+    [
+      0.722354,
+      "Changelog for module \u001b[4mpre-git\u001b[24m repo \u001b[4mbahmutov/pre-git\u001b[24m from 0.6.0 to 0.6.2\r\n"
+    ],
+    [
+      0.000231,
+      "\r\n\u001b[1m\u001b[4m0.6.2\u001b[24m\u001b[22m\r\n"
+    ],
+    [
+      0.000030,
+      "  \u001b[1m52e2b20\u001b[22m: svg badges\r\n"
+    ],
+    [
+      0.000078,
+      "  \u001b[1m947f1e6\u001b[22m: Merge pull request #32 from PeterDaveHello/patch-1\r\n"
+    ],
+    [
+      0.000033,
+      "  \u001b[1m9d45061\u001b[22m: Use svg instead of png to get better image quality\r\n"
+    ],
+    [
+      0.000037,
+      "  \u001b[1m0670cd0\u001b[22m: added snapci build badge\r\n"
+    ],
+    [
+      0.000016,
+      "  \u001b[1m5d86ad9\u001b[22m: added global grunt\r\n"
+    ],
+    [
+      0.000323,
+      "  \u001b[1m3b8df89\u001b[22m: npm test calls grunt command\r\n"
+    ],
+    [
+      0.000037,
+      "\r\n\u001b[1m\u001b[4m0.6.1\u001b[24m\u001b[22m\r\n"
+    ],
+    [
+      0.000028,
+      "  \u001b[1m44dc9f6\u001b[22m: patch\r\n"
+    ],
+    [
+      0.000098,
+      "  \u001b[1m8713c49\u001b[22m: Merge pull request #30 from toekneestuck/master\r\n"
+    ],
+    [
+      0.000093,
+      "  \u001b[1md1bf13f\u001b[22m: Check if the task exited with an error and report an error\r\n"
+    ],
+    [
+      0.000026,
+      "  \u001b[1m0390ea0\u001b[22m: added note about -f to force the pre-commit hook\r\n"
+    ],
+    [
+      0.000157,
+      "\r\nReport generated by changed-log https://github.com/bahmutov/changed-log\r\n"
+    ],
+    [
+      0.000511,
+      "\u003e use the following command to install working versions\r\nnpm install --save-dev --save-exact pre-git@0.6.2\r\n"
+    ],
+    [
+      0.016091,
+      "\u001b]2;/Users/gleb/git/chdir-promise\u0001\u0007\u001b]1;git/chdir-promise\u0007\u001b[1m\u001b[38;5;190m~/git/chdir-promise\u001b[38;5;256m on \u001b[38;5;141mmaster\u001b[38;5;256m\r\r\n$ \u001b(B\u001b[m"
+    ],
+    [
+      3.284683,
+      "exit\r\n"
+    ]
+  ]
+}
