@@ -1,0 +1,934 @@
+{
+  "version": 1,
+  "width": 100,
+  "height": 40,
+  "duration": 33.352088,
+  "command": "tmux a",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/local/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.011868,
+      "\u001b[?1049h\u001b(B\u001b[m\u001b[?1l\u001b\u003e\u001b[H\u001b[2J\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[?1006l\u001b[?1005l\u001b[c\u001b]112\u0007\u001b]0;0:2:..t/talk/simple - \"Guillaume-SR-MBP.local\"\u0007\u001b[?25l\u001b[1;1H\u001b[K\r\n(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/simple\u001b(B\u001b[m\u003e\u001b[K\r\n[\u001b[31m\u001b[1m03:09:34 PM\u001b(B\u001b[m]%                                                                         [\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m]\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[38;5;16m\u001b[48;5;254m\u001b[1m 0 \u001b(B\u001b[m\u001b[38;5;254m\u001b[48;5;233m \u001b[38;5;244m  0 \u001b[38;5;240m \u001b[38;5;249m..each/platform   \u001b[38;5;231m \u001b[38;5;244m  1 \u001b[38;5;240m \u001b[93m..src/test/talk   \u001b[38;5;231m \u001b[38;5;233m\u001b[48;5;31m \u001b[38;5;117m2  \u001b[38;5;231m\u001b[1m..t/talk/simple \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m \u001b[38;5;244m  3 \u001b[38;5;240m \u001b[38;5;31m..src/test/ta\u001b[38;5;231m\u003e\u001b(B\u001b[m\u001b[40;1H\u001b[1;40r\u001b[H\u001b[3;16H\u001b[?12l\u001b[?25h\u001b[?1005h\u001b[?1006h\u001b[?1000h\u001b[?1h\u001b="
+    ],
+    [
+      0.108158,
+      "\u001b[?25l\u001b[40;1H\u001b[38;5;16m\u001b[48;5;254m\u001b[1m 0 \u001b(B\u001b[m\u001b[38;5;254m\u001b[48;5;233m \u001b[38;5;231m\u001b[7m\u003c\u001b(B\u001b[m\u001b[93m\u001b[48;5;233m   \u001b[38;5;231m \u001b[38;5;233m\u001b[48;5;31m \u001b[38;5;117m2  \u001b[38;5;231m\u001b[1m..t/talk/simple \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m\u003e\u001b[38;5;233m \u001b[32m 1.7 1.4 1.4\u001b[38;5;236m \u001b[38;5;247m\u001b[48;5;236m 2015-07-10\u001b[38;5;241m \u001b[38;5;252m\u001b[1m ⌚ 15:09\u001b(B\u001b[m\u001b[38;5;252m\u001b[48;5;236m \u001b[38;5;16m\u001b[48;5;252m\u001b[1m  Guillaume-SR-MBP.local \u001b(B\u001b[m\u001b[3;16H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.880299,
+      "\u001b[1;39r\u001b[H\u001b[3;16Hc\u001b[1;40r\u001b[H\u001b[3;17H"
+    ],
+    [
+      0.044652,
+      "\u001b[1;39r\u001b[H\u001b[3;16Hca\u001b[1;40r\u001b[H\u001b[3;18H"
+    ],
+    [
+      0.178958,
+      "\u001b[1;39r\u001b[H\u001b[3;18Ht\u001b[1;40r\u001b[H\u001b[3;19H"
+    ],
+    [
+      0.104000,
+      "\u001b[1;39r\u001b[H\u001b[3;19H \u001b[1;40r\u001b[H\u001b[3;20H"
+    ],
+    [
+      0.168098,
+      "\u001b[1;39r\u001b[H\u001b[3;20Hm\u001b[1;40r\u001b[H\u001b[3;21H"
+    ],
+    [
+      0.103848,
+      "\u001b[1;39r\u001b[H\u001b[3;21Ha\u001b[1;40r\u001b[H\u001b[3;22H"
+    ],
+    [
+      0.087965,
+      "\u001b[1;39r\u001b[H\u001b[3;22Hi\u001b[1;40r\u001b[H\u001b[3;23H"
+    ],
+    [
+      0.063957,
+      "\u001b[1;39r\u001b[H\u001b[3;23Hn\u001b[1;40r\u001b[H\u001b[3;24H"
+    ],
+    [
+      0.104118,
+      "\u001b[1;39r\u001b[H\u001b[3;24H.\u001b[1;40r\u001b[H\u001b[3;25H"
+    ],
+    [
+      0.127925,
+      "\u001b[1;39r\u001b[H\u001b[3;25Hg\u001b[1;40r\u001b[H\u001b[3;26H"
+    ],
+    [
+      0.072097,
+      "\u001b[1;39r\u001b[H\u001b[3;26Ho\u001b[1;40r\u001b[H\u001b[3;27H"
+    ],
+    [
+      0.104284,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.002177,
+      "\u001b]0;0:2:cat - \"Guillaume-SR-MBP.local\"\u0007\u001b[?25l\u001b[40d\u001b[38;5;16m\u001b[48;5;254m\u001b[1m 0 \u001b(B\u001b[m\u001b[38;5;254m\u001b[48;5;233m \u001b[38;5;231m\u001b[7m\u003c\u001b(B\u001b[m\u001b[93m\u001b[48;5;233mrc/test/talk   \u001b[38;5;231m \u001b[38;5;233m\u001b[48;5;31m \u001b[38;5;117m2  \u001b[38;5;231m\u001b[1mcat \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m\u003e\u001b[38;5;233m \u001b[32m 1.7 1.4 1.4\u001b[38;5;236m \u001b[38;5;247m\u001b[48;5;236m 2015-07-10\u001b[38;5;241m \u001b[38;5;252m\u001b[1m ⌚ 15:09\u001b(B\u001b[m\u001b[38;5;252m\u001b[48;5;236m \u001b[38;5;16m\u001b[48;5;252m\u001b[1m  Guillaume-SR-MBP.local \u001b(B\u001b[m\u001b[4;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002007,
+      "\u001b[1;39r\u001b[H\u001b[3Bpackage main\u001b[6;1Himport (\n\"log\"\u001b[8;9H\"math/rand\"\u001b[9;9H\"net\"\u001b[10;9H\"net/http\"\u001b[11;9H\"net/http/httputil\"\u001b[12;9H\"net/url\"\u001b[13;9H\"time\"\r\n)\u001b[16;1H// NewMultipleHostReverseProxy creates a reverse proxy that will randomly\r\n// select a host from the passed `targets`\r\nfunc NewMultipleHostReverseProxy(targets []*url.URL) *httputil.ReverseProxy {\u001b[19;9Hdirector := func(req *http.Request) {\u001b[20;17Htarget := targets[rand.Int()%len(targets)]\u001b[21;17Hreq.URL.Scheme = target.Scheme\u001b[22;17Hreq.URL.Host = target.Host\u001b[23;17Hreq.URL.Path = target.Path\u001b[24;9H}\u001b[25;9Hreturn \u0026httputil.ReverseProxy{\u001b[26;17HDirector: director,\u001b[27;17HTransport: \u0026http.Transport{\u001b[28;25HProxy: http.ProxyFromEnvironment,\u001b[29;25HDial: func(network, addr string) (net.Conn, error) {\u001b[30;33Hprintln(\"CALLING DIAL\")\u001b[31;33Hconn, err := (\u0026net.Dialer{\u001b[32;41HTimeout:   30 * time.Second,\u001b[33;41HKeepAlive: 30 * time.Second,\u001b[34;33H}).Dial(network, addr)\u001b[35;33Hif err != nil {\u001b[36;41Hprintln(\"Error during DIAL:\", err.Error())\u001b[37;33H}\u001b[38;33Hreturn "
+    ],
+    [
+      0.001176,
+      "conn, err\u001b[39;25H},\r\n\u001b[24CTLSHandshakeTimeout: 10 * time.Second,\r\n\u001b[16C},\r\n\u001b[8C}\r\n}\r\n\nfunc main() {\r\n\u001b[8Cprox\u001b[1;40r\u001b[H\u001b[39;13H\u001b[1;39r\u001b[H\u001b[39;13Hy := NewMultipleHostReverseProxy([]*url.URL{\r\n\u001b[16C{\r\n\u001b[24CScheme: \"http\",\r\n\u001b[24CHost:   \"localhost:9091\",\r\n\u001b[16C},\r\n\u001b[16C{\r\n\u001b[24CScheme: \"http\",\r\n\u001b[24CHost:   \"localhost:9092\",\r\n\u001b[16C},\r\n\u001b[8C})\r\n\u001b[8Clog.Fatal(http.ListenAndServe(\":9090\", proxy))\r\n}\r\n\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                                                   \u001b[39;1H \u001b]0;0:2:..t/talk/simple - \"Guillaume-SR-MBP.local\"\u0007\u001b[?25l\u001b[40;1H\u001b[38;5;16m\u001b[48;5;254m\u001b[1m 0 \u001b(B\u001b[m\u001b[38;5;254m\u001b[48;5;233m \u001b[38;5;231m\u001b[7m\u003c\u001b(B\u001b[m\u001b[93m\u001b[48;5;233m   \u001b[38;5;231m \u001b[38;5;233m\u001b[48;5;31m \u001b[38;5;117m2  \u001b[38;5;231m\u001b[1m..t/talk/simple \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m\u003e\u001b[38;5;233m \u001b[32m 1.7 1.4 1.4\u001b[38;5;236m \u001b[38;5;247m\u001b[48;5;236m 2015-07-10\u001b[38;5;241m \u001b[38;5;252m\u001b[1m ⌚ 15:09\u001b(B\u001b[m\u001b[38;5;252m\u001b[48;5;236m \u001b[38;5;16m\u001b[48;5;252m\u001b[1m  Guillaume-SR-MBP.lo"
+    ],
+    [
+      0.000052,
+      "cal \u001b(B\u001b[m\u001b[40;1H\u001b[1;40r\u001b[H\u001b[39d\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029053,
+      "\u001b[1;39r\u001b[H\u001b[39d\u001b[K\n(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/simple\u001b(B\u001b[m\u003e\r\n[\u001b[31m\u001b[1m03:09:39 PM\u001b(B\u001b[m]% \u001b[K\u001b[72C[\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m]\u001b[1;40r\u001b[H\u001b[39;16H\u001b[?1h\u001b="
+    ],
+    [
+      1.445979,
+      "\u001b[?25l\r\n\u001b[38;5;254m\u001b[48;5;31m\u001b[1m 0 \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m\u001b[7m\u003c\u001b(B\u001b[m\u001b[93m\u001b[48;5;233m   \u001b[38;5;231m \u001b[38;5;233m\u001b[48;5;31m \u001b[38;5;117m2  \u001b[38;5;231m\u001b[1m..t/talk/simple \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m\u003e\u001b[38;5;233m \u001b[32m 1.7 1.4 1.4\u001b[38;5;236m \u001b[38;5;247m\u001b[48;5;236m 2015-07-10\u001b[38;5;241m \u001b[38;5;252m\u001b[1m ⌚ 15:09\u001b(B\u001b[m\u001b[38;5;252m\u001b[48;5;236m \u001b[38;5;16m\u001b[48;5;252m\u001b[1m  Guillaume-SR-MBP.local \u001b(B\u001b[m\u001b[39;16H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.377509,
+      "\u001b[?25l\u001b[H                },                                                                          \u001b[30m\u001b[43m[37/520]\u001b[2;1H\u001b[39m\u001b[49m        })\u001b[K\r\n        log.Fatal(http.ListenAndServe(\":9090\", proxy))\u001b[K\r\n}\u001b[K\r\n\u001b[K\r\n(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/simple\u001b(B\u001b[m\u003e\u001b[K\r\n[\u001b[31m\u001b[1m03:09:27 PM\u001b(B\u001b[m]%                                                                         [\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m]\u001b[K\r\n\u001b[K\r\n(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/simple\u001b(B\u001b[m\u003e\u001b[K\r\n[\u001b[31m\u001b[1m03:09:27 PM\u001b(B\u001b[m]% cat                                                                     [\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m]\u001b[K\r\n\u001b[K\r\n(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/simple\u001b(B\u001b[m\u003e\u001b[K\r\n[\u001b[31m\u001b[1m03:09:27 PM\u001b(B\u001b[m]% cat                                                                     [\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m]\u001b[K\r\n\u001b[K\r\n(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m"
+    ],
+    [
+      0.000054,
+      "~/go/src/test/talk/simple\u001b(B\u001b[m\u003e\u001b[K\r\n[\u001b[31m\u001b[1m03:09:34 PM\u001b(B\u001b[m]%                                                                         [\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m]\u001b[K\r\n\u001b[K\r\n(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/simple\u001b(B\u001b[m\u003e\u001b[K\r\n[\u001b[31m\u001b[1m03:09:34 PM\u001b(B\u001b[m]% cat main.go                                                             [\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m]\u001b[K\r\npackage main\u001b[K\r\n\u001b[K\r\nimport (\u001b[K\r\n        \"log\"\u001b[K\r\n        \"math/rand\"\u001b[K\r\n        \"net\"\u001b[K\r\n        \"net/http\"\u001b[K\r\n        \"net/http/httputil\"\u001b[K\r\n        \"net/url\"\u001b[K\r\n        \"time\"\u001b[K\r\n)\u001b[K\r\n\u001b[K\r\n// NewMultipleHostReverseProxy creates a reverse proxy that will randomly\u001b[K\r\n// select a host from the passed `targets`\u001b[K\r\nfunc NewMultipleHostReverseProxy(targets []*url.URL) *httputil.ReverseProxy {\u001b[K\r\n        director := func(req *http.Request) {\u001b[K\r\n                target := targets[rand.Int()%len(targets)]\u001b[K\r\n                req.URL.Scheme = target.Scheme\u001b[K\r\n                req.URL.Host = targ"
+    ],
+    [
+      0.000320,
+      "et.Host\u001b[K\r\n                req.URL.Path = target.Path\u001b[K\r\n\u001b[38;5;16m\u001b[48;5;254m\u001b[1m 0 \u001b(B\u001b[m\u001b[38;5;254m\u001b[48;5;233m \u001b[38;5;231m\u001b[7m\u003c\u001b(B\u001b[m\u001b[93m\u001b[48;5;233m   \u001b[38;5;231m \u001b[38;5;233m\u001b[48;5;31m \u001b[38;5;117m2  \u001b[38;5;231m\u001b[1m..t/talk/simple \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m\u003e\u001b[38;5;233m \u001b[32m 1.7 1.4 1.4\u001b[38;5;236m \u001b[38;5;247m\u001b[48;5;236m 2015-07-10\u001b[38;5;241m \u001b[38;5;252m\u001b[1m ⌚ 15:09\u001b(B\u001b[m\u001b[38;5;252m\u001b[48;5;236m \u001b[38;5;16m\u001b[48;5;252m\u001b[1m  Guillaume-SR-MBP.local \u001b(B\u001b[m\u001b[39;16H\u001b[?12l\u001b[?25h\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.293101,
+      "\u001b[1;39r\u001b[H\u001b[1M\u001b[39d        }\u001b[K\u001b[1;93H\u001b[30m\u001b[43m[36/520]\u001b[1;1H\u001b[39m\u001b[49m        })                                                                                  \r\n        log.Fatal(http.ListenAndServe(\":9090\", proxy))\u001b[K\u001b[38;1H                req.URL.Path = target.Path\u001b[K\u001b[1;40r\u001b[H\u001b[39;10H"
+    ],
+    [
+      0.251012,
+      "\u001b[1;39r\u001b[H\u001b[1M\u001b[39d        return \u0026httputil.ReverseProxy{\u001b[K\u001b[1;93H\u001b[30m\u001b[43m[35/520]\u001b[1;1H\u001b[39m\u001b[49m        log.Fatal(http.ListenAndServe(\":9090\", proxy))                                      \r\n}\u001b[K\u001b[38;1H        }\u001b[K\u001b[1;40r\u001b[H\u001b[39;16H"
+    ],
+    [
+      0.051301,
+      "\u001b[1;39r\u001b[H\u001b[1M\u001b[39d                Director: director,\u001b[K\u001b[1;93H\u001b[30m\u001b[43m[34/520]\u001b[1;1H\u001b[39m\u001b[49m}                                                                                           \r\n\u001b[K\u001b[38d        return \u0026httputil.ReverseProxy{\u001b[K\u001b[1;40r\u001b[H\u001b[39;16H"
+    ],
+    [
+      0.017829,
+      "\u001b[1;39r\u001b[H\u001b[1M\u001b[39d                Transport: \u0026http.Transport{\u001b[K\u001b[1;93H\u001b[30m\u001b[43m[33/520]\u001b[1;1H\u001b[39m\u001b[49m                                                                                            \r\n(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/simple\u001b(B\u001b[m\u003e\u001b[K\u001b[38;1H                Director: director,\u001b[K\u001b[1;40r\u001b[H\u001b[39;16H"
+    ],
+    [
+      0.032997,
+      "\u001b[1;39r\u001b[H\u001b[1M\u001b[39d                        Proxy: http.ProxyFromEnvironment,\u001b[K\u001b[1;93H\u001b[30m\u001b[43m[32/520]\u001b[1;1H\u001b[39m\u001b[49m(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/simple\u001b(B\u001b[m\u003e                                    \r\n[\u001b[31m\u001b[1m03:09:27 PM\u001b(B\u001b[m]%                                                                         [\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m]\u001b[K\u001b[38;1H                Transport: \u0026http.Transport{\u001b[K\u001b[1;40r\u001b[H\u001b[39;16H"
+    ],
+    [
+      0.048617,
+      "\u001b[1;39r\u001b[H\u001b[1M\u001b[39d                        Dial: func(network, addr string) (net.Conn, error) {\u001b[K\u001b[1;93H\u001b[30m\u001b[43m[31/520]\u001b[1;1H\u001b[39m\u001b[49m[\u001b[31m\u001b[1m03:09:27 PM\u001b(B\u001b[m]%                                                                         [\u001b[31m\u001b[1mFri \u001b(B\u001b[m\r\n\u001b[K\u001b[38d                        Proxy: http.ProxyFromEnvironment,\u001b[K\u001b[1;40r\u001b[H\u001b[39;16H"
+    ],
+    [
+      0.020803,
+      "\u001b[1;39r\u001b[H\u001b[1M\u001b[39d                                println(\"CALLING DIAL\")\u001b[K\u001b[1;93H\u001b[30m\u001b[43m[30/520]\u001b[1;1H\u001b[39m\u001b[49m                                                                                            \r\n(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/simple\u001b(B\u001b[m\u003e\u001b[K\u001b[38;1H                        Dial: func(network, addr string) (net.Conn, error) {\u001b[K\u001b[1;40r\u001b[H\u001b[39;16H"
+    ],
+    [
+      0.033334,
+      "\u001b[1;39r\u001b[H\u001b[1M\u001b[39d                                conn, err := (\u0026net.Dialer{\u001b[K\u001b[1;93H\u001b[30m\u001b[43m[29/520]\u001b[1;1H\u001b[39m\u001b[49m(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/simple\u001b(B\u001b[m\u003e                                    \r\n[\u001b[31m\u001b[1m03:09:27 PM\u001b(B\u001b[m]% cat                                                                     [\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m]\u001b[K\u001b[38;1H                                println(\"CALLING DIAL\")\u001b[K\u001b[1;40r\u001b[H\u001b[39;16H"
+    ],
+    [
+      0.034490,
+      "\u001b[1;39r\u001b[H\u001b[1M\u001b[39d                                        Timeout:   30 * time.Second,\u001b[K\u001b[1;93H\u001b[30m\u001b[43m[28/520]\u001b[1;1H\u001b[39m\u001b[49m[\u001b[31m\u001b[1m03:09:27 PM\u001b(B\u001b[m]% cat                                                                     [\u001b[31m\u001b[1mFri \u001b(B\u001b[m\r\n\u001b[K\u001b[38d                                conn, err := (\u0026net.Dialer{\u001b[K\u001b[1;40r\u001b[H\u001b[39;16H"
+    ],
+    [
+      0.034475,
+      "\u001b[1;39r\u001b[H\u001b[1M\u001b[39d                                        KeepAlive: 30 * time.Second,\u001b[K\u001b[1;93H\u001b[30m\u001b[43m[27/520]\u001b[1;1H\u001b[39m\u001b[49m                                                                                            \r\n(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/simple\u001b(B\u001b[m\u003e\u001b[K\u001b[38;1H                                        Timeout:   30 * time.Second,\u001b[K\u001b[1;40r\u001b[H\u001b[39;16H"
+    ],
+    [
+      0.040340,
+      "\u001b[1;39r\u001b[H\u001b[1M\u001b[39d                                }).Dial(network, addr)\u001b[K\u001b[1;93H\u001b[30m\u001b[43m[26/520]\u001b[1;1H\u001b[39m\u001b[49m(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/simple\u001b(B\u001b[m\u003e                                    \r\n[\u001b[31m\u001b[1m03:09:27 PM\u001b(B\u001b[m]% cat                                                                     [\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m]\u001b[K\u001b[38;1H                                        KeepAlive: 30 * time.Second,\u001b[K\u001b[1;40r\u001b[H\u001b[39;16H"
+    ],
+    [
+      0.028465,
+      "\u001b[1;39r\u001b[H\u001b[1M\u001b[39d                                if err != nil {\u001b[K\u001b[1;93H\u001b[30m\u001b[43m[25/520]\u001b[1;1H\u001b[39m\u001b[49m[\u001b[31m\u001b[1m03:09:27 PM\u001b(B\u001b[m]% cat                                                                     [\u001b[31m\u001b[1mFri \u001b(B\u001b[m\r\n\u001b[K\u001b[38d                                }).Dial(network, addr)\u001b[K\u001b[1;40r\u001b[H\u001b[39;16H"
+    ],
+    [
+      0.033660,
+      "\u001b[1;39r\u001b[H\u001b[1M\u001b[39d                                        println(\"Error during DIAL:\", err.Error())\u001b[K\u001b[1;93H\u001b[30m\u001b[43m[24/520]\u001b[1;1H\u001b[39m\u001b[49m                                                                                            \r\n(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/simple\u001b(B\u001b[m\u003e\u001b[K\u001b[38;1H                                if err != nil {\u001b[K\u001b[1;40r\u001b[H\u001b[39;16H"
+    ],
+    [
+      0.034344,
+      "\u001b[1;39r\u001b[H\u001b[1M\u001b[39d                                }\u001b[K\u001b[1;93H\u001b[30m\u001b[43m[23/520]\u001b[1;1H\u001b[39m\u001b[49m(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/simple\u001b(B\u001b[m\u003e                                    \r\n[\u001b[31m\u001b[1m03:09:34 PM\u001b(B\u001b[m]%                                                                         [\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m]\u001b[K\u001b[38;1H                                        println(\"Error during DIAL:\", err.Error())\u001b[K\u001b[1;40r\u001b[H\u001b[39;16H"
+    ],
+    [
+      0.034599,
+      "\u001b[1;39r\u001b[H\u001b[1M\u001b[39d                                return conn, err\u001b[K\u001b[1;93H\u001b[30m\u001b[43m[22/520]\u001b[1;1H\u001b[39m\u001b[49m[\u001b[31m\u001b[1m03:09:34 PM\u001b(B\u001b[m]%                                                                         [\u001b[31m\u001b[1mFri \u001b(B\u001b[m\r\n\u001b[K\u001b[38d                                }\u001b[K\u001b[1;40r\u001b[H\u001b[39;16H"
+    ],
+    [
+      0.039924,
+      "\u001b[1;39r\u001b[H\u001b[1M\u001b[39d                        },\u001b[K\u001b[1;93H\u001b[30m\u001b[43m[21/520]\u001b[1;1H\u001b[39m\u001b[49m                                                                                            \r\n(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/simple\u001b(B\u001b[m\u003e\u001b[K\u001b[38;1H                                return conn, err\u001b[K\u001b[1;40r\u001b[H\u001b[39;16H"
+    ],
+    [
+      0.028312,
+      "\u001b[1;39r\u001b[H\u001b[1M\u001b[39d                        TLSHandshakeTimeout: 10 * time.Second,\u001b[K\u001b[1;93H\u001b[30m\u001b[43m[20/520]\u001b[1;1H\u001b[39m\u001b[49m(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/simple\u001b(B\u001b[m\u003e                                    \r\n[\u001b[31m\u001b[1m03:09:34 PM\u001b(B\u001b[m]% cat main.go                                                             [\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m]\u001b[K\u001b[38;1H                        },\u001b[K\u001b[1;40r\u001b[H\u001b[39;16H"
+    ],
+    [
+      0.034344,
+      "\u001b[1;39r\u001b[H\u001b[1M\u001b[39d                },\u001b[K\u001b[1;93H\u001b[30m\u001b[43m[19/520]\u001b[1;1H\u001b[39m\u001b[49m[\u001b[31m\u001b[1m03:09:34 PM\u001b(B\u001b[m]% cat main.go                                                             [\u001b[31m\u001b[1mFri \r\n\u001b(B\u001b[mpackage main\u001b[K\u001b[38;1H                        TLSHandshakeTimeout: 10 * time.Second,\u001b[K\u001b[1;40r\u001b[H\u001b[39;16H"
+    ],
+    [
+      0.034424,
+      "\u001b[1;39r\u001b[H\u001b[1M\u001b[39d        }\u001b[K\u001b[1;93H\u001b[30m\u001b[43m[18/520]\u001b[1;1H\u001b[39m\u001b[49mpackage main                                                                                \r\n\u001b[K\u001b[38d                },\u001b[K\u001b[1;40r\u001b[H\u001b[39;10H"
+    ],
+    [
+      0.034944,
+      "\u001b[1;39r\u001b[H\u001b[1M\u001b[39d}\u001b[K\u001b[1;93H\u001b[30m\u001b[43m[17/520]\u001b[1;1H\u001b[39m\u001b[49m                                                                                            \r\nimport (\u001b[K\u001b[38;1H        }\u001b[K\u001b[1;40r\u001b[H\u001b[39;2H"
+    ],
+    [
+      0.033973,
+      "\u001b[1;39r\u001b[H\u001b[1M\u001b[39d\u001b[K\u001b[1;93H\u001b[30m\u001b[43m[16/520]\u001b[1;1H\u001b[39m\u001b[49mimport (                                                                                    \r\n        \"log\"\u001b[K\u001b[38;1H}\u001b[K\u001b[1;40r\u001b[H\u001b[39d"
+    ],
+    [
+      0.033612,
+      "\u001b[1;39r\u001b[H\u001b[1M\u001b[39dfunc main() {\u001b[K\u001b[1;93H\u001b[30m\u001b[43m[15/520]\u001b[1;1H\u001b[39m\u001b[49m        \"log\"                                                                               \r\n        \"math/rand\"\u001b[K\u001b[38;1H\u001b[K\u001b[1;40r\u001b[H\u001b[39;14H"
+    ],
+    [
+      0.034126,
+      "\u001b[1;39r\u001b[H\u001b[1M\u001b[39d        proxy := NewMultipleHostReverseProxy([]*url.URL{\u001b[K\u001b[1;93H\u001b[30m\u001b[43m[14/520]\u001b[1;1H\u001b[39m\u001b[49m        \"math/rand\"                                                                         \r\n        \"net\"\u001b[K\u001b[38;1Hfunc main() {\u001b[K\u001b[1;40r\u001b[H\u001b[39;16H"
+    ],
+    [
+      0.034221,
+      "\u001b[1;39r\u001b[H\u001b[1M\u001b[39d                {\u001b[K\u001b[1;93H\u001b[30m\u001b[43m[13/520]\u001b[1;1H\u001b[39m\u001b[49m        \"net\"                                                                               \r\n        \"net/http\"\u001b[K\u001b[38;1H        proxy := NewMultipleHostReverseProxy([]*url.URL{\u001b[K\u001b[1;40r\u001b[H\u001b[39;16H"
+    ],
+    [
+      0.991423,
+      "\u001b[?25l\r\n\u001b[38;5;16m\u001b[48;5;254m\u001b[1m 0 \u001b(B\u001b[m\u001b[38;5;254m\u001b[48;5;233m \u001b[38;5;231m\u001b[7m\u003c\u001b(B\u001b[m\u001b[93m\u001b[48;5;233m   \u001b[38;5;231m \u001b[38;5;233m\u001b[48;5;31m \u001b[38;5;117m2  \u001b[38;5;231m\u001b[1m..t/talk/simple \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m\u003e\u001b[38;5;233m \u001b[32m 1.6 1.4 1.4\u001b[38;5;236m \u001b[38;5;247m\u001b[48;5;236m 2015-07-10\u001b[38;5;241m \u001b[38;5;252m\u001b[1m ⌚ 15:09\u001b(B\u001b[m\u001b[38;5;252m\u001b[48;5;236m \u001b[38;5;16m\u001b[48;5;252m\u001b[1m  Guillaume-SR-MBP.local \u001b(B\u001b[m\u001b[39;16H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.068004,
+      "\u001b[?25l\u001b[H                req.URL.Host = target.Host\u001b[K\r\n                req.URL.Path = target.Path\u001b[K\r\n        }\u001b[K\r\n        return \u0026httputil.ReverseProxy{\u001b[K\r\n                Director: director,\u001b[K\r\n                Transport: \u0026http.Transport{\u001b[K\r\n                        Proxy: http.ProxyFromEnvironment,\u001b[K\r\n                        Dial: func(network, addr string) (net.Conn, error) {\u001b[K\r\n                                println(\"CALLING DIAL\")\u001b[K\r\n                                conn, err := (\u0026net.Dialer{\u001b[K\r\n                                        Timeout:   30 * time.Second,\u001b[K\r\n                                        KeepAlive: 30 * time.Second,\u001b[K\r\n                                }).Dial(network, addr)\u001b[K\r\n                                if err != nil {\u001b[K\r\n                                        println(\"Error during DIAL:\", err.Error())\u001b[K\r\n                                }\u001b[K\r\n                                return conn, err\u001b[K\r\n                        },\u001b[K\r\n                        TLSHandshakeTimeout:"
+    ],
+    [
+      0.000048,
+      " 10 * time.Second,\u001b[K\r\n                },\u001b[K\r\n        }\u001b[K\r\n}\u001b[K\r\n\u001b[K\r\nfunc main() {\u001b[K\r\n        proxy := NewMultipleHostReverseProxy([]*url.URL{\u001b[K\r\n                {\u001b[K\r\n                        Scheme: \"http\",\u001b[K\r\n                        Host:   \"localhost:9091\",\u001b[K\r\n                },\u001b[K\r\n                {\u001b[K\r\n                        Scheme: \"http\",\u001b[K\r\n                        Host:   \"localhost:9092\",\u001b[K\r\n                },\u001b[K\r\n        })\u001b[K\r\n        log.Fatal(http.ListenAndServe(\":9090\", proxy))\u001b[K\r\n}\u001b[K\r\n\u001b[K\r\n(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/simple\u001b(B\u001b[m\u003e\u001b[K\r\n[\u001b[31m\u001b[1m03:09:39 PM\u001b(B\u001b[m]%                                                                         [\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m]\u001b[K\u001b[16G\u001b[?12l\u001b[?25h\u001b[?1h\u001b="
+    ],
+    [
+      0.272503,
+      "\u001b[1;39r\u001b[H\u001b[39;16Hg\u001b[1;40r\u001b[H\u001b[39;17H"
+    ],
+    [
+      0.071845,
+      "\u001b[1;39r\u001b[H\u001b[39;16Hgo\u001b[1;40r\u001b[H\u001b[39;18H"
+    ],
+    [
+      0.071890,
+      "\u001b[1;39r\u001b[H\u001b[39;18H \u001b[1;40r\u001b[H\u001b[39;19H"
+    ],
+    [
+      0.207938,
+      "\u001b[1;39r\u001b[H\u001b[39;19Ht\u001b[1;40r\u001b[H\u001b[39;20H"
+    ],
+    [
+      0.095883,
+      "\u001b[1;39r\u001b[H\u001b[39;20Hu\u001b[1;40r\u001b[H\u001b[39;21H"
+    ],
+    [
+      0.248030,
+      "\u001b[1;39r\u001b[H\u001b[39;20H \u001b[1;40r\u001b[H\u001b[39;20H"
+    ],
+    [
+      0.441699,
+      "\u001b[1;39r\u001b[H\u001b[39;19H \u001b[1;40r\u001b[H\u001b[39;19H"
+    ],
+    [
+      0.093877,
+      "\u001b[1;39r\u001b[H\u001b[39;19Hr\u001b[1;40r\u001b[H\u001b[39;20H"
+    ],
+    [
+      0.144385,
+      "\u001b[1;39r\u001b[H\u001b[39;20Hu\u001b[1;40r\u001b[H\u001b[39;21H"
+    ],
+    [
+      0.159559,
+      "\u001b[1;39r\u001b[H\u001b[39;21Hn\u001b[1;40r\u001b[H\u001b[39;22H"
+    ],
+    [
+      0.600473,
+      "\u001b[1;39r\u001b[H\u001b[39;22H \u001b[1;40r\u001b[H\u001b[39;23H"
+    ],
+    [
+      0.127689,
+      "\u001b[1;39r\u001b[H\u001b[39;23Hm\u001b[1;40r\u001b[H\u001b[39;24H"
+    ],
+    [
+      0.112380,
+      "\u001b[1;39r\u001b[H\u001b[39;24Ha\u001b[1;40r\u001b[H\u001b[39;25H"
+    ],
+    [
+      0.055831,
+      "\u001b[1;39r\u001b[H\u001b[39;25Hi\u001b[1;40r\u001b[H\u001b[39;26H"
+    ],
+    [
+      0.072138,
+      "\u001b[1;39r\u001b[H\u001b[39;26Hn\u001b[1;40r\u001b[H\u001b[39;27H"
+    ],
+    [
+      0.119293,
+      "\u001b[1;39r\u001b[H\u001b[39;27H.\u001b[1;40r\u001b[H\u001b[39;28H"
+    ],
+    [
+      0.144676,
+      "\u001b[1;39r\u001b[H\u001b[39;28Hg\u001b[1;40r\u001b[H\u001b[39;29H"
+    ],
+    [
+      0.096149,
+      "\u001b[1;39r\u001b[H\u001b[39;29Ho\u001b[1;40r\u001b[H\u001b[39;30H"
+    ],
+    [
+      0.103936,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000053,
+      "\u001b[1;39r\u001b[H\u001b[39d\n\u001b[1;40r\u001b[H\u001b[39d"
+    ],
+    [
+      0.002975,
+      "\u001b]0;0:2:go - \"Guillaume-SR-MBP.local\"\u0007\u001b[?25l\r\n\u001b[38;5;16m\u001b[48;5;254m\u001b[1m 0 \u001b(B\u001b[m\u001b[38;5;254m\u001b[48;5;233m \u001b[38;5;231m\u001b[7m\u003c\u001b(B\u001b[m\u001b[93m\u001b[48;5;233msrc/test/talk   \u001b[38;5;231m \u001b[38;5;233m\u001b[48;5;31m \u001b[38;5;117m2  \u001b[38;5;231m\u001b[1mgo \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m\u003e\u001b[38;5;233m \u001b[32m 1.6 1.4 1.4\u001b[38;5;236m \u001b[38;5;247m\u001b[48;5;236m 2015-07-10\u001b[38;5;241m \u001b[38;5;252m\u001b[1m ⌚ 15:09\u001b(B\u001b[m\u001b[38;5;252m\u001b[48;5;236m \u001b[38;5;16m\u001b[48;5;252m\u001b[1m  Guillaume-SR-MBP.local \u001b(B\u001b[m\u001b[39;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.166408,
+      "\u001b[?25l\r\n\u001b[38;5;254m\u001b[48;5;31m\u001b[1m 0 \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m\u001b[7m\u003c\u001b(B\u001b[m\u001b[93m\u001b[48;5;233msrc/test/talk   \u001b[38;5;231m \u001b[38;5;233m\u001b[48;5;31m \u001b[38;5;117m2  \u001b[38;5;231m\u001b[1mgo \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m\u003e\u001b[38;5;233m \u001b[32m 1.6 1.4 1.4\u001b[38;5;236m \u001b[38;5;247m\u001b[48;5;236m 2015-07-10\u001b[38;5;241m \u001b[38;5;252m\u001b[1m ⌚ 15:09\u001b(B\u001b[m\u001b[38;5;252m\u001b[48;5;236m \u001b[38;5;16m\u001b[48;5;252m\u001b[1m  Guillaume-SR-MBP.local \u001b(B\u001b[m\u001b[39;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.488393,
+      "\u001b[32m\u001b[13d────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[39m\u001b[22;1H────────────────────────────────────────────┬───────────────────────────────────────────────────────\u001b[23;45H│\u001b[24;45H│\u001b[25;45H│\u001b[26;45H│\u001b[27;45H│\u001b[28;45H│\u001b[29;45H│\u001b[30;45H│\u001b[31;45H│\u001b[32;45H│\u001b[33;45H│\u001b[34;45H│\u001b[35;45H│\u001b[36;45H│\u001b[37;45H│\u001b[38;45H│\u001b[39;45H│\u001b[?25l\u001b[H\u001b(B\u001b[m                },\u001b[K\r\n                {\u001b[K\r\n                        Scheme: \"http\",\u001b[K\r\n                        Host:   \"localhost:9092\",\u001b[K\r\n                },\u001b[K\r\n        })\u001b[K\r\n        log.Fatal(h"
+    ],
+    [
+      0.000044,
+      "ttp.ListenAndServe(\":9090\", proxy))\u001b[K\r\n}\u001b[K\r\n\u001b[K\r\n(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/simple\u001b(B\u001b[m\u003e\u001b[K\r\n[\u001b[31m\u001b[1m03:09:39 PM\u001b(B\u001b[m]% go run main.go                                                          [\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m]\u001b[K\r\n\u001b[K\u001b[2B\u001b[K\r\n(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/test\u001b(B\u001b[m\u003e\u001b[K\r\n[\u001b[31m\u001b[1m03:08:30 PM\u001b(B\u001b[m]%                                                                         [\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m]\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2B                                            \r\n(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/\u001b(B\u001b[m\r\n\u001b[36m\u001b[1mtalk/test\u001b(B\u001b[m\u003e                                  \r\n[\u001b[31m\u001b[1m03:09:14 PM\u001b(B\u001b[m]%                 [\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m] \r\n                                            \r\n                                            \r\n                                            \r\n                                            "
+    ],
+    [
+      0.000324,
+      "\r\n                                            \r\n                                            \r\n                                            \r\n                                            \r\n                                            \r\n                                            \r\n                                            \r\n                                            \r\n                                            \u001b[23;46H\u001b[K\n(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/test\u001b(B\u001b[m\u003e\u001b[K\u001b[25;46H[\u001b[31m\u001b[1m03:09:13 PM\u001b(B\u001b[m]%                            [\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m]\u001b[K\u001b[26;46H\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\r\n\u001b[38;5;16m\u001b[48;5;254m\u001b[1m 0 \u001b(B\u001b[m\u001b[38;5;254m\u001b[48;5;233m \u001b[38;5;231m\u001b[7m\u003c\u001b(B\u001b[m\u001b[93m\u001b[48;5;233msrc/test/talk   \u001b[38;5;231m \u001b[38;5;233m\u001b[48;5;31m \u001b[38;5;117m2  \u001b[38;5;231m\u001b[1mgo \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m\u003e\u001b[38;5;233m \u001b[32m 1.6 1.4 1.4\u001b[38;5;236m \u001b[38;5;247m\u001b[48;5;236m 2015-07-10\u001b[38;5;241m \u001b[38;"
+    ],
+    [
+      0.000240,
+      "5;252m\u001b[1m ⌚ 15:09\u001b(B\u001b[m\u001b[38;5;252m\u001b[48;5;236m \u001b[38;5;16m\u001b[48;5;252m\u001b[1m  Guillaume-SR-MBP.local \u001b(B\u001b[m\u001b[12;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.518654,
+      "\u001b[?25l\u001b[40d\u001b[38;5;254m\u001b[48;5;31m\u001b[1m 0 \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m\u001b[7m\u003c\u001b(B\u001b[m\u001b[93m\u001b[48;5;233msrc/test/talk   \u001b[38;5;231m \u001b[38;5;233m\u001b[48;5;31m \u001b[38;5;117m2  \u001b[38;5;231m\u001b[1mgo \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m\u003e\u001b[38;5;233m \u001b[32m 1.6 1.4 1.4\u001b[38;5;236m \u001b[38;5;247m\u001b[48;5;236m 2015-07-10\u001b[38;5;241m \u001b[38;5;252m\u001b[1m ⌚ 15:09\u001b(B\u001b[m\u001b[38;5;252m\u001b[48;5;236m \u001b[38;5;16m\u001b[48;5;252m\u001b[1m  Guillaume-SR-MBP.local \u001b(B\u001b[m\u001b[12;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.208221,
+      "\u001b[32m\r\n────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[22;1H────────────────────────────────────────────┬───────────────────────────────────────────────────────\u001b[39m\u001b[23;45H│\u001b[24;45H│\u001b[25;45H│\u001b[26;45H│\u001b[27;45H│\u001b[28;45H│\u001b[29;45H│\u001b[30;45H│\u001b[31;45H│\u001b[32;45H│\u001b[33;45H│\u001b[34;45H│\u001b[35;45H│\u001b[36;45H│\u001b[37;45H│\u001b[38;45H│\u001b[39;45H│\u001b[?25l\u001b[H\u001b(B\u001b[m                },\u001b[K\r\n                {\u001b[K\r\n                        Scheme: \"http\",\u001b[K\r\n                        Host:   \"localhost:9092\",\u001b[K\r\n                },\u001b[K\r\n        })\u001b[K\r\n        log.Fatal(http"
+    ],
+    [
+      0.000046,
+      ".ListenAndServe(\":9090\", proxy))\u001b[K\r\n}\u001b[K\r\n\u001b[K\r\n(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/simple\u001b(B\u001b[m\u003e\u001b[K\r\n[\u001b[31m\u001b[1m03:09:39 PM\u001b(B\u001b[m]% go run main.go                                                          [\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m]\u001b[K\r\n\u001b[K\u001b[2B\u001b[K\r\n(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/test\u001b(B\u001b[m\u003e\u001b[K\r\n[\u001b[31m\u001b[1m03:08:30 PM\u001b(B\u001b[m]%                                                                         [\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m]\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2B                                            \r\n(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/\u001b(B\u001b[m\r\n\u001b[36m\u001b[1mtalk/test\u001b(B\u001b[m\u003e                                  \r\n[\u001b[31m\u001b[1m03:09:14 PM\u001b(B\u001b[m]%                 [\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m] \r\n                                            \r\n                                            \r\n                                            \r\n                                            \r\n "
+    ],
+    [
+      0.000325,
+      "                                           \r\n                                            \r\n                                            \r\n                                            \r\n                                            \r\n                                            \r\n                                            \r\n                                            \r\n                                            \u001b[23;46H\u001b[K\n(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/test\u001b(B\u001b[m\u003e\u001b[K\u001b[25;46H[\u001b[31m\u001b[1m03:09:13 PM\u001b(B\u001b[m]%                            [\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m]\u001b[K\u001b[26;46H\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\r\n\u001b[38;5;16m\u001b[48;5;254m\u001b[1m 0 \u001b(B\u001b[m\u001b[38;5;254m\u001b[48;5;233m \u001b[38;5;231m\u001b[7m\u003c\u001b(B\u001b[m\u001b[93m\u001b[48;5;233msrc/test/talk   \u001b[38;5;231m \u001b[38;5;233m\u001b[48;5;31m \u001b[38;5;117m2  \u001b[38;5;231m\u001b[1mgo \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m\u003e\u001b[38;5;233m \u001b[32m 1.6 1.4 1.4\u001b[38;5;236m \u001b[38;5;247m\u001b[48;5;236m 2015-07-10\u001b[38;5;241m \u001b[38;5;2"
+    ],
+    [
+      0.000233,
+      "52m\u001b[1m ⌚ 15:09\u001b(B\u001b[m\u001b[38;5;252m\u001b[48;5;236m \u001b[38;5;16m\u001b[48;5;252m\u001b[1m  Guillaume-SR-MBP.local \u001b(B\u001b[m\u001b[16;16H\u001b[?12l\u001b[?25h\u001b[?1h\u001b="
+    ],
+    [
+      0.272864,
+      "\u001b[?25l\u001b[40;1H\u001b[38;5;254m\u001b[48;5;31m\u001b[1m 0 \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m\u001b[7m\u003c\u001b(B\u001b[m\u001b[93m\u001b[48;5;233msrc/test/talk   \u001b[38;5;231m \u001b[38;5;233m\u001b[48;5;31m \u001b[38;5;117m2  \u001b[38;5;231m\u001b[1mgo \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m\u003e\u001b[38;5;233m \u001b[32m 1.6 1.4 1.4\u001b[38;5;236m \u001b[38;5;247m\u001b[48;5;236m 2015-07-10\u001b[38;5;241m \u001b[38;5;252m\u001b[1m ⌚ 15:09\u001b(B\u001b[m\u001b[38;5;252m\u001b[48;5;236m \u001b[38;5;16m\u001b[48;5;252m\u001b[1m  Guillaume-SR-MBP.local \u001b(B\u001b[m\u001b[16;16H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.150656,
+      "\u001b[13;1H────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[32m\u001b[22;1H────────────────────────────────────────────┬\u001b[39m───────────────────────────────────────────────────────\u001b[32m\u001b[23;45H│\u001b[24;45H│\u001b[25;45H│\u001b[26;45H│\u001b[27;45H│\u001b[28;45H│\u001b[29;45H│\u001b[30;45H│\u001b[31;45H│\u001b[32;45H│\u001b[33;45H│\u001b[34;45H│\u001b[35;45H│\u001b[36;45H│\u001b[37;45H│\u001b[38;45H│\u001b[39;45H│\u001b[?25l\u001b[H\u001b(B\u001b[m                },\u001b[K\r\n                {\u001b[K\r\n                        Scheme: \"http\",\u001b[K\r\n                        Host:   \"localhost:9092\",\u001b[K\r\n                },\u001b[K\r\n        })\u001b[K\r\n        log."
+    ],
+    [
+      0.000048,
+      "Fatal(http.ListenAndServe(\":9090\", proxy))\u001b[K\r\n}\u001b[K\r\n\u001b[K\r\n(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/simple\u001b(B\u001b[m\u003e\u001b[K\r\n[\u001b[31m\u001b[1m03:09:39 PM\u001b(B\u001b[m]% go run main.go                                                          [\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m]\u001b[K\r\n\u001b[K\u001b[2B\u001b[K\r\n(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/test\u001b(B\u001b[m\u003e\u001b[K\r\n[\u001b[31m\u001b[1m03:08:30 PM\u001b(B\u001b[m]%                                                                         [\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m]\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2B                                            \r\n(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/\u001b(B\u001b[m\r\n\u001b[36m\u001b[1mtalk/test\u001b(B\u001b[m\u003e                                  \r\n[\u001b[31m\u001b[1m03:09:14 PM\u001b(B\u001b[m]%                 [\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m] \r\n                                            \r\n                                            \r\n                                            \r\n                                     "
+    ],
+    [
+      0.000329,
+      "       \r\n                                            \r\n                                            \r\n                                            \r\n                                            \r\n                                            \r\n                                            \r\n                                            \r\n                                            \r\n                                            \u001b[23;46H\u001b[K\n(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/test\u001b(B\u001b[m\u003e\u001b[K\u001b[25;46H[\u001b[31m\u001b[1m03:09:13 PM\u001b(B\u001b[m]%                            [\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m]\u001b[K\u001b[26;46H\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\r\n\u001b[38;5;16m\u001b[48;5;254m\u001b[1m 0 \u001b(B\u001b[m\u001b[38;5;254m\u001b[48;5;233m \u001b[38;5;231m\u001b[7m\u003c\u001b(B\u001b[m\u001b[93m\u001b[48;5;233msrc/test/talk   \u001b[38;5;231m \u001b[38;5;233m\u001b[48;5;31m \u001b[38;5;117m2  \u001b[38;5;231m\u001b[1mgo \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m\u003e\u001b[38;5;233m \u001b[32m 1.6 1.4 1.4\u001b[38;5;236m \u001b[38;5;247m\u001b[48;5;236m 2015-07-10\u001b[38;5;241m \ufffd"
+    ],
+    [
+      0.000234,
+      "\ufffd\ufffd\u001b[38;5;252m\u001b[1m ⌚ 15:09\u001b(B\u001b[m\u001b[38;5;252m\u001b[48;5;236m \u001b[38;5;16m\u001b[48;5;252m\u001b[1m  Guillaume-SR-MBP.local \u001b(B\u001b[m\u001b[26;16H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.005699,
+      "\u001b[23;39r\u001b[H\u001b[27dbck-i-search: _                             \u001b[1;40r\u001b[H\u001b[26;16H"
+    ],
+    [
+      0.231997,
+      "\u001b[23;39r\u001b[H\u001b[26;16Hgo run main.\u001b[4mg\u001b(B\u001b[mo 9091          \u001b[27;15Hg_\u001b[1;40r\u001b[H\u001b[26;28H"
+    ],
+    [
+      0.064019,
+      "\u001b[23;39r\u001b[H\u001b[26;28H\u001b[4mgo\u001b[27;16H\u001b(B\u001b[mo_\u001b[1;40r\u001b[H\u001b[26;28H"
+    ],
+    [
+      0.071696,
+      "\u001b[23;39r\u001b[H\u001b[26;29H\u001b[4mo \u001b[27;17H\u001b(B\u001b[m _\u001b[1;40r\u001b[H\u001b[26;28H"
+    ],
+    [
+      0.063536,
+      "\u001b[23;39r\u001b[H\u001b[26;16H\u001b[4mgo r\u001b[8C\u001b(B\u001b[mgo \u001b[27;18Hr_\u001b[1;40r\u001b[H\u001b[26;16H"
+    ],
+    [
+      0.096095,
+      "\u001b[23;39r\u001b[H\u001b[26;19H\u001b[4mru\u001b[27;19H\u001b(B\u001b[mu_\u001b[1;40r\u001b[H\u001b[26;16H"
+    ],
+    [
+      0.056217,
+      "\u001b[23;39r\u001b[H\u001b[26;20H\u001b[4mun\u001b[27;20H\u001b(B\u001b[mn_\u001b[1;40r\u001b[H\u001b[26;16H"
+    ],
+    [
+      0.239528,
+      "\u001b[23;39r\u001b[H\u001b[26;16Hgo run\r\n                                            \u001b[1;40r\u001b[H\u001b[26;16H"
+    ],
+    [
+      0.000006,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.059858,
+      "\u001b[?25l\u001b[40d\u001b[38;5;16m\u001b[48;5;254m\u001b[1m 0 \u001b(B\u001b[m\u001b[38;5;254m\u001b[48;5;233m \u001b[38;5;231m\u001b[7m\u003c\u001b(B\u001b[m\u001b[93m\u001b[48;5;233m \u001b[38;5;231m \u001b[38;5;233m\u001b[48;5;31m \u001b[38;5;117m2  \u001b[38;5;231m\u001b[1mgo \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m\u003e\u001b[38;5;233m \u001b[38;5;247m ⇑  9d 41m 4s\u001b[38;5;241m \u001b[32m 1.5 1.3 1.4\u001b[38;5;236m \u001b[38;5;247m\u001b[48;5;236m 2015-07-10\u001b[38;5;241m \u001b[38;5;252m\u001b[1m ⌚ 15:09\u001b(B\u001b[m\u001b[38;5;252m\u001b[48;5;236m \u001b[38;5;16m\u001b[48;5;252m\u001b[1m  Guillaume-SR-MBP.local \u001b(B\u001b[m\u001b[27;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.348984,
+      "\u001b[?25l\u001b[40d\u001b[38;5;254m\u001b[48;5;31m\u001b[1m 0 \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m\u001b[7m\u003c\u001b(B\u001b[m\u001b[93m\u001b[48;5;233m \u001b[38;5;231m \u001b[38;5;233m\u001b[48;5;31m \u001b[38;5;117m2  \u001b[38;5;231m\u001b[1mgo \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m\u003e\u001b[38;5;233m \u001b[38;5;247m ⇑  9d 41m 4s\u001b[38;5;241m \u001b[32m 1.5 1.3 1.4\u001b[38;5;236m \u001b[38;5;247m\u001b[48;5;236m 2015-07-10\u001b[38;5;241m \u001b[38;5;252m\u001b[1m ⌚ 15:09\u001b(B\u001b[m\u001b[38;5;252m\u001b[48;5;236m \u001b[38;5;16m\u001b[48;5;252m\u001b[1m  Guillaume-SR-MBP.local \u001b(B\u001b[m\u001b[27;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.168330,
+      "\u001b[13d────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[22;1H────────────────────────────────────────────\u001b[32m┬───────────────────────────────────────────────────────\u001b[23;45H│\u001b[24;45H│\u001b[25;45H│\u001b[26;45H│\u001b[27;45H│\u001b[28;45H│\u001b[29;45H│\u001b[30;45H│\u001b[31;45H│\u001b[32;45H│\u001b[33;45H│\u001b[34;45H│\u001b[35;45H│\u001b[36;45H│\u001b[37;45H│\u001b[38;45H│\u001b[39;45H│\u001b[?25l\u001b[H\u001b(B\u001b[m                },\u001b[K\r\n                {\u001b[K\r\n                        Scheme: \"http\",\u001b[K\r\n                        Host:   \"localhost:9092\",\u001b[K\r\n                },\u001b[K\r\n        })\u001b[K\r\n        log.Fatal(http.L"
+    ],
+    [
+      0.000023,
+      "istenAndServe(\":9090\", proxy))\u001b[K\r\n}\u001b[K\r\n\u001b[K\r\n(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/simple\u001b(B\u001b[m\u003e\u001b[K\r\n[\u001b[31m\u001b[1m03:09:39 PM\u001b(B\u001b[m]% go run main.go                                                          [\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m]\u001b[K\r\n\u001b[K\u001b[2B\u001b[K\r\n(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/test\u001b(B\u001b[m\u003e\u001b[K\r\n[\u001b[31m\u001b[1m03:08:30 PM\u001b(B\u001b[m]%                                                                         [\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m]\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2B                                            \r\n(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/\u001b(B\u001b[m\r\n\u001b[36m\u001b[1mtalk/test\u001b(B\u001b[m\u003e                                  \r\n[\u001b[31m\u001b[1m03:09:14 PM\u001b(B\u001b[m]% go run main.go 9091          \r\n                                            \r\n                                            \r\n                                            \r\n                                            \r\n                  "
+    ],
+    [
+      0.000172,
+      "                          \r\n                                            \r\n                                            \r\n                                            \r\n                                            \r\n                                            \r\n                                            \r\n                                            \r\n                                            \u001b[23;46H\u001b[K\n(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/test\u001b(B\u001b[m\u003e\u001b[K\u001b[25;46H[\u001b[31m\u001b[1m03:09:13 PM\u001b(B\u001b[m]%                            [\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m]\u001b[K\u001b[26;46H\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\r\n\u001b[38;5;16m\u001b[48;5;254m\u001b[1m 0 \u001b(B\u001b[m\u001b[38;5;254m\u001b[48;5;233m \u001b[38;5;231m\u001b[7m\u003c\u001b(B\u001b[m\u001b[93m\u001b[48;5;233m \u001b[38;5;231m \u001b[38;5;233m\u001b[48;5;31m \u001b[38;5;117m2  \u001b[38;5;231m\u001b[1mgo \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m\u003e\u001b[38;5;233m \u001b[38;5;247m ⇑  9d 41m 4s\u001b[38;5;241m \u001b[32m 1.5 1.3 1.4\u001b[38;5;236m \u001b[38;5;247m\u001b[48;5;236m 2015-07-10\u001b[38;5;24"
+    ],
+    [
+      0.000105,
+      "1m \u001b[38;5;252m\u001b[1m ⌚ 15:09\u001b(B\u001b[m\u001b[38;5;252m\u001b[48;5;236m \u001b[38;5;16m\u001b[48;5;252m\u001b[1m  Guillaume-SR-MBP.local \u001b(B\u001b[m\u001b[25;61H\u001b[?12l\u001b[?25h\u001b[?1h\u001b="
+    ],
+    [
+      0.207160,
+      "\u001b[23;39r\u001b[H\u001b[26;46Hbck-i-search: _                                        \u001b[26;1H\u001b[1;40r\u001b[H\u001b[25;61H"
+    ],
+    [
+      0.255857,
+      "\u001b[23;39r\u001b[H\u001b[25;61Hgo run main.\u001b[4mg\u001b(B\u001b[mo 9092\u001b[26;60Hg_\u001b[1;40r\u001b[H\u001b[25;73H"
+    ],
+    [
+      0.088153,
+      "\u001b[23;39r\u001b[H\u001b[25;73H\u001b[4mgo\u001b[26;61H\u001b(B\u001b[mo_\u001b[1;40r\u001b[H\u001b[25;73H"
+    ],
+    [
+      0.103852,
+      "\u001b[23;39r\u001b[H\u001b[25;74H\u001b[4mo \u001b[26;62H\u001b(B\u001b[m _\u001b[1;40r\u001b[H\u001b[25;73H"
+    ],
+    [
+      0.088173,
+      "\u001b[23;39r\u001b[H\u001b[25;61H\u001b[4mgo r\u001b[8C\u001b(B\u001b[mgo \u001b[26;63Hr_\u001b[1;40r\u001b[H\u001b[25;61H"
+    ],
+    [
+      0.311921,
+      "\u001b[23;39r\u001b[H\u001b[25;61Hgo r\u001b[26;46H                                                       \u001b[26;1H\u001b[1;40r\u001b[H\u001b[25;61H"
+    ],
+    [
+      0.000011,
+      "\u001b[26;46H\u001b[?1l\u001b\u003e"
+    ],
+    [
+      1.303452,
+      "\u001b[?25l\u001b[14;1H                                                                                             \u001b[30m\u001b[43m[0/208]\u001b[15;1H\u001b[39m\u001b[49m(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/test\u001b(B\u001b[m\u003e\u001b[K\r\n[\u001b[31m\u001b[1m03:08:30 PM\u001b(B\u001b[m]%                                                                         [\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m]\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[32m\u001b[8A────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[22;1H────────────────────────────────────────────┬───────────────────────────────────────────────────────\u001b[39m\u001b["
+    ],
+    [
+      0.000032,
+      "23;45H│\u001b[24;45H│\u001b[25;45H│\u001b[26;45H│\u001b[27;45H│\u001b[28;45H│\u001b[29;45H│\u001b[30;45H│\u001b[31;45H│\u001b[32;45H│\u001b[33;45H│\u001b[34;45H│\u001b[35;45H│\u001b[36;45H│\u001b[37;45H│\u001b[38;45H│\u001b[39;45H│\u001b(B\u001b[m\u001b[18;31H\u001b[?12l\u001b[?25h\u001b[?1005h\u001b[?1006h\u001b[?1002h"
+    ],
+    [
+      0.076176,
+      "\u001b[?25l\u001b[14;1H\u001b[K\r\n(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/test\u001b(B\u001b[m\u003e\u001b[K\r\n[\u001b[31m\u001b[1m03:08:30 PM\u001b(B\u001b[m]%                                                                         [\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m]\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[16;16H\u001b[?12l\u001b[?25h\u001b[?1005h\u001b[?1006h\u001b[?1000h\u001b[?1h\u001b="
+    ],
+    [
+      0.140228,
+      "\u001b[14;21r\u001b[H\u001b[17dbck-i-search: _\u001b[K\u001b[1;40r\u001b[H\u001b[16;16H"
+    ],
+    [
+      0.175983,
+      "\u001b[14;21r\u001b[H\u001b[16;16H\u001b[4mc\u001b(B\u001b[mat main.go\u001b[17;15Hc_\u001b[1;40r\u001b[H\u001b[16;16H"
+    ],
+    [
+      0.063889,
+      "\u001b[14;21r\u001b[H\u001b[16;16H\u001b[4mcu\u001b(B\u001b[mrl localhost:9090\u001b[17;16Hu_\u001b[1;40r\u001b[H\u001b[16;16H"
+    ],
+    [
+      0.248084,
+      "\u001b[14;21r\u001b[H\u001b[16;16Hcu\r\n\u001b[K\u001b[1;40r\u001b[H\u001b[16;16H"
+    ],
+    [
+      0.000008,
+      "\u001b[?1l\u001b\u003e\r\n"
+    ],
+    [
+      0.002784,
+      "\u001b]0;0:2:curl - \"Guillaume-SR-MBP.local\"\u0007\u001b[?25l\u001b[40d\u001b[38;5;16m\u001b[48;5;254m\u001b[1m 0 \u001b(B\u001b[m\u001b[38;5;254m\u001b[48;5;233m \u001b[38;5;231m\u001b[7m\u003c\u001b(B\u001b[m\u001b[38;5;233m\u001b[48;5;31m \u001b[38;5;117m2  \u001b[38;5;231m\u001b[1mcurl \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m\u003e\u001b[38;5;233m \u001b[38;5;247m ⇑  9d 41m 4s\u001b[38;5;241m \u001b[32m 1.5 1.3 1.4\u001b[38;5;236m \u001b[38;5;247m\u001b[48;5;236m 2015-07-10\u001b[38;5;241m \u001b[38;5;252m\u001b[1m ⌚ 15:09\u001b(B\u001b[m\u001b[38;5;252m\u001b[48;5;236m \u001b[38;5;16m\u001b[48;5;252m\u001b[1m  Guillaume-SR-MBP.local \u001b(B\u001b[m\u001b[17;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.009743,
+      "\u001b[1;12r\u001b[H\u001b[12dCALLING DIAL\r\n\u001b[1;40r\u001b[H\u001b[16B"
+    ],
+    [
+      0.001761,
+      "\u001b[23;39r\u001b[H\u001b[27d---\u003e 9091 /\u001b[1;40r\u001b[H\u001b[16B"
+    ],
+    [
+      0.000924,
+      "\u001b[14;21r\u001b[H\u001b[17d\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                                                   \u001b[17;1H \u001b[1;40r\u001b[H\u001b[16B"
+    ],
+    [
+      0.000888,
+      "\u001b]0;0:2:..est/talk/test - \"Guillaume-SR-MBP.local\"\u0007\u001b[?25l\u001b[40d\u001b[38;5;16m\u001b[48;5;254m\u001b[1m 0 \u001b(B\u001b[m\u001b[38;5;254m\u001b[48;5;233m \u001b[38;5;231m\u001b[7m\u003c\u001b(B\u001b[m\u001b[38;5;231m\u001b[48;5;31m\u001b[1m/talk/test \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m\u003e\u001b[38;5;233m \u001b[38;5;247m ⇑  9d 41m 4s\u001b[38;5;241m \u001b[32m 1.5 1.3 1.4\u001b[38;5;236m \u001b[38;5;247m\u001b[48;5;236m 2015-07-10\u001b[38;5;241m \u001b[38;5;252m\u001b[1m ⌚ 15:09\u001b(B\u001b[m\u001b[38;5;252m\u001b[48;5;236m \u001b[38;5;16m\u001b[48;5;252m\u001b[1m  Guillaume-SR-MBP.local \u001b(B\u001b[m\u001b[17;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.030457,
+      "\u001b[14;21r\u001b[H\u001b[17d\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[3A(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/test\u001b(B\u001b[m\u003e\r\n[\u001b[31m\u001b[1m03:09:56 PM\u001b(B\u001b[m]% \u001b[K\u001b[72C[\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m]\u001b[1;40r\u001b[H\u001b[19;16H\u001b[?1h\u001b="
+    ],
+    [
+      0.777779,
+      "\u001b[14;21r\u001b[H\u001b[19;16Hcurl localhost:9090\u001b[1;40r\u001b[H\u001b[19;35H"
+    ],
+    [
+      0.879733,
+      "\u001b[?1l\u001b\u003e\r\n"
+    ],
+    [
+      0.002093,
+      "\u001b]0;0:2:curl - \"Guillaume-SR-MBP.local\"\u0007\u001b[?25l\u001b[40d\u001b[38;5;16m\u001b[48;5;254m\u001b[1m 0 \u001b(B\u001b[m\u001b[38;5;254m\u001b[48;5;233m \u001b[38;5;231m\u001b[7m\u003c\u001b(B\u001b[m\u001b[38;5;233m\u001b[48;5;31m \u001b[38;5;117m2  \u001b[38;5;231m\u001b[1mcurl \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m\u003e\u001b[38;5;233m \u001b[38;5;247m ⇑  9d 41m 4s\u001b[38;5;241m \u001b[32m 1.5 1.3 1.4\u001b[38;5;236m \u001b[38;5;247m\u001b[48;5;236m 2015-07-10\u001b[38;5;241m \u001b[38;5;252m\u001b[1m ⌚ 15:09\u001b(B\u001b[m\u001b[38;5;252m\u001b[48;5;236m \u001b[38;5;16m\u001b[48;5;252m\u001b[1m  Guillaume-SR-MBP.local \u001b(B\u001b[m\u001b[20;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.010305,
+      "\u001b[1;12r\u001b[H\u001b[12dCALLING DIAL\r\n\u001b[1;40r\u001b[H\u001b[19B"
+    ],
+    [
+      0.000866,
+      "\u001b[23;39r\u001b[H\u001b[26;46H---\u003e 9092 /\u001b[1;40r\u001b[H\u001b[19B"
+    ],
+    [
+      0.001080,
+      "\u001b[14;21r\u001b[H\u001b[20d\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                                                   \u001b[20;1H \u001b[1;40r\u001b[H\u001b[19B"
+    ],
+    [
+      0.000983,
+      "\u001b]0;0:2:..est/talk/test - \"Guillaume-SR-MBP.local\"\u0007\u001b[?25l\u001b[40d\u001b[38;5;16m\u001b[48;5;254m\u001b[1m 0 \u001b(B\u001b[m\u001b[38;5;254m\u001b[48;5;233m \u001b[38;5;231m\u001b[7m\u003c\u001b(B\u001b[m\u001b[38;5;231m\u001b[48;5;31m\u001b[1m/talk/test \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m\u003e\u001b[38;5;233m \u001b[38;5;247m ⇑  9d 41m 4s\u001b[38;5;241m \u001b[32m 1.5 1.3 1.4\u001b[38;5;236m \u001b[38;5;247m\u001b[48;5;236m 2015-07-10\u001b[38;5;241m \u001b[38;5;252m\u001b[1m ⌚ 15:09\u001b(B\u001b[m\u001b[38;5;252m\u001b[48;5;236m \u001b[38;5;16m\u001b[48;5;252m\u001b[1m  Guillaume-SR-MBP.local \u001b(B\u001b[m\u001b[20;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029970,
+      "\u001b[14;21r\u001b[H\u001b[20d\u001b[K\r\n\u001b[K(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/test\u001b(B\u001b[m\u003e\r\n[\u001b[31m\u001b[1m03:09:57 PM\u001b(B\u001b[m]% \u001b[K\u001b[72C[\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m]\u001b[1;40r\u001b[H\u001b[21;16H\u001b[?1h\u001b="
+    ],
+    [
+      0.546354,
+      "\u001b[14;21r\u001b[H\u001b[21;16Hcurl localhost:9090\u001b[1;40r\u001b[H\u001b[21;35H"
+    ],
+    [
+      0.440070,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000008,
+      "\u001b[14;21r\u001b[H\u001b[21d\n\u001b[1;40r\u001b[H\u001b[21d"
+    ],
+    [
+      0.002254,
+      "\u001b]0;0:2:curl - \"Guillaume-SR-MBP.local\"\u0007\u001b[?25l\u001b[40d\u001b[38;5;16m\u001b[48;5;254m\u001b[1m 0 \u001b(B\u001b[m\u001b[38;5;254m\u001b[48;5;233m \u001b[38;5;231m\u001b[7m\u003c\u001b(B\u001b[m\u001b[38;5;233m\u001b[48;5;31m \u001b[38;5;117m2  \u001b[38;5;231m\u001b[1mcurl \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m\u003e\u001b[38;5;233m \u001b[38;5;247m ⇑  9d 41m 4s\u001b[38;5;241m \u001b[32m 1.5 1.3 1.4\u001b[38;5;236m \u001b[38;5;247m\u001b[48;5;236m 2015-07-10\u001b[38;5;241m \u001b[38;5;252m\u001b[1m ⌚ 15:09\u001b(B\u001b[m\u001b[38;5;252m\u001b[48;5;236m \u001b[38;5;16m\u001b[48;5;252m\u001b[1m  Guillaume-SR-MBP.local \u001b(B\u001b[m\u001b[21;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.010783,
+      "\u001b[23;39r\u001b[H\u001b[27;46H---\u003e 9092 /\u001b[1;40r\u001b[H\u001b[21d"
+    ],
+    [
+      0.001305,
+      "\u001b[14;21r\u001b[H\u001b[21d\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                                                   \u001b[21;1H \u001b[1;40r\u001b[H\u001b[21d"
+    ],
+    [
+      0.001097,
+      "\u001b]0;0:2:..est/talk/test - \"Guillaume-SR-MBP.local\"\u0007\u001b[?25l\u001b[40d\u001b[38;5;16m\u001b[48;5;254m\u001b[1m 0 \u001b(B\u001b[m\u001b[38;5;254m\u001b[48;5;233m \u001b[38;5;231m\u001b[7m\u003c\u001b(B\u001b[m\u001b[38;5;231m\u001b[48;5;31m\u001b[1m/talk/test \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m\u003e\u001b[38;5;233m \u001b[38;5;247m ⇑  9d 41m 4s\u001b[38;5;241m \u001b[32m 1.5 1.3 1.4\u001b[38;5;236m \u001b[38;5;247m\u001b[48;5;236m 2015-07-10\u001b[38;5;241m \u001b[38;5;252m\u001b[1m ⌚ 15:09\u001b(B\u001b[m\u001b[38;5;252m\u001b[48;5;236m \u001b[38;5;16m\u001b[48;5;252m\u001b[1m  Guillaume-SR-MBP.local \u001b(B\u001b[m\u001b[21;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029688,
+      "\u001b[14;21r\u001b[H\u001b[21d\u001b[K\n(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/test\u001b(B\u001b[m\u003e\r\n[\u001b[31m\u001b[1m03:09:58 PM\u001b(B\u001b[m]% \u001b[K\u001b[72C[\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m]\u001b[1;40r\u001b[H\u001b[21;16H\u001b[?1h\u001b="
+    ],
+    [
+      0.547725,
+      "\u001b[14;21r\u001b[H\u001b[21;16Hcurl localhost:9090\u001b[1;40r\u001b[H\u001b[21;35H"
+    ],
+    [
+      0.343176,
+      "\u001b[?1l\u001b\u003e\u001b[14;21r\u001b[H\u001b[21d\n\u001b[1;40r\u001b[H\u001b[21d"
+    ],
+    [
+      0.002181,
+      "\u001b]0;0:2:curl - \"Guillaume-SR-MBP.local\"\u0007\u001b[?25l\u001b[40d\u001b[38;5;16m\u001b[48;5;254m\u001b[1m 0 \u001b(B\u001b[m\u001b[38;5;254m\u001b[48;5;233m \u001b[38;5;231m\u001b[7m\u003c\u001b(B\u001b[m\u001b[38;5;233m\u001b[48;5;31m \u001b[38;5;117m2  \u001b[38;5;231m\u001b[1mcurl \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m\u003e\u001b[38;5;233m \u001b[38;5;247m ⇑  9d 41m 4s\u001b[38;5;241m \u001b[32m 1.5 1.3 1.4\u001b[38;5;236m \u001b[38;5;247m\u001b[48;5;236m 2015-07-10\u001b[38;5;241m \u001b[38;5;252m\u001b[1m ⌚ 15:09\u001b(B\u001b[m\u001b[38;5;252m\u001b[48;5;236m \u001b[38;5;16m\u001b[48;5;252m\u001b[1m  Guillaume-SR-MBP.local \u001b(B\u001b[m\u001b[21;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.010383,
+      "\u001b[23;39r\u001b[H\u001b[28;46H---\u003e 9092 /\u001b[1;40r\u001b[H\u001b[21d"
+    ],
+    [
+      0.001195,
+      "\u001b[14;21r\u001b[H\u001b[21d\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                                                   \u001b[21;1H \u001b[1;40r\u001b[H\u001b[21d"
+    ],
+    [
+      0.001236,
+      "\u001b]0;0:2:..est/talk/test - \"Guillaume-SR-MBP.local\"\u0007\u001b[?25l\u001b[40d\u001b[38;5;16m\u001b[48;5;254m\u001b[1m 0 \u001b(B\u001b[m\u001b[38;5;254m\u001b[48;5;233m \u001b[38;5;231m\u001b[7m\u003c\u001b(B\u001b[m\u001b[38;5;231m\u001b[48;5;31m\u001b[1m/talk/test \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m\u003e\u001b[38;5;233m \u001b[38;5;247m ⇑  9d 41m 4s\u001b[38;5;241m \u001b[32m 1.5 1.3 1.4\u001b[38;5;236m \u001b[38;5;247m\u001b[48;5;236m 2015-07-10\u001b[38;5;241m \u001b[38;5;252m\u001b[1m ⌚ 15:09\u001b(B\u001b[m\u001b[38;5;252m\u001b[48;5;236m \u001b[38;5;16m\u001b[48;5;252m\u001b[1m  Guillaume-SR-MBP.local \u001b(B\u001b[m\u001b[21;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.030503,
+      "\u001b[14;21r\u001b[H\u001b[21d\u001b[K\n(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/test\u001b(B\u001b[m\u003e\r\n[\u001b[31m\u001b[1m03:09:59 PM\u001b(B\u001b[m]% \u001b[K\u001b[72C[\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m]\u001b[1;40r\u001b[H\u001b[21;16H\u001b[?1h\u001b="
+    ],
+    [
+      0.418028,
+      "\u001b[14;21r\u001b[H\u001b[21;16Hcurl localhost:9090\u001b[1;40r\u001b[H\u001b[21;35H"
+    ],
+    [
+      0.272534,
+      "\u001b[14;21r\u001b[H\u001b[21d\n\u001b[1;40r\u001b[H\u001b[21d\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.002108,
+      "\u001b]0;0:2:curl - \"Guillaume-SR-MBP.local\"\u0007\u001b[?25l\u001b[40d\u001b[38;5;16m\u001b[48;5;254m\u001b[1m 0 \u001b(B\u001b[m\u001b[38;5;254m\u001b[48;5;233m \u001b[38;5;231m\u001b[7m\u003c\u001b(B\u001b[m\u001b[38;5;233m\u001b[48;5;31m \u001b[38;5;117m2  \u001b[38;5;231m\u001b[1mcurl \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m\u003e\u001b[38;5;233m \u001b[38;5;247m ⇑  9d 41m 4s\u001b[38;5;241m \u001b[32m 1.5 1.3 1.4\u001b[38;5;236m \u001b[38;5;247m\u001b[48;5;236m 2015-07-10\u001b[38;5;241m \u001b[38;5;252m\u001b[1m ⌚ 15:09\u001b(B\u001b[m\u001b[38;5;252m\u001b[48;5;236m \u001b[38;5;16m\u001b[48;5;252m\u001b[1m  Guillaume-SR-MBP.local \u001b(B\u001b[m\u001b[21;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.010810,
+      "\u001b[23;39r\u001b[H\u001b[29;46H---\u003e 9092 /\u001b[1;40r\u001b[H\u001b[21d"
+    ],
+    [
+      0.001189,
+      "\u001b[14;21r\u001b[H\u001b[21d\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                                                   \u001b[21;1H \u001b[1;40r\u001b[H\u001b[21d"
+    ],
+    [
+      0.001432,
+      "\u001b]0;0:2:..est/talk/test - \"Guillaume-SR-MBP.local\"\u0007\u001b[?25l\u001b[40d\u001b[38;5;16m\u001b[48;5;254m\u001b[1m 0 \u001b(B\u001b[m\u001b[38;5;254m\u001b[48;5;233m \u001b[38;5;231m\u001b[7m\u003c\u001b(B\u001b[m\u001b[38;5;231m\u001b[48;5;31m\u001b[1m/talk/test \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m\u003e\u001b[38;5;233m \u001b[38;5;247m ⇑  9d 41m 4s\u001b[38;5;241m \u001b[32m 1.5 1.3 1.4\u001b[38;5;236m \u001b[38;5;247m\u001b[48;5;236m 2015-07-10\u001b[38;5;241m \u001b[38;5;252m\u001b[1m ⌚ 15:09\u001b(B\u001b[m\u001b[38;5;252m\u001b[48;5;236m \u001b[38;5;16m\u001b[48;5;252m\u001b[1m  Guillaume-SR-MBP.local \u001b(B\u001b[m\u001b[21;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.030889,
+      "\u001b[14;21r\u001b[H\u001b[21d\u001b[K\n(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/test\u001b(B\u001b[m\u003e\r\n[\u001b[31m\u001b[1m03:10:00 PM\u001b(B\u001b[m]% \u001b[K\u001b[72C[\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m]\u001b[1;40r\u001b[H\u001b[21;16H\u001b[?1h\u001b="
+    ],
+    [
+      0.329841,
+      "\u001b[14;21r\u001b[H\u001b[21;16Hcurl localhost:9090\u001b[1;40r\u001b[H\u001b[21;35H"
+    ],
+    [
+      0.255457,
+      "\u001b[14;21r\u001b[H\u001b[21d\n\u001b[1;40r\u001b[H\u001b[21d\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.002126,
+      "\u001b]0;0:2:curl - \"Guillaume-SR-MBP.local\"\u0007\u001b[?25l\u001b[40d\u001b[38;5;16m\u001b[48;5;254m\u001b[1m 0 \u001b(B\u001b[m\u001b[38;5;254m\u001b[48;5;233m \u001b[38;5;231m\u001b[7m\u003c\u001b(B\u001b[m\u001b[38;5;233m\u001b[48;5;31m \u001b[38;5;117m2  \u001b[38;5;231m\u001b[1mcurl \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m\u003e\u001b[38;5;233m \u001b[38;5;247m ⇑  9d 41m 4s\u001b[38;5;241m \u001b[32m 1.5 1.3 1.4\u001b[38;5;236m \u001b[38;5;247m\u001b[48;5;236m 2015-07-10\u001b[38;5;241m \u001b[38;5;252m\u001b[1m ⌚ 15:09\u001b(B\u001b[m\u001b[38;5;252m\u001b[48;5;236m \u001b[38;5;16m\u001b[48;5;252m\u001b[1m  Guillaume-SR-MBP.local \u001b(B\u001b[m\u001b[21;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.010468,
+      "\u001b[23;39r\u001b[H\u001b[28d---\u003e 9091 /\u001b[1;40r\u001b[H\u001b[21d"
+    ],
+    [
+      0.001152,
+      "\u001b[14;21r\u001b[H\u001b[21d\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                                                   \u001b[21;1H \u001b[1;40r\u001b[H\u001b[21d"
+    ],
+    [
+      0.001541,
+      "\u001b]0;0:2:..est/talk/test - \"Guillaume-SR-MBP.local\"\u0007\u001b[?25l\u001b[40d\u001b[38;5;16m\u001b[48;5;254m\u001b[1m 0 \u001b(B\u001b[m\u001b[38;5;254m\u001b[48;5;233m \u001b[38;5;231m\u001b[7m\u003c\u001b(B\u001b[m\u001b[38;5;231m\u001b[48;5;31m\u001b[1m/talk/test \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m\u003e\u001b[38;5;233m \u001b[38;5;247m ⇑  9d 41m 4s\u001b[38;5;241m \u001b[32m 1.5 1.3 1.4\u001b[38;5;236m \u001b[38;5;247m\u001b[48;5;236m 2015-07-10\u001b[38;5;241m \u001b[38;5;252m\u001b[1m ⌚ 15:09\u001b(B\u001b[m\u001b[38;5;252m\u001b[48;5;236m \u001b[38;5;16m\u001b[48;5;252m\u001b[1m  Guillaume-SR-MBP.local \u001b(B\u001b[m\u001b[21;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.035776,
+      "\u001b[14;21r\u001b[H\u001b[21d\u001b[K\n(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/test\u001b(B\u001b[m\u003e\r\n[\u001b[31m\u001b[1m03:10:01 PM\u001b(B\u001b[m]% \u001b[K\u001b[72C[\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m]\u001b[1;40r\u001b[H\u001b[21;16H\u001b[?1h\u001b="
+    ],
+    [
+      0.469496,
+      "\u001b[14;21r\u001b[H\u001b[21;16Hcurl localhost:9090\u001b[1;40r\u001b[H\u001b[21;35H"
+    ],
+    [
+      0.110902,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000024,
+      "\u001b[14;21r\u001b[H\u001b[21d\n\u001b[1;40r\u001b[H\u001b[21d"
+    ],
+    [
+      0.001582,
+      "\u001b]0;0:2:curl - \"Guillaume-SR-MBP.local\"\u0007\u001b[?25l\u001b[40d\u001b[38;5;16m\u001b[48;5;254m\u001b[1m 0 \u001b(B\u001b[m\u001b[38;5;254m\u001b[48;5;233m \u001b[38;5;231m\u001b[7m\u003c\u001b(B\u001b[m\u001b[38;5;233m\u001b[48;5;31m \u001b[38;5;117m2  \u001b[38;5;231m\u001b[1mcurl \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m\u003e\u001b[38;5;233m \u001b[38;5;247m ⇑  9d 41m 4s\u001b[38;5;241m \u001b[32m 1.5 1.3 1.4\u001b[38;5;236m \u001b[38;5;247m\u001b[48;5;236m 2015-07-10\u001b[38;5;241m \u001b[38;5;252m\u001b[1m ⌚ 15:09\u001b(B\u001b[m\u001b[38;5;252m\u001b[48;5;236m \u001b[38;5;16m\u001b[48;5;252m\u001b[1m  Guillaume-SR-MBP.local \u001b(B\u001b[m\u001b[21;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.010227,
+      "\u001b[23;39r\u001b[H\u001b[29d---\u003e 9091 /\u001b[1;40r\u001b[H\u001b[21d"
+    ],
+    [
+      0.001191,
+      "\u001b[14;21r\u001b[H\u001b[21d\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                                                   \u001b[21;1H \u001b[1;40r\u001b[H\u001b[21d"
+    ],
+    [
+      0.001431,
+      "\u001b]0;0:2:..est/talk/test - \"Guillaume-SR-MBP.local\"\u0007\u001b[?25l\u001b[40d\u001b[38;5;16m\u001b[48;5;254m\u001b[1m 0 \u001b(B\u001b[m\u001b[38;5;254m\u001b[48;5;233m \u001b[38;5;231m\u001b[7m\u003c\u001b(B\u001b[m\u001b[38;5;231m\u001b[48;5;31m\u001b[1m/talk/test \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m\u003e\u001b[38;5;233m \u001b[38;5;247m ⇑  9d 41m 4s\u001b[38;5;241m \u001b[32m 1.5 1.3 1.4\u001b[38;5;236m \u001b[38;5;247m\u001b[48;5;236m 2015-07-10\u001b[38;5;241m \u001b[38;5;252m\u001b[1m ⌚ 15:09\u001b(B\u001b[m\u001b[38;5;252m\u001b[48;5;236m \u001b[38;5;16m\u001b[48;5;252m\u001b[1m  Guillaume-SR-MBP.local \u001b(B\u001b[m\u001b[21;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.030229,
+      "\u001b[14;21r\u001b[H\u001b[21d\u001b[K\n(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/test\u001b(B\u001b[m\u003e\r\n[\u001b[31m\u001b[1m03:10:01 PM\u001b(B\u001b[m]% \u001b[K\u001b[72C[\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m]\u001b[1;40r\u001b[H\u001b[21;16H\u001b[?1h\u001b="
+    ],
+    [
+      0.923760,
+      "\u001b[?25l\u001b[23;1H                                     \u001b[30m\u001b[43m[0/197]\u001b(B\u001b[m\r\n(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/\u001b(B\u001b[m\r\n\u001b[36m\u001b[1mtalk/test\u001b(B\u001b[m\u003e                                  \r\n[\u001b[31m\u001b[1m03:09:14 PM\u001b(B\u001b[m]% go run main.go 9091          \r\n---\u003e 9091 /                                 \r\n---\u003e 9091 /                                 \r\n---\u003e 9091 /                                 \r\n                                            \r\n                                            \r\n                                            \r\n                                            \r\n                                            \r\n                                            \r\n                                            \r\n                                            \r\n                                            \r\n                                            \u001b[13;1H────────────────────────────────────────────\ufffd"
+    ],
+    [
+      0.000032,
+      "\ufffd\ufffd───────────────────────────────────────────────────────\u001b[32m\u001b[22;1H────────────────────────────────────────────┬\u001b[39m───────────────────────────────────────────────────────\u001b[32m\u001b[23;45H│\u001b[24;45H│\u001b[25;45H│\u001b[26;45H│\u001b[27;45H│\u001b[28;45H│\u001b[29;45H│\u001b[30;45H│\u001b[31;45H│\u001b[32;45H│\u001b[33;45H│\u001b[34;45H│\u001b[35;45H│\u001b[36;45H│\u001b[37;45H│\u001b[38;45H│\u001b[39;45H│\u001b(B\u001b[m\u001b[34;10H\u001b[?12l\u001b[?25h\u001b[?1005h\u001b[?1006h\u001b[?1002h\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.123742,
+      "\r                                            \u001b[11G"
+    ],
+    [
+      0.007654,
+      "\u001b[?25l\u001b[23;1H                                            \r\n(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/\u001b(B\u001b[m\r\n\u001b[36m\u001b[1mtalk/test\u001b(B\u001b[m\u003e                                  \r\n[\u001b[31m\u001b[1m03:09:14 PM\u001b(B\u001b[m]% go run main.go 9091          \r\n---\u003e 9091 /                                 \r\n---\u003e 9091 /                                 \r\n---\u003e 9091 /                                 \r\n                                            \r\n                                            \r\n                                            \r\n                                            \r\n                                            \r\n                                            \r\n                                            \r\n                                            \r\n                                            \r\n                                            \u001b[30;1H\u001b[?12l\u001b[?25h\u001b[?1005h\u001b[?1006h\u001b[?1000h"
+    ],
+    [
+      0.702408,
+      "\u001b[?25l\u001b[23;46H                                               \u001b[30m\u001b[43m[0/1361]\u001b(B\u001b[m\u001b[23;100H\u001b[24;46H(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/test\u001b(B\u001b[m\u003e\u001b[K\u001b[25;46H[\u001b[31m\u001b[1m03:09:13 PM\u001b(B\u001b[m]% go run main.go 9092        [\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m]\u001b[K\u001b[26;46H---\u003e 9092 /\u001b[K\u001b[27;46H---\u003e 9092 /\u001b[K\u001b[28;46H---\u003e 9092 /\u001b[K\u001b[29;46H---\u003e 9092 /\u001b[K\u001b[30;46H\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[13;1H────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[22;1H────────────────────────────────────────────\u001b[32m┬─────────────────────────────────────────────\ufffd"
+    ],
+    [
+      0.000089,
+      "\ufffd\ufffd─────────\u001b[23;45H│\u001b[24;45H│\u001b[25;45H│\u001b[26;45H│\u001b[27;45H│\u001b[28;45H│\u001b[29;45H│\u001b[30;45H│\u001b[31;45H│\u001b[32;45H│\u001b[33;45H│\u001b[34;45H│\u001b[35;45H│\u001b[36;45H│\u001b[37;45H│\u001b[38;45H│\u001b[39;45H│\u001b(B\u001b[m\u001b[28;86H\u001b[?12l\u001b[?25h\u001b[?1005h\u001b[?1006h\u001b[?1002h"
+    ],
+    [
+      0.099710,
+      "\u001b[?25l\u001b[23;46H\u001b[K\n(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/test\u001b(B\u001b[m\u003e\u001b[K\u001b[25;46H[\u001b[31m\u001b[1m03:09:13 PM\u001b(B\u001b[m]% go run main.go 9092        [\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m]\u001b[K\u001b[26;46H---\u003e 9092 /\u001b[K\u001b[27;46H---\u003e 9092 /\u001b[K\u001b[28;46H---\u003e 9092 /\u001b[K\u001b[29;46H---\u003e 9092 /\u001b[K\u001b[30;46H\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[9A\u001b[?12l\u001b[?25h\u001b[?1005h\u001b[?1006h\u001b[?1000h"
+    ],
+    [
+      0.234260,
+      "\u001b[23;39r\u001b[H\u001b[30;46H^C\u001b[1;40r\u001b[H\u001b[30;48H"
+    ],
+    [
+      0.002274,
+      "\u001b[23;39r\u001b[H\u001b[30;48Hexit status 2\u001b[1;40r\u001b[H\u001b[31;46H"
+    ],
+    [
+      0.003899,
+      "\u001b[23;39r\u001b[H\u001b[31;46H\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                      \u001b[31;46H \u001b[1;40r\u001b[H\u001b[31;46H"
+    ],
+    [
+      0.031252,
+      "\u001b[23;39r\u001b[H\u001b[31;46H                                                       \u001b[32;46H                                                       \u001b[33;46H                                                       \u001b[34;46H                                                       \u001b[35;46H                                                       \u001b[36;46H                                                       \u001b[37;46H                                                       \u001b[38;46H                                                       \u001b[39;46H                                                       \u001b[32;46H(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/test\u001b(B\u001b[m\u003e\u001b[33;46H[\u001b[31m\u001b[1m03:10:03 PM\u001b(B\u001b[m]%                                         \u001b[33;88H[\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m]\u001b[1;40r\u001b[H\u001b[33;61H"
+    ],
+    [
+      0.000006,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.491900,
+      "\u001b[?25l\u001b[14;1H(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/test\u001b(B\u001b[m\u003e                                       \u001b[30m\u001b[43m[0/224]\u001b[15;1H\u001b[39m\u001b[49m[\u001b[31m\u001b[1m03:10:00 PM\u001b(B\u001b[m]% curl localhost:9090                                                     [\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m]\u001b[K\r\n\u001b[K\r\n(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/test\u001b(B\u001b[m\u003e\u001b[K\r\n[\u001b[31m\u001b[1m03:10:01 PM\u001b(B\u001b[m]% curl localhost:9090                                                     [\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m]\u001b[K\r\n\u001b[K\r\n(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/test\u001b(B\u001b[m\u003e\u001b[K\r\n[\u001b[31m\u001b[1m03:10:01 PM\u001b(B\u001b[m]%                                                                         [\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m]\u001b[K\u001b[32m\u001b[13;1H─────────────────────────────────────────────────────────────────────\ufffd\ufffd"
+    ],
+    [
+      0.000040,
+      "\ufffd──────────────────────────────\u001b[22;1H────────────────────────────────────────────┬───────────────────────────────────────────────────────\u001b[39m\u001b[23;45H│\u001b[24;45H│\u001b[25;45H│\u001b[26;45H│\u001b[27;45H│\u001b[28;45H│\u001b[29;45H│\u001b[30;45H│\u001b[31;45H│\u001b[32;45H│\u001b[33;45H│\u001b[34;45H│\u001b[35;45H│\u001b[36;45H│\u001b[37;45H│\u001b[38;45H│\u001b[39;45H│\u001b(B\u001b[m\u001b[19;56H\u001b[?12l\u001b[?25h\u001b[?1005h\u001b[?1006h\u001b[?1002h\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.100484,
+      "\u001b[?25l\u001b[14;1H(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/test\u001b(B\u001b[m\u003e\u001b[K\r\n[\u001b[31m\u001b[1m03:10:00 PM\u001b(B\u001b[m]% curl localhost:9090                                                     [\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m]\u001b[K\r\n\u001b[K\r\n(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/test\u001b(B\u001b[m\u003e\u001b[K\r\n[\u001b[31m\u001b[1m03:10:01 PM\u001b(B\u001b[m]% curl localhost:9090                                                     [\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m]\u001b[K\r\n\u001b[K\r\n(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/test\u001b(B\u001b[m\u003e\u001b[K\r\n[\u001b[31m\u001b[1m03:10:01 PM\u001b(B\u001b[m]%                                                                         [\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m]\u001b[K\u001b[16G\u001b[?12l\u001b[?25h\u001b[?1005h\u001b[?1006h\u001b[?1000h\u001b[?1h\u001b="
+    ],
+    [
+      0.538030,
+      "\u001b[14;21r\u001b[H\u001b[21;16Hcurl localhost:9090\u001b[1;40r\u001b[H\u001b[21;35H"
+    ],
+    [
+      0.471752,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000006,
+      "\u001b[14;21r\u001b[H\u001b[21d\n\u001b[1;40r\u001b[H\u001b[21d"
+    ],
+    [
+      0.001514,
+      "\u001b]0;0:2:curl - \"Guillaume-SR-MBP.local\"\u0007\u001b[?25l\u001b[40d\u001b[38;5;16m\u001b[48;5;254m\u001b[1m 0 \u001b(B\u001b[m\u001b[38;5;254m\u001b[48;5;233m \u001b[38;5;231m\u001b[7m\u003c\u001b(B\u001b[m\u001b[38;5;233m\u001b[48;5;31m \u001b[38;5;117m2  \u001b[38;5;231m\u001b[1mcurl \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m\u003e\u001b[38;5;233m \u001b[38;5;247m ⇑  9d 41m 4s\u001b[38;5;241m \u001b[32m 1.5 1.3 1.4\u001b[38;5;236m \u001b[38;5;247m\u001b[48;5;236m 2015-07-10\u001b[38;5;241m \u001b[38;5;252m\u001b[1m ⌚ 15:09\u001b(B\u001b[m\u001b[38;5;252m\u001b[48;5;236m \u001b[38;5;16m\u001b[48;5;252m\u001b[1m  Guillaume-SR-MBP.local \u001b(B\u001b[m\u001b[21;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.010596,
+      "\u001b[23;39r\u001b[H\u001b[30d---\u003e 9091 /\u001b[1;40r\u001b[H\u001b[21d"
+    ],
+    [
+      0.000787,
+      "\u001b[14;21r\u001b[H\u001b[21d\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                                                   \u001b[21;1H \u001b[1;40r\u001b[H\u001b[21d"
+    ],
+    [
+      0.001002,
+      "\u001b]0;0:2:..est/talk/test - \"Guillaume-SR-MBP.local\"\u0007\u001b[?25l\u001b[40d\u001b[38;5;16m\u001b[48;5;254m\u001b[1m 0 \u001b(B\u001b[m\u001b[38;5;254m\u001b[48;5;233m \u001b[38;5;231m\u001b[7m\u003c\u001b(B\u001b[m\u001b[38;5;231m\u001b[48;5;31m\u001b[1m/talk/test \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m\u003e\u001b[38;5;233m \u001b[38;5;247m ⇑  9d 41m 4s\u001b[38;5;241m \u001b[32m 1.5 1.3 1.4\u001b[38;5;236m \u001b[38;5;247m\u001b[48;5;236m 2015-07-10\u001b[38;5;241m \u001b[38;5;252m\u001b[1m ⌚ 15:09\u001b(B\u001b[m\u001b[38;5;252m\u001b[48;5;236m \u001b[38;5;16m\u001b[48;5;252m\u001b[1m  Guillaume-SR-MBP.local \u001b(B\u001b[m\u001b[21;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028107,
+      "\u001b[14;21r\u001b[H\u001b[21d\u001b[K\n(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/test\u001b(B\u001b[m\u003e\r\n[\u001b[31m\u001b[1m03:10:05 PM\u001b(B\u001b[m]% \u001b[K\u001b[72C[\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m]\u001b[1;40r\u001b[H\u001b[21;16H\u001b[?1h\u001b="
+    ],
+    [
+      0.502860,
+      "\u001b[14;21r\u001b[H\u001b[21;16Hcurl localhost:9090\u001b[1;40r\u001b[H\u001b[21;35H"
+    ],
+    [
+      0.367525,
+      "\u001b[?1l\u001b\u003e\u001b[14;21r\u001b[H\u001b[21d\n\u001b[1;40r\u001b[H\u001b[21d"
+    ],
+    [
+      0.002244,
+      "\u001b]0;0:2:curl - \"Guillaume-SR-MBP.local\"\u0007\u001b[?25l\u001b[40d\u001b[38;5;16m\u001b[48;5;254m\u001b[1m 0 \u001b(B\u001b[m\u001b[38;5;254m\u001b[48;5;233m \u001b[38;5;231m\u001b[7m\u003c\u001b(B\u001b[m\u001b[38;5;233m\u001b[48;5;31m \u001b[38;5;117m2  \u001b[38;5;231m\u001b[1mcurl \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m\u003e\u001b[38;5;233m \u001b[38;5;247m ⇑  9d 41m 4s\u001b[38;5;241m \u001b[32m 1.5 1.3 1.4\u001b[38;5;236m \u001b[38;5;247m\u001b[48;5;236m 2015-07-10\u001b[38;5;241m \u001b[38;5;252m\u001b[1m ⌚ 15:09\u001b(B\u001b[m\u001b[38;5;252m\u001b[48;5;236m \u001b[38;5;16m\u001b[48;5;252m\u001b[1m  Guillaume-SR-MBP.local \u001b(B\u001b[m\u001b[21;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.010828,
+      "\u001b[23;39r\u001b[H\u001b[31d---\u003e 9091 /\u001b[1;40r\u001b[H\u001b[21d"
+    ],
+    [
+      0.001246,
+      "\u001b[14;21r\u001b[H\u001b[21d\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                                                   \u001b[21;1H \u001b[1;40r\u001b[H\u001b[21d"
+    ],
+    [
+      0.001374,
+      "\u001b]0;0:2:..est/talk/test - \"Guillaume-SR-MBP.local\"\u0007\u001b[?25l\u001b[40d\u001b[38;5;16m\u001b[48;5;254m\u001b[1m 0 \u001b(B\u001b[m\u001b[38;5;254m\u001b[48;5;233m \u001b[38;5;231m\u001b[7m\u003c\u001b(B\u001b[m\u001b[38;5;231m\u001b[48;5;31m\u001b[1m/talk/test \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m\u003e\u001b[38;5;233m \u001b[38;5;247m ⇑  9d 41m 4s\u001b[38;5;241m \u001b[32m 1.5 1.3 1.4\u001b[38;5;236m \u001b[38;5;247m\u001b[48;5;236m 2015-07-10\u001b[38;5;241m \u001b[38;5;252m\u001b[1m ⌚ 15:09\u001b(B\u001b[m\u001b[38;5;252m\u001b[48;5;236m \u001b[38;5;16m\u001b[48;5;252m\u001b[1m  Guillaume-SR-MBP.local \u001b(B\u001b[m\u001b[21;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029971,
+      "\u001b[14;21r\u001b[H\u001b[21d\u001b[K\n(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/test\u001b(B\u001b[m\u003e\r\n[\u001b[31m\u001b[1m03:10:06 PM\u001b(B\u001b[m]% \u001b[K\u001b[72C[\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m]\u001b[1;40r\u001b[H\u001b[21;16H\u001b[?1h\u001b="
+    ],
+    [
+      0.466579,
+      "\u001b[14;21r\u001b[H\u001b[21;16Hcurl localhost:9090\u001b[1;40r\u001b[H\u001b[21;35H"
+    ],
+    [
+      0.255614,
+      "\u001b[14;21r\u001b[H\u001b[21d\n\u001b[1;40r\u001b[H\u001b[21d\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.002165,
+      "\u001b]0;0:2:curl - \"Guillaume-SR-MBP.local\"\u0007\u001b[?25l\u001b[40d\u001b[38;5;16m\u001b[48;5;254m\u001b[1m 0 \u001b(B\u001b[m\u001b[38;5;254m\u001b[48;5;233m \u001b[38;5;231m\u001b[7m\u003c\u001b(B\u001b[m\u001b[38;5;233m\u001b[48;5;31m \u001b[38;5;117m2  \u001b[38;5;231m\u001b[1mcurl \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m\u003e\u001b[38;5;233m \u001b[38;5;247m ⇑  9d 41m 4s\u001b[38;5;241m \u001b[32m 1.5 1.3 1.4\u001b[38;5;236m \u001b[38;5;247m\u001b[48;5;236m 2015-07-10\u001b[38;5;241m \u001b[38;5;252m\u001b[1m ⌚ 15:09\u001b(B\u001b[m\u001b[38;5;252m\u001b[48;5;236m \u001b[38;5;16m\u001b[48;5;252m\u001b[1m  Guillaume-SR-MBP.local \u001b(B\u001b[m\u001b[21;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.010808,
+      "\u001b[1;12r\u001b[H\u001b[12dCALLING DIAL\r\n\u001b[1;40r\u001b[H\u001b[21d"
+    ],
+    [
+      0.000954,
+      "\u001b[1;12r\u001b[H\u001b[12dError during DIAL: dial tcp 127.0.0.1:9092: getsockopt: connection refused\r\n\u001b[1;40r\u001b[H\u001b[21d"
+    ],
+    [
+      0.000266,
+      "\u001b[1;12r\u001b[H\u001b[12d2015/07/10 15:10:07 http: proxy error: dial tcp 127.0.0.1:9092: getsockopt: connection refused\r\n\u001b[1;40r\u001b[H\u001b[21d"
+    ],
+    [
+      0.000967,
+      "\u001b[14;21r\u001b[H\u001b[21d\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                                                   \u001b[21;1H \u001b[1;40r\u001b[H\u001b[21d"
+    ],
+    [
+      0.001226,
+      "\u001b]0;0:2:..est/talk/test - \"Guillaume-SR-MBP.local\"\u0007\u001b[?25l\u001b[40d\u001b[38;5;16m\u001b[48;5;254m\u001b[1m 0 \u001b(B\u001b[m\u001b[38;5;254m\u001b[48;5;233m \u001b[38;5;231m\u001b[7m\u003c\u001b(B\u001b[m\u001b[38;5;231m\u001b[48;5;31m\u001b[1m/talk/test \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m\u003e\u001b[38;5;233m \u001b[38;5;247m ⇑  9d 41m 4s\u001b[38;5;241m \u001b[32m 1.5 1.3 1.4\u001b[38;5;236m \u001b[38;5;247m\u001b[48;5;236m 2015-07-10\u001b[38;5;241m \u001b[38;5;252m\u001b[1m ⌚ 15:09\u001b(B\u001b[m\u001b[38;5;252m\u001b[48;5;236m \u001b[38;5;16m\u001b[48;5;252m\u001b[1m  Guillaume-SR-MBP.local \u001b(B\u001b[m\u001b[21;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.031406,
+      "\u001b[14;21r\u001b[H\u001b[21d\u001b[K\n(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/test\u001b(B\u001b[m\u003e\r\n[\u001b[31m\u001b[1m03:10:07 PM\u001b(B\u001b[m]% \u001b[K\u001b[72C[\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m]\u001b[1;40r\u001b[H\u001b[21;16H\u001b[?1h\u001b="
+    ],
+    [
+      0.480418,
+      "\u001b[14;21r\u001b[H\u001b[21;16Hcurl localhost:9090\u001b[1;40r\u001b[H\u001b[21;35H"
+    ],
+    [
+      0.127816,
+      "\u001b[?1l\u001b\u003e\u001b[14;21r\u001b[H\u001b[21d\n\u001b[1;40r\u001b[H\u001b[21d"
+    ],
+    [
+      0.002168,
+      "\u001b]0;0:2:curl - \"Guillaume-SR-MBP.local\"\u0007\u001b[?25l\u001b[40d\u001b[38;5;16m\u001b[48;5;254m\u001b[1m 0 \u001b(B\u001b[m\u001b[38;5;254m\u001b[48;5;233m \u001b[38;5;231m\u001b[7m\u003c\u001b(B\u001b[m\u001b[38;5;233m\u001b[48;5;31m \u001b[38;5;117m2  \u001b[38;5;231m\u001b[1mcurl \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m\u003e\u001b[38;5;233m \u001b[38;5;247m ⇑  9d 41m 4s\u001b[38;5;241m \u001b[32m 1.5 1.3 1.4\u001b[38;5;236m \u001b[38;5;247m\u001b[48;5;236m 2015-07-10\u001b[38;5;241m \u001b[38;5;252m\u001b[1m ⌚ 15:09\u001b(B\u001b[m\u001b[38;5;252m\u001b[48;5;236m \u001b[38;5;16m\u001b[48;5;252m\u001b[1m  Guillaume-SR-MBP.local \u001b(B\u001b[m\u001b[21;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.009795,
+      "\u001b[23;39r\u001b[H\u001b[32d---\u003e 9091 /\u001b[1;40r\u001b[H\u001b[21d"
+    ],
+    [
+      0.001170,
+      "\u001b[14;21r\u001b[H\u001b[21d\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                                                   \u001b[21;1H \u001b[1;40r\u001b[H\u001b[21d"
+    ],
+    [
+      0.001207,
+      "\u001b]0;0:2:..est/talk/test - \"Guillaume-SR-MBP.local\"\u0007\u001b[?25l\u001b[40d\u001b[38;5;16m\u001b[48;5;254m\u001b[1m 0 \u001b(B\u001b[m\u001b[38;5;254m\u001b[48;5;233m \u001b[38;5;231m\u001b[7m\u003c\u001b(B\u001b[m\u001b[38;5;231m\u001b[48;5;31m\u001b[1m/talk/test \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m\u003e\u001b[38;5;233m \u001b[38;5;247m ⇑  9d 41m 4s\u001b[38;5;241m \u001b[32m 1.5 1.3 1.4\u001b[38;5;236m \u001b[38;5;247m\u001b[48;5;236m 2015-07-10\u001b[38;5;241m \u001b[38;5;252m\u001b[1m ⌚ 15:09\u001b(B\u001b[m\u001b[38;5;252m\u001b[48;5;236m \u001b[38;5;16m\u001b[48;5;252m\u001b[1m  Guillaume-SR-MBP.local \u001b(B\u001b[m\u001b[21;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029183,
+      "\u001b[14;21r\u001b[H\u001b[21d\u001b[K\u001b[1;40r\u001b[H\u001b[21;16H\u001b[?1h\u001b="
+    ],
+    [
+      0.002502,
+      "\u001b[?25l\u001b[14;1H(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/test\u001b(B\u001b[m\u003e\u001b[K\r\n[\u001b[31m\u001b[1m03:10:06 PM\u001b(B\u001b[m]% curl localhost:9090                                                     [\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m]\u001b[K\r\n\u001b[K\r\n(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/test\u001b(B\u001b[m\u003e\u001b[K\r\n[\u001b[31m\u001b[1m03:10:07 PM\u001b(B\u001b[m]% curl localhost:9090                                                     [\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m]\u001b[K\r\n\u001b[K\r\n(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/test\u001b(B\u001b[m\u003e\u001b[K\r\n[\u001b[31m\u001b[1m03:10:07 PM\u001b(B\u001b[m]%                                                                         [\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m]\u001b[K\u001b[16G\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.338472,
+      "\u001b[14;21r\u001b[H\u001b[21;16Hcurl localhost:9090\u001b[1;40r\u001b[H\u001b[21;35H"
+    ],
+    [
+      0.223481,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000009,
+      "\u001b[14;21r\u001b[H\u001b[21d\n\u001b[1;40r\u001b[H\u001b[21d"
+    ],
+    [
+      0.002090,
+      "\u001b]0;0:2:curl - \"Guillaume-SR-MBP.local\"\u0007\u001b[?25l\u001b[40d\u001b[38;5;16m\u001b[48;5;254m\u001b[1m 0 \u001b(B\u001b[m\u001b[38;5;254m\u001b[48;5;233m \u001b[38;5;231m\u001b[7m\u003c\u001b(B\u001b[m\u001b[38;5;233m\u001b[48;5;31m \u001b[38;5;117m2  \u001b[38;5;231m\u001b[1mcurl \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m\u003e\u001b[38;5;233m \u001b[38;5;247m ⇑  9d 41m 4s\u001b[38;5;241m \u001b[32m 1.5 1.3 1.4\u001b[38;5;236m \u001b[38;5;247m\u001b[48;5;236m 2015-07-10\u001b[38;5;241m \u001b[38;5;252m\u001b[1m ⌚ 15:09\u001b(B\u001b[m\u001b[38;5;252m\u001b[48;5;236m \u001b[38;5;16m\u001b[48;5;252m\u001b[1m  Guillaume-SR-MBP.local \u001b(B\u001b[m\u001b[21;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.010885,
+      "\u001b[1;12r\u001b[H\u001b[12dCALLING DIAL\r\n\u001b[1;40r\u001b[H\u001b[21d"
+    ],
+    [
+      0.001003,
+      "\u001b[1;12r\u001b[H\u001b[12dError during DIAL: dial tcp 127.0.0.1:9092: getsockopt: connection refused\r\n\u001b[1;40r\u001b[H\u001b[21d\u001b[1;12r\u001b[H\u001b[12d2015/07/10 15:10:08 http: proxy error: dial tcp 127.0.0.1:9092: getsockopt: connection refused\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[1;40r\u001b[H\u001b[21d"
+    ],
+    [
+      0.001051,
+      "\u001b[14;21r\u001b[H\u001b[21d\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                                                   \u001b[21;1H \u001b[1;40r\u001b[H\u001b[21d"
+    ],
+    [
+      0.001190,
+      "\u001b]0;0:2:..est/talk/test - \"Guillaume-SR-MBP.local\"\u0007\u001b[?25l\u001b[40d\u001b[38;5;16m\u001b[48;5;254m\u001b[1m 0 \u001b(B\u001b[m\u001b[38;5;254m\u001b[48;5;233m \u001b[38;5;231m\u001b[7m\u003c\u001b(B\u001b[m\u001b[38;5;231m\u001b[48;5;31m\u001b[1m/talk/test \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m\u003e\u001b[38;5;233m \u001b[38;5;247m ⇑  9d 41m 4s\u001b[38;5;241m \u001b[32m 1.5 1.3 1.4\u001b[38;5;236m \u001b[38;5;247m\u001b[48;5;236m 2015-07-10\u001b[38;5;241m \u001b[38;5;252m\u001b[1m ⌚ 15:09\u001b(B\u001b[m\u001b[38;5;252m\u001b[48;5;236m \u001b[38;5;16m\u001b[48;5;252m\u001b[1m  Guillaume-SR-MBP.local \u001b(B\u001b[m\u001b[21;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.030480,
+      "\u001b[14;21r\u001b[H\u001b[21d\u001b[K\n(\u001b[34m\u001b[1mguillaume\u001b(B\u001b[m@\u001b[32m\u001b[1mGuillaume-SR-MBP\u001b(B\u001b[m):\u003c\u001b[36m\u001b[1m~/go/src/test/talk/test\u001b(B\u001b[m\u003e\r\n[\u001b[31m\u001b[1m03:10:08 PM\u001b(B\u001b[m]% \u001b[K\u001b[72C[\u001b[31m\u001b[1mFri 10 Jul\u001b(B\u001b[m]\u001b[1;40r\u001b[H\u001b[21;16H\u001b[?1h\u001b="
+    ],
+    [
+      1.642825,
+      "\u001b[?25l\u001b[40;1H\u001b[38;5;254m\u001b[48;5;31m\u001b[1m 0 \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m\u001b[7m\u003c\u001b(B\u001b[m\u001b[38;5;231m\u001b[48;5;31m\u001b[1m/talk/test \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m\u003e\u001b[38;5;233m \u001b[38;5;247m ⇑  9d 41m 4s\u001b[38;5;241m \u001b[32m 1.5 1.3 1.4\u001b[38;5;236m \u001b[38;5;247m\u001b[48;5;236m 2015-07-10\u001b[38;5;241m \u001b[38;5;252m\u001b[1m ⌚ 15:09\u001b(B\u001b[m\u001b[38;5;252m\u001b[48;5;236m \u001b[38;5;16m\u001b[48;5;252m\u001b[1m  Guillaume-SR-MBP.local \u001b(B\u001b[m\u001b[21;16H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.375322,
+      "\u001b[?25l\u001b[40;1H\u001b[38;5;16m\u001b[48;5;254m\u001b[1m 0 \u001b(B\u001b[m\u001b[38;5;254m\u001b[48;5;233m \u001b[38;5;231m\u001b[7m\u003c\u001b(B\u001b[m\u001b[38;5;231m\u001b[48;5;31m\u001b[1m/talk/test \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m\u003e\u001b[38;5;233m \u001b[38;5;247m ⇑  9d 41m 4s\u001b[38;5;241m \u001b[32m 1.5 1.3 1.4\u001b[38;5;236m \u001b[38;5;247m\u001b[48;5;236m 2015-07-10\u001b[38;5;241m \u001b[38;5;252m\u001b[1m ⌚ 15:09\u001b(B\u001b[m\u001b[38;5;252m\u001b[48;5;236m \u001b[38;5;16m\u001b[48;5;252m\u001b[1m  Guillaume-SR-MBP.local \u001b(B\u001b[m\u001b[21;16H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000236,
+      "\u001b[1;40r\u001b(B\u001b[m\u001b[?1l\u001b\u003e\u001b[H\u001b[2J\u001b]112\u0007\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[?1006l\u001b[?1005l\u001b[?1049l"
+    ],
+    [
+      0.000344,
+      "[detached (from session 0)]\r\n"
+    ]
+  ]
+}
