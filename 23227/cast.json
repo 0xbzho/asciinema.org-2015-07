@@ -1,0 +1,6714 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 479.243305,
+  "command": "/usr/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/bin/zsh"
+  },
+  "stdout": [
+    [
+      1.012795,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000026,
+      "\u001b]2;lgcosta@localhost: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.023307,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[21:07:48] \u001b[36mlgcosta\u001b[00m:\u001b[32m~\u001b[00m $ \u001b[K"
+    ],
+    [
+      0.000056,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.178661,
+      "s"
+    ],
+    [
+      0.160820,
+      "\u0008ss"
+    ],
+    [
+      0.112282,
+      "h"
+    ],
+    [
+      0.047860,
+      " "
+    ],
+    [
+      0.143663,
+      "r"
+    ],
+    [
+      0.112490,
+      "o"
+    ],
+    [
+      0.143988,
+      "o"
+    ],
+    [
+      0.063966,
+      "t"
+    ],
+    [
+      0.336139,
+      "@"
+    ],
+    [
+      0.671507,
+      "1"
+    ],
+    [
+      0.159957,
+      "9"
+    ],
+    [
+      0.112393,
+      "2"
+    ],
+    [
+      0.095515,
+      "."
+    ],
+    [
+      0.160421,
+      "1"
+    ],
+    [
+      0.111951,
+      "6"
+    ],
+    [
+      0.160891,
+      "8"
+    ],
+    [
+      0.127367,
+      "."
+    ],
+    [
+      0.192113,
+      "1"
+    ],
+    [
+      0.096036,
+      "5"
+    ],
+    [
+      0.239664,
+      "."
+    ],
+    [
+      0.192238,
+      "7"
+    ],
+    [
+      0.208850,
+      "0"
+    ],
+    [
+      0.259990,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;ssh root@192.168.15.70\u0007\u001b]1;root@192.168.15.70\u0007"
+    ],
+    [
+      0.711725,
+      "Password for root@pfSense.lab.mundounix:"
+    ],
+    [
+      3.331218,
+      "\r\n"
+    ],
+    [
+      0.125343,
+      "*** Welcome to pfSense 2.2.3-RELEASE-pfSense (amd64) on pfSense ***\r\n"
+    ],
+    [
+      0.001263,
+      "\r\n WAN (wan)       -\u003e em0        -\u003e "
+    ],
+    [
+      0.000059,
+      "v4/DHCP4: 10.0.2.15/24"
+    ],
+    [
+      0.000802,
+      "\r\n LAN (lan)       -\u003e em1        -\u003e "
+    ],
+    [
+      0.000084,
+      "v4: 192.168.15.70/24"
+    ],
+    [
+      0.018661,
+      "\r\n"
+    ],
+    [
+      0.000156,
+      " 0) Logout (SSH only)                  9) pfTop\r\n"
+    ],
+    [
+      0.000096,
+      " 1) Assign Interfaces                 10) Filter Logs\r\n"
+    ],
+    [
+      0.000142,
+      " 2) Set interface(s) IP address       11) Restart webConfigurator\r\n"
+    ],
+    [
+      0.000119,
+      " 3) Reset webConfigurator password    12) pfSense Developer Shell\r\n"
+    ],
+    [
+      0.000468,
+      " 4) Reset to factory defaults         13) Upgrade from console\r\n"
+    ],
+    [
+      0.000082,
+      " 5) Reboot system                     14) Disable Secure Shell (sshd)\r\n"
+    ],
+    [
+      0.000303,
+      " 6) Halt system                       15) Restore recent configuration\r\n"
+    ],
+    [
+      0.000068,
+      " 7) Ping host                         16) Restart PHP-FPM\r\n"
+    ],
+    [
+      0.000263,
+      " 8) Shell\r\n"
+    ],
+    [
+      0.000169,
+      "  \r\n"
+    ],
+    [
+      0.000246,
+      "\r\n"
+    ],
+    [
+      0.000192,
+      "Enter an option: "
+    ],
+    [
+      2.828000,
+      "8"
+    ],
+    [
+      1.264678,
+      "\r\n"
+    ],
+    [
+      0.000429,
+      "\r\n"
+    ],
+    [
+      0.053175,
+      "\u001b[0;1;33m[\u001b[0;1;37m2.2.3-RELEASE\u001b[0;1;33m]\u001b[0;1;33m\u001b[1m[\u001b[0;1;37mroot\u001b[0;1;31m@\u001b[0;1;37mpfSense.lab.mundounix\u001b[0;1;33m]\u001b[0;1;32m\u001b[m/root\u001b[0;1;33m\u001b[0;1;36m\u001b[0;1;31m:\u001b[0;0;0m "
+    ],
+    [
+      18.346585,
+      "f"
+    ],
+    [
+      0.112393,
+      "e"
+    ],
+    [
+      0.159203,
+      "t"
+    ],
+    [
+      0.304571,
+      "c"
+    ],
+    [
+      0.144149,
+      "h"
+    ],
+    [
+      0.272119,
+      " "
+    ],
+    [
+      1.567751,
+      "-"
+    ],
+    [
+      0.095894,
+      "q"
+    ],
+    [
+      0.144102,
+      " "
+    ],
+    [
+      0.160465,
+      "-"
+    ],
+    [
+      0.432256,
+      "o"
+    ],
+    [
+      0.255613,
+      " "
+    ],
+    [
+      0.127493,
+      "-"
+    ],
+    [
+      0.144451,
+      " "
+    ],
+    [
+      1.308135,
+      "http://shoutkey. \u0008com/feature"
+    ],
+    [
+      1.123376,
+      " "
+    ],
+    [
+      0.176665,
+      "|"
+    ],
+    [
+      0.399001,
+      " "
+    ],
+    [
+      0.208766,
+      "s"
+    ],
+    [
+      0.159923,
+      "h"
+    ],
+    [
+      1.857382,
+      "\r\r\n"
+    ],
+    [
+      2.934913,
+      "Bootstrapping pkg from pkg+http://pkg.FreeBSD.org/freebsd:10:x86:64/latest, please wait...\r\n"
+    ],
+    [
+      9.256932,
+      "Verifying signature with trusted certificate pkg.freebsd.org.2013102301... done\r\n"
+    ],
+    [
+      0.664035,
+      "Installing pkg-1.5.4...\r\n"
+    ],
+    [
+      0.054532,
+      "Extracting pkg-1.5.4:   0%"
+    ],
+    [
+      0.058809,
+      "\rExtracting pkg-1.5.4:   0%"
+    ],
+    [
+      0.001967,
+      "\rExtracting pkg-1.5.4:   1%"
+    ],
+    [
+      0.007366,
+      "\rExtracting pkg-1.5.4:   3%"
+    ],
+    [
+      0.001584,
+      "\rExtracting pkg-1.5.4:   5%"
+    ],
+    [
+      0.007438,
+      "\rExtracting pkg-1.5.4:   6%"
+    ],
+    [
+      0.002013,
+      "\rExtracting pkg-1.5.4:   8%"
+    ],
+    [
+      0.001648,
+      "\rExtracting pkg-1.5.4:  10%"
+    ],
+    [
+      0.001259,
+      "\rExtracting pkg-1.5.4:  11%"
+    ],
+    [
+      0.001335,
+      "\rExtracting pkg-1.5.4:  13%"
+    ],
+    [
+      0.001140,
+      "\rExtracting pkg-1.5.4:  15%"
+    ],
+    [
+      0.018134,
+      "\rExtracting pkg-1.5.4:  16%"
+    ],
+    [
+      0.209414,
+      "\rExtracting pkg-1.5.4:  18%"
+    ],
+    [
+      0.000337,
+      "\rExtracting pkg-1.5.4:  20%"
+    ],
+    [
+      0.000266,
+      "\rExtracting pkg-1.5.4:  22%"
+    ],
+    [
+      0.124441,
+      "\rExtracting pkg-1.5.4:  23%"
+    ],
+    [
+      0.045392,
+      "\rExtracting pkg-1.5.4:  25%"
+    ],
+    [
+      0.018626,
+      "\rExtracting pkg-1.5.4:  27%"
+    ],
+    [
+      0.001965,
+      "\rExtracting pkg-1.5.4:  28%"
+    ],
+    [
+      0.001857,
+      "\rExtracting pkg-1.5.4:  30%"
+    ],
+    [
+      0.002031,
+      "\rExtracting pkg-1.5.4:  32%"
+    ],
+    [
+      0.001932,
+      "\rExtracting pkg-1.5.4:  33%"
+    ],
+    [
+      0.002192,
+      "\rExtracting pkg-1.5.4:  35%"
+    ],
+    [
+      0.001609,
+      "\rExtracting pkg-1.5.4:  37%"
+    ],
+    [
+      0.001654,
+      "\rExtracting pkg-1.5.4:  38%"
+    ],
+    [
+      0.001875,
+      "\rExtracting pkg-1.5.4:  40%"
+    ],
+    [
+      0.001762,
+      "\rExtracting pkg-1.5.4:  42%"
+    ],
+    [
+      0.001975,
+      "\rExtracting pkg-1.5.4:  44%"
+    ],
+    [
+      0.001480,
+      "\rExtracting pkg-1.5.4:  45%"
+    ],
+    [
+      0.001329,
+      "\rExtracting pkg-1.5.4:  47%"
+    ],
+    [
+      0.002803,
+      "\rExtracting pkg-1.5.4:  49%"
+    ],
+    [
+      0.008818,
+      "\rExtracting pkg-1.5.4:  50%"
+    ],
+    [
+      0.001903,
+      "\rExtracting pkg-1.5.4:  52%"
+    ],
+    [
+      0.001304,
+      "\rExtracting pkg-1.5.4:  54%"
+    ],
+    [
+      0.001570,
+      "\rExtracting pkg-1.5.4:  55%"
+    ],
+    [
+      0.001587,
+      "\rExtracting pkg-1.5.4:  57%"
+    ],
+    [
+      0.001748,
+      "\rExtracting pkg-1.5.4:  59%"
+    ],
+    [
+      0.001532,
+      "\rExtracting pkg-1.5.4:  61%"
+    ],
+    [
+      0.001993,
+      "\rExtracting pkg-1.5.4:  62%"
+    ],
+    [
+      0.000382,
+      "\rExtracting pkg-1.5.4:  64%"
+    ],
+    [
+      0.001253,
+      "\rExtracting pkg-1.5.4:  66%"
+    ],
+    [
+      0.001199,
+      "\rExtracting pkg-1.5.4:  67%"
+    ],
+    [
+      0.001144,
+      "\rExtracting pkg-1.5.4:  69%"
+    ],
+    [
+      0.001025,
+      "\rExtracting pkg-1.5.4:  71%"
+    ],
+    [
+      0.001224,
+      "\rExtracting pkg-1.5.4:  72%"
+    ],
+    [
+      0.001099,
+      "\rExtracting pkg-1.5.4:  74%"
+    ],
+    [
+      0.001064,
+      "\rExtracting pkg-1.5.4:  76%"
+    ],
+    [
+      0.000783,
+      "\rExtracting pkg-1.5.4:  77%"
+    ],
+    [
+      0.001629,
+      "\rExtracting pkg-1.5.4:  79%"
+    ],
+    [
+      0.000414,
+      "\rExtracting pkg-1.5.4:  81%"
+    ],
+    [
+      0.001059,
+      "\rExtracting pkg-1.5.4:  83%"
+    ],
+    [
+      0.001096,
+      "\rExtracting pkg-1.5.4:  84%"
+    ],
+    [
+      0.001046,
+      "\rExtracting pkg-1.5.4:  86%"
+    ],
+    [
+      0.001975,
+      "\rExtracting pkg-1.5.4:  88%"
+    ],
+    [
+      0.000893,
+      "\rExtracting pkg-1.5.4:  89%"
+    ],
+    [
+      0.003857,
+      "\rExtracting pkg-1.5.4:  91%"
+    ],
+    [
+      0.007327,
+      "\rExtracting pkg-1.5.4:  93%"
+    ],
+    [
+      0.338633,
+      "\rExtracting pkg-1.5.4:  94%"
+    ],
+    [
+      0.001301,
+      "\rExtracting pkg-1.5.4:  96%"
+    ],
+    [
+      0.029431,
+      "\rExtracting pkg-1.5.4:  98%"
+    ],
+    [
+      0.000201,
+      "\rExtracting pkg-1.5.4: 100%"
+    ],
+    [
+      0.000192,
+      "\r\n"
+    ],
+    [
+      0.054541,
+      "Message for pkg-1.5.4:\r\nIf you are upgrading from the old package format, first run:\r\n\r\n  # pkg2ng\r\n"
+    ],
+    [
+      0.012708,
+      "Updating FreeBSD repository catalogue...\r\n"
+    ],
+    [
+      0.285091,
+      "Fetching meta.txz:   0%"
+    ],
+    [
+      0.003497,
+      "\rFetching meta.txz: 100%"
+    ],
+    [
+      0.001082,
+      "    944 B"
+    ],
+    [
+      0.000178,
+      "   0.9kB/s "
+    ],
+    [
+      0.000145,
+      "   00:01"
+    ],
+    [
+      0.000164,
+      "    "
+    ],
+    [
+      0.000187,
+      "\r\n"
+    ],
+    [
+      0.310233,
+      "Fetching packagesite.txz:   0%"
+    ],
+    [
+      0.381406,
+      "\rFetching packagesite.txz:   1%"
+    ],
+    [
+      0.000283,
+      "   80 KiB"
+    ],
+    [
+      0.000377,
+      "  81.9kB/s "
+    ],
+    [
+      0.000876,
+      "   01:04"
+    ],
+    [
+      0.000437,
+      " ETA"
+    ],
+    [
+      0.928992,
+      "\rFetching packagesite.txz:   7%"
+    ],
+    [
+      0.000384,
+      "  410 KiB"
+    ],
+    [
+      0.000385,
+      " 337.9kB/s "
+    ],
+    [
+      0.000005,
+      "   00:21"
+    ],
+    [
+      0.000669,
+      " ETA"
+    ],
+    [
+      0.896417,
+      "\rFetching packagesite.txz:  14%"
+    ],
+    [
+      0.000433,
+      "  780 KiB"
+    ],
+    [
+      0.000294,
+      " 378.9kB/s "
+    ],
+    [
+      0.000309,
+      "   00:14"
+    ],
+    [
+      0.000297,
+      " ETA"
+    ],
+    [
+      0.946978,
+      "\rFetching packagesite.txz:  22%"
+    ],
+    [
+      0.000161,
+      "    1 MiB"
+    ],
+    [
+      0.000142,
+      " 419.8kB/s "
+    ],
+    [
+      0.000488,
+      "   00:12 ETA"
+    ],
+    [
+      0.945880,
+      "\rFetching packagesite.txz:  30%"
+    ],
+    [
+      0.000335,
+      "    2 MiB"
+    ],
+    [
+      0.000243,
+      " 419.8kB/s "
+    ],
+    [
+      0.000463,
+      "   00:11"
+    ],
+    [
+      0.000285,
+      " ETA"
+    ],
+    [
+      1.723982,
+      "\rFetching packagesite.txz:  36%    2 MiB 327.7kB/s    00:10 ETA"
+    ],
+    [
+      0.152831,
+      "\rFetching packagesite.txz:  43%"
+    ],
+    [
+      0.000583,
+      "    2 MiB 389.1kB/s    00:08 ETA"
+    ],
+    [
+      1.399421,
+      "\rFetching packagesite.txz:  44%    2 MiB  51.2kB/s    00:09 ETA"
+    ],
+    [
+      0.462579,
+      "\rFetching packagesite.txz:  46%    2 MiB  92.2kB/s    00:09 ETA"
+    ],
+    [
+      0.900436,
+      "\rFetching packagesite.txz:  47%    2 MiB  41.0kB/s    00:10 ETA"
+    ],
+    [
+      0.887480,
+      "\rFetching packagesite.txz:  48%    3 MiB  92.2kB/s    00:11 ETA"
+    ],
+    [
+      0.919835,
+      "\rFetching packagesite.txz:  51%    3 MiB 153.6kB/s    00:10 ETA"
+    ],
+    [
+      0.966435,
+      "\rFetching packagesite.txz:  55%    3 MiB 204.8kB/s    00:10 ETA"
+    ],
+    [
+      0.916711,
+      "\rFetching packagesite.txz:  59%    3 MiB 245.8kB/s    00:09 ETA"
+    ],
+    [
+      0.903041,
+      "\rFetching packagesite.txz:  65%    3 MiB 297.0kB/s    00:07 ETA"
+    ],
+    [
+      0.960183,
+      "\rFetching packagesite.txz:  71%    4 MiB 337.9kB/s    00:06 ETA"
+    ],
+    [
+      0.913642,
+      "\rFetching packagesite.txz:  79%    4 MiB 399.4kB/s    00:04 ETA"
+    ],
+    [
+      0.929113,
+      "\rFetching packagesite.txz:  84%    4 MiB 266.2kB/s    00:03 ETA"
+    ],
+    [
+      0.942974,
+      "\rFetching packagesite.txz:  94%    5 MiB 563.2kB/s    00:01 ETA"
+    ],
+    [
+      0.673783,
+      "\rFetching packagesite.txz: 100%    5 MiB 284.1kB/s    00:19    \r\n"
+    ],
+    [
+      2.543794,
+      "Processing entries:   0%"
+    ],
+    [
+      0.036208,
+      "\rProcessing entries:   0%"
+    ],
+    [
+      0.047451,
+      "\rProcessing entries:   1%"
+    ],
+    [
+      0.038267,
+      "\rProcessing entries:   2%"
+    ],
+    [
+      0.039497,
+      "\rProcessing entries:   3%"
+    ],
+    [
+      0.040764,
+      "\rProcessing entries:   4%"
+    ],
+    [
+      0.037865,
+      "\rProcessing entries:   5%"
+    ],
+    [
+      0.039729,
+      "\rProcessing entries:   6%"
+    ],
+    [
+      0.042543,
+      "\rProcessing entries:   7%"
+    ],
+    [
+      0.040507,
+      "\rProcessing entries:   8%"
+    ],
+    [
+      0.039511,
+      "\rProcessing entries:   9%"
+    ],
+    [
+      0.035908,
+      "\rProcessing entries:  10%"
+    ],
+    [
+      0.041345,
+      "\rProcessing entries:  11%"
+    ],
+    [
+      0.040733,
+      "\rProcessing entries:  12%"
+    ],
+    [
+      0.042176,
+      "\rProcessing entries:  13%"
+    ],
+    [
+      0.036859,
+      "\rProcessing entries:  14%"
+    ],
+    [
+      0.039856,
+      "\rProcessing entries:  15%"
+    ],
+    [
+      0.038490,
+      "\rProcessing entries:  16%"
+    ],
+    [
+      0.039639,
+      "\rProcessing entries:  17%"
+    ],
+    [
+      0.041943,
+      "\rProcessing entries:  18%"
+    ],
+    [
+      0.039394,
+      "\rProcessing entries:  19%"
+    ],
+    [
+      0.040475,
+      "\rProcessing entries:  20%"
+    ],
+    [
+      0.040566,
+      "\rProcessing entries:  21%"
+    ],
+    [
+      0.039974,
+      "\rProcessing entries:  22%"
+    ],
+    [
+      0.039208,
+      "\rProcessing entries:  23%"
+    ],
+    [
+      0.043467,
+      "\rProcessing entries:  24%"
+    ],
+    [
+      0.038812,
+      "\rProcessing entries:  25%"
+    ],
+    [
+      0.039153,
+      "\rProcessing entries:  26%"
+    ],
+    [
+      0.184698,
+      "\rProcessing entries:  27%"
+    ],
+    [
+      0.244381,
+      "\rProcessing entries:  28%"
+    ],
+    [
+      0.267220,
+      "\rProcessing entries:  29%"
+    ],
+    [
+      0.268084,
+      "\rProcessing entries:  30%"
+    ],
+    [
+      0.215598,
+      "\rProcessing entries:  31%"
+    ],
+    [
+      0.270236,
+      "\rProcessing entries:  32%"
+    ],
+    [
+      0.224987,
+      "\rProcessing entries:  33%"
+    ],
+    [
+      0.227575,
+      "\rProcessing entries:  34%"
+    ],
+    [
+      0.276920,
+      "\rProcessing entries:  35%"
+    ],
+    [
+      0.267808,
+      "\rProcessing entries:  36%"
+    ],
+    [
+      0.253090,
+      "\rProcessing entries:  37%"
+    ],
+    [
+      0.256727,
+      "\rProcessing entries:  38%"
+    ],
+    [
+      0.401312,
+      "\rProcessing entries:  39%"
+    ],
+    [
+      0.462805,
+      "\rProcessing entries:  40%"
+    ],
+    [
+      0.220716,
+      "\rProcessing entries:  41%"
+    ],
+    [
+      0.415175,
+      "\rProcessing entries:  42%"
+    ],
+    [
+      0.229563,
+      "\rProcessing entries:  43%"
+    ],
+    [
+      0.239011,
+      "\rProcessing entries:  44%"
+    ],
+    [
+      0.252092,
+      "\rProcessing entries:  45%"
+    ],
+    [
+      0.216940,
+      "\rProcessing entries:  46%"
+    ],
+    [
+      0.251731,
+      "\rProcessing entries:  47%"
+    ],
+    [
+      0.293564,
+      "\rProcessing entries:  48%"
+    ],
+    [
+      0.277270,
+      "\rProcessing entries:  49%"
+    ],
+    [
+      0.258881,
+      "\rProcessing entries:  50%"
+    ],
+    [
+      0.244111,
+      "\rProcessing entries:  51%"
+    ],
+    [
+      0.227548,
+      "\rProcessing entries:  52%"
+    ],
+    [
+      0.200851,
+      "\rProcessing entries:  53%"
+    ],
+    [
+      0.224729,
+      "\rProcessing entries:  54%"
+    ],
+    [
+      0.250709,
+      "\rProcessing entries:  55%"
+    ],
+    [
+      0.240765,
+      "\rProcessing entries:  56%"
+    ],
+    [
+      0.286630,
+      "\rProcessing entries:  57%"
+    ],
+    [
+      0.211468,
+      "\rProcessing entries:  58%"
+    ],
+    [
+      0.285914,
+      "\rProcessing entries:  59%"
+    ],
+    [
+      0.296521,
+      "\rProcessing entries:  60%"
+    ],
+    [
+      0.248575,
+      "\rProcessing entries:  61%"
+    ],
+    [
+      0.204349,
+      "\rProcessing entries:  62%"
+    ],
+    [
+      0.244722,
+      "\rProcessing entries:  63%"
+    ],
+    [
+      0.218456,
+      "\rProcessing entries:  64%"
+    ],
+    [
+      0.241558,
+      "\rProcessing entries:  65%"
+    ],
+    [
+      0.225173,
+      "\rProcessing entries:  66%"
+    ],
+    [
+      0.221242,
+      "\rProcessing entries:  67%"
+    ],
+    [
+      0.208828,
+      "\rProcessing entries:  68%"
+    ],
+    [
+      0.242918,
+      "\rProcessing entries:  69%"
+    ],
+    [
+      0.221427,
+      "\rProcessing entries:  70%"
+    ],
+    [
+      0.228474,
+      "\rProcessing entries:  71%"
+    ],
+    [
+      0.207334,
+      "\rProcessing entries:  72%"
+    ],
+    [
+      0.220705,
+      "\rProcessing entries:  73%"
+    ],
+    [
+      0.235022,
+      "\rProcessing entries:  74%"
+    ],
+    [
+      0.277595,
+      "\rProcessing entries:  75%"
+    ],
+    [
+      0.204375,
+      "\rProcessing entries:  76%"
+    ],
+    [
+      0.254929,
+      "\rProcessing entries:  77%"
+    ],
+    [
+      0.265594,
+      "\rProcessing entries:  78%"
+    ],
+    [
+      0.286874,
+      "\rProcessing entries:  79%"
+    ],
+    [
+      0.277139,
+      "\rProcessing entries:  80%"
+    ],
+    [
+      0.275374,
+      "\rProcessing entries:  81%"
+    ],
+    [
+      0.218508,
+      "\rProcessing entries:  82%"
+    ],
+    [
+      0.220689,
+      "\rProcessing entries:  83%"
+    ],
+    [
+      0.241860,
+      "\rProcessing entries:  84%"
+    ],
+    [
+      0.246604,
+      "\rProcessing entries:  85%"
+    ],
+    [
+      0.276092,
+      "\rProcessing entries:  86%"
+    ],
+    [
+      0.246407,
+      "\rProcessing entries:  87%"
+    ],
+    [
+      0.230703,
+      "\rProcessing entries:  88%"
+    ],
+    [
+      0.217877,
+      "\rProcessing entries:  89%"
+    ],
+    [
+      0.226571,
+      "\rProcessing entries:  90%"
+    ],
+    [
+      0.231284,
+      "\rProcessing entries:  91%"
+    ],
+    [
+      0.241075,
+      "\rProcessing entries:  92%"
+    ],
+    [
+      0.283094,
+      "\rProcessing entries:  93%"
+    ],
+    [
+      0.219562,
+      "\rProcessing entries:  94%"
+    ],
+    [
+      0.225652,
+      "\rProcessing entries:  95%"
+    ],
+    [
+      0.250348,
+      "\rProcessing entries:  96%"
+    ],
+    [
+      0.217597,
+      "\rProcessing entries:  97%"
+    ],
+    [
+      0.236868,
+      "\rProcessing entries:  98%"
+    ],
+    [
+      0.238487,
+      "\rProcessing entries:  99%"
+    ],
+    [
+      0.211974,
+      "\rProcessing entries: 100%"
+    ],
+    [
+      0.000174,
+      "\r\n"
+    ],
+    [
+      0.000215,
+      "FreeBSD repository update completed. 24309 packages processed.\r\n"
+    ],
+    [
+      10.349145,
+      "Updating samba36 repository catalogue...\r\n"
+    ],
+    [
+      0.762068,
+      "Fetching meta.txz:   0%"
+    ],
+    [
+      0.002535,
+      "\rFetching meta.txz: 100%"
+    ],
+    [
+      0.000830,
+      "    824 B   0.8kB/s    00:01    \r\n"
+    ],
+    [
+      0.857277,
+      "Fetching packagesite.txz:   0%"
+    ],
+    [
+      0.022789,
+      "\rFetching packagesite.txz: 100%"
+    ],
+    [
+      0.000457,
+      "   10 KiB  10.4kB/s    00:01    \r\n"
+    ],
+    [
+      0.297698,
+      "Processing entries:   0%"
+    ],
+    [
+      0.044533,
+      "\rProcessing entries:  33%"
+    ],
+    [
+      0.001801,
+      "\rProcessing entries:  72%"
+    ],
+    [
+      0.001631,
+      "\rProcessing entries:  99%"
+    ],
+    [
+      0.000707,
+      "\rProcessing entries: 100%"
+    ],
+    [
+      0.000293,
+      "\r\n"
+    ],
+    [
+      0.000203,
+      "samba36 repository update completed. 30 packages processed.\r\n"
+    ],
+    [
+      0.069712,
+      "Updating samba36 repository catalogue...\r\n"
+    ],
+    [
+      1.569607,
+      "samba36 repository is up-to-date.\r\nAll repositories are up-to-date.\r\n"
+    ],
+    [
+      0.028617,
+      "Updating database digests format:   0%"
+    ],
+    [
+      0.001120,
+      "\rUpdating database digests format:   0%"
+    ],
+    [
+      0.003442,
+      "\rUpdating database digests format: 100%"
+    ],
+    [
+      0.000526,
+      "\r\n"
+    ],
+    [
+      0.049094,
+      "The following 19 package(s) will be affected (of 0 checked):\r\n\r\n"
+    ],
+    [
+      0.002042,
+      "New packages to be INSTALLED:\r\n\tsamba36: 3.6.25 [samba36]\r\n\tlibsunacl: 1.0 [samba36]\r\n\tkrb5: 1.13.2_2 [samba36]\r\n\tgettext-runtime: 0.19.4 [samba36]\r\n\tindexinfo: 0.2.3 [samba36]\r\n\topenldap-client: 2.4.41 [samba36]\r\n\te2fsprogs-libuuid: 1.42.12 [samba36]\r\n\ttevent: 0.9.24 [samba36]\r\n\tpython27: 2.7.10 [samba36]\r\n\tlibffi: 3.2.1 [samba36]\r\n\tpython2: 2_3 [samba36]\r\n\ttalloc: 2.1.2 [samba36]\r\n\tpopt: 1.16_1 [samba36]\r\n\tgamin: 0.1.10_8 [samba36]\r\n\tglib: 2.42.2 [samba36]\r\n\tperl5: 5.20.2_5 [samba36]\r\n\tpcre: 8.37_1 [samba36]\r\n\tlibiconv: 1.14_8 [samba36]\r\n\ttdb: 1.3.4,1 [samba36]\r\n\r\nThe process will require 249 MiB more space.\r\n45 MiB to be downloaded.\r\n"
+    ],
+    [
+      0.780304,
+      "Fetching samba36-3.6.25.txz:   0%"
+    ],
+    [
+      0.184150,
+      "\rFetching samba36-3.6.25.txz:   0%   20 KiB  20.5kB/s    13:06 ETA"
+    ],
+    [
+      1.026545,
+      "\rFetching samba36-3.6.25.txz:   1%  190 KiB 174.1kB/s    02:21 ETA"
+    ],
+    [
+      0.832809,
+      "\rFetching samba36-3.6.25.txz:   4%  680 KiB 501.8kB/s    00:44 ETA"
+    ],
+    [
+      0.902518,
+      "\rFetching samba36-3.6.25.txz:   6%  990 KiB 317.4kB/s    00:44 ETA"
+    ],
+    [
+      0.936241,
+      "\rFetching samba36-3.6.25.txz:   8%    1 MiB 358.4kB/s    00:42 ETA"
+    ],
+    [
+      0.946743,
+      "\rFetching samba36-3.6.25.txz:  10%    2 MiB 399.4kB/s    00:40 ETA"
+    ],
+    [
+      0.936639,
+      "\rFetching samba36-3.6.25.txz:  13%    2 MiB 389.1kB/s    00:39 ETA"
+    ],
+    [
+      0.948861,
+      "\rFetching samba36-3.6.25.txz:  15%    2 MiB 399.4kB/s    00:37 ETA"
+    ],
+    [
+      0.911351,
+      "\rFetching samba36-3.6.25.txz:  18%    3 MiB 399.4kB/s    00:36 ETA"
+    ],
+    [
+      0.958661,
+      "\rFetching samba36-3.6.25.txz:  20%    3 MiB 419.8kB/s    00:34 ETA"
+    ],
+    [
+      0.903735,
+      "\rFetching samba36-3.6.25.txz:  22%    3 MiB 286.7kB/s    00:34 ETA"
+    ],
+    [
+      0.940730,
+      "\rFetching samba36-3.6.25.txz:  26%    4 MiB 532.5kB/s    00:31 ETA"
+    ],
+    [
+      0.944771,
+      "\rFetching samba36-3.6.25.txz:  28%    4 MiB 419.8kB/s    00:30 ETA"
+    ],
+    [
+      0.923817,
+      "\rFetching samba36-3.6.25.txz:  31%    5 MiB 409.6kB/s    00:28 ETA"
+    ],
+    [
+      0.955959,
+      "\rFetching samba36-3.6.25.txz:  33%    5 MiB 419.8kB/s    00:27 ETA"
+    ],
+    [
+      0.915825,
+      "\rFetching samba36-3.6.25.txz:  36%    6 MiB 409.6kB/s    00:26 ETA"
+    ],
+    [
+      0.961136,
+      "\rFetching samba36-3.6.25.txz:  38%"
+    ],
+    [
+      0.000728,
+      "    6 MiB 409.6kB/s    00:25 ETA"
+    ],
+    [
+      0.908932,
+      "\rFetching samba36-3.6.25.txz:  41%    6 MiB 419.8kB/s    00:23 ETA"
+    ],
+    [
+      0.946125,
+      "\rFetching samba36-3.6.25.txz:  44%    7 MiB 419.8kB/s    00:22 ETA"
+    ],
+    [
+      0.948021,
+      "\rFetching samba36-3.6.25.txz:  46%    7 MiB 419.8kB/s    00:21 ETA"
+    ],
+    [
+      0.932178,
+      "\rFetching samba36-3.6.25.txz:  49%    8 MiB 399.4kB/s    00:20 ETA"
+    ],
+    [
+      0.919118,
+      "\rFetching samba36-3.6.25.txz:  51%    8 MiB 409.6kB/s    00:19 ETA"
+    ],
+    [
+      0.952043,
+      "\rFetching samba36-3.6.25.txz:  54%    8 MiB 419.8kB/s    00:18 ETA"
+    ],
+    [
+      0.911102,
+      "\rFetching samba36-3.6.25.txz:  56%    9 MiB 327.7kB/s    00:17 ETA"
+    ],
+    [
+      0.946047,
+      "\rFetching samba36-3.6.25.txz:  59%    9 MiB 481.3kB/s    00:16 ETA"
+    ],
+    [
+      0.941874,
+      "\rFetching samba36-3.6.25.txz:  61%   10 MiB 419.8kB/s    00:15 ETA"
+    ],
+    [
+      0.925417,
+      "\rFetching samba36-3.6.25.txz:  64%   10 MiB 409.6kB/s    00:14 ETA"
+    ],
+    [
+      0.950039,
+      "\rFetching samba36-3.6.25.txz:  67%   10 MiB 419.8kB/s    00:13 ETA"
+    ],
+    [
+      0.945982,
+      "\rFetching samba36-3.6.25.txz:  69%   11 MiB 419.8kB/s    00:11 ETA"
+    ],
+    [
+      0.943726,
+      "\rFetching samba36-3.6.25.txz:  72%   11 MiB 419.8kB/s    00:10 ETA"
+    ],
+    [
+      0.925963,
+      "\rFetching samba36-3.6.25.txz:  74%   12 MiB 409.6kB/s    00:09 ETA"
+    ],
+    [
+      0.946518,
+      "\rFetching samba36-3.6.25.txz:  77%   12 MiB 419.8kB/s    00:08 ETA"
+    ],
+    [
+      0.923303,
+      "\rFetching samba36-3.6.25.txz:  79%   12 MiB 409.6kB/s    00:07 ETA"
+    ],
+    [
+      0.956911,
+      "\rFetching samba36-3.6.25.txz:  81%   13 MiB 317.4kB/s    00:07 ETA"
+    ],
+    [
+      0.935498,
+      "\rFetching samba36-3.6.25.txz:  85%   13 MiB 522.2kB/s    00:05 ETA"
+    ],
+    [
+      0.920407,
+      "\rFetching samba36-3.6.25.txz:  87%   13 MiB 409.6kB/s    00:04 ETA"
+    ],
+    [
+      0.946272,
+      "\rFetching samba36-3.6.25.txz:  90%   14 MiB 419.8kB/s    00:03 ETA"
+    ],
+    [
+      0.924888,
+      "\rFetching samba36-3.6.25.txz:  92%   14 MiB 409.6kB/s    00:02 ETA"
+    ],
+    [
+      0.948327,
+      "\rFetching samba36-3.6.25.txz:  95%   15 MiB 419.8kB/s    00:01 ETA"
+    ],
+    [
+      0.922318,
+      "\rFetching samba36-3.6.25.txz:  97%   15 MiB 409.6kB/s    00:00 ETA"
+    ],
+    [
+      0.862042,
+      "\rFetching samba36-3.6.25.txz: 100%   15 MiB 403.2kB/s    00:40    \r\n"
+    ],
+    [
+      0.916698,
+      "Fetching libsunacl-1.0.txz:   0%"
+    ],
+    [
+      0.008051,
+      "\rFetching libsunacl-1.0.txz: 100%"
+    ],
+    [
+      0.000580,
+      "    7 KiB   6.7kB/s    00:01    \r\n"
+    ],
+    [
+      0.860150,
+      "Fetching krb5-1.13.2_2.txz:   0%"
+    ],
+    [
+      0.397626,
+      "\rFetching krb5-1.13.2_2.txz:   1%   20 KiB  20.5kB/s    00:49 ETA"
+    ],
+    [
+      1.127321,
+      "\rFetching krb5-1.13.2_2.txz:  18%  190 KiB 174.1kB/s    00:07 ETA"
+    ],
+    [
+      0.430571,
+      "\rFetching krb5-1.13.2_2.txz:  55%  570 KiB 389.1kB/s    00:01 ETA"
+    ],
+    [
+      0.954405,
+      "\rFetching krb5-1.13.2_2.txz:  95%  970 KiB 409.6kB/s    00:00 ETA"
+    ],
+    [
+      0.112614,
+      "\rFetching krb5-1.13.2_2.txz: 100%"
+    ],
+    [
+      0.000518,
+      "    1 MiB 260.6kB/s    00:04    \r\n"
+    ],
+    [
+      0.828880,
+      "Fetching gettext-runtime-0.19.4.txz:   0%"
+    ],
+    [
+      0.666687,
+      "\rFetching gettext-runtime-0.19.4.txz: 100%  146 KiB 149.1kB/s    00:01    \r\n"
+    ],
+    [
+      0.793319,
+      "Fetching indexinfo-0.2.3.txz:   0%"
+    ],
+    [
+      0.006738,
+      "\rFetching indexinfo-0.2.3.txz: 100%"
+    ],
+    [
+      0.000547,
+      "    5 KiB   5.0kB/s    00:01    \r\n"
+    ],
+    [
+      0.809668,
+      "Fetching openldap-client-2.4.41.txz:   0%"
+    ],
+    [
+      0.443409,
+      "\rFetching openldap-client-2.4.41.txz:   7%   80 KiB  81.9kB/s    00:11 ETA"
+    ],
+    [
+      0.950495,
+      "\rFetching openldap-client-2.4.41.txz:  43%  440 KiB 368.6kB/s    00:02 ETA"
+    ],
+    [
+      0.918984,
+      "\rFetching openldap-client-2.4.41.txz:  82%  840 KiB 409.6kB/s    00:00 ETA"
+    ],
+    [
+      0.445212,
+      "\rFetching openldap-client-2.4.41.txz: 100%    1 MiB 345.6kB/s    00:03    \r\n"
+    ],
+    [
+      0.814783,
+      "Fetching e2fsprogs-libuuid-1.42.12.txz:   0%"
+    ],
+    [
+      0.247663,
+      "\rFetching e2fsprogs-libuuid-1.42.12.txz: 100%   39 KiB  39.9kB/s    00:01    \r\n"
+    ],
+    [
+      0.755720,
+      "Fetching tevent-0.9.24.txz:   0%"
+    ],
+    [
+      0.238656,
+      "\rFetching tevent-0.9.24.txz: 100%   42 KiB  43.1kB/s    00:01    \r\n"
+    ],
+    [
+      0.780135,
+      "Fetching python27-2.7.10.txz:   0%"
+    ],
+    [
+      0.389336,
+      "\rFetching python27-2.7.10.txz:   0%   60 KiB  61.4kB/s    02:51 ETA"
+    ],
+    [
+      0.943032,
+      "\rFetching python27-2.7.10.txz:   4%  420 KiB 368.6kB/s    00:41 ETA"
+    ],
+    [
+      0.924742,
+      "\rFetching python27-2.7.10.txz:   7%  820 KiB 409.6kB/s    00:28 ETA"
+    ],
+    [
+      0.941958,
+      "\rFetching python27-2.7.10.txz:  11%    1 MiB 419.8kB/s    00:26 ETA"
+    ],
+    [
+      0.924278,
+      "\rFetching python27-2.7.10.txz:  15%    2 MiB 409.6kB/s    00:25 ETA"
+    ],
+    [
+      0.944830,
+      "\rFetching python27-2.7.10.txz:  19%    2 MiB 419.8kB/s    00:23 ETA"
+    ],
+    [
+      0.922158,
+      "\rFetching python27-2.7.10.txz:  23%    2 MiB 409.6kB/s    00:22 ETA"
+    ],
+    [
+      0.923624,
+      "\rFetching python27-2.7.10.txz:  27%    3 MiB 409.6kB/s    00:20 ETA"
+    ],
+    [
+      0.945884,
+      "\rFetching python27-2.7.10.txz:  31%    3 MiB 419.8kB/s    00:19 ETA"
+    ],
+    [
+      0.921266,
+      "\rFetching python27-2.7.10.txz:  35%    4 MiB 409.6kB/s    00:18 ETA"
+    ],
+    [
+      0.945747,
+      "\rFetching python27-2.7.10.txz:  39%    4 MiB 419.8kB/s    00:16 ETA"
+    ],
+    [
+      0.905025,
+      "\rFetching python27-2.7.10.txz:  42%    4 MiB 399.4kB/s    00:15 ETA"
+    ],
+    [
+      0.945800,
+      "\rFetching python27-2.7.10.txz:  46%    5 MiB 419.8kB/s    00:14 ETA"
+    ],
+    [
+      0.919735,
+      "\rFetching python27-2.7.10.txz:  49%    5 MiB 307.2kB/s    00:13 ETA"
+    ],
+    [
+      0.944051,
+      "\rFetching python27-2.7.10.txz:  54%    6 MiB 512.0kB/s    00:12 ETA"
+    ],
+    [
+      0.929473,
+      "\rFetching python27-2.7.10.txz:  58%    6 MiB 409.6kB/s    00:11 ETA"
+    ],
+    [
+      0.925218,
+      "\rFetching python27-2.7.10.txz:  62%    6 MiB 409.6kB/s    00:10 ETA"
+    ],
+    [
+      0.943457,
+      "\rFetching python27-2.7.10.txz:  66%    7 MiB 419.8kB/s    00:08 ETA"
+    ],
+    [
+      0.947726,
+      "\rFetching python27-2.7.10.txz:  70%    7 MiB 419.8kB/s    00:07 ETA"
+    ],
+    [
+      0.942934,
+      "\rFetching python27-2.7.10.txz:  74%    8 MiB 419.8kB/s    00:06 ETA"
+    ],
+    [
+      1.054476,
+      "\rFetching python27-2.7.10.txz:  77%    8 MiB 348.2kB/s    00:06 ETA"
+    ],
+    [
+      0.823805,
+      "\rFetching python27-2.7.10.txz:  81%    8 MiB 378.9kB/s    00:05 ETA"
+    ],
+    [
+      0.921032,
+      "\rFetching python27-2.7.10.txz:  84%    9 MiB 409.6kB/s    00:04 ETA"
+    ],
+    [
+      0.946288,
+      "\rFetching python27-2.7.10.txz:  88%    9 MiB 419.8kB/s    00:02 ETA"
+    ],
+    [
+      0.922299,
+      "\rFetching python27-2.7.10.txz:  92%    9 MiB 409.6kB/s    00:01 ETA"
+    ],
+    [
+      0.922632,
+      "\rFetching python27-2.7.10.txz:  96%   10 MiB 409.6kB/s    00:00 ETA"
+    ],
+    [
+      0.821054,
+      "\rFetching python27-2.7.10.txz: 100%   10 MiB 408.1kB/s    00:26    \r\n"
+    ],
+    [
+      0.895414,
+      "Fetching libffi-3.2.1.txz:   0%"
+    ],
+    [
+      0.197969,
+      "\rFetching libffi-3.2.1.txz:  56%   20 KiB  20.5kB/s    00:00 ETA"
+    ],
+    [
+      0.033404,
+      "\rFetching libffi-3.2.1.txz: 100%"
+    ],
+    [
+      0.000647,
+      "   35 KiB  36.2kB/s    00:01    \r\n"
+    ],
+    [
+      0.796906,
+      "Fetching python2-2_3.txz:   0%"
+    ],
+    [
+      0.001395,
+      "\rFetching python2-2_3.txz: 100%"
+    ],
+    [
+      0.000687,
+      "    1 KiB   1.1kB/s    00:01    \r\n"
+    ],
+    [
+      0.827386,
+      "Fetching talloc-2.1.2.txz:   0%"
+    ],
+    [
+      0.207644,
+      "\rFetching talloc-2.1.2.txz:  41%   20 KiB  20.5kB/s    00:01 ETA"
+    ],
+    [
+      0.209486,
+      "\rFetching talloc-2.1.2.txz: 100%   48 KiB  48.9kB/s    00:01    \r\n"
+    ],
+    [
+      0.793671,
+      "Fetching popt-1.16_1.txz:   0%"
+    ],
+    [
+      0.387108,
+      "\rFetching popt-1.16_1.txz: 100%   46 KiB  46.9kB/s    00:01    \r\n"
+    ],
+    [
+      0.793934,
+      "Fetching gamin-0.1.10_8.txz:   0%"
+    ],
+    [
+      0.380732,
+      "\rFetching gamin-0.1.10_8.txz: 100%   49 KiB  50.2kB/s    00:01    \r\n"
+    ],
+    [
+      0.798880,
+      "Fetching glib-2.42.2.txz:   0%"
+    ],
+    [
+      0.208415,
+      "\rFetching glib-2.42.2.txz:   0%   20 KiB  20.5kB/s    02:11 ETA"
+    ],
+    [
+      0.893575,
+      "\rFetching glib-2.42.2.txz:  12%  320 KiB 307.2kB/s    00:12 ETA"
+    ],
+    [
+      0.947944,
+      "\rFetching glib-2.42.2.txz:  27%  730 KiB 419.8kB/s    00:05 ETA"
+    ],
+    [
+      0.931515,
+      "\rFetching glib-2.42.2.txz:  38%    1 MiB 297.0kB/s    00:05 ETA"
+    ],
+    [
+      0.919262,
+      "\rFetching glib-2.42.2.txz:  53%    1 MiB 409.6kB/s    00:03 ETA"
+    ],
+    [
+      0.905723,
+      "\rFetching glib-2.42.2.txz:  62%    2 MiB 235.5kB/s    00:03 ETA"
+    ],
+    [
+      0.958788,
+      "\rFetching glib-2.42.2.txz:  72%    2 MiB 276.5kB/s    00:02 ETA"
+    ],
+    [
+      0.925843,
+      "\rFetching glib-2.42.2.txz:  83%    2 MiB 286.7kB/s    00:01 ETA"
+    ],
+    [
+      0.940526,
+      "\rFetching glib-2.42.2.txz:  93%    2 MiB 286.7kB/s    00:00 ETA"
+    ],
+    [
+      0.538440,
+      "\rFetching glib-2.42.2.txz: 100%    3 MiB 300.8kB/s    00:09    \r\n"
+    ],
+    [
+      0.855560,
+      "Fetching perl5-5.20.2_5.txz:   0%"
+    ],
+    [
+      0.473602,
+      "\rFetching perl5-5.20.2_5.txz:   0%   50 KiB  51.2kB/s    04:27 ETA"
+    ],
+    [
+      0.905917,
+      "\rFetching perl5-5.20.2_5.txz:   2%  310 KiB 266.2kB/s    01:14 ETA"
+    ],
+    [
+      0.908248,
+      "\rFetching perl5-5.20.2_5.txz:   4%  610 KiB 307.2kB/s    00:51 ETA"
+    ],
+    [
+      0.964262,
+      "\rFetching perl5-5.20.2_5.txz:   7%    1 MiB 409.6kB/s    00:46 ETA"
+    ],
+    [
+      1.160990,
+      "\rFetching perl5-5.20.2_5.txz:  10%    1 MiB 389.1kB/s    00:43 ETA"
+    ],
+    [
+      0.699610,
+      "\rFetching perl5-5.20.2_5.txz:  13%    2 MiB 419.8kB/s    00:40 ETA"
+    ],
+    [
+      0.943352,
+      "\rFetching perl5-5.20.2_5.txz:  16%    2 MiB 419.8kB/s    00:37 ETA"
+    ],
+    [
+      0.946740,
+      "\rFetching perl5-5.20.2_5.txz:  19%    3 MiB 419.8kB/s    00:34 ETA"
+    ],
+    [
+      0.943886,
+      "\rFetching perl5-5.20.2_5.txz:  22%    3 MiB 419.8kB/s    00:32 ETA"
+    ],
+    [
+      0.900810,
+      "\rFetching perl5-5.20.2_5.txz:  25%    3 MiB 399.4kB/s    00:30 ETA"
+    ],
+    [
+      0.967520,
+      "\rFetching perl5-5.20.2_5.txz:  28%    4 MiB 430.1kB/s    00:28 ETA"
+    ],
+    [
+      0.928555,
+      "\rFetching perl5-5.20.2_5.txz:  31%    4 MiB 409.6kB/s    00:26 ETA"
+    ],
+    [
+      0.936853,
+      "\rFetching perl5-5.20.2_5.txz:  34%    5 MiB 409.6kB/s    00:25 ETA"
+    ],
+    [
+      0.925362,
+      "\rFetching perl5-5.20.2_5.txz:  37%    5 MiB 409.6kB/s    00:23 ETA"
+    ],
+    [
+      0.964937,
+      "\rFetching perl5-5.20.2_5.txz:  40%    5 MiB 430.1kB/s    00:22 ETA"
+    ],
+    [
+      0.926662,
+      "\rFetching perl5-5.20.2_5.txz:  42%    6 MiB 317.4kB/s    00:21 ETA"
+    ],
+    [
+      0.919342,
+      "\rFetching perl5-5.20.2_5.txz:  46%    6 MiB 501.8kB/s    00:19 ETA"
+    ],
+    [
+      0.948070,
+      "\rFetching perl5-5.20.2_5.txz:  49%    7 MiB 419.8kB/s    00:18 ETA"
+    ],
+    [
+      0.921603,
+      "\rFetching perl5-5.20.2_5.txz:  52%    7 MiB 409.6kB/s    00:16 ETA"
+    ],
+    [
+      1.252950,
+      "\rFetching perl5-5.20.2_5.txz:  55%    7 MiB 327.7kB/s    00:16 ETA"
+    ],
+    [
+      1.097790,
+      "\rFetching perl5-5.20.2_5.txz:  55%    7 MiB  10.2kB/s    00:17 ETA"
+    ],
+    [
+      0.728950,
+      "\rFetching perl5-5.20.2_5.txz:  57%    8 MiB 297.0kB/s    00:17 ETA"
+    ],
+    [
+      0.716100,
+      "\rFetching perl5-5.20.2_5.txz:  58%"
+    ],
+    [
+      0.000188,
+      "    8 MiB 133.1kB/s    00:18 ETA"
+    ],
+    [
+      0.824711,
+      "\rFetching perl5-5.20.2_5.txz:  59%    8 MiB 122.9kB/s    00:18 ETA"
+    ],
+    [
+      0.908015,
+      "\rFetching perl5-5.20.2_5.txz:  61%    8 MiB 266.2kB/s    00:18 ETA"
+    ],
+    [
+      0.914279,
+      "\rFetching perl5-5.20.2_5.txz:  63%    8 MiB 297.0kB/s    00:17 ETA"
+    ],
+    [
+      0.924720,
+      "\rFetching perl5-5.20.2_5.txz:  65%    9 MiB 307.2kB/s    00:15 ETA"
+    ],
+    [
+      0.962640,
+      "\rFetching perl5-5.20.2_5.txz:  67%    9 MiB 327.7kB/s    00:14 ETA"
+    ],
+    [
+      0.912059,
+      "\rFetching perl5-5.20.2_5.txz:  70%    9 MiB 317.4kB/s    00:13 ETA"
+    ],
+    [
+      0.915678,
+      "\rFetching perl5-5.20.2_5.txz:  72%   10 MiB 317.4kB/s    00:12 ETA"
+    ],
+    [
+      0.989809,
+      "\rFetching perl5-5.20.2_5.txz:  75%   10 MiB 368.6kB/s    00:11 ETA"
+    ],
+    [
+      0.912929,
+      "\rFetching perl5-5.20.2_5.txz:  78%   10 MiB 399.4kB/s    00:09 ETA"
+    ],
+    [
+      0.948059,
+      "\rFetching perl5-5.20.2_5.txz:  81%   11 MiB 419.8kB/s    00:07 ETA"
+    ],
+    [
+      0.926011,
+      "\rFetching perl5-5.20.2_5.txz:  84%   11 MiB 409.6kB/s    00:06 ETA"
+    ],
+    [
+      0.948326,
+      "\rFetching perl5-5.20.2_5.txz:  86%   11 MiB 307.2kB/s    00:05 ETA"
+    ],
+    [
+      0.918098,
+      "\rFetching perl5-5.20.2_5.txz:  89%   12 MiB 368.6kB/s    00:04 ETA"
+    ],
+    [
+      0.944685,
+      "\rFetching perl5-5.20.2_5.txz:  91%   12 MiB 348.2kB/s    00:03 ETA"
+    ],
+    [
+      0.925349,
+      "\rFetching perl5-5.20.2_5.txz:  93%   12 MiB 235.5kB/s    00:02 ETA"
+    ],
+    [
+      0.911653,
+      "\rFetching perl5-5.20.2_5.txz:  94%   12 MiB 225.3kB/s    00:02 ETA"
+    ],
+    [
+      0.964476,
+      "\rFetching perl5-5.20.2_5.txz:  97%   13 MiB 286.7kB/s    00:01 ETA"
+    ],
+    [
+      0.907723,
+      "\rFetching perl5-5.20.2_5.txz:  98%   13 MiB 256.0kB/s    00:00 ETA"
+    ],
+    [
+      0.549969,
+      "\rFetching perl5-5.20.2_5.txz: 100%   13 MiB 335.2kB/s    00:41    \r\n"
+    ],
+    [
+      0.934215,
+      "Fetching pcre-8.37_1.txz:   0%"
+    ],
+    [
+      0.380122,
+      "\rFetching pcre-8.37_1.txz:   4%   40 KiB  41.0kB/s    00:19 ETA"
+    ],
+    [
+      0.961611,
+      "\rFetching pcre-8.37_1.txz:  33%  270 KiB 235.5kB/s    00:03 ETA"
+    ],
+    [
+      0.858138,
+      "\rFetching pcre-8.37_1.txz:  61%  500 KiB 235.5kB/s    00:01 ETA"
+    ],
+    [
+      0.937507,
+      "\rFetching pcre-8.37_1.txz:  93%  760 KiB 266.2kB/s    00:00 ETA"
+    ],
+    [
+      0.172273,
+      "\rFetching pcre-8.37_1.txz: 100%"
+    ],
+    [
+      0.000452,
+      "  811 KiB 207.6kB/s    00:04    \r\n"
+    ],
+    [
+      0.860904,
+      "Fetching libiconv-1.14_8.txz:   0%"
+    ],
+    [
+      0.588638,
+      "\rFetching libiconv-1.14_8.txz:  15%   90 KiB  92.2kB/s    00:05 ETA"
+    ],
+    [
+      1.001984,
+      "\rFetching libiconv-1.14_8.txz:  63%  370 KiB 286.7kB/s    00:01 ETA"
+    ],
+    [
+      0.643486,
+      "\rFetching libiconv-1.14_8.txz: 100%  586 KiB 300.3kB/s    00:02    \r\n"
+    ],
+    [
+      0.783829,
+      "Fetching tdb-1.3.4,1.txz:   0%"
+    ],
+    [
+      0.440991,
+      "\rFetching tdb-1.3.4,1.txz: 100%   78 KiB  79.5kB/s    00:01    \r\n"
+    ],
+    [
+      0.003267,
+      "Checking integrity..."
+    ],
+    [
+      0.461533,
+      " done (0 conflicting)\r\n"
+    ],
+    [
+      0.010885,
+      "[1/19] Installing indexinfo-0.2.3...\r\n"
+    ],
+    [
+      0.070319,
+      "[1/19] Extracting indexinfo-0.2.3:   0%"
+    ],
+    [
+      0.017412,
+      "\r[1/19] Extracting indexinfo-0.2.3:   0%"
+    ],
+    [
+      0.004303,
+      "\r[1/19] Extracting indexinfo-0.2.3:  25%"
+    ],
+    [
+      0.003735,
+      "\r[1/19] Extracting indexinfo-0.2.3:  50%"
+    ],
+    [
+      0.003390,
+      "\r[1/19] Extracting indexinfo-0.2.3:  75%"
+    ],
+    [
+      0.000411,
+      "\r[1/19] Extracting indexinfo-0.2.3: 100%"
+    ],
+    [
+      0.000135,
+      "\r\n"
+    ],
+    [
+      0.003966,
+      "[2/19] Installing libffi-3.2.1...\r\n"
+    ],
+    [
+      0.058956,
+      "[2/19] Extracting libffi-3.2.1:   0%"
+    ],
+    [
+      0.002145,
+      "\r[2/19] Extracting libffi-3.2.1:   0%"
+    ],
+    [
+      0.001929,
+      "\r[2/19] Extracting libffi-3.2.1:   5%"
+    ],
+    [
+      0.001758,
+      "\r[2/19] Extracting libffi-3.2.1:  11%"
+    ],
+    [
+      0.000252,
+      "\r[2/19] Extracting libffi-3.2.1:  17%"
+    ],
+    [
+      0.000368,
+      "\r[2/19] Extracting libffi-3.2.1:  23%"
+    ],
+    [
+      0.002296,
+      "\r[2/19] Extracting libffi-3.2.1:  29%"
+    ],
+    [
+      0.002820,
+      "\r[2/19] Extracting libffi-3.2.1:  35%"
+    ],
+    [
+      0.006894,
+      "\r[2/19] Extracting libffi-3.2.1:  41%"
+    ],
+    [
+      0.000326,
+      "\r[2/19] Extracting libffi-3.2.1:  47%"
+    ],
+    [
+      0.000360,
+      "\r[2/19] Extracting libffi-3.2.1:  52%"
+    ],
+    [
+      0.002502,
+      "\r[2/19] Extracting libffi-3.2.1:  58%"
+    ],
+    [
+      0.016163,
+      "\r[2/19] Extracting libffi-3.2.1:  64%"
+    ],
+    [
+      0.002910,
+      "\r[2/19] Extracting libffi-3.2.1:  70%"
+    ],
+    [
+      0.002600,
+      "\r[2/19] Extracting libffi-3.2.1:  76%"
+    ],
+    [
+      0.002173,
+      "\r[2/19] Extracting libffi-3.2.1:  82%"
+    ],
+    [
+      0.002329,
+      "\r[2/19] Extracting libffi-3.2.1:  88%"
+    ],
+    [
+      0.016131,
+      "\r[2/19] Extracting libffi-3.2.1:  94%"
+    ],
+    [
+      0.000328,
+      "\r[2/19] Extracting libffi-3.2.1: 100%"
+    ],
+    [
+      0.000251,
+      "\r\n"
+    ],
+    [
+      0.057921,
+      "[3/19] Installing python27-2.7.10...\r\n"
+    ],
+    [
+      0.036468,
+      "[3/19] Extracting python27-2.7.10:   0%"
+    ],
+    [
+      0.002244,
+      "\r[3/19] Extracting python27-2.7.10:   0%"
+    ],
+    [
+      0.096776,
+      "\r[3/19] Extracting python27-2.7.10:   1%"
+    ],
+    [
+      0.111236,
+      "\r[3/19] Extracting python27-2.7.10:   2%"
+    ],
+    [
+      0.245620,
+      "\r[3/19] Extracting python27-2.7.10:   3%"
+    ],
+    [
+      0.123130,
+      "\r[3/19] Extracting python27-2.7.10:   4%"
+    ],
+    [
+      0.124058,
+      "\r[3/19] Extracting python27-2.7.10:   5%"
+    ],
+    [
+      0.116393,
+      "\r[3/19] Extracting python27-2.7.10:   6%"
+    ],
+    [
+      0.123629,
+      "\r[3/19] Extracting python27-2.7.10:   7%"
+    ],
+    [
+      0.096938,
+      "\r[3/19] Extracting python27-2.7.10:   8%"
+    ],
+    [
+      0.397014,
+      "\r[3/19] Extracting python27-2.7.10:   9%"
+    ],
+    [
+      0.164658,
+      "\r[3/19] Extracting python27-2.7.10:  10%"
+    ],
+    [
+      0.072022,
+      "\r[3/19] Extracting python27-2.7.10:  11%"
+    ],
+    [
+      0.062369,
+      "\r[3/19] Extracting python27-2.7.10:  12%"
+    ],
+    [
+      0.077607,
+      "\r[3/19] Extracting python27-2.7.10:  13%"
+    ],
+    [
+      0.095101,
+      "\r[3/19] Extracting python27-2.7.10:  14%"
+    ],
+    [
+      0.079000,
+      "\r[3/19] Extracting python27-2.7.10:  15%"
+    ],
+    [
+      0.117014,
+      "\r[3/19] Extracting python27-2.7.10:  16%"
+    ],
+    [
+      0.094176,
+      "\r[3/19] Extracting python27-2.7.10:  17%"
+    ],
+    [
+      0.079985,
+      "\r[3/19] Extracting python27-2.7.10:  18%"
+    ],
+    [
+      0.075875,
+      "\r[3/19] Extracting python27-2.7.10:  19%"
+    ],
+    [
+      0.099167,
+      "\r[3/19] Extracting python27-2.7.10:  20%"
+    ],
+    [
+      0.117488,
+      "\r[3/19] Extracting python27-2.7.10:  21%"
+    ],
+    [
+      0.106529,
+      "\r[3/19] Extracting python27-2.7.10:  22%"
+    ],
+    [
+      0.076014,
+      "\r[3/19] Extracting python27-2.7.10:  23%"
+    ],
+    [
+      0.114499,
+      "\r[3/19] Extracting python27-2.7.10:  24%"
+    ],
+    [
+      0.070034,
+      "\r[3/19] Extracting python27-2.7.10:  25%"
+    ],
+    [
+      0.088785,
+      "\r[3/19] Extracting python27-2.7.10:  26%"
+    ],
+    [
+      0.077308,
+      "\r[3/19] Extracting python27-2.7.10:  27%"
+    ],
+    [
+      0.085210,
+      "\r[3/19] Extracting python27-2.7.10:  28%"
+    ],
+    [
+      0.075012,
+      "\r[3/19] Extracting python27-2.7.10:  29%"
+    ],
+    [
+      0.070453,
+      "\r[3/19] Extracting python27-2.7.10:  30%"
+    ],
+    [
+      0.072334,
+      "\r[3/19] Extracting python27-2.7.10:  31%"
+    ],
+    [
+      0.243316,
+      "\r[3/19] Extracting python27-2.7.10:  32%"
+    ],
+    [
+      0.087995,
+      "\r[3/19] Extracting python27-2.7.10:  33%"
+    ],
+    [
+      0.146243,
+      "\r[3/19] Extracting python27-2.7.10:  34%"
+    ],
+    [
+      0.096386,
+      "\r[3/19] Extracting python27-2.7.10:  35%"
+    ],
+    [
+      0.095166,
+      "\r[3/19] Extracting python27-2.7.10:  36%"
+    ],
+    [
+      0.082913,
+      "\r[3/19] Extracting python27-2.7.10:  37%"
+    ],
+    [
+      0.095103,
+      "\r[3/19] Extracting python27-2.7.10:  38%"
+    ],
+    [
+      0.118047,
+      "\r[3/19] Extracting python27-2.7.10:  39%"
+    ],
+    [
+      0.098445,
+      "\r[3/19] Extracting python27-2.7.10:  40%"
+    ],
+    [
+      0.060224,
+      "\r[3/19] Extracting python27-2.7.10:  41%"
+    ],
+    [
+      0.078681,
+      "\r[3/19] Extracting python27-2.7.10:  42%"
+    ],
+    [
+      0.071463,
+      "\r[3/19] Extracting python27-2.7.10:  43%"
+    ],
+    [
+      0.072377,
+      "\r[3/19] Extracting python27-2.7.10:  44%"
+    ],
+    [
+      0.063924,
+      "\r[3/19] Extracting python27-2.7.10:  45%"
+    ],
+    [
+      0.094937,
+      "\r[3/19] Extracting python27-2.7.10:  46%"
+    ],
+    [
+      0.079359,
+      "\r[3/19] Extracting python27-2.7.10:  47%"
+    ],
+    [
+      0.216227,
+      "\r[3/19] Extracting python27-2.7.10:  48%"
+    ],
+    [
+      0.211777,
+      "\r[3/19] Extracting python27-2.7.10:  49%"
+    ],
+    [
+      0.139354,
+      "\r[3/19] Extracting python27-2.7.10:  50%"
+    ],
+    [
+      0.100601,
+      "\r[3/19] Extracting python27-2.7.10:  51%"
+    ],
+    [
+      0.173519,
+      "\r[3/19] Extracting python27-2.7.10:  52%"
+    ],
+    [
+      0.088510,
+      "\r[3/19] Extracting python27-2.7.10:  53%"
+    ],
+    [
+      0.110540,
+      "\r[3/19] Extracting python27-2.7.10:  54%"
+    ],
+    [
+      0.109478,
+      "\r[3/19] Extracting python27-2.7.10:  55%"
+    ],
+    [
+      0.164197,
+      "\r[3/19] Extracting python27-2.7.10:  56%"
+    ],
+    [
+      0.104749,
+      "\r[3/19] Extracting python27-2.7.10:  57%"
+    ],
+    [
+      0.105492,
+      "\r[3/19] Extracting python27-2.7.10:  58%"
+    ],
+    [
+      0.168125,
+      "\r[3/19] Extracting python27-2.7.10:  59%"
+    ],
+    [
+      0.090842,
+      "\r[3/19] Extracting python27-2.7.10:  60%"
+    ],
+    [
+      0.094493,
+      "\r[3/19] Extracting python27-2.7.10:  61%"
+    ],
+    [
+      0.106099,
+      "\r[3/19] Extracting python27-2.7.10:  62%"
+    ],
+    [
+      0.101559,
+      "\r[3/19] Extracting python27-2.7.10:  63%"
+    ],
+    [
+      0.170611,
+      "\r[3/19] Extracting python27-2.7.10:  64%"
+    ],
+    [
+      0.086722,
+      "\r[3/19] Extracting python27-2.7.10:  65%"
+    ],
+    [
+      0.089697,
+      "\r[3/19] Extracting python27-2.7.10:  66%"
+    ],
+    [
+      0.135993,
+      "\r[3/19] Extracting python27-2.7.10:  67%"
+    ],
+    [
+      0.100288,
+      "\r[3/19] Extracting python27-2.7.10:  68%"
+    ],
+    [
+      0.065491,
+      "\r[3/19] Extracting python27-2.7.10:  69%"
+    ],
+    [
+      0.090286,
+      "\r[3/19] Extracting python27-2.7.10:  70%"
+    ],
+    [
+      0.078338,
+      "\r[3/19] Extracting python27-2.7.10:  71%"
+    ],
+    [
+      0.091383,
+      "\r[3/19] Extracting python27-2.7.10:  72%"
+    ],
+    [
+      0.112948,
+      "\r[3/19] Extracting python27-2.7.10:  73%"
+    ],
+    [
+      0.156351,
+      "\r[3/19] Extracting python27-2.7.10:  74%"
+    ],
+    [
+      0.080744,
+      "\r[3/19] Extracting python27-2.7.10:  75%"
+    ],
+    [
+      0.092796,
+      "\r[3/19] Extracting python27-2.7.10:  76%"
+    ],
+    [
+      0.085272,
+      "\r[3/19] Extracting python27-2.7.10:  77%"
+    ],
+    [
+      0.098627,
+      "\r[3/19] Extracting python27-2.7.10:  78%"
+    ],
+    [
+      0.083902,
+      "\r[3/19] Extracting python27-2.7.10:  79%"
+    ],
+    [
+      0.112766,
+      "\r[3/19] Extracting python27-2.7.10:  80%"
+    ],
+    [
+      0.096354,
+      "\r[3/19] Extracting python27-2.7.10:  81%"
+    ],
+    [
+      0.118857,
+      "\r[3/19] Extracting python27-2.7.10:  82%"
+    ],
+    [
+      0.095450,
+      "\r[3/19] Extracting python27-2.7.10:  83%"
+    ],
+    [
+      0.095832,
+      "\r[3/19] Extracting python27-2.7.10:  84%"
+    ],
+    [
+      0.095364,
+      "\r[3/19] Extracting python27-2.7.10:  85%"
+    ],
+    [
+      0.100534,
+      "\r[3/19] Extracting python27-2.7.10:  86%"
+    ],
+    [
+      0.106282,
+      "\r[3/19] Extracting python27-2.7.10:  87%"
+    ],
+    [
+      0.106417,
+      "\r[3/19] Extracting python27-2.7.10:  88%"
+    ],
+    [
+      0.117863,
+      "\r[3/19] Extracting python27-2.7.10:  89%"
+    ],
+    [
+      0.109529,
+      "\r[3/19] Extracting python27-2.7.10:  90%"
+    ],
+    [
+      0.085757,
+      "\r[3/19] Extracting python27-2.7.10:  91%"
+    ],
+    [
+      0.114277,
+      "\r[3/19] Extracting python27-2.7.10:  92%"
+    ],
+    [
+      0.103043,
+      "\r[3/19] Extracting python27-2.7.10:  93%"
+    ],
+    [
+      0.116869,
+      "\r[3/19] Extracting python27-2.7.10:  94%"
+    ],
+    [
+      0.101536,
+      "\r[3/19] Extracting python27-2.7.10:  95%"
+    ],
+    [
+      0.086337,
+      "\r[3/19] Extracting python27-2.7.10:  96%"
+    ],
+    [
+      0.108102,
+      "\r[3/19] Extracting python27-2.7.10:  97%"
+    ],
+    [
+      0.124266,
+      "\r[3/19] Extracting python27-2.7.10:  98%"
+    ],
+    [
+      0.092474,
+      "\r[3/19] Extracting python27-2.7.10:  99%"
+    ],
+    [
+      0.113563,
+      "\r[3/19] Extracting python27-2.7.10: 100%\r\n"
+    ],
+    [
+      0.013835,
+      "[4/19] Installing gettext-runtime-0.19.4...\r\n"
+    ],
+    [
+      0.000930,
+      "[4/19] Extracting gettext-runtime-0.19.4:   0%"
+    ],
+    [
+      0.030226,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:   0%"
+    ],
+    [
+      0.003879,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:   1%"
+    ],
+    [
+      0.004596,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:   2%"
+    ],
+    [
+      0.006240,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:   4%"
+    ],
+    [
+      0.002776,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:   5%"
+    ],
+    [
+      0.004648,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:   6%"
+    ],
+    [
+      0.002096,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:   8%"
+    ],
+    [
+      0.002410,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:   9%"
+    ],
+    [
+      0.004303,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  10%"
+    ],
+    [
+      0.002225,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  12%"
+    ],
+    [
+      0.002092,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  13%"
+    ],
+    [
+      0.000548,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  14%"
+    ],
+    [
+      0.001474,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  16%"
+    ],
+    [
+      0.008881,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  17%"
+    ],
+    [
+      0.068066,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  18%"
+    ],
+    [
+      0.000730,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  20%"
+    ],
+    [
+      0.001226,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  21%"
+    ],
+    [
+      0.023941,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  22%"
+    ],
+    [
+      0.003445,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  24%"
+    ],
+    [
+      0.066929,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  25%"
+    ],
+    [
+      0.016404,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  27%"
+    ],
+    [
+      0.003255,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  28%"
+    ],
+    [
+      0.002704,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  29%"
+    ],
+    [
+      0.002410,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  31%"
+    ],
+    [
+      0.008990,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  32%"
+    ],
+    [
+      0.002090,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  33%"
+    ],
+    [
+      0.001920,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  35%"
+    ],
+    [
+      0.001914,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  36%"
+    ],
+    [
+      0.002085,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  37%"
+    ],
+    [
+      0.002058,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  39%"
+    ],
+    [
+      0.002090,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  40%"
+    ],
+    [
+      0.041314,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  41%"
+    ],
+    [
+      0.006704,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  43%"
+    ],
+    [
+      0.017903,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  44%"
+    ],
+    [
+      0.004685,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  45%"
+    ],
+    [
+      0.003741,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  47%"
+    ],
+    [
+      0.003176,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  48%"
+    ],
+    [
+      0.003249,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  50%"
+    ],
+    [
+      0.007252,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  51%"
+    ],
+    [
+      0.003598,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  52%"
+    ],
+    [
+      0.003081,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  54%"
+    ],
+    [
+      0.005612,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  55%"
+    ],
+    [
+      0.004546,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  56%"
+    ],
+    [
+      0.003593,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  58%"
+    ],
+    [
+      0.004422,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  59%"
+    ],
+    [
+      0.003709,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  60%"
+    ],
+    [
+      0.003917,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  62%"
+    ],
+    [
+      0.003611,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  63%"
+    ],
+    [
+      0.005261,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  64%"
+    ],
+    [
+      0.003513,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  66%"
+    ],
+    [
+      0.004229,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  67%"
+    ],
+    [
+      0.006427,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  68%"
+    ],
+    [
+      0.006633,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  70%"
+    ],
+    [
+      0.003588,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  71%"
+    ],
+    [
+      0.001861,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  72%"
+    ],
+    [
+      0.003411,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  74%"
+    ],
+    [
+      0.005717,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  75%"
+    ],
+    [
+      0.003459,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  77%"
+    ],
+    [
+      0.003381,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  78%"
+    ],
+    [
+      0.035472,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  79%"
+    ],
+    [
+      0.007860,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  81%"
+    ],
+    [
+      0.004498,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  82%"
+    ],
+    [
+      0.003170,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  83%"
+    ],
+    [
+      0.005328,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  85%"
+    ],
+    [
+      0.003873,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  86%"
+    ],
+    [
+      0.008287,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  87%"
+    ],
+    [
+      0.003625,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  89%"
+    ],
+    [
+      0.002974,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  90%"
+    ],
+    [
+      0.002712,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  91%"
+    ],
+    [
+      0.004951,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  93%"
+    ],
+    [
+      0.003622,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  94%"
+    ],
+    [
+      0.003309,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  95%"
+    ],
+    [
+      0.003395,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  97%"
+    ],
+    [
+      0.002048,
+      "\r[4/19] Extracting gettext-runtime-0.19.4:  98%"
+    ],
+    [
+      0.000386,
+      "\r[4/19] Extracting gettext-runtime-0.19.4: 100%"
+    ],
+    [
+      0.000143,
+      "\r\n"
+    ],
+    [
+      0.011341,
+      "[5/19] Installing python2-2_3...\r\n"
+    ],
+    [
+      0.000874,
+      "[5/19] Extracting python2-2_3:   0%"
+    ],
+    [
+      0.000821,
+      "\r[5/19] Extracting python2-2_3:   0%"
+    ],
+    [
+      0.000328,
+      "\r[5/19] Extracting python2-2_3:  16%"
+    ],
+    [
+      0.000533,
+      "\r[5/19] Extracting python2-2_3:  33%"
+    ],
+    [
+      0.000457,
+      "\r[5/19] Extracting python2-2_3:  50%"
+    ],
+    [
+      0.000209,
+      "\r[5/19] Extracting python2-2_3:  66%"
+    ],
+    [
+      0.000426,
+      "\r[5/19] Extracting python2-2_3:  83%"
+    ],
+    [
+      0.000120,
+      "\r[5/19] Extracting python2-2_3: 100%"
+    ],
+    [
+      0.000082,
+      "\r\n"
+    ],
+    [
+      0.028311,
+      "[6/19] Installing perl5-5.20.2_5...\r\n"
+    ],
+    [
+      0.048162,
+      "[6/19] Extracting perl5-5.20.2_5:   0%"
+    ],
+    [
+      0.002087,
+      "\r[6/19] Extracting perl5-5.20.2_5:   0%"
+    ],
+    [
+      0.088371,
+      "\r[6/19] Extracting perl5-5.20.2_5:   1%"
+    ],
+    [
+      0.091826,
+      "\r[6/19] Extracting perl5-5.20.2_5:   2%"
+    ],
+    [
+      0.162019,
+      "\r[6/19] Extracting perl5-5.20.2_5:   3%"
+    ],
+    [
+      0.105994,
+      "\r[6/19] Extracting perl5-5.20.2_5:   4%"
+    ],
+    [
+      0.154642,
+      "\r[6/19] Extracting perl5-5.20.2_5:   5%"
+    ],
+    [
+      0.058329,
+      "\r[6/19] Extracting perl5-5.20.2_5:   6%"
+    ],
+    [
+      0.069563,
+      "\r[6/19] Extracting perl5-5.20.2_5:   7%"
+    ],
+    [
+      0.107394,
+      "\r[6/19] Extracting perl5-5.20.2_5:   8%"
+    ],
+    [
+      0.124053,
+      "\r[6/19] Extracting perl5-5.20.2_5:   9%"
+    ],
+    [
+      0.062657,
+      "\r[6/19] Extracting perl5-5.20.2_5:  10%"
+    ],
+    [
+      0.226647,
+      "\r[6/19] Extracting perl5-5.20.2_5:  11%"
+    ],
+    [
+      0.118005,
+      "\r[6/19] Extracting perl5-5.20.2_5:  12%"
+    ],
+    [
+      0.085080,
+      "\r[6/19] Extracting perl5-5.20.2_5:  13%"
+    ],
+    [
+      0.085415,
+      "\r[6/19] Extracting perl5-5.20.2_5:  14%"
+    ],
+    [
+      0.059787,
+      "\r[6/19] Extracting perl5-5.20.2_5:  15%"
+    ],
+    [
+      0.081385,
+      "\r[6/19] Extracting perl5-5.20.2_5:  16%"
+    ],
+    [
+      0.054569,
+      "\r[6/19] Extracting perl5-5.20.2_5:  17%"
+    ],
+    [
+      0.065982,
+      "\r[6/19] Extracting perl5-5.20.2_5:  18%"
+    ],
+    [
+      0.108463,
+      "\r[6/19] Extracting perl5-5.20.2_5:  19%"
+    ],
+    [
+      0.043154,
+      "\r[6/19] Extracting perl5-5.20.2_5:  20%"
+    ],
+    [
+      0.048036,
+      "\r[6/19] Extracting perl5-5.20.2_5:  21%"
+    ],
+    [
+      0.171486,
+      "\r[6/19] Extracting perl5-5.20.2_5:  22%"
+    ],
+    [
+      0.053481,
+      "\r[6/19] Extracting perl5-5.20.2_5:  23%"
+    ],
+    [
+      0.106471,
+      "\r[6/19] Extracting perl5-5.20.2_5:  24%"
+    ],
+    [
+      0.217925,
+      "\r[6/19] Extracting perl5-5.20.2_5:  25%"
+    ],
+    [
+      0.103975,
+      "\r[6/19] Extracting perl5-5.20.2_5:  26%"
+    ],
+    [
+      0.083210,
+      "\r[6/19] Extracting perl5-5.20.2_5:  27%"
+    ],
+    [
+      0.057473,
+      "\r[6/19] Extracting perl5-5.20.2_5:  28%"
+    ],
+    [
+      0.071806,
+      "\r[6/19] Extracting perl5-5.20.2_5:  29%"
+    ],
+    [
+      0.770214,
+      "\r[6/19] Extracting perl5-5.20.2_5:  30%"
+    ],
+    [
+      0.238091,
+      "\r[6/19] Extracting perl5-5.20.2_5:  31%"
+    ],
+    [
+      0.065613,
+      "\r[6/19] Extracting perl5-5.20.2_5:  32%"
+    ],
+    [
+      0.066731,
+      "\r[6/19] Extracting perl5-5.20.2_5:  33%"
+    ],
+    [
+      0.062342,
+      "\r[6/19] Extracting perl5-5.20.2_5:  34%"
+    ],
+    [
+      0.058729,
+      "\r[6/19] Extracting perl5-5.20.2_5:  35%"
+    ],
+    [
+      0.051807,
+      "\r[6/19] Extracting perl5-5.20.2_5:  36%"
+    ],
+    [
+      0.048932,
+      "\r[6/19] Extracting perl5-5.20.2_5:  37%"
+    ],
+    [
+      0.061706,
+      "\r[6/19] Extracting perl5-5.20.2_5:  38%"
+    ],
+    [
+      0.053341,
+      "\r[6/19] Extracting perl5-5.20.2_5:  39%"
+    ],
+    [
+      0.052896,
+      "\r[6/19] Extracting perl5-5.20.2_5:  40%"
+    ],
+    [
+      0.087126,
+      "\r[6/19] Extracting perl5-5.20.2_5:  41%"
+    ],
+    [
+      0.059382,
+      "\r[6/19] Extracting perl5-5.20.2_5:  42%"
+    ],
+    [
+      0.067392,
+      "\r[6/19] Extracting perl5-5.20.2_5:  43%"
+    ],
+    [
+      0.053291,
+      "\r[6/19] Extracting perl5-5.20.2_5:  44%"
+    ],
+    [
+      0.057774,
+      "\r[6/19] Extracting perl5-5.20.2_5:  45%"
+    ],
+    [
+      0.056772,
+      "\r[6/19] Extracting perl5-5.20.2_5:  46%"
+    ],
+    [
+      0.060817,
+      "\r[6/19] Extracting perl5-5.20.2_5:  47%"
+    ],
+    [
+      0.061538,
+      "\r[6/19] Extracting perl5-5.20.2_5:  48%"
+    ],
+    [
+      0.053048,
+      "\r[6/19] Extracting perl5-5.20.2_5:  49%"
+    ],
+    [
+      0.056889,
+      "\r[6/19] Extracting perl5-5.20.2_5:  50%"
+    ],
+    [
+      0.111998,
+      "\r[6/19] Extracting perl5-5.20.2_5:  51%"
+    ],
+    [
+      0.111829,
+      "\r[6/19] Extracting perl5-5.20.2_5:  52%"
+    ],
+    [
+      0.090779,
+      "\r[6/19] Extracting perl5-5.20.2_5:  53%"
+    ],
+    [
+      0.124018,
+      "\r[6/19] Extracting perl5-5.20.2_5:  54%"
+    ],
+    [
+      0.069205,
+      "\r[6/19] Extracting perl5-5.20.2_5:  55%"
+    ],
+    [
+      0.106383,
+      "\r[6/19] Extracting perl5-5.20.2_5:  56%"
+    ],
+    [
+      0.187828,
+      "\r[6/19] Extracting perl5-5.20.2_5:  57%"
+    ],
+    [
+      0.221422,
+      "\r[6/19] Extracting perl5-5.20.2_5:  58%"
+    ],
+    [
+      0.050489,
+      "\r[6/19] Extracting perl5-5.20.2_5:  59%"
+    ],
+    [
+      0.045958,
+      "\r[6/19] Extracting perl5-5.20.2_5:  60%"
+    ],
+    [
+      0.045254,
+      "\r[6/19] Extracting perl5-5.20.2_5:  61%"
+    ],
+    [
+      0.046738,
+      "\r[6/19] Extracting perl5-5.20.2_5:  62%"
+    ],
+    [
+      0.045229,
+      "\r[6/19] Extracting perl5-5.20.2_5:  63%"
+    ],
+    [
+      0.048265,
+      "\r[6/19] Extracting perl5-5.20.2_5:  64%"
+    ],
+    [
+      0.041782,
+      "\r[6/19] Extracting perl5-5.20.2_5:  65%"
+    ],
+    [
+      0.046040,
+      "\r[6/19] Extracting perl5-5.20.2_5:  66%"
+    ],
+    [
+      0.042301,
+      "\r[6/19] Extracting perl5-5.20.2_5:  67%"
+    ],
+    [
+      0.045078,
+      "\r[6/19] Extracting perl5-5.20.2_5:  68%"
+    ],
+    [
+      0.044308,
+      "\r[6/19] Extracting perl5-5.20.2_5:  69%"
+    ],
+    [
+      0.041681,
+      "\r[6/19] Extracting perl5-5.20.2_5:  70%"
+    ],
+    [
+      0.066596,
+      "\r[6/19] Extracting perl5-5.20.2_5:  71%"
+    ],
+    [
+      0.091180,
+      "\r[6/19] Extracting perl5-5.20.2_5:  72%"
+    ],
+    [
+      0.122280,
+      "\r[6/19] Extracting perl5-5.20.2_5:  73%"
+    ],
+    [
+      0.138260,
+      "\r[6/19] Extracting perl5-5.20.2_5:  74%"
+    ],
+    [
+      0.096141,
+      "\r[6/19] Extracting perl5-5.20.2_5:  75%"
+    ],
+    [
+      0.097332,
+      "\r[6/19] Extracting perl5-5.20.2_5:  76%"
+    ],
+    [
+      0.100110,
+      "\r[6/19] Extracting perl5-5.20.2_5:  77%"
+    ],
+    [
+      0.073565,
+      "\r[6/19] Extracting perl5-5.20.2_5:  78%"
+    ],
+    [
+      0.052834,
+      "\r[6/19] Extracting perl5-5.20.2_5:  79%"
+    ],
+    [
+      0.044904,
+      "\r[6/19] Extracting perl5-5.20.2_5:  80%"
+    ],
+    [
+      0.047180,
+      "\r[6/19] Extracting perl5-5.20.2_5:  81%"
+    ],
+    [
+      0.044948,
+      "\r[6/19] Extracting perl5-5.20.2_5:  82%"
+    ],
+    [
+      0.051749,
+      "\r[6/19] Extracting perl5-5.20.2_5:  83%"
+    ],
+    [
+      0.043439,
+      "\r[6/19] Extracting perl5-5.20.2_5:  84%"
+    ],
+    [
+      0.056536,
+      "\r[6/19] Extracting perl5-5.20.2_5:  85%"
+    ],
+    [
+      0.068376,
+      "\r[6/19] Extracting perl5-5.20.2_5:  86%"
+    ],
+    [
+      0.044816,
+      "\r[6/19] Extracting perl5-5.20.2_5:  87%"
+    ],
+    [
+      0.045582,
+      "\r[6/19] Extracting perl5-5.20.2_5:  88%"
+    ],
+    [
+      0.046754,
+      "\r[6/19] Extracting perl5-5.20.2_5:  89%"
+    ],
+    [
+      0.047066,
+      "\r[6/19] Extracting perl5-5.20.2_5:  90%"
+    ],
+    [
+      0.035985,
+      "\r[6/19] Extracting perl5-5.20.2_5:  91%"
+    ],
+    [
+      0.045384,
+      "\r[6/19] Extracting perl5-5.20.2_5:  92%"
+    ],
+    [
+      0.045803,
+      "\r[6/19] Extracting perl5-5.20.2_5:  93%"
+    ],
+    [
+      0.046794,
+      "\r[6/19] Extracting perl5-5.20.2_5:  94%"
+    ],
+    [
+      0.045835,
+      "\r[6/19] Extracting perl5-5.20.2_5:  95%"
+    ],
+    [
+      0.052611,
+      "\r[6/19] Extracting perl5-5.20.2_5:  96%"
+    ],
+    [
+      0.063591,
+      "\r[6/19] Extracting perl5-5.20.2_5:  97%"
+    ],
+    [
+      0.040748,
+      "\r[6/19] Extracting perl5-5.20.2_5:  98%"
+    ],
+    [
+      0.046841,
+      "\r[6/19] Extracting perl5-5.20.2_5:  99%"
+    ],
+    [
+      0.045157,
+      "\r[6/19] Extracting perl5-5.20.2_5: 100%"
+    ],
+    [
+      0.000160,
+      "\r\n"
+    ],
+    [
+      0.002918,
+      "makewhatis: not found\r\n"
+    ],
+    [
+      0.000784,
+      "makewhatis: not found\r\n"
+    ],
+    [
+      0.000366,
+      "pkg: POST-INSTALL script failed"
+    ],
+    [
+      0.000193,
+      "\r\n"
+    ],
+    [
+      0.007073,
+      "[7/19] Installing pcre-8.37_1...\r\n"
+    ],
+    [
+      0.004961,
+      "[7/19] Extracting pcre-8.37_1:   0%\r[7/19] Extracting pcre-8.37_1:   0%"
+    ],
+    [
+      0.003245,
+      "\r[7/19] Extracting pcre-8.37_1:   1%"
+    ],
+    [
+      0.001700,
+      "\r[7/19] Extracting pcre-8.37_1:   2%"
+    ],
+    [
+      0.010632,
+      "\r[7/19] Extracting pcre-8.37_1:   3%"
+    ],
+    [
+      0.004419,
+      "\r[7/19] Extracting pcre-8.37_1:   4%"
+    ],
+    [
+      0.003454,
+      "\r[7/19] Extracting pcre-8.37_1:   5%"
+    ],
+    [
+      0.001775,
+      "\r[7/19] Extracting pcre-8.37_1:   6%"
+    ],
+    [
+      0.002518,
+      "\r[7/19] Extracting pcre-8.37_1:   7%"
+    ],
+    [
+      0.050455,
+      "\r[7/19] Extracting pcre-8.37_1:   8%"
+    ],
+    [
+      0.000160,
+      "\r[7/19] Extracting pcre-8.37_1:   9%"
+    ],
+    [
+      0.043330,
+      "\r[7/19] Extracting pcre-8.37_1:  10%"
+    ],
+    [
+      0.000627,
+      "\r[7/19] Extracting pcre-8.37_1:  11%"
+    ],
+    [
+      0.038877,
+      "\r[7/19] Extracting pcre-8.37_1:  12%"
+    ],
+    [
+      0.000562,
+      "\r[7/19] Extracting pcre-8.37_1:  13%"
+    ],
+    [
+      0.028574,
+      "\r[7/19] Extracting pcre-8.37_1:  14%"
+    ],
+    [
+      0.032973,
+      "\r[7/19] Extracting pcre-8.37_1:  15%"
+    ],
+    [
+      0.000164,
+      "\r[7/19] Extracting pcre-8.37_1:  16%"
+    ],
+    [
+      0.040675,
+      "\r[7/19] Extracting pcre-8.37_1:  17%"
+    ],
+    [
+      0.004328,
+      "\r[7/19] Extracting pcre-8.37_1:  18%"
+    ],
+    [
+      0.000162,
+      "\r[7/19] Extracting pcre-8.37_1:  19%"
+    ],
+    [
+      0.004311,
+      "\r[7/19] Extracting pcre-8.37_1:  20%"
+    ],
+    [
+      0.000161,
+      "\r[7/19] Extracting pcre-8.37_1:  21%"
+    ],
+    [
+      0.006697,
+      "\r[7/19] Extracting pcre-8.37_1:  22%"
+    ],
+    [
+      0.001613,
+      "\r[7/19] Extracting pcre-8.37_1:  23%"
+    ],
+    [
+      0.001634,
+      "\r[7/19] Extracting pcre-8.37_1:  24%"
+    ],
+    [
+      0.003320,
+      "\r[7/19] Extracting pcre-8.37_1:  25%"
+    ],
+    [
+      0.001151,
+      "\r[7/19] Extracting pcre-8.37_1:  26%"
+    ],
+    [
+      0.006534,
+      "\r[7/19] Extracting pcre-8.37_1:  27%\r[7/19] Extracting pcre-8.37_1:  28%\r[7/19] Extracting pcre-8.37_1:  29%"
+    ],
+    [
+      0.000686,
+      "\r[7/19] Extracting pcre-8.37_1:  30%"
+    ],
+    [
+      0.000481,
+      "\r[7/19] Extracting pcre-8.37_1:  31%"
+    ],
+    [
+      0.000162,
+      "\r[7/19] Extracting pcre-8.37_1:  32%"
+    ],
+    [
+      0.000357,
+      "\r[7/19] Extracting pcre-8.37_1:  33%"
+    ],
+    [
+      0.000119,
+      "\r[7/19] Extracting pcre-8.37_1:  34%"
+    ],
+    [
+      0.000498,
+      "\r[7/19] Extracting pcre-8.37_1:  35%"
+    ],
+    [
+      0.000161,
+      "\r[7/19] Extracting pcre-8.37_1:  36%"
+    ],
+    [
+      0.000394,
+      "\r[7/19] Extracting pcre-8.37_1:  37%"
+    ],
+    [
+      0.000134,
+      "\r[7/19] Extracting pcre-8.37_1:  38%"
+    ],
+    [
+      0.000270,
+      "\r[7/19] Extracting pcre-8.37_1:  39%"
+    ],
+    [
+      0.000303,
+      "\r[7/19] Extracting pcre-8.37_1:  40%"
+    ],
+    [
+      0.000101,
+      "\r[7/19] Extracting pcre-8.37_1:  41%"
+    ],
+    [
+      0.000320,
+      "\r[7/19] Extracting pcre-8.37_1:  42%"
+    ],
+    [
+      0.000118,
+      "\r[7/19] Extracting pcre-8.37_1:  43%"
+    ],
+    [
+      0.000334,
+      "\r[7/19] Extracting pcre-8.37_1:  44%"
+    ],
+    [
+      0.000100,
+      "\r[7/19] Extracting pcre-8.37_1:  45%"
+    ],
+    [
+      0.000147,
+      "\r[7/19] Extracting pcre-8.37_1:  46%"
+    ],
+    [
+      0.000311,
+      "\r[7/19] Extracting pcre-8.37_1:  47%"
+    ],
+    [
+      0.000137,
+      "\r[7/19] Extracting pcre-8.37_1:  48%"
+    ],
+    [
+      0.006206,
+      "\r[7/19] Extracting pcre-8.37_1:  49%"
+    ],
+    [
+      0.000070,
+      "\r[7/19] Extracting pcre-8.37_1:  50%"
+    ],
+    [
+      0.000352,
+      "\r[7/19] Extracting pcre-8.37_1:  51%"
+    ],
+    [
+      0.000325,
+      "\r[7/19] Extracting pcre-8.37_1:  52%"
+    ],
+    [
+      0.000169,
+      "\r[7/19] Extracting pcre-8.37_1:  53%"
+    ],
+    [
+      0.000372,
+      "\r[7/19] Extracting pcre-8.37_1:  54%"
+    ],
+    [
+      0.000149,
+      "\r[7/19] Extracting pcre-8.37_1:  55%"
+    ],
+    [
+      0.000352,
+      "\r[7/19] Extracting pcre-8.37_1:  56%"
+    ],
+    [
+      0.000330,
+      "\r[7/19] Extracting pcre-8.37_1:  57%"
+    ],
+    [
+      0.000067,
+      "\r[7/19] Extracting pcre-8.37_1:  58%"
+    ],
+    [
+      0.000423,
+      "\r[7/19] Extracting pcre-8.37_1:  59%"
+    ],
+    [
+      0.000075,
+      "\r[7/19] Extracting pcre-8.37_1:  60%"
+    ],
+    [
+      0.000605,
+      "\r[7/19] Extracting pcre-8.37_1:  61%"
+    ],
+    [
+      0.000078,
+      "\r[7/19] Extracting pcre-8.37_1:  62%"
+    ],
+    [
+      0.000387,
+      "\r[7/19] Extracting pcre-8.37_1:  63%"
+    ],
+    [
+      0.000326,
+      "\r[7/19] Extracting pcre-8.37_1:  64%"
+    ],
+    [
+      0.000256,
+      "\r[7/19] Extracting pcre-8.37_1:  65%"
+    ],
+    [
+      0.000430,
+      "\r[7/19] Extracting pcre-8.37_1:  66%"
+    ],
+    [
+      0.000069,
+      "\r[7/19] Extracting pcre-8.37_1:  67%"
+    ],
+    [
+      0.001748,
+      "\r[7/19] Extracting pcre-8.37_1:  68%"
+    ],
+    [
+      0.003011,
+      "\r[7/19] Extracting pcre-8.37_1:  69%"
+    ],
+    [
+      0.001682,
+      "\r[7/19] Extracting pcre-8.37_1:  70%"
+    ],
+    [
+      0.002508,
+      "\r[7/19] Extracting pcre-8.37_1:  71%"
+    ],
+    [
+      0.001392,
+      "\r[7/19] Extracting pcre-8.37_1:  72%"
+    ],
+    [
+      0.001654,
+      "\r[7/19] Extracting pcre-8.37_1:  73%"
+    ],
+    [
+      0.003117,
+      "\r[7/19] Extracting pcre-8.37_1:  74%"
+    ],
+    [
+      0.001310,
+      "\r[7/19] Extracting pcre-8.37_1:  75%"
+    ],
+    [
+      0.003182,
+      "\r[7/19] Extracting pcre-8.37_1:  76%"
+    ],
+    [
+      0.002846,
+      "\r[7/19] Extracting pcre-8.37_1:  77%"
+    ],
+    [
+      0.002005,
+      "\r[7/19] Extracting pcre-8.37_1:  78%"
+    ],
+    [
+      0.003469,
+      "\r[7/19] Extracting pcre-8.37_1:  79%"
+    ],
+    [
+      0.001685,
+      "\r[7/19] Extracting pcre-8.37_1:  80%"
+    ],
+    [
+      0.003517,
+      "\r[7/19] Extracting pcre-8.37_1:  81%"
+    ],
+    [
+      0.002849,
+      "\r[7/19] Extracting pcre-8.37_1:  82%"
+    ],
+    [
+      0.003114,
+      "\r[7/19] Extracting pcre-8.37_1:  83%"
+    ],
+    [
+      0.001813,
+      "\r[7/19] Extracting pcre-8.37_1:  84%"
+    ],
+    [
+      0.002025,
+      "\r[7/19] Extracting pcre-8.37_1:  85%"
+    ],
+    [
+      0.003087,
+      "\r[7/19] Extracting pcre-8.37_1:  86%"
+    ],
+    [
+      0.008288,
+      "\r[7/19] Extracting pcre-8.37_1:  87%"
+    ],
+    [
+      0.003587,
+      "\r[7/19] Extracting pcre-8.37_1:  88%"
+    ],
+    [
+      0.001681,
+      "\r[7/19] Extracting pcre-8.37_1:  89%"
+    ],
+    [
+      0.001966,
+      "\r[7/19] Extracting pcre-8.37_1:  90%"
+    ],
+    [
+      0.009713,
+      "\r[7/19] Extracting pcre-8.37_1:  91%"
+    ],
+    [
+      0.002127,
+      "\r[7/19] Extracting pcre-8.37_1:  92%"
+    ],
+    [
+      0.003615,
+      "\r[7/19] Extracting pcre-8.37_1:  93%"
+    ],
+    [
+      0.003174,
+      "\r[7/19] Extracting pcre-8.37_1:  94%"
+    ],
+    [
+      0.002946,
+      "\r[7/19] Extracting pcre-8.37_1:  95%"
+    ],
+    [
+      0.006347,
+      "\r[7/19] Extracting pcre-8.37_1:  96%"
+    ],
+    [
+      0.001743,
+      "\r[7/19] Extracting pcre-8.37_1:  97%"
+    ],
+    [
+      0.003302,
+      "\r[7/19] Extracting pcre-8.37_1:  98%"
+    ],
+    [
+      0.001663,
+      "\r[7/19] Extracting pcre-8.37_1:  99%"
+    ],
+    [
+      0.000076,
+      "\r[7/19] Extracting pcre-8.37_1: 100%"
+    ],
+    [
+      0.000245,
+      "\r\n"
+    ],
+    [
+      0.008888,
+      "[8/19] Installing libiconv-1.14_8...\r\n"
+    ],
+    [
+      0.000919,
+      "[8/19] Extracting libiconv-1.14_8:   0%"
+    ],
+    [
+      0.002017,
+      "\r[8/19] Extracting libiconv-1.14_8:   0%"
+    ],
+    [
+      0.001771,
+      "\r[8/19] Extracting libiconv-1.14_8:   5%"
+    ],
+    [
+      0.001780,
+      "\r[8/19] Extracting libiconv-1.14_8:  10%"
+    ],
+    [
+      0.006536,
+      "\r[8/19] Extracting libiconv-1.14_8:  15%"
+    ],
+    [
+      0.003173,
+      "\r[8/19] Extracting libiconv-1.14_8:  20%"
+    ],
+    [
+      0.001735,
+      "\r[8/19] Extracting libiconv-1.14_8:  25%"
+    ],
+    [
+      0.000479,
+      "\r[8/19] Extracting libiconv-1.14_8:  30%"
+    ],
+    [
+      0.000408,
+      "\r[8/19] Extracting libiconv-1.14_8:  35%"
+    ],
+    [
+      0.006147,
+      "\r[8/19] Extracting libiconv-1.14_8:  40%"
+    ],
+    [
+      0.143590,
+      "\r[8/19] Extracting libiconv-1.14_8:  45%"
+    ],
+    [
+      0.000342,
+      "\r[8/19] Extracting libiconv-1.14_8:  50%"
+    ],
+    [
+      0.000175,
+      "\r[8/19] Extracting libiconv-1.14_8:  55%"
+    ],
+    [
+      0.061221,
+      "\r[8/19] Extracting libiconv-1.14_8:  60%"
+    ],
+    [
+      0.000561,
+      "\r[8/19] Extracting libiconv-1.14_8:  65%"
+    ],
+    [
+      0.001977,
+      "\r[8/19] Extracting libiconv-1.14_8:  70%"
+    ],
+    [
+      0.001726,
+      "\r[8/19] Extracting libiconv-1.14_8:  75%"
+    ],
+    [
+      0.001439,
+      "\r[8/19] Extracting libiconv-1.14_8:  80%"
+    ],
+    [
+      0.001412,
+      "\r[8/19] Extracting libiconv-1.14_8:  85%"
+    ],
+    [
+      0.001469,
+      "\r[8/19] Extracting libiconv-1.14_8:  90%"
+    ],
+    [
+      0.001948,
+      "\r[8/19] Extracting libiconv-1.14_8:  95%"
+    ],
+    [
+      0.000407,
+      "\r[8/19] Extracting libiconv-1.14_8: 100%"
+    ],
+    [
+      0.000183,
+      "\r\n"
+    ],
+    [
+      0.006441,
+      "[9/19] Installing talloc-2.1.2...\r\n"
+    ],
+    [
+      0.000698,
+      "[9/19] Extracting talloc-2.1.2:   0%"
+    ],
+    [
+      0.001429,
+      "\r[9/19] Extracting talloc-2.1.2:   0%"
+    ],
+    [
+      0.000473,
+      "\r[9/19] Extracting talloc-2.1.2:   7%"
+    ],
+    [
+      0.001539,
+      "\r[9/19] Extracting talloc-2.1.2:  15%"
+    ],
+    [
+      0.001472,
+      "\r[9/19] Extracting talloc-2.1.2:  23%"
+    ],
+    [
+      0.001210,
+      "\r[9/19] Extracting talloc-2.1.2:  30%"
+    ],
+    [
+      0.008581,
+      "\r[9/19] Extracting talloc-2.1.2:  38%"
+    ],
+    [
+      0.000495,
+      "\r[9/19] Extracting talloc-2.1.2:  46%"
+    ],
+    [
+      0.003800,
+      "\r[9/19] Extracting talloc-2.1.2:  53%"
+    ],
+    [
+      0.001366,
+      "\r[9/19] Extracting talloc-2.1.2:  61%"
+    ],
+    [
+      0.001245,
+      "\r[9/19] Extracting talloc-2.1.2:  69%"
+    ],
+    [
+      0.002012,
+      "\r[9/19] Extracting talloc-2.1.2:  76%"
+    ],
+    [
+      0.001293,
+      "\r[9/19] Extracting talloc-2.1.2:  84%"
+    ],
+    [
+      0.001586,
+      "\r[9/19] Extracting talloc-2.1.2:  92%\r[9/19] Extracting talloc-2.1.2: 100%"
+    ],
+    [
+      0.000191,
+      "\r\n"
+    ],
+    [
+      0.008700,
+      "[10/19] Installing glib-2.42.2...\r\n"
+    ],
+    [
+      0.003792,
+      "[10/19] Extracting glib-2.42.2:   0%"
+    ],
+    [
+      0.003491,
+      "\r[10/19] Extracting glib-2.42.2:   0%"
+    ],
+    [
+      0.014343,
+      "\r[10/19] Extracting glib-2.42.2:   1%"
+    ],
+    [
+      0.008929,
+      "\r[10/19] Extracting glib-2.42.2:   2%"
+    ],
+    [
+      0.010141,
+      "\r[10/19] Extracting glib-2.42.2:   3%"
+    ],
+    [
+      0.009933,
+      "\r[10/19] Extracting glib-2.42.2:   4%"
+    ],
+    [
+      0.006591,
+      "\r[10/19] Extracting glib-2.42.2:   5%"
+    ],
+    [
+      0.010884,
+      "\r[10/19] Extracting glib-2.42.2:   6%"
+    ],
+    [
+      0.006416,
+      "\r[10/19] Extracting glib-2.42.2:   7%"
+    ],
+    [
+      0.008762,
+      "\r[10/19] Extracting glib-2.42.2:   8%"
+    ],
+    [
+      0.006029,
+      "\r[10/19] Extracting glib-2.42.2:   9%"
+    ],
+    [
+      0.013914,
+      "\r[10/19] Extracting glib-2.42.2:  10%"
+    ],
+    [
+      0.009035,
+      "\r[10/19] Extracting glib-2.42.2:  11%"
+    ],
+    [
+      0.005858,
+      "\r[10/19] Extracting glib-2.42.2:  12%"
+    ],
+    [
+      0.010146,
+      "\r[10/19] Extracting glib-2.42.2:  13%"
+    ],
+    [
+      0.005312,
+      "\r[10/19] Extracting glib-2.42.2:  14%"
+    ],
+    [
+      0.007807,
+      "\r[10/19] Extracting glib-2.42.2:  15%"
+    ],
+    [
+      0.008719,
+      "\r[10/19] Extracting glib-2.42.2:  16%"
+    ],
+    [
+      0.009079,
+      "\r[10/19] Extracting glib-2.42.2:  17%"
+    ],
+    [
+      0.012013,
+      "\r[10/19] Extracting glib-2.42.2:  18%"
+    ],
+    [
+      0.006044,
+      "\r[10/19] Extracting glib-2.42.2:  19%"
+    ],
+    [
+      0.005422,
+      "\r[10/19] Extracting glib-2.42.2:  20%"
+    ],
+    [
+      0.009773,
+      "\r[10/19] Extracting glib-2.42.2:  21%"
+    ],
+    [
+      0.009065,
+      "\r[10/19] Extracting glib-2.42.2:  22%"
+    ],
+    [
+      0.009260,
+      "\r[10/19] Extracting glib-2.42.2:  23%"
+    ],
+    [
+      0.005388,
+      "\r[10/19] Extracting glib-2.42.2:  24%"
+    ],
+    [
+      0.008107,
+      "\r[10/19] Extracting glib-2.42.2:  25%"
+    ],
+    [
+      0.006907,
+      "\r[10/19] Extracting glib-2.42.2:  26%"
+    ],
+    [
+      0.006487,
+      "\r[10/19] Extracting glib-2.42.2:  27%"
+    ],
+    [
+      0.007494,
+      "\r[10/19] Extracting glib-2.42.2:  28%"
+    ],
+    [
+      0.007945,
+      "\r[10/19] Extracting glib-2.42.2:  29%"
+    ],
+    [
+      0.007841,
+      "\r[10/19] Extracting glib-2.42.2:  30%"
+    ],
+    [
+      0.007713,
+      "\r[10/19] Extracting glib-2.42.2:  31%"
+    ],
+    [
+      0.005860,
+      "\r[10/19] Extracting glib-2.42.2:  32%"
+    ],
+    [
+      0.010518,
+      "\r[10/19] Extracting glib-2.42.2:  33%"
+    ],
+    [
+      0.006490,
+      "\r[10/19] Extracting glib-2.42.2:  34%"
+    ],
+    [
+      0.006334,
+      "\r[10/19] Extracting glib-2.42.2:  35%"
+    ],
+    [
+      0.008817,
+      "\r[10/19] Extracting glib-2.42.2:  36%"
+    ],
+    [
+      0.025092,
+      "\r[10/19] Extracting glib-2.42.2:  37%"
+    ],
+    [
+      0.008762,
+      "\r[10/19] Extracting glib-2.42.2:  38%"
+    ],
+    [
+      0.006308,
+      "\r[10/19] Extracting glib-2.42.2:  39%"
+    ],
+    [
+      0.006803,
+      "\r[10/19] Extracting glib-2.42.2:  40%"
+    ],
+    [
+      0.009846,
+      "\r[10/19] Extracting glib-2.42.2:  41%"
+    ],
+    [
+      0.005906,
+      "\r[10/19] Extracting glib-2.42.2:  42%"
+    ],
+    [
+      0.010331,
+      "\r[10/19] Extracting glib-2.42.2:  43%"
+    ],
+    [
+      0.006495,
+      "\r[10/19] Extracting glib-2.42.2:  44%"
+    ],
+    [
+      0.006404,
+      "\r[10/19] Extracting glib-2.42.2:  45%"
+    ],
+    [
+      0.009589,
+      "\r[10/19] Extracting glib-2.42.2:  46%"
+    ],
+    [
+      0.008042,
+      "\r[10/19] Extracting glib-2.42.2:  47%"
+    ],
+    [
+      0.009304,
+      "\r[10/19] Extracting glib-2.42.2:  48%"
+    ],
+    [
+      0.008434,
+      "\r[10/19] Extracting glib-2.42.2:  49%"
+    ],
+    [
+      0.007173,
+      "\r[10/19] Extracting glib-2.42.2:  50%"
+    ],
+    [
+      0.010898,
+      "\r[10/19] Extracting glib-2.42.2:  51%"
+    ],
+    [
+      0.005445,
+      "\r[10/19] Extracting glib-2.42.2:  52%"
+    ],
+    [
+      0.008970,
+      "\r[10/19] Extracting glib-2.42.2:  53%"
+    ],
+    [
+      0.008773,
+      "\r[10/19] Extracting glib-2.42.2:  54%"
+    ],
+    [
+      0.006541,
+      "\r[10/19] Extracting glib-2.42.2:  55%"
+    ],
+    [
+      0.012859,
+      "\r[10/19] Extracting glib-2.42.2:  56%"
+    ],
+    [
+      0.006256,
+      "\r[10/19] Extracting glib-2.42.2:  57%"
+    ],
+    [
+      0.010722,
+      "\r[10/19] Extracting glib-2.42.2:  58%"
+    ],
+    [
+      0.007536,
+      "\r[10/19] Extracting glib-2.42.2:  59%"
+    ],
+    [
+      0.019762,
+      "\r[10/19] Extracting glib-2.42.2:  60%"
+    ],
+    [
+      0.007033,
+      "\r[10/19] Extracting glib-2.42.2:  61%"
+    ],
+    [
+      0.241435,
+      "\r[10/19] Extracting glib-2.42.2:  62%"
+    ],
+    [
+      0.410891,
+      "\r[10/19] Extracting glib-2.42.2:  63%"
+    ],
+    [
+      0.057867,
+      "\r[10/19] Extracting glib-2.42.2:  64%"
+    ],
+    [
+      0.111126,
+      "\r[10/19] Extracting glib-2.42.2:  65%"
+    ],
+    [
+      0.088491,
+      "\r[10/19] Extracting glib-2.42.2:  66%"
+    ],
+    [
+      0.007463,
+      "\r[10/19] Extracting glib-2.42.2:  67%"
+    ],
+    [
+      0.028699,
+      "\r[10/19] Extracting glib-2.42.2:  68%"
+    ],
+    [
+      0.012371,
+      "\r[10/19] Extracting glib-2.42.2:  69%"
+    ],
+    [
+      0.040113,
+      "\r[10/19] Extracting glib-2.42.2:  70%"
+    ],
+    [
+      0.011767,
+      "\r[10/19] Extracting glib-2.42.2:  71%"
+    ],
+    [
+      0.013199,
+      "\r[10/19] Extracting glib-2.42.2:  72%"
+    ],
+    [
+      0.019366,
+      "\r[10/19] Extracting glib-2.42.2:  73%"
+    ],
+    [
+      0.011007,
+      "\r[10/19] Extracting glib-2.42.2:  74%"
+    ],
+    [
+      0.006726,
+      "\r[10/19] Extracting glib-2.42.2:  75%"
+    ],
+    [
+      0.010713,
+      "\r[10/19] Extracting glib-2.42.2:  76%"
+    ],
+    [
+      0.006539,
+      "\r[10/19] Extracting glib-2.42.2:  77%"
+    ],
+    [
+      0.012360,
+      "\r[10/19] Extracting glib-2.42.2:  78%"
+    ],
+    [
+      0.072239,
+      "\r[10/19] Extracting glib-2.42.2:  79%"
+    ],
+    [
+      0.072965,
+      "\r[10/19] Extracting glib-2.42.2:  80%"
+    ],
+    [
+      0.257495,
+      "\r[10/19] Extracting glib-2.42.2:  81%"
+    ],
+    [
+      0.021378,
+      "\r[10/19] Extracting glib-2.42.2:  82%"
+    ],
+    [
+      0.028462,
+      "\r[10/19] Extracting glib-2.42.2:  83%"
+    ],
+    [
+      0.020056,
+      "\r[10/19] Extracting glib-2.42.2:  84%"
+    ],
+    [
+      0.145563,
+      "\r[10/19] Extracting glib-2.42.2:  85%"
+    ],
+    [
+      0.052590,
+      "\r[10/19] Extracting glib-2.42.2:  86%"
+    ],
+    [
+      0.020101,
+      "\r[10/19] Extracting glib-2.42.2:  87%"
+    ],
+    [
+      0.019229,
+      "\r[10/19] Extracting glib-2.42.2:  88%"
+    ],
+    [
+      0.022633,
+      "\r[10/19] Extracting glib-2.42.2:  89%"
+    ],
+    [
+      0.089424,
+      "\r[10/19] Extracting glib-2.42.2:  90%"
+    ],
+    [
+      0.021485,
+      "\r[10/19] Extracting glib-2.42.2:  91%"
+    ],
+    [
+      0.013255,
+      "\r[10/19] Extracting glib-2.42.2:  92%"
+    ],
+    [
+      0.027036,
+      "\r[10/19] Extracting glib-2.42.2:  93%"
+    ],
+    [
+      0.128000,
+      "\r[10/19] Extracting glib-2.42.2:  94%"
+    ],
+    [
+      0.017952,
+      "\r[10/19] Extracting glib-2.42.2:  95%"
+    ],
+    [
+      0.022600,
+      "\r[10/19] Extracting glib-2.42.2:  96%"
+    ],
+    [
+      0.073959,
+      "\r[10/19] Extracting glib-2.42.2:  97%"
+    ],
+    [
+      0.021690,
+      "\r[10/19] Extracting glib-2.42.2:  98%"
+    ],
+    [
+      0.013837,
+      "\r[10/19] Extracting glib-2.42.2:  99%"
+    ],
+    [
+      0.290666,
+      "\r[10/19] Extracting glib-2.42.2: 100%"
+    ],
+    [
+      0.000311,
+      "\r\n"
+    ],
+    [
+      0.004375,
+      "No schema files found: doing nothing.\r\n"
+    ],
+    [
+      0.008193,
+      "[11/19] Installing libsunacl-1.0...\r\n"
+    ],
+    [
+      0.001345,
+      "[11/19] Extracting libsunacl-1.0:   0%"
+    ],
+    [
+      0.002497,
+      "\r[11/19] Extracting libsunacl-1.0:   0%"
+    ],
+    [
+      0.002176,
+      "\r[11/19] Extracting libsunacl-1.0:  14%"
+    ],
+    [
+      0.001916,
+      "\r[11/19] Extracting libsunacl-1.0:  28%"
+    ],
+    [
+      0.000417,
+      "\r[11/19] Extracting libsunacl-1.0:  42%"
+    ],
+    [
+      0.012526,
+      "\r[11/19] Extracting libsunacl-1.0:  57%"
+    ],
+    [
+      0.001611,
+      "\r[11/19] Extracting libsunacl-1.0:  71%"
+    ],
+    [
+      0.001793,
+      "\r[11/19] Extracting libsunacl-1.0:  85%"
+    ],
+    [
+      0.000273,
+      "\r[11/19] Extracting libsunacl-1.0: 100%"
+    ],
+    [
+      0.000324,
+      "\r\n"
+    ],
+    [
+      0.010298,
+      "[12/19] Installing krb5-1.13.2_2...\r\n"
+    ],
+    [
+      0.001858,
+      "[12/19] Extracting krb5-1.13.2_2:   0%"
+    ],
+    [
+      0.002972,
+      "\r[12/19] Extracting krb5-1.13.2_2:   0%"
+    ],
+    [
+      0.003133,
+      "\r[12/19] Extracting krb5-1.13.2_2:   1%"
+    ],
+    [
+      0.001816,
+      "\r[12/19] Extracting krb5-1.13.2_2:   2%"
+    ],
+    [
+      0.005719,
+      "\r[12/19] Extracting krb5-1.13.2_2:   3%"
+    ],
+    [
+      0.008059,
+      "\r[12/19] Extracting krb5-1.13.2_2:   4%"
+    ],
+    [
+      0.006397,
+      "\r[12/19] Extracting krb5-1.13.2_2:   5%"
+    ],
+    [
+      0.002040,
+      "\r[12/19] Extracting krb5-1.13.2_2:   6%"
+    ],
+    [
+      0.006487,
+      "\r[12/19] Extracting krb5-1.13.2_2:   7%"
+    ],
+    [
+      0.002498,
+      "\r[12/19] Extracting krb5-1.13.2_2:   8%"
+    ],
+    [
+      0.006579,
+      "\r[12/19] Extracting krb5-1.13.2_2:   9%"
+    ],
+    [
+      0.001958,
+      "\r[12/19] Extracting krb5-1.13.2_2:  10%"
+    ],
+    [
+      0.006143,
+      "\r[12/19] Extracting krb5-1.13.2_2:  11%"
+    ],
+    [
+      0.001749,
+      "\r[12/19] Extracting krb5-1.13.2_2:  12%"
+    ],
+    [
+      0.003377,
+      "\r[12/19] Extracting krb5-1.13.2_2:  13%"
+    ],
+    [
+      0.002291,
+      "\r[12/19] Extracting krb5-1.13.2_2:  14%"
+    ],
+    [
+      0.005491,
+      "\r[12/19] Extracting krb5-1.13.2_2:  15%"
+    ],
+    [
+      0.001920,
+      "\r[12/19] Extracting krb5-1.13.2_2:  16%"
+    ],
+    [
+      0.002175,
+      "\r[12/19] Extracting krb5-1.13.2_2:  17%"
+    ],
+    [
+      0.004109,
+      "\r[12/19] Extracting krb5-1.13.2_2:  18%"
+    ],
+    [
+      0.001905,
+      "\r[12/19] Extracting krb5-1.13.2_2:  19%"
+    ],
+    [
+      0.003331,
+      "\r[12/19] Extracting krb5-1.13.2_2:  20%"
+    ],
+    [
+      0.001864,
+      "\r[12/19] Extracting krb5-1.13.2_2:  21%"
+    ],
+    [
+      0.002654,
+      "\r[12/19] Extracting krb5-1.13.2_2:  22%"
+    ],
+    [
+      0.003954,
+      "\r[12/19] Extracting krb5-1.13.2_2:  23%"
+    ],
+    [
+      0.003595,
+      "\r[12/19] Extracting krb5-1.13.2_2:  24%"
+    ],
+    [
+      0.001870,
+      "\r[12/19] Extracting krb5-1.13.2_2:  25%"
+    ],
+    [
+      0.003192,
+      "\r[12/19] Extracting krb5-1.13.2_2:  26%"
+    ],
+    [
+      0.001958,
+      "\r[12/19] Extracting krb5-1.13.2_2:  27%"
+    ],
+    [
+      0.005387,
+      "\r[12/19] Extracting krb5-1.13.2_2:  28%"
+    ],
+    [
+      0.001970,
+      "\r[12/19] Extracting krb5-1.13.2_2:  29%"
+    ],
+    [
+      0.004276,
+      "\r[12/19] Extracting krb5-1.13.2_2:  30%"
+    ],
+    [
+      0.001933,
+      "\r[12/19] Extracting krb5-1.13.2_2:  31%"
+    ],
+    [
+      0.003249,
+      "\r[12/19] Extracting krb5-1.13.2_2:  32%"
+    ],
+    [
+      0.001866,
+      "\r[12/19] Extracting krb5-1.13.2_2:  33%"
+    ],
+    [
+      0.046783,
+      "\r[12/19] Extracting krb5-1.13.2_2:  34%"
+    ],
+    [
+      0.005096,
+      "\r[12/19] Extracting krb5-1.13.2_2:  35%"
+    ],
+    [
+      0.002119,
+      "\r[12/19] Extracting krb5-1.13.2_2:  36%"
+    ],
+    [
+      0.003464,
+      "\r[12/19] Extracting krb5-1.13.2_2:  37%"
+    ],
+    [
+      0.001597,
+      "\r[12/19] Extracting krb5-1.13.2_2:  38%"
+    ],
+    [
+      0.006280,
+      "\r[12/19] Extracting krb5-1.13.2_2:  39%"
+    ],
+    [
+      0.001835,
+      "\r[12/19] Extracting krb5-1.13.2_2:  40%"
+    ],
+    [
+      0.005905,
+      "\r[12/19] Extracting krb5-1.13.2_2:  41%"
+    ],
+    [
+      0.000980,
+      "\r[12/19] Extracting krb5-1.13.2_2:  42%"
+    ],
+    [
+      0.002213,
+      "\r[12/19] Extracting krb5-1.13.2_2:  43%"
+    ],
+    [
+      0.038833,
+      "\r[12/19] Extracting krb5-1.13.2_2:  44%"
+    ],
+    [
+      0.010724,
+      "\r[12/19] Extracting krb5-1.13.2_2:  45%"
+    ],
+    [
+      0.000495,
+      "\r[12/19] Extracting krb5-1.13.2_2:  46%"
+    ],
+    [
+      0.037216,
+      "\r[12/19] Extracting krb5-1.13.2_2:  47%"
+    ],
+    [
+      0.000547,
+      "\r[12/19] Extracting krb5-1.13.2_2:  48%"
+    ],
+    [
+      0.006691,
+      "\r[12/19] Extracting krb5-1.13.2_2:  49%"
+    ],
+    [
+      0.000332,
+      "\r[12/19] Extracting krb5-1.13.2_2:  50%"
+    ],
+    [
+      0.010197,
+      "\r[12/19] Extracting krb5-1.13.2_2:  51%"
+    ],
+    [
+      0.007324,
+      "\r[12/19] Extracting krb5-1.13.2_2:  52%"
+    ],
+    [
+      0.000335,
+      "\r[12/19] Extracting krb5-1.13.2_2:  53%"
+    ],
+    [
+      0.103921,
+      "\r[12/19] Extracting krb5-1.13.2_2:  54%"
+    ],
+    [
+      0.006303,
+      "\r[12/19] Extracting krb5-1.13.2_2:  55%"
+    ],
+    [
+      0.012487,
+      "\r[12/19] Extracting krb5-1.13.2_2:  56%"
+    ],
+    [
+      0.001769,
+      "\r[12/19] Extracting krb5-1.13.2_2:  57%"
+    ],
+    [
+      0.010228,
+      "\r[12/19] Extracting krb5-1.13.2_2:  58%"
+    ],
+    [
+      0.004989,
+      "\r[12/19] Extracting krb5-1.13.2_2:  59%"
+    ],
+    [
+      0.007943,
+      "\r[12/19] Extracting krb5-1.13.2_2:  60%"
+    ],
+    [
+      0.001552,
+      "\r[12/19] Extracting krb5-1.13.2_2:  61%"
+    ],
+    [
+      0.003079,
+      "\r[12/19] Extracting krb5-1.13.2_2:  62%"
+    ],
+    [
+      0.001901,
+      "\r[12/19] Extracting krb5-1.13.2_2:  63%"
+    ],
+    [
+      0.002974,
+      "\r[12/19] Extracting krb5-1.13.2_2:  64%"
+    ],
+    [
+      0.001819,
+      "\r[12/19] Extracting krb5-1.13.2_2:  65%"
+    ],
+    [
+      0.003818,
+      "\r[12/19] Extracting krb5-1.13.2_2:  66%"
+    ],
+    [
+      0.002240,
+      "\r[12/19] Extracting krb5-1.13.2_2:  67%"
+    ],
+    [
+      0.002007,
+      "\r[12/19] Extracting krb5-1.13.2_2:  68%"
+    ],
+    [
+      0.003454,
+      "\r[12/19] Extracting krb5-1.13.2_2:  69%"
+    ],
+    [
+      0.002041,
+      "\r[12/19] Extracting krb5-1.13.2_2:  70%"
+    ],
+    [
+      0.003399,
+      "\r[12/19] Extracting krb5-1.13.2_2:  71%"
+    ],
+    [
+      0.002092,
+      "\r[12/19] Extracting krb5-1.13.2_2:  72%"
+    ],
+    [
+      0.003489,
+      "\r[12/19] Extracting krb5-1.13.2_2:  73%"
+    ],
+    [
+      0.002050,
+      "\r[12/19] Extracting krb5-1.13.2_2:  74%"
+    ],
+    [
+      0.019509,
+      "\r[12/19] Extracting krb5-1.13.2_2:  75%"
+    ],
+    [
+      0.007724,
+      "\r[12/19] Extracting krb5-1.13.2_2:  76%"
+    ],
+    [
+      0.003405,
+      "\r[12/19] Extracting krb5-1.13.2_2:  77%"
+    ],
+    [
+      0.002533,
+      "\r[12/19] Extracting krb5-1.13.2_2:  78%"
+    ],
+    [
+      0.003256,
+      "\r[12/19] Extracting krb5-1.13.2_2:  79%"
+    ],
+    [
+      0.003123,
+      "\r[12/19] Extracting krb5-1.13.2_2:  80%"
+    ],
+    [
+      0.003288,
+      "\r[12/19] Extracting krb5-1.13.2_2:  81%"
+    ],
+    [
+      0.001830,
+      "\r[12/19] Extracting krb5-1.13.2_2:  82%"
+    ],
+    [
+      0.003221,
+      "\r[12/19] Extracting krb5-1.13.2_2:  83%"
+    ],
+    [
+      0.001840,
+      "\r[12/19] Extracting krb5-1.13.2_2:  84%"
+    ],
+    [
+      0.001767,
+      "\r[12/19] Extracting krb5-1.13.2_2:  85%"
+    ],
+    [
+      0.003722,
+      "\r[12/19] Extracting krb5-1.13.2_2:  86%"
+    ],
+    [
+      0.005659,
+      "\r[12/19] Extracting krb5-1.13.2_2:  87%"
+    ],
+    [
+      0.011695,
+      "\r[12/19] Extracting krb5-1.13.2_2:  88%"
+    ],
+    [
+      0.006115,
+      "\r[12/19] Extracting krb5-1.13.2_2:  89%"
+    ],
+    [
+      0.007444,
+      "\r[12/19] Extracting krb5-1.13.2_2:  90%"
+    ],
+    [
+      0.001901,
+      "\r[12/19] Extracting krb5-1.13.2_2:  91%"
+    ],
+    [
+      0.008989,
+      "\r[12/19] Extracting krb5-1.13.2_2:  92%"
+    ],
+    [
+      0.001969,
+      "\r[12/19] Extracting krb5-1.13.2_2:  93%"
+    ],
+    [
+      0.005224,
+      "\r[12/19] Extracting krb5-1.13.2_2:  94%"
+    ],
+    [
+      0.002010,
+      "\r[12/19] Extracting krb5-1.13.2_2:  95%"
+    ],
+    [
+      0.003001,
+      "\r[12/19] Extracting krb5-1.13.2_2:  96%"
+    ],
+    [
+      0.001909,
+      "\r[12/19] Extracting krb5-1.13.2_2:  97%"
+    ],
+    [
+      0.003570,
+      "\r[12/19] Extracting krb5-1.13.2_2:  98%"
+    ],
+    [
+      0.002027,
+      "\r[12/19] Extracting krb5-1.13.2_2:  99%"
+    ],
+    [
+      0.000526,
+      "\r[12/19] Extracting krb5-1.13.2_2: 100%\r\n"
+    ],
+    [
+      0.010482,
+      "[13/19] Installing openldap-client-2.4.41...\r\n"
+    ],
+    [
+      0.047724,
+      "[13/19] Extracting openldap-client-2.4.41:   0%"
+    ],
+    [
+      0.001980,
+      "\r[13/19] Extracting openldap-client-2.4.41:   0%"
+    ],
+    [
+      0.032256,
+      "\r[13/19] Extracting openldap-client-2.4.41:   1%"
+    ],
+    [
+      0.011831,
+      "\r[13/19] Extracting openldap-client-2.4.41:   2%"
+    ],
+    [
+      0.012694,
+      "\r[13/19] Extracting openldap-client-2.4.41:   3%"
+    ],
+    [
+      0.008322,
+      "\r[13/19] Extracting openldap-client-2.4.41:   4%"
+    ],
+    [
+      0.024093,
+      "\r[13/19] Extracting openldap-client-2.4.41:   5%"
+    ],
+    [
+      0.004500,
+      "\r[13/19] Extracting openldap-client-2.4.41:   6%"
+    ],
+    [
+      0.006400,
+      "\r[13/19] Extracting openldap-client-2.4.41:   7%"
+    ],
+    [
+      0.010774,
+      "\r[13/19] Extracting openldap-client-2.4.41:   8%"
+    ],
+    [
+      0.064894,
+      "\r[13/19] Extracting openldap-client-2.4.41:   9%"
+    ],
+    [
+      0.002248,
+      "\r[13/19] Extracting openldap-client-2.4.41:  10%"
+    ],
+    [
+      0.066451,
+      "\r[13/19] Extracting openldap-client-2.4.41:  11%"
+    ],
+    [
+      0.003818,
+      "\r[13/19] Extracting openldap-client-2.4.41:  12%"
+    ],
+    [
+      0.003902,
+      "\r[13/19] Extracting openldap-client-2.4.41:  13%"
+    ],
+    [
+      0.006797,
+      "\r[13/19] Extracting openldap-client-2.4.41:  14%"
+    ],
+    [
+      0.002772,
+      "\r[13/19] Extracting openldap-client-2.4.41:  15%"
+    ],
+    [
+      0.000590,
+      "\r[13/19] Extracting openldap-client-2.4.41:  16%"
+    ],
+    [
+      0.000646,
+      "\r[13/19] Extracting openldap-client-2.4.41:  17%"
+    ],
+    [
+      0.000559,
+      "\r[13/19] Extracting openldap-client-2.4.41:  18%"
+    ],
+    [
+      0.000585,
+      "\r[13/19] Extracting openldap-client-2.4.41:  19%"
+    ],
+    [
+      0.000498,
+      "\r[13/19] Extracting openldap-client-2.4.41:  20%"
+    ],
+    [
+      0.000486,
+      "\r[13/19] Extracting openldap-client-2.4.41:  21%"
+    ],
+    [
+      0.000510,
+      "\r[13/19] Extracting openldap-client-2.4.41:  22%"
+    ],
+    [
+      0.000712,
+      "\r[13/19] Extracting openldap-client-2.4.41:  23%"
+    ],
+    [
+      0.000498,
+      "\r[13/19] Extracting openldap-client-2.4.41:  24%"
+    ],
+    [
+      0.000504,
+      "\r[13/19] Extracting openldap-client-2.4.41:  25%"
+    ],
+    [
+      0.005346,
+      "\r[13/19] Extracting openldap-client-2.4.41:  26%"
+    ],
+    [
+      0.003446,
+      "\r[13/19] Extracting openldap-client-2.4.41:  27%"
+    ],
+    [
+      0.002611,
+      "\r[13/19] Extracting openldap-client-2.4.41:  28%"
+    ],
+    [
+      0.000621,
+      "\r[13/19] Extracting openldap-client-2.4.41:  29%"
+    ],
+    [
+      0.001837,
+      "\r[13/19] Extracting openldap-client-2.4.41:  30%"
+    ],
+    [
+      0.001615,
+      "\r[13/19] Extracting openldap-client-2.4.41:  31%"
+    ],
+    [
+      0.000572,
+      "\r[13/19] Extracting openldap-client-2.4.41:  32%"
+    ],
+    [
+      0.000512,
+      "\r[13/19] Extracting openldap-client-2.4.41:  33%"
+    ],
+    [
+      0.002062,
+      "\r[13/19] Extracting openldap-client-2.4.41:  34%"
+    ],
+    [
+      0.003292,
+      "\r[13/19] Extracting openldap-client-2.4.41:  35%"
+    ],
+    [
+      0.001531,
+      "\r[13/19] Extracting openldap-client-2.4.41:  36%"
+    ],
+    [
+      0.000539,
+      "\r[13/19] Extracting openldap-client-2.4.41:  37%"
+    ],
+    [
+      0.000281,
+      "\r[13/19] Extracting openldap-client-2.4.41:  38%"
+    ],
+    [
+      0.001532,
+      "\r[13/19] Extracting openldap-client-2.4.41:  39%"
+    ],
+    [
+      0.001531,
+      "\r[13/19] Extracting openldap-client-2.4.41:  40%"
+    ],
+    [
+      0.001711,
+      "\r[13/19] Extracting openldap-client-2.4.41:  41%"
+    ],
+    [
+      0.003734,
+      "\r[13/19] Extracting openldap-client-2.4.41:  42%"
+    ],
+    [
+      0.004281,
+      "\r[13/19] Extracting openldap-client-2.4.41:  43%"
+    ],
+    [
+      0.002886,
+      "\r[13/19] Extracting openldap-client-2.4.41:  44%"
+    ],
+    [
+      0.000897,
+      "\r[13/19] Extracting openldap-client-2.4.41:  45%"
+    ],
+    [
+      0.000515,
+      "\r[13/19] Extracting openldap-client-2.4.41:  46%"
+    ],
+    [
+      0.000492,
+      "\r[13/19] Extracting openldap-client-2.4.41:  47%"
+    ],
+    [
+      0.001995,
+      "\r[13/19] Extracting openldap-client-2.4.41:  48%"
+    ],
+    [
+      0.001958,
+      "\r[13/19] Extracting openldap-client-2.4.41:  49%"
+    ],
+    [
+      0.001608,
+      "\r[13/19] Extracting openldap-client-2.4.41:  50%"
+    ],
+    [
+      0.000554,
+      "\r[13/19] Extracting openldap-client-2.4.41:  51%"
+    ],
+    [
+      0.000814,
+      "\r[13/19] Extracting openldap-client-2.4.41:  52%"
+    ],
+    [
+      0.000543,
+      "\r[13/19] Extracting openldap-client-2.4.41:  53%"
+    ],
+    [
+      0.000406,
+      "\r[13/19] Extracting openldap-client-2.4.41:  54%"
+    ],
+    [
+      0.005652,
+      "\r[13/19] Extracting openldap-client-2.4.41:  55%"
+    ],
+    [
+      0.004216,
+      "\r[13/19] Extracting openldap-client-2.4.41:  56%"
+    ],
+    [
+      0.001537,
+      "\r[13/19] Extracting openldap-client-2.4.41:  57%"
+    ],
+    [
+      0.001568,
+      "\r[13/19] Extracting openldap-client-2.4.41:  58%"
+    ],
+    [
+      0.001473,
+      "\r[13/19] Extracting openldap-client-2.4.41:  59%"
+    ],
+    [
+      0.001684,
+      "\r[13/19] Extracting openldap-client-2.4.41:  60%"
+    ],
+    [
+      0.001155,
+      "\r[13/19] Extracting openldap-client-2.4.41:  61%"
+    ],
+    [
+      0.000326,
+      "\r[13/19] Extracting openldap-client-2.4.41:  62%"
+    ],
+    [
+      0.002006,
+      "\r[13/19] Extracting openldap-client-2.4.41:  63%"
+    ],
+    [
+      0.000452,
+      "\r[13/19] Extracting openldap-client-2.4.41:  64%"
+    ],
+    [
+      0.000207,
+      "\r[13/19] Extracting openldap-client-2.4.41:  65%"
+    ],
+    [
+      0.001711,
+      "\r[13/19] Extracting openldap-client-2.4.41:  66%"
+    ],
+    [
+      0.001826,
+      "\r[13/19] Extracting openldap-client-2.4.41:  67%"
+    ],
+    [
+      0.000503,
+      "\r[13/19] Extracting openldap-client-2.4.41:  68%"
+    ],
+    [
+      0.002514,
+      "\r[13/19] Extracting openldap-client-2.4.41:  69%\r[13/19] Extracting openldap-client-2.4.41:  70%"
+    ],
+    [
+      0.013282,
+      "\r[13/19] Extracting openldap-client-2.4.41:  71%"
+    ],
+    [
+      0.006475,
+      "\r[13/19] Extracting openldap-client-2.4.41:  72%"
+    ],
+    [
+      0.010620,
+      "\r[13/19] Extracting openldap-client-2.4.41:  73%"
+    ],
+    [
+      0.021805,
+      "\r[13/19] Extracting openldap-client-2.4.41:  74%"
+    ],
+    [
+      0.034356,
+      "\r[13/19] Extracting openldap-client-2.4.41:  75%"
+    ],
+    [
+      0.008050,
+      "\r[13/19] Extracting openldap-client-2.4.41:  76%"
+    ],
+    [
+      0.026290,
+      "\r[13/19] Extracting openldap-client-2.4.41:  77%"
+    ],
+    [
+      0.012237,
+      "\r[13/19] Extracting openldap-client-2.4.41:  78%"
+    ],
+    [
+      0.011865,
+      "\r[13/19] Extracting openldap-client-2.4.41:  79%"
+    ],
+    [
+      0.006227,
+      "\r[13/19] Extracting openldap-client-2.4.41:  80%"
+    ],
+    [
+      0.015014,
+      "\r[13/19] Extracting openldap-client-2.4.41:  81%"
+    ],
+    [
+      0.011972,
+      "\r[13/19] Extracting openldap-client-2.4.41:  82%"
+    ],
+    [
+      0.003715,
+      "\r[13/19] Extracting openldap-client-2.4.41:  83%"
+    ],
+    [
+      0.009095,
+      "\r[13/19] Extracting openldap-client-2.4.41:  84%"
+    ],
+    [
+      0.006522,
+      "\r[13/19] Extracting openldap-client-2.4.41:  85%"
+    ],
+    [
+      0.017621,
+      "\r[13/19] Extracting openldap-client-2.4.41:  86%"
+    ],
+    [
+      0.004330,
+      "\r[13/19] Extracting openldap-client-2.4.41:  87%"
+    ],
+    [
+      0.010619,
+      "\r[13/19] Extracting openldap-client-2.4.41:  88%"
+    ],
+    [
+      0.013836,
+      "\r[13/19] Extracting openldap-client-2.4.41:  89%"
+    ],
+    [
+      0.024560,
+      "\r[13/19] Extracting openldap-client-2.4.41:  90%"
+    ],
+    [
+      0.006575,
+      "\r[13/19] Extracting openldap-client-2.4.41:  91%"
+    ],
+    [
+      0.004402,
+      "\r[13/19] Extracting openldap-client-2.4.41:  92%"
+    ],
+    [
+      0.006883,
+      "\r[13/19] Extracting openldap-client-2.4.41:  93%"
+    ],
+    [
+      0.012476,
+      "\r[13/19] Extracting openldap-client-2.4.41:  94%"
+    ],
+    [
+      0.010812,
+      "\r[13/19] Extracting openldap-client-2.4.41:  95%"
+    ],
+    [
+      0.007288,
+      "\r[13/19] Extracting openldap-client-2.4.41:  96%"
+    ],
+    [
+      0.013698,
+      "\r[13/19] Extracting openldap-client-2.4.41:  97%"
+    ],
+    [
+      0.020406,
+      "\r[13/19] Extracting openldap-client-2.4.41:  98%"
+    ],
+    [
+      0.007331,
+      "\r[13/19] Extracting openldap-client-2.4.41:  99%"
+    ],
+    [
+      0.003525,
+      "\r[13/19] Extracting openldap-client-2.4.41: 100%"
+    ],
+    [
+      0.000162,
+      "\r\n"
+    ],
+    [
+      0.012402,
+      "[14/19] Installing e2fsprogs-libuuid-1.42.12...\r\n"
+    ],
+    [
+      0.005347,
+      "[14/19] Extracting e2fsprogs-libuuid-1.42.12:   0%"
+    ],
+    [
+      0.002186,
+      "\r[14/19] Extracting e2fsprogs-libuuid-1.42.12:   0%"
+    ],
+    [
+      0.001598,
+      "\r[14/19] Extracting e2fsprogs-libuuid-1.42.12:   4%"
+    ],
+    [
+      0.001953,
+      "\r[14/19] Extracting e2fsprogs-libuuid-1.42.12:   8%"
+    ],
+    [
+      0.006760,
+      "\r[14/19] Extracting e2fsprogs-libuuid-1.42.12:  12%"
+    ],
+    [
+      0.002013,
+      "\r[14/19] Extracting e2fsprogs-libuuid-1.42.12:  16%"
+    ],
+    [
+      0.002040,
+      "\r[14/19] Extracting e2fsprogs-libuuid-1.42.12:  20%"
+    ],
+    [
+      0.000390,
+      "\r[14/19] Extracting e2fsprogs-libuuid-1.42.12:  24%"
+    ],
+    [
+      0.000306,
+      "\r[14/19] Extracting e2fsprogs-libuuid-1.42.12:  28%"
+    ],
+    [
+      0.005084,
+      "\r[14/19] Extracting e2fsprogs-libuuid-1.42.12:  32%"
+    ],
+    [
+      0.002436,
+      "\r[14/19] Extracting e2fsprogs-libuuid-1.42.12:  36%"
+    ],
+    [
+      0.001785,
+      "\r[14/19] Extracting e2fsprogs-libuuid-1.42.12:  40%"
+    ],
+    [
+      0.001739,
+      "\r[14/19] Extracting e2fsprogs-libuuid-1.42.12:  44%"
+    ],
+    [
+      0.001810,
+      "\r[14/19] Extracting e2fsprogs-libuuid-1.42.12:  48%"
+    ],
+    [
+      0.002160,
+      "\r[14/19] Extracting e2fsprogs-libuuid-1.42.12:  52%"
+    ],
+    [
+      0.001503,
+      "\r[14/19] Extracting e2fsprogs-libuuid-1.42.12:  56%"
+    ],
+    [
+      0.001707,
+      "\r[14/19] Extracting e2fsprogs-libuuid-1.42.12:  60%"
+    ],
+    [
+      0.002636,
+      "\r[14/19] Extracting e2fsprogs-libuuid-1.42.12:  64%"
+    ],
+    [
+      0.002525,
+      "\r[14/19] Extracting e2fsprogs-libuuid-1.42.12:  68%"
+    ],
+    [
+      0.001380,
+      "\r[14/19] Extracting e2fsprogs-libuuid-1.42.12:  72%"
+    ],
+    [
+      0.001853,
+      "\r[14/19] Extracting e2fsprogs-libuuid-1.42.12:  76%"
+    ],
+    [
+      0.000473,
+      "\r[14/19] Extracting e2fsprogs-libuuid-1.42.12:  80%"
+    ],
+    [
+      0.000320,
+      "\r[14/19] Extracting e2fsprogs-libuuid-1.42.12:  84%"
+    ],
+    [
+      0.001536,
+      "\r[14/19] Extracting e2fsprogs-libuuid-1.42.12:  88%"
+    ],
+    [
+      0.001708,
+      "\r[14/19] Extracting e2fsprogs-libuuid-1.42.12:  92%"
+    ],
+    [
+      0.001490,
+      "\r[14/19] Extracting e2fsprogs-libuuid-1.42.12:  96%"
+    ],
+    [
+      0.000669,
+      "\r[14/19] Extracting e2fsprogs-libuuid-1.42.12: 100%"
+    ],
+    [
+      0.000172,
+      "\r\n"
+    ],
+    [
+      0.007802,
+      "[15/19] Installing tevent-0.9.24...\r\n"
+    ],
+    [
+      0.002557,
+      "[15/19] Extracting tevent-0.9.24:   0%"
+    ],
+    [
+      0.001888,
+      "\r[15/19] Extracting tevent-0.9.24:   0%"
+    ],
+    [
+      0.001570,
+      "\r[15/19] Extracting tevent-0.9.24:   9%"
+    ],
+    [
+      0.001660,
+      "\r[15/19] Extracting tevent-0.9.24:  18%"
+    ],
+    [
+      0.006481,
+      "\r[15/19] Extracting tevent-0.9.24:  27%"
+    ],
+    [
+      0.005095,
+      "\r[15/19] Extracting tevent-0.9.24:  36%"
+    ],
+    [
+      0.000378,
+      "\r[15/19] Extracting tevent-0.9.24:  45%"
+    ],
+    [
+      0.005936,
+      "\r[15/19] Extracting tevent-0.9.24:  54%"
+    ],
+    [
+      0.001672,
+      "\r[15/19] Extracting tevent-0.9.24:  63%"
+    ],
+    [
+      0.002077,
+      "\r[15/19] Extracting tevent-0.9.24:  72%"
+    ],
+    [
+      0.001594,
+      "\r[15/19] Extracting tevent-0.9.24:  81%"
+    ],
+    [
+      0.001629,
+      "\r[15/19] Extracting tevent-0.9.24:  90%"
+    ],
+    [
+      0.000208,
+      "\r[15/19] Extracting tevent-0.9.24: 100%\r\n"
+    ],
+    [
+      0.008520,
+      "[16/19] Installing popt-1.16_1...\r\n"
+    ],
+    [
+      0.005299,
+      "[16/19] Extracting popt-1.16_1:   0%"
+    ],
+    [
+      0.002131,
+      "\r[16/19] Extracting popt-1.16_1:   0%"
+    ],
+    [
+      0.005840,
+      "\r[16/19] Extracting popt-1.16_1:  14%"
+    ],
+    [
+      0.000499,
+      "\r[16/19] Extracting popt-1.16_1:  28%"
+    ],
+    [
+      0.000373,
+      "\r[16/19] Extracting popt-1.16_1:  42%"
+    ],
+    [
+      0.005293,
+      "\r[16/19] Extracting popt-1.16_1:  57%"
+    ],
+    [
+      0.001511,
+      "\r[16/19] Extracting popt-1.16_1:  71%"
+    ],
+    [
+      0.001786,
+      "\r[16/19] Extracting popt-1.16_1:  85%\r[16/19] Extracting popt-1.16_1: 100%"
+    ],
+    [
+      0.001238,
+      "\r\n"
+    ],
+    [
+      0.008699,
+      "[17/19] Installing gamin-0.1.10_8...\r\n"
+    ],
+    [
+      0.007851,
+      "[17/19] Extracting gamin-0.1.10_8:   0%"
+    ],
+    [
+      0.001886,
+      "\r[17/19] Extracting gamin-0.1.10_8:   0%"
+    ],
+    [
+      0.003807,
+      "\r[17/19] Extracting gamin-0.1.10_8:   8%"
+    ],
+    [
+      0.000487,
+      "\r[17/19] Extracting gamin-0.1.10_8:  16%"
+    ],
+    [
+      0.000243,
+      "\r[17/19] Extracting gamin-0.1.10_8:  25%"
+    ],
+    [
+      0.001837,
+      "\r[17/19] Extracting gamin-0.1.10_8:  33%"
+    ],
+    [
+      0.003326,
+      "\r[17/19] Extracting gamin-0.1.10_8:  41%"
+    ],
+    [
+      0.000358,
+      "\r[17/19] Extracting gamin-0.1.10_8:  50%"
+    ],
+    [
+      0.000299,
+      "\r[17/19] Extracting gamin-0.1.10_8:  58%"
+    ],
+    [
+      0.012613,
+      "\r[17/19] Extracting gamin-0.1.10_8:  66%"
+    ],
+    [
+      0.006072,
+      "\r[17/19] Extracting gamin-0.1.10_8:  75%"
+    ],
+    [
+      0.002115,
+      "\r[17/19] Extracting gamin-0.1.10_8:  83%"
+    ],
+    [
+      0.004754,
+      "\r[17/19] Extracting gamin-0.1.10_8:  91%"
+    ],
+    [
+      0.000008,
+      "\r[17/19] Extracting gamin-0.1.10_8: 100%"
+    ],
+    [
+      0.000254,
+      "\r\n"
+    ],
+    [
+      0.006397,
+      "[18/19] Installing tdb-1.3.4,1...\r\n"
+    ],
+    [
+      0.002792,
+      "[18/19] Extracting tdb-1.3.4,1:   0%"
+    ],
+    [
+      0.002236,
+      "\r[18/19] Extracting tdb-1.3.4,1:   0%"
+    ],
+    [
+      0.005560,
+      "\r[18/19] Extracting tdb-1.3.4,1:   6%"
+    ],
+    [
+      0.004366,
+      "\r[18/19] Extracting tdb-1.3.4,1:  12%"
+    ],
+    [
+      0.001761,
+      "\r[18/19] Extracting tdb-1.3.4,1:  18%"
+    ],
+    [
+      0.001884,
+      "\r[18/19] Extracting tdb-1.3.4,1:  25%"
+    ],
+    [
+      0.005913,
+      "\r[18/19] Extracting tdb-1.3.4,1:  31%\r[18/19] Extracting tdb-1.3.4,1:  37%"
+    ],
+    [
+      0.007361,
+      "\r[18/19] Extracting tdb-1.3.4,1:  43%"
+    ],
+    [
+      0.001820,
+      "\r[18/19] Extracting tdb-1.3.4,1:  50%"
+    ],
+    [
+      0.001835,
+      "\r[18/19] Extracting tdb-1.3.4,1:  56%"
+    ],
+    [
+      0.002374,
+      "\r[18/19] Extracting tdb-1.3.4,1:  62%"
+    ],
+    [
+      0.002606,
+      "\r[18/19] Extracting tdb-1.3.4,1:  68%"
+    ],
+    [
+      0.002172,
+      "\r[18/19] Extracting tdb-1.3.4,1:  75%"
+    ],
+    [
+      0.002047,
+      "\r[18/19] Extracting tdb-1.3.4,1:  81%"
+    ],
+    [
+      0.001796,
+      "\r[18/19] Extracting tdb-1.3.4,1:  87%"
+    ],
+    [
+      0.004475,
+      "\r[18/19] Extracting tdb-1.3.4,1:  93%"
+    ],
+    [
+      0.000194,
+      "\r[18/19] Extracting tdb-1.3.4,1: 100%\r\n"
+    ],
+    [
+      0.008827,
+      "[19/19] Installing samba36-3.6.25...\r\n"
+    ],
+    [
+      0.025906,
+      "[19/19] Extracting samba36-3.6.25:   0%"
+    ],
+    [
+      0.001897,
+      "\r[19/19] Extracting samba36-3.6.25:   0%"
+    ],
+    [
+      0.003842,
+      "\r[19/19] Extracting samba36-3.6.25:   1%"
+    ],
+    [
+      0.014510,
+      "\r[19/19] Extracting samba36-3.6.25:   2%"
+    ],
+    [
+      0.150110,
+      "\r[19/19] Extracting samba36-3.6.25:   3%"
+    ],
+    [
+      0.683698,
+      "\r[19/19] Extracting samba36-3.6.25:   4%"
+    ],
+    [
+      0.141783,
+      "\r[19/19] Extracting samba36-3.6.25:   5%"
+    ],
+    [
+      0.272836,
+      "\r[19/19] Extracting samba36-3.6.25:   6%"
+    ],
+    [
+      0.273553,
+      "\r[19/19] Extracting samba36-3.6.25:   7%"
+    ],
+    [
+      0.696838,
+      "\r[19/19] Extracting samba36-3.6.25:   8%"
+    ],
+    [
+      0.169119,
+      "\r[19/19] Extracting samba36-3.6.25:   9%"
+    ],
+    [
+      0.984248,
+      "\r[19/19] Extracting samba36-3.6.25:  10%"
+    ],
+    [
+      0.126876,
+      "\r[19/19] Extracting samba36-3.6.25:  11%"
+    ],
+    [
+      0.416329,
+      "\r[19/19] Extracting samba36-3.6.25:  12%"
+    ],
+    [
+      0.932144,
+      "\r[19/19] Extracting samba36-3.6.25:  13%"
+    ],
+    [
+      0.209949,
+      "\r[19/19] Extracting samba36-3.6.25:  14%"
+    ],
+    [
+      0.172003,
+      "\r[19/19] Extracting samba36-3.6.25:  15%"
+    ],
+    [
+      0.099657,
+      "\r[19/19] Extracting samba36-3.6.25:  16%"
+    ],
+    [
+      0.485353,
+      "\r[19/19] Extracting samba36-3.6.25:  17%"
+    ],
+    [
+      0.097688,
+      "\r[19/19] Extracting samba36-3.6.25:  18%"
+    ],
+    [
+      0.175698,
+      "\r[19/19] Extracting samba36-3.6.25:  19%"
+    ],
+    [
+      0.827397,
+      "\r[19/19] Extracting samba36-3.6.25:  20%"
+    ],
+    [
+      0.274259,
+      "\r[19/19] Extracting samba36-3.6.25:  21%"
+    ],
+    [
+      0.964843,
+      "\r[19/19] Extracting samba36-3.6.25:  22%"
+    ],
+    [
+      0.009999,
+      "\r[19/19] Extracting samba36-3.6.25:  23%"
+    ],
+    [
+      0.002441,
+      "\r[19/19] Extracting samba36-3.6.25:  24%"
+    ],
+    [
+      0.099283,
+      "\r[19/19] Extracting samba36-3.6.25:  25%"
+    ],
+    [
+      0.001722,
+      "\r[19/19] Extracting samba36-3.6.25:  26%"
+    ],
+    [
+      0.002151,
+      "\r[19/19] Extracting samba36-3.6.25:  27%"
+    ],
+    [
+      0.003420,
+      "\r[19/19] Extracting samba36-3.6.25:  28%"
+    ],
+    [
+      0.002147,
+      "\r[19/19] Extracting samba36-3.6.25:  29%"
+    ],
+    [
+      0.002605,
+      "\r[19/19] Extracting samba36-3.6.25:  30%"
+    ],
+    [
+      0.010758,
+      "\r[19/19] Extracting samba36-3.6.25:  31%"
+    ],
+    [
+      0.002098,
+      "\r[19/19] Extracting samba36-3.6.25:  32%"
+    ],
+    [
+      0.002134,
+      "\r[19/19] Extracting samba36-3.6.25:  33%"
+    ],
+    [
+      0.003107,
+      "\r[19/19] Extracting samba36-3.6.25:  34%"
+    ],
+    [
+      0.001547,
+      "\r[19/19] Extracting samba36-3.6.25:  35%"
+    ],
+    [
+      0.002070,
+      "\r[19/19] Extracting samba36-3.6.25:  36%"
+    ],
+    [
+      0.003509,
+      "\r[19/19] Extracting samba36-3.6.25:  37%"
+    ],
+    [
+      0.001695,
+      "\r[19/19] Extracting samba36-3.6.25:  38%"
+    ],
+    [
+      0.001690,
+      "\r[19/19] Extracting samba36-3.6.25:  39%"
+    ],
+    [
+      0.003356,
+      "\r[19/19] Extracting samba36-3.6.25:  40%"
+    ],
+    [
+      0.075040,
+      "\r[19/19] Extracting samba36-3.6.25:  41%"
+    ],
+    [
+      0.010323,
+      "\r[19/19] Extracting samba36-3.6.25:  42%"
+    ],
+    [
+      0.027590,
+      "\r[19/19] Extracting samba36-3.6.25:  43%"
+    ],
+    [
+      0.002677,
+      "\r[19/19] Extracting samba36-3.6.25:  44%"
+    ],
+    [
+      0.002097,
+      "\r[19/19] Extracting samba36-3.6.25:  45%"
+    ],
+    [
+      0.003232,
+      "\r[19/19] Extracting samba36-3.6.25:  46%"
+    ],
+    [
+      0.002558,
+      "\r[19/19] Extracting samba36-3.6.25:  47%"
+    ],
+    [
+      0.002575,
+      "\r[19/19] Extracting samba36-3.6.25:  48%"
+    ],
+    [
+      0.008986,
+      "\r[19/19] Extracting samba36-3.6.25:  49%"
+    ],
+    [
+      0.002580,
+      "\r[19/19] Extracting samba36-3.6.25:  50%"
+    ],
+    [
+      0.002820,
+      "\r[19/19] Extracting samba36-3.6.25:  51%"
+    ],
+    [
+      0.007683,
+      "\r[19/19] Extracting samba36-3.6.25:  52%"
+    ],
+    [
+      0.002721,
+      "\r[19/19] Extracting samba36-3.6.25:  53%"
+    ],
+    [
+      0.002924,
+      "\r[19/19] Extracting samba36-3.6.25:  54%"
+    ],
+    [
+      0.004397,
+      "\r[19/19] Extracting samba36-3.6.25:  55%"
+    ],
+    [
+      0.002431,
+      "\r[19/19] Extracting samba36-3.6.25:  56%"
+    ],
+    [
+      0.002884,
+      "\r[19/19] Extracting samba36-3.6.25:  57%"
+    ],
+    [
+      0.004415,
+      "\r[19/19] Extracting samba36-3.6.25:  58%"
+    ],
+    [
+      0.002382,
+      "\r[19/19] Extracting samba36-3.6.25:  59%"
+    ],
+    [
+      0.002744,
+      "\r[19/19] Extracting samba36-3.6.25:  60%"
+    ],
+    [
+      0.004454,
+      "\r[19/19] Extracting samba36-3.6.25:  61%"
+    ],
+    [
+      0.002071,
+      "\r[19/19] Extracting samba36-3.6.25:  62%"
+    ],
+    [
+      0.003037,
+      "\r[19/19] Extracting samba36-3.6.25:  63%"
+    ],
+    [
+      0.003860,
+      "\r[19/19] Extracting samba36-3.6.25:  64%"
+    ],
+    [
+      0.002785,
+      "\r[19/19] Extracting samba36-3.6.25:  65%"
+    ],
+    [
+      0.002629,
+      "\r[19/19] Extracting samba36-3.6.25:  66%"
+    ],
+    [
+      0.008066,
+      "\r[19/19] Extracting samba36-3.6.25:  67%"
+    ],
+    [
+      0.002239,
+      "\r[19/19] Extracting samba36-3.6.25:  68%"
+    ],
+    [
+      0.002329,
+      "\r[19/19] Extracting samba36-3.6.25:  69%"
+    ],
+    [
+      0.005346,
+      "\r[19/19] Extracting samba36-3.6.25:  70%"
+    ],
+    [
+      0.002450,
+      "\r[19/19] Extracting samba36-3.6.25:  71%"
+    ],
+    [
+      0.002777,
+      "\r[19/19] Extracting samba36-3.6.25:  72%"
+    ],
+    [
+      0.021874,
+      "\r[19/19] Extracting samba36-3.6.25:  73%"
+    ],
+    [
+      0.007072,
+      "\r[19/19] Extracting samba36-3.6.25:  74%"
+    ],
+    [
+      0.006022,
+      "\r[19/19] Extracting samba36-3.6.25:  75%"
+    ],
+    [
+      0.043113,
+      "\r[19/19] Extracting samba36-3.6.25:  76%"
+    ],
+    [
+      0.002100,
+      "\r[19/19] Extracting samba36-3.6.25:  77%"
+    ],
+    [
+      0.005016,
+      "\r[19/19] Extracting samba36-3.6.25:  78%"
+    ],
+    [
+      0.003927,
+      "\r[19/19] Extracting samba36-3.6.25:  79%"
+    ],
+    [
+      0.005235,
+      "\r[19/19] Extracting samba36-3.6.25:  80%"
+    ],
+    [
+      0.002020,
+      "\r[19/19] Extracting samba36-3.6.25:  81%"
+    ],
+    [
+      0.003256,
+      "\r[19/19] Extracting samba36-3.6.25:  82%"
+    ],
+    [
+      0.003769,
+      "\r[19/19] Extracting samba36-3.6.25:  83%"
+    ],
+    [
+      0.002742,
+      "\r[19/19] Extracting samba36-3.6.25:  84%"
+    ],
+    [
+      0.007172,
+      "\r[19/19] Extracting samba36-3.6.25:  85%"
+    ],
+    [
+      0.002069,
+      "\r[19/19] Extracting samba36-3.6.25:  86%"
+    ],
+    [
+      0.004220,
+      "\r[19/19] Extracting samba36-3.6.25:  87%"
+    ],
+    [
+      0.003815,
+      "\r[19/19] Extracting samba36-3.6.25:  88%"
+    ],
+    [
+      0.002038,
+      "\r[19/19] Extracting samba36-3.6.25:  89%"
+    ],
+    [
+      0.092358,
+      "\r[19/19] Extracting samba36-3.6.25:  90%"
+    ],
+    [
+      0.007133,
+      "\r[19/19] Extracting samba36-3.6.25:  91%"
+    ],
+    [
+      0.001739,
+      "\r[19/19] Extracting samba36-3.6.25:  92%"
+    ],
+    [
+      0.004231,
+      "\r[19/19] Extracting samba36-3.6.25:  93%"
+    ],
+    [
+      0.003322,
+      "\r[19/19] Extracting samba36-3.6.25:  94%"
+    ],
+    [
+      0.003680,
+      "\r[19/19] Extracting samba36-3.6.25:  95%"
+    ],
+    [
+      0.002301,
+      "\r[19/19] Extracting samba36-3.6.25:  96%"
+    ],
+    [
+      0.010327,
+      "\r[19/19] Extracting samba36-3.6.25:  97%"
+    ],
+    [
+      0.002324,
+      "\r[19/19] Extracting samba36-3.6.25:  98%"
+    ],
+    [
+      0.001880,
+      "\r[19/19] Extracting samba36-3.6.25:  99%"
+    ],
+    [
+      0.000520,
+      "\r[19/19] Extracting samba36-3.6.25: 100%"
+    ],
+    [
+      0.000100,
+      "\r\n"
+    ],
+    [
+      1.582176,
+      "Message for python27-2.7.10:\r\n=====================================================================\r\n\r\nNote that some standard Python modules are provided as separate ports\r\nas they require additional dependencies. They are available as:\r\n\r\nbsddb           databases/py-bsddb\r\ngdbm            databases/py-gdbm\r\nsqlite3         databases/py-sqlite3\r\ntkinter         x11-toolkits/py-tkinter\r\n\r\n=====================================================================\r\nMessage for openldap-client-2.4.41:\r\n************************************************************\r\n\r\nThe OpenLDAP client package has been successfully installed.\r\n\r\nEdit\r\n  /usr/local/etc/openldap/ldap.conf\r\nto change the system-wide client defaults.\r\n\r\nTry `man ldap.conf' and visit the OpenLDAP FAQ-O-Matic at\r\n  http://www.OpenLDAP.org/faq/index.cgi?file=3\r\nfor more information.\r\n\r\n************************************************************\r\nMessage for gamin-0.1.10_8:\r\n===============================================================================\r\n\r\nGamin will only provide realtime notification of changes for at most n files,\r\nwhere n is the minimum value between (kern.maxfiles * 0.7) and\r\n(kern.maxfilesperproc - 200). Beyond that limit, files will be polled.\r\n\r\nIf you often open several large folders with Nautilus, you might want to\r\nincrease the kern.maxfiles tunable (you do not need to set\r\nkern.maxfilesperproc, since it is computed at boot time from kern.maxfiles).\r\n\r\nFor a typical desktop, add the following line to /boot/loader.conf, then\r\nreboot the system:\r\n\r\n    kern.maxfiles=\"25000\"\r\n\r\nThe behavior of gamin can be controlled via the various gaminrc files.\r\nSee http://www.gnome.org/~veillard/gamin/config.html on how to create\r\nthese files.  In particular, if you find gam_server is taking up too much\r\nCPU time polling for changes, something like the following may help\r\nin one of the gaminrc files:\r\n\r\n# reduce polling frequency to once per 10 seconds\r\n# for UFS file systems in order to lower CPU load\r\nfsset ufs poll 10\r\n\r\n===============================================================================\r\nMessage for samba36-3.6.25:\r\n===============================================================================\r\nSamba3 *package* now doesn't include ADS support due the portability problems\r\nwith Kerberos5 libraries on different installations. You need to compile the\r\nport yourself to get this functionality.\r\n\r\nFor additional hints and directions, please, look into the README.FreeBSD file.\r\n===============================================================================\r\n"
+    ],
+    [
+      2.671224,
+      "Hmm..."
+    ],
+    [
+      0.012620,
+      "  Looks like a unified diff to me...\r\n"
+    ],
+    [
+      0.000650,
+      "The text leading up to this was:\r\n"
+    ],
+    [
+      0.000438,
+      "--------------------------\r\n"
+    ],
+    [
+      0.000528,
+      "|--- fbegin.inc  2015-07-03 16:08:58.000000000 -0300\r\n"
+    ],
+    [
+      0.000461,
+      "|+++ fbegin.inc.patch  2015-07-03 16:09:50.000000000 -0300\r\n"
+    ],
+    [
+      0.000483,
+      "--------------------------\r\n"
+    ],
+    [
+      0.000972,
+      "Patching file fbegin.inc using Plan A...\r\n"
+    ],
+    [
+      0.000922,
+      "Hunk #1 succeeded at 150"
+    ],
+    [
+      0.000588,
+      " with fuzz 2"
+    ],
+    [
+      0.000530,
+      ".\r\n"
+    ],
+    [
+      0.014682,
+      "done\r\n"
+    ],
+    [
+      1.036406,
+      " \r\n"
+    ],
+    [
+      0.001215,
+      "Starting the pfSense developer shell"
+    ],
+    [
+      0.039922,
+      "."
+    ],
+    [
+      0.000215,
+      "."
+    ],
+    [
+      0.000140,
+      "."
+    ],
+    [
+      0.000283,
+      ".\r\n\r\n"
+    ],
+    [
+      0.058314,
+      "Installing package \"squid3\"...\r\n"
+    ],
+    [
+      0.000224,
+      "Trying to fetch package info..."
+    ],
+    [
+      2.397911,
+      " Done.\r\n"
+    ],
+    [
+      0.000613,
+      "\r\n"
+    ],
+    [
+      0.860531,
+      "\rBeginning package installation for squid3 ."
+    ],
+    [
+      1.864722,
+      " 100%"
+    ],
+    [
+      0.472789,
+      "\r\n"
+    ],
+    [
+      0.001411,
+      "\rInstalling squid3 and its dependencies."
+    ],
+    [
+      1.437651,
+      "   0%"
+    ],
+    [
+      0.390620,
+      "\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000231,
+      "   1%"
+    ],
+    [
+      0.590078,
+      "\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000319,
+      "   2%"
+    ],
+    [
+      0.343238,
+      "\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000362,
+      "   3%"
+    ],
+    [
+      0.563283,
+      "\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000440,
+      "   4%"
+    ],
+    [
+      0.525768,
+      "\u0008\u0008\u0008\u0008\u0008   5%"
+    ],
+    [
+      0.462600,
+      "\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000353,
+      "   6%"
+    ],
+    [
+      0.524552,
+      "\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.001592,
+      "   7%"
+    ],
+    [
+      0.443737,
+      "\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000373,
+      "   8%"
+    ],
+    [
+      0.443698,
+      "\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000400,
+      "   9%"
+    ],
+    [
+      0.480524,
+      "\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.001080,
+      "  10%"
+    ],
+    [
+      4.690166,
+      "\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000310,
+      "  20%"
+    ],
+    [
+      4.609218,
+      "\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000286,
+      "  30%"
+    ],
+    [
+      4.951947,
+      "\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000230,
+      "  40%"
+    ],
+    [
+      4.736823,
+      "\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000602,
+      "  50%"
+    ],
+    [
+      4.590878,
+      "\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000377,
+      "  60%"
+    ],
+    [
+      4.852744,
+      "\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000371,
+      "  70%"
+    ],
+    [
+      4.921024,
+      "\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000297,
+      "  80%"
+    ],
+    [
+      4.479565,
+      "\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000265,
+      "  90%"
+    ],
+    [
+      8.438576,
+      "\u0008\u0008\u0008\u0008\u0008 100%"
+    ],
+    [
+      24.717947,
+      "  70%"
+    ],
+    [
+      0.038342,
+      "\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000179,
+      " 100%"
+    ],
+    [
+      7.538280,
+      " 100%"
+    ],
+    [
+      11.673479,
+      "\rChecking Squid cache... One moment please..."
+    ],
+    [
+      0.000383,
+      "\rChecking if there is configuration to migrate... One moment please..."
+    ],
+    [
+      0.000413,
+      "\rWriting configuration... One moment please..."
+    ],
+    [
+      0.198791,
+      "\rCreating squid cache pools... One moment please..."
+    ],
+    [
+      0.433087,
+      "\rChecking for running processes... One moment please..."
+    ],
+    [
+      1.041448,
+      "\rChecking cache... One moment please..."
+    ],
+    [
+      0.036205,
+      "\rStarting... One moment please..."
+    ],
+    [
+      0.008275,
+      "\rReconfiguring filter... One moment please..."
+    ],
+    [
+      0.502070,
+      "\r\nDone.\r\n"
+    ],
+    [
+      0.154338,
+      " \r\n"
+    ],
+    [
+      0.001194,
+      "Starting the pfSense developer shell"
+    ],
+    [
+      0.040248,
+      "."
+    ],
+    [
+      0.000281,
+      "."
+    ],
+    [
+      0.000163,
+      "."
+    ],
+    [
+      0.001286,
+      ".\r\n\r\n"
+    ],
+    [
+      0.039782,
+      "Installing package \"squidGuard-devel\"...\r\nTrying to fetch package info..."
+    ],
+    [
+      1.724146,
+      " Done.\r\n\r\n"
+    ],
+    [
+      0.826551,
+      "\rBeginning package installation for squidGuard-devel ."
+    ],
+    [
+      1.647253,
+      " 100%"
+    ],
+    [
+      0.116410,
+      "\r\n"
+    ],
+    [
+      0.000367,
+      "\rInstalling squidGuard-devel and its dependencies."
+    ],
+    [
+      4.362942,
+      "   0%"
+    ],
+    [
+      0.293736,
+      "\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000345,
+      "   1%"
+    ],
+    [
+      0.782331,
+      "\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000242,
+      "   2%"
+    ],
+    [
+      0.562233,
+      "\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000197,
+      "   3%"
+    ],
+    [
+      0.517837,
+      "\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000242,
+      "   4%"
+    ],
+    [
+      0.429613,
+      "\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000289,
+      "   5%"
+    ],
+    [
+      0.405476,
+      "\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000684,
+      "   6%"
+    ],
+    [
+      0.331601,
+      "\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000195,
+      "   7%"
+    ],
+    [
+      0.336632,
+      "\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000265,
+      "   8%"
+    ],
+    [
+      0.400861,
+      "\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000200,
+      "   9%"
+    ],
+    [
+      0.305846,
+      "\u0008\u0008\u0008\u0008\u0008  10%"
+    ],
+    [
+      2.881078,
+      "\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000359,
+      "  20%"
+    ],
+    [
+      3.147676,
+      "\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.001326,
+      "  30%"
+    ],
+    [
+      2.902134,
+      "\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000367,
+      "  40%"
+    ],
+    [
+      2.956125,
+      "\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.002388,
+      "  50%"
+    ],
+    [
+      2.965987,
+      "\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.001246,
+      "  60%"
+    ],
+    [
+      3.013375,
+      "\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000224,
+      "  70%"
+    ],
+    [
+      3.165921,
+      "\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000290,
+      "  80%"
+    ],
+    [
+      2.925969,
+      "\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000387,
+      "  90%"
+    ],
+    [
+      3.039186,
+      "\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000421,
+      " 100%"
+    ],
+    [
+      15.279265,
+      " 100%"
+    ],
+    [
+      1.234865,
+      "  80%"
+    ],
+    [
+      0.040268,
+      "\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000255,
+      " 100%"
+    ],
+    [
+      7.897456,
+      "\r\nWarning: file_put_contents(/usr/pbi/squidguard-devel-amd64/etc/squidGuard/squidguard_conf.xml): failed to open stream: No such file or directory in /usr/local/pkg/squidguard.inc on line 1031\r\n"
+    ],
+    [
+      4.215831,
+      "\r\nDone.\r\n"
+    ],
+    [
+      0.571089,
+      "Hmm..."
+    ],
+    [
+      0.000657,
+      "  Looks like a unified diff to me...\r\n"
+    ],
+    [
+      0.000265,
+      "The text leading up to this was:\r\n"
+    ],
+    [
+      0.000190,
+      "--------------------------\r\n"
+    ],
+    [
+      0.000233,
+      "|diff --git a/config/squid3/34/squid.inc b/config/squid3/34/squid.inc\r\n"
+    ],
+    [
+      0.000224,
+      "|index 7155d56..d50381f 100755\r\n"
+    ],
+    [
+      0.001748,
+      "|--- a/config/squid3/34/squid.inc\r\n"
+    ],
+    [
+      0.000772,
+      "|+++ b/config/squid3/34/squid.inc\r\n--------------------------\r\n"
+    ],
+    [
+      0.000556,
+      "Patching file squid.inc using Plan A...\r\n"
+    ],
+    [
+      0.000405,
+      "Hunk #1 succeeded at 181"
+    ],
+    [
+      0.000143,
+      ".\r\n"
+    ],
+    [
+      0.000322,
+      "Hunk #2 succeeded at 730"
+    ],
+    [
+      0.000152,
+      ".\r\n"
+    ],
+    [
+      0.001352,
+      "Hunk #3 succeeded at 1181"
+    ],
+    [
+      0.000141,
+      ".\r\n"
+    ],
+    [
+      0.001092,
+      "Hunk #4 succeeded at 1811"
+    ],
+    [
+      0.000107,
+      ".\r\n"
+    ],
+    [
+      0.000155,
+      "Hunk #5 succeeded at 2011"
+    ],
+    [
+      0.000244,
+      ".\r\n"
+    ],
+    [
+      0.000082,
+      "Hunk #6 succeeded at 2044"
+    ],
+    [
+      0.000240,
+      ".\r\n"
+    ],
+    [
+      0.000166,
+      "Hunk #7 succeeded at 2068"
+    ],
+    [
+      0.000251,
+      ".\r\n"
+    ],
+    [
+      0.000163,
+      "Hunk #8 succeeded at 2084"
+    ],
+    [
+      0.000364,
+      ".\r\n"
+    ],
+    [
+      0.000048,
+      "Hunk #9 succeeded at 2100"
+    ],
+    [
+      0.001785,
+      ".\r\nHunk #10 succeeded at 2116.\r\nHunk #11 succeeded at 2137"
+    ],
+    [
+      0.000060,
+      ".\r\n"
+    ],
+    [
+      0.045693,
+      "Hmm..."
+    ],
+    [
+      0.000732,
+      "  The next patch looks like a unified diff to me...\r\n"
+    ],
+    [
+      0.001840,
+      "The text leading up to this was:\r\n--------------------------\r\n|diff --git a/config/squid3/34/squid_auth.xml b/config/squid3/34/squid_auth.xml\r\n|index 7f54b15..1ff0041 100755\r\n"
+    ],
+    [
+      0.000985,
+      "|--- a/config/squid3/34/squid_auth.xml\r\n|+++ b/config/squid3/34/squid_auth.xml\r\n--------------------------\r\nPatching file squid_auth.xml using Plan A...\r\n"
+    ],
+    [
+      0.000796,
+      "Hunk #1 succeeded at 112.\r\nHunk #2 succeeded at 168.\r\n"
+    ],
+    [
+      0.001450,
+      "done\r\n"
+    ],
+    [
+      0.235711,
+      "ELF ldconfig path: /lib /usr/lib /usr/lib/compat /usr/local/lib\r\n"
+    ],
+    [
+      0.041181,
+      "32-bit compatibility ldconfig path: /usr/lib32\r\n"
+    ],
+    [
+      0.010074,
+      "\u001b[0;1;33m[\u001b[0;1;37m2.2.3-RELEASE\u001b[0;1;33m]\u001b[0;1;33m\u001b[1m[\u001b[0;1;37mroot\u001b[0;1;31m@\u001b[0;1;37mpfSense.lab.mundounix\u001b[0;1;33m]\u001b[0;1;32m\u001b[m/root\u001b[0;1;33m\u001b[0;1;36m\u001b[0;1;31m:\u001b[0;0;0m "
+    ],
+    [
+      5.633358,
+      "^D\u0008\u0008"
+    ],
+    [
+      0.001440,
+      "exit\r\n"
+    ],
+    [
+      0.067979,
+      "*** Welcome to pfSense 2.2.3-RELEASE-pfSense (amd64) on pfSense ***\r\n"
+    ],
+    [
+      0.001104,
+      "\r\n WAN (wan)       -\u003e em0        -\u003e "
+    ],
+    [
+      0.000217,
+      "v4/DHCP4: 10.0.2.15/24"
+    ],
+    [
+      0.000617,
+      "\r\n LAN (lan)       -\u003e em1        -\u003e "
+    ],
+    [
+      0.000129,
+      "v4: 192.168.15.70/24"
+    ],
+    [
+      0.018596,
+      "\r\n"
+    ],
+    [
+      0.000213,
+      " 0) Logout (SSH only)                  9) pfTop\r\n"
+    ],
+    [
+      0.000140,
+      " 1) Assign Interfaces                 10) Filter Logs\r\n"
+    ],
+    [
+      0.000261,
+      " 2) Set interface(s) IP address       11) Restart webConfigurator\r\n"
+    ],
+    [
+      0.000136,
+      " 3) Reset webConfigurator password    12) pfSense Developer Shell\r\n"
+    ],
+    [
+      0.000272,
+      " 4) Reset to factory defaults         13) Upgrade from console\r\n"
+    ],
+    [
+      0.000066,
+      " 5) Reboot system                     14) Disable Secure Shell (sshd)\r\n"
+    ],
+    [
+      0.000196,
+      " 6) Halt system                       15) Restore recent configuration\r\n"
+    ],
+    [
+      0.000145,
+      " 7) Ping host                         16) Restart PHP-FPM\r\n"
+    ],
+    [
+      0.000325,
+      " 8) Shell\r\n  \r\n"
+    ],
+    [
+      0.000108,
+      "\r\n"
+    ],
+    [
+      0.000092,
+      "Enter an option: "
+    ],
+    [
+      1.662677,
+      "^D\u0008\u0008\r\n"
+    ],
+    [
+      0.135637,
+      "Connection to 192.168.15.70 closed.\r\r\n"
+    ],
+    [
+      1.161090,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.068657,
+      "\u001b]2;lgcosta@localhost: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.406347,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[21:15:40] \u001b[36mlgcosta\u001b[00m:\u001b[32m~\u001b[00m $ \u001b[K"
+    ],
+    [
+      0.020606,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.390147,
+      "e"
+    ],
+    [
+      0.240130,
+      "\u0008ex"
+    ],
+    [
+      0.080004,
+      "i"
+    ],
+    [
+      0.176007,
+      "t"
+    ],
+    [
+      0.257399,
+      "\u001b[?1l\u001b\u003e\r\r\n"
+    ],
+    [
+      0.584035,
+      "\u001b]2;exit\u0007\u001b]1;exit\u0007"
+    ]
+  ]
+}
