@@ -1,0 +1,5982 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 27,
+  "duration": 127.846590,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.088035,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000390,
+      "\u001b]2;stuxnet@Botnet: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.044820,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m stuxnet \u001b[44m\u001b[30m\u001b[30m ~ \u001b[49m\u001b[34m\u001b[39m "
+    ],
+    [
+      0.000013,
+      "\u001b[K"
+    ],
+    [
+      0.000037,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.974936,
+      "h"
+    ],
+    [
+      0.093639,
+      "\u0008he"
+    ],
+    [
+      0.128048,
+      "r"
+    ],
+    [
+      0.099742,
+      "e"
+    ],
+    [
+      0.171295,
+      " "
+    ],
+    [
+      0.242323,
+      "t"
+    ],
+    [
+      0.415293,
+      "\u0008 \u0008"
+    ],
+    [
+      0.275528,
+      "i"
+    ],
+    [
+      0.104395,
+      "s"
+    ],
+    [
+      0.147498,
+      " "
+    ],
+    [
+      0.162883,
+      "t"
+    ],
+    [
+      0.081414,
+      "h"
+    ],
+    [
+      0.094895,
+      "e"
+    ],
+    [
+      0.104035,
+      " "
+    ],
+    [
+      0.446925,
+      "s"
+    ],
+    [
+      0.099790,
+      "a"
+    ],
+    [
+      0.080048,
+      "m"
+    ],
+    [
+      0.209718,
+      "p"
+    ],
+    [
+      0.173205,
+      "l"
+    ],
+    [
+      0.085578,
+      "e"
+    ],
+    [
+      0.132814,
+      " "
+    ],
+    [
+      1.117466,
+      "t"
+    ],
+    [
+      0.112296,
+      "h"
+    ],
+    [
+      0.080731,
+      "e"
+    ],
+    [
+      0.113975,
+      " "
+    ],
+    [
+      0.974506,
+      "\u0008"
+    ],
+    [
+      0.274967,
+      "m"
+    ],
+    [
+      0.099614,
+      "e"
+    ],
+    [
+      0.147080,
+      " "
+    ],
+    [
+      0.201935,
+      "f"
+    ],
+    [
+      0.181591,
+      "o"
+    ],
+    [
+      0.094883,
+      "r"
+    ],
+    [
+      0.178671,
+      " "
+    ],
+    [
+      0.647105,
+      "t"
+    ],
+    [
+      0.113784,
+      "h"
+    ],
+    [
+      0.153615,
+      "a"
+    ],
+    [
+      0.419019,
+      "\u0008 \u0008"
+    ],
+    [
+      0.099631,
+      "e"
+    ],
+    [
+      0.142669,
+      " "
+    ],
+    [
+      0.430839,
+      "a"
+    ],
+    [
+      0.325765,
+      "g"
+    ],
+    [
+      0.897572,
+      "n"
+    ],
+    [
+      0.196074,
+      "o"
+    ],
+    [
+      0.142479,
+      "s"
+    ],
+    [
+      0.608634,
+      "t"
+    ],
+    [
+      0.177028,
+      "e"
+    ],
+    [
+      0.118355,
+      "r"
+    ],
+    [
+      0.137793,
+      " "
+    ],
+    [
+      0.653541,
+      "t"
+    ],
+    [
+      0.167918,
+      "h"
+    ],
+    [
+      0.066430,
+      "e"
+    ],
+    [
+      0.172944,
+      "m"
+    ],
+    [
+      0.133074,
+      "e"
+    ],
+    [
+      0.151946,
+      " "
+    ],
+    [
+      0.498474,
+      "f"
+    ],
+    [
+      0.113530,
+      "o"
+    ],
+    [
+      0.123498,
+      "r"
+    ],
+    [
+      0.128113,
+      " "
+    ],
+    [
+      1.651262,
+      "o"
+    ],
+    [
+      0.260557,
+      "h"
+    ],
+    [
+      0.276976,
+      "-"
+    ],
+    [
+      0.227914,
+      "m"
+    ],
+    [
+      1.221402,
+      "y"
+    ],
+    [
+      0.632237,
+      "-"
+    ],
+    [
+      0.407290,
+      "z"
+    ],
+    [
+      0.133038,
+      "s"
+    ],
+    [
+      0.174916,
+      "h"
+    ],
+    [
+      0.509290,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000097,
+      "\r"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.001000,
+      "\u001b]2;here is the sample theme for the agnoster theme for oh-my-zsh\u0007"
+    ],
+    [
+      0.000275,
+      "\u001b]1;here\u0007"
+    ],
+    [
+      0.001061,
+      "zsh: command not found: here\r\n"
+    ],
+    [
+      0.000436,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000185,
+      "\u001b]2;stuxnet@Botnet: ~\u0007"
+    ],
+    [
+      0.000052,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.077500,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m \u001b[31m✘\u001b[40m\u001b[39m stuxnet \u001b[44m\u001b[30m\u001b[30m ~ \u001b[49m\u001b[34m\u001b[39m \u001b[K"
+    ],
+    [
+      0.000017,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.664624,
+      "c"
+    ],
+    [
+      0.142550,
+      "\u0008cl"
+    ],
+    [
+      0.197206,
+      "e"
+    ],
+    [
+      0.080903,
+      "a"
+    ],
+    [
+      0.052107,
+      "r"
+    ],
+    [
+      0.186154,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000046,
+      "\r\r\n"
+    ],
+    [
+      0.000517,
+      "\u001b]2;clear\u0007"
+    ],
+    [
+      0.000010,
+      "\u001b]1;clear\u0007"
+    ],
+    [
+      0.002458,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.000120,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000054,
+      "\u001b]2;stuxnet@Botnet: ~\u0007"
+    ],
+    [
+      0.000016,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.039373,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m stuxnet \u001b[44m\u001b[30m\u001b[30m ~ \u001b[49m\u001b[34m\u001b[39m \u001b[K"
+    ],
+    [
+      0.000012,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.252130,
+      "c"
+    ],
+    [
+      0.066358,
+      "\u0008cd"
+    ],
+    [
+      0.118814,
+      " "
+    ],
+    [
+      0.335077,
+      "D"
+    ],
+    [
+      0.170190,
+      "o"
+    ],
+    [
+      0.161506,
+      "c"
+    ],
+    [
+      0.071045,
+      "\u001b[31m......\u001b[0m"
+    ],
+    [
+      0.016407,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m stuxnet \u001b[44m\u001b[30m\u001b[30m ~ \u001b[49m\u001b[34m\u001b[39m cd Documents\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.857989,
+      "\u0008\u001b[0m/d"
+    ],
+    [
+      0.313922,
+      "\u001b[31m......\u001b[0m"
+    ],
+    [
+      0.015106,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m stuxnet \u001b[44m\u001b[30m\u001b[30m ~ \u001b[49m\u001b[34m\u001b[39m cd Documents/d\u001b[K"
+    ],
+    [
+      0.000011,
+      "\r\r\n"
+    ],
+    [
+      0.000139,
+      "\u001b[1;31mCixin\\ Liu\\ -\\ The\\ Three\\ Body\\ Problem\\ \u001b[0m/\r\n\u001b[1;31mlearncodethehardway\u001b[0m/                       \r\n\u001b[J\u001b[1;31mpdf\u001b[0m/                                       \u001b[J\u001b[3A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[15Ccd Documents/d\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m"
+    ],
+    [
+      0.961721,
+      "\u001b[31m......\u001b[0m"
+    ],
+    [
+      0.016479,
+      "\u0008Cixin\\ Liu\\ -\\ The\\ Three\\ Body\\ Problem\\ \u001b[1m/\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\r\r\n"
+    ],
+    [
+      0.000098,
+      "\u001b[7mCixin\\ Liu\\ -\\ The\\ Three\\ Body\\ Problem\\ /\u001b[0m\u001b[K"
+    ],
+    [
+      0.000007,
+      "\r\n\u001b[1;31mlearncodethehardway\u001b[0m/                       \u001b[K\r\n\u001b[J\u001b[1;31mpdf\u001b[0m/                                       \u001b[J\u001b[3A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[15C"
+    ],
+    [
+      0.000024,
+      "cd Documents/Cixin\\ Liu\\ -\\ The\\ Three\\ Body\\ Problem\\ \u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m"
+    ],
+    [
+      0.198019,
+      "\r"
+    ],
+    [
+      0.000040,
+      "\r\n"
+    ],
+    [
+      0.000237,
+      "\u001b[7mCixin\\ Liu\\ -\\ The\\ Three\\ Body\\ Problem\\ /\u001b[0m\r\u001b[7mCixin\\ Liu\\ -\\ The\\ Three\\ Body\\ Problem\\ /\u001b[0m\r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[15C"
+    ],
+    [
+      0.000070,
+      "cd Documents/Cixin\\ Liu\\ -\\ The\\ Three\\ Body\\ Problem\\ \u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m"
+    ],
+    [
+      0.000225,
+      "\u001b[43Dlearncodethehardway\u001b[1m/\u001b[0m                      \u001b[0m \u001b[23D"
+    ],
+    [
+      0.000053,
+      "\r"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000184,
+      "\u001b[1;31mCixin\\ Liu\\ -\\ The\\ Three\\ Body\\ Problem\\ \u001b[0m/\r\u001b[1B\u001b[7mlearncodethehardway/                       \u001b[0m\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[15C"
+    ],
+    [
+      0.000065,
+      "cd Documents/learncodethehardway\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m"
+    ],
+    [
+      0.532114,
+      "\u001b[20Dpdf\u001b[1m/\u001b[0m               \u001b[0m \u001b[16D"
+    ],
+    [
+      0.000019,
+      "\r\r\n"
+    ],
+    [
+      0.000103,
+      "\u001b[1B\u001b[1;31mlearncodethehardway\u001b[0m/                       \r\u001b[1B\u001b[7mpdf/                                       \u001b[0m\r\u001b[3A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[15C"
+    ],
+    [
+      0.000032,
+      "cd Documents/pdf\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m"
+    ],
+    [
+      0.374269,
+      "\u0008\u0008\u0008\u0008Cix\u001b[0min\\ Liu\\ -\\ The\\ Three\\ Body\\ Problem\\ \u001b[1m/\u001b[0m"
+    ],
+    [
+      0.000057,
+      "\r"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000176,
+      "\u001b[7mCixin\\ Liu\\ -\\ The\\ Three\\ Body\\ Problem\\ /\u001b[0m\r\u001b[2B\u001b[1;31mpdf\u001b[0m/                                       \r\u001b[3A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[15C"
+    ],
+    [
+      0.000037,
+      "cd Documents/Cixin\\ Liu\\ -\\ The\\ Three\\ Body\\ Problem\\ \u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m"
+    ],
+    [
+      0.259367,
+      "\u001b[43Dlearncodethehardway\u001b[1m/\u001b[0m                      \u001b[0m \u001b[23D"
+    ],
+    [
+      0.000017,
+      "\r\r\n"
+    ],
+    [
+      0.000098,
+      "\u001b[1;31mCixin\\ Liu\\ -\\ The\\ Three\\ Body\\ Problem\\ \u001b[0m/\r\u001b[1B\u001b[7mlearncodethehardway/                       \u001b[0m\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[15C"
+    ],
+    [
+      0.000013,
+      "cd Documents/learncodethehardway\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m"
+    ],
+    [
+      0.585872,
+      "\u001b[20Dpdf\u001b[1m/\u001b[0m               \u001b[0m \u001b[16D"
+    ],
+    [
+      0.000019,
+      "\r\r\n"
+    ],
+    [
+      0.000068,
+      "\u001b[1B\u001b[1;31mlearncodethehardway\u001b[0m/                       \r\u001b[1B\u001b[7mpdf/                                       \u001b[0m\r\u001b[3A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[15C"
+    ],
+    [
+      0.000015,
+      "cd Documents/pdf\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m"
+    ],
+    [
+      1.238020,
+      "\u0007"
+    ],
+    [
+      0.000177,
+      "\r\r\r\r\n\u001b[J\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m stuxnet \u001b[44m\u001b[30m\u001b[30m ~ \u001b[49m\u001b[34m\u001b[39m "
+    ],
+    [
+      0.000011,
+      "cd Documents/d\u001b[K"
+    ],
+    [
+      0.715932,
+      "\u0008 \u0008"
+    ],
+    [
+      0.383665,
+      "d"
+    ],
+    [
+      0.437277,
+      "\u0008 \u0008"
+    ],
+    [
+      0.748480,
+      "P"
+    ],
+    [
+      0.207120,
+      "\u001b[31m......\u001b[0m"
+    ],
+    [
+      0.008238,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m stuxnet \u001b[44m\u001b[30m\u001b[30m ~ \u001b[49m\u001b[34m\u001b[39m cd Documents/P\u001b[K"
+    ],
+    [
+      0.000016,
+      "\r\r\n"
+    ],
+    [
+      0.000033,
+      "\u001b[J\u001b[1;31mpdf\u001b[0m/       \u001b[J\u001b[1;31mProjects\u001b[0m/\u001b[J\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[15C"
+    ],
+    [
+      0.000011,
+      "cd Documents/P\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m"
+    ],
+    [
+      0.701369,
+      "\u001b[31m......\u001b[0m"
+    ],
+    [
+      0.006402,
+      "\u0008pdf\u001b[1m/\u001b[0m\r"
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.000049,
+      "\u001b[J\u001b[7mpdf/     \u001b[0m  \u001b[J\u001b[1;31mProjects\u001b[0m/\u001b[J\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[15C"
+    ],
+    [
+      0.000044,
+      "cd Documents/pdf\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m"
+    ],
+    [
+      0.670505,
+      "\r\r\n"
+    ],
+    [
+      0.000127,
+      "\u001b[7mpdf/     \u001b[0m  \r\u001b[7mpdf/     \u001b[0m  \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[15C"
+    ],
+    [
+      0.000013,
+      "cd Documents/pdf\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m"
+    ],
+    [
+      0.000073,
+      "\u0008\u0008\u0008\u0008Pro\u001b[0mjects\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\r\n"
+    ],
+    [
+      0.000061,
+      "\u001b[11C\u001b[7mProjects/\u001b[0m\r\u001b[1;31mpdf\u001b[0m/       \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[15Ccd Documents/Projects\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m"
+    ],
+    [
+      0.287496,
+      "\r\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[J\u001b[A\u001b[37C"
+    ],
+    [
+      0.000070,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m stuxnet \u001b[44m\u001b[30m\u001b[30m ~ \u001b[49m\u001b[34m\u001b[39m "
+    ],
+    [
+      0.000008,
+      "cd Documents/Projects\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.574942,
+      "\u001b[31m......\u001b[0m"
+    ],
+    [
+      0.010799,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m stuxnet \u001b[44m\u001b[30m\u001b[30m ~ \u001b[49m\u001b[34m\u001b[39m "
+    ],
+    [
+      0.000027,
+      "cd Documents/Projects/\u001b[K"
+    ],
+    [
+      0.000017,
+      "\r\r\n"
+    ],
+    [
+      0.000214,
+      "\u001b[1;31mdinosaurfiles.github.io\u001b[0m/  \u001b[1;31mjekylltheme\u001b[0m/              \u001b[1;31mThinny\u001b[0m/                 \r\n\u001b[1;31mghost\u001b[0m/                    \u001b[1;31mlagom\u001b[0m/                    \u001b[1;31myoutube-dl\u001b[0m/             \r\n"
+    ],
+    [
+      0.000024,
+      "\u001b[J\u001b[1;31mhexoblog\u001b[0m/                 \u001b[J\u001b[1;31mProjectDamon\u001b[0m/             \u001b[J                        \u001b[3A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[15Ccd Documents/Projects/\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m"
+    ],
+    [
+      0.166972,
+      "\u001b[31m......\u001b[0m"
+    ],
+    [
+      0.008565,
+      "dinosaurfiles.github.io\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.000019,
+      "\r\r\n"
+    ],
+    [
+      0.000202,
+      "\u001b[7mdinosaurfiles.github.io/\u001b[0m  \u001b[1;31mjekylltheme\u001b[0m/              \u001b[1;31mThinny\u001b[0m/                 \u001b[K\r\n\u001b[1;31mghost\u001b[0m/                    \u001b[1;31mlagom\u001b[0m/                    \u001b[1;31myoutube-dl\u001b[0m/             \u001b[K\r\n\u001b[J\u001b[1;31mhexoblog\u001b[0m/                 \u001b[J\u001b[1;31mProjectDamon\u001b[0m/             \u001b[J                        \u001b[3A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[15C"
+    ],
+    [
+      0.000020,
+      "cd Documents/Projects/dinosaurfiles.github.io\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m"
+    ],
+    [
+      0.822183,
+      "\r"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000047,
+      "\u001b[7mdinosaurfiles.github.io/\u001b[0m  \r\u001b[7mdinosaurfiles.github.io/\u001b[0m  \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[15C"
+    ],
+    [
+      0.000009,
+      "cd Documents/Projects/dinosaurfiles.github.io\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m"
+    ],
+    [
+      0.000060,
+      "\u001b[24Djekylltheme\u001b[1m/\u001b[0m           \u001b[0m \u001b[12D"
+    ],
+    [
+      0.000009,
+      "\r\r\n"
+    ],
+    [
+      0.000049,
+      "\u001b[26C\u001b[7mjekylltheme/            \u001b[0m  \r\u001b[1;31mdinosaurfiles.github.io\u001b[0m/  \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[15Ccd Documents/Projects/jekylltheme\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m"
+    ],
+    [
+      0.431416,
+      "\u001b[12Dlagom\u001b[1m/\u001b[0m     \u001b[0m \u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000012,
+      "\r\r\n"
+    ],
+    [
+      0.000035,
+      "\u001b[26C\u001b[1;31mjekylltheme\u001b[0m/              \r\u001b[1B\u001b[26C\u001b[7mlagom/                  \u001b[0m  \r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[15C"
+    ],
+    [
+      0.000035,
+      "cd Documents/Projects/lagom\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m"
+    ],
+    [
+      0.187542,
+      "\u0008\u0008\u0008\u0008\u0008\u0008Proje\u001b[0mctDamon\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\r\n"
+    ],
+    [
+      0.000063,
+      "\u001b[1B\u001b[26C\u001b[1;31mlagom\u001b[0m/                    \r\u001b[1B\u001b[26C\u001b[7mProjectDamon/           \u001b[0m\r\u001b[3A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[15C"
+    ],
+    [
+      0.000017,
+      "cd Documents/Projects/ProjectDamon\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m"
+    ],
+    [
+      0.075968,
+      "\u001b[13Dhexoblog\u001b[1m/\u001b[0m   \u001b[0m \u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000011,
+      "\r\r\n"
+    ],
+    [
+      0.000066,
+      "\u001b[2B\u001b[7mhexoblog/               \u001b[0m  \r\u001b[26C\u001b[1;31mProjectDamon\u001b[0m/           \r\u001b[3A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[15C"
+    ],
+    [
+      0.000008,
+      "cd Documents/Projects/hexoblog\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m"
+    ],
+    [
+      0.297942,
+      "\u001b[9Dyoutube-\u001b[0mdl\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.000015,
+      "\r\r\n"
+    ],
+    [
+      0.000086,
+      "\u001b[1B\u001b[52C\u001b[7myoutube-dl/             \u001b[0m\r\u001b[1B\u001b[1;31mhexoblog\u001b[0m/                 \r\u001b[3A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[15C"
+    ],
+    [
+      0.000012,
+      "cd Documents/Projects/youtube-dl\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m"
+    ],
+    [
+      0.100968,
+      "\u001b[11DThinny\u001b[1m/\u001b[0m   \u001b[0m \u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000013,
+      "\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000079,
+      "\u001b[52C\u001b[7mThinny/                 \u001b[0m\r\u001b[1B\u001b[52C\u001b[1;31myoutube-dl\u001b[0m/             \r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[15C"
+    ],
+    [
+      0.000018,
+      "cd Documents/Projects/Thinny\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m"
+    ],
+    [
+      0.137559,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008ghost\u001b[1m/\u001b[0m\u001b[0m \u0008"
+    ],
+    [
+      0.000098,
+      "\r"
+    ],
+    [
+      0.000061,
+      "\r\n"
+    ],
+    [
+      0.000271,
+      "\u001b[52C\u001b[1;31mThinny\u001b[0m/                 \r\u001b[1B\u001b[7mghost/                  \u001b[0m  \r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[15C"
+    ],
+    [
+      0.000021,
+      "cd Documents/Projects/ghost\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m"
+    ],
+    [
+      0.279081,
+      "\u0008\u0008\u0008\u0008\u0008\u0008Thinn\u001b[0my\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.000017,
+      "\r\r\n"
+    ],
+    [
+      0.000055,
+      "\u001b[52C\u001b[7mThinny/                 \u001b[0m\r\u001b[1B\u001b[1;31mghost\u001b[0m/                    \r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[15C"
+    ],
+    [
+      0.000018,
+      "cd Documents/Projects/Thinny\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m"
+    ],
+    [
+      0.623677,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008youtub\u001b[0me-dl\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.000021,
+      "\r\r\n"
+    ],
+    [
+      0.000094,
+      "\u001b[52C\u001b[1;31mThinny\u001b[0m/                 \r\u001b[1B\u001b[52C\u001b[7myoutube-dl/             \u001b[0m\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[15C"
+    ],
+    [
+      0.000015,
+      "cd Documents/Projects/youtube-dl\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m"
+    ],
+    [
+      0.230685,
+      "\u001b[11Dlagom\u001b[1m/\u001b[0m    \u001b[0m \u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000021,
+      "\r\r\n"
+    ],
+    [
+      0.000116,
+      "\u001b[1B\u001b[26C\u001b[7mlagom/                  \u001b[0m  \r\u001b[52C\u001b[1;31myoutube-dl\u001b[0m/             \r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[15C"
+    ],
+    [
+      0.000023,
+      "cd Documents/Projects/lagom\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m"
+    ],
+    [
+      0.592245,
+      "\u0008\u0008\u0008\u0008\u0008\u0008youtu\u001b[0mbe-dl\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.000013,
+      "\r\r\n"
+    ],
+    [
+      0.000079,
+      "\u001b[1B\u001b[52C\u001b[7myoutube-dl/             \u001b[0m\r\u001b[26C\u001b[1;31mlagom\u001b[0m/                    \r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[15Ccd Documents/Projects/youtube-dl\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m"
+    ],
+    [
+      0.327737,
+      "\r"
+    ],
+    [
+      0.000023,
+      "\r\n\u001b[J\u001b[A\u001b[48C"
+    ],
+    [
+      0.000205,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m stuxnet \u001b[44m\u001b[30m\u001b[30m ~ \u001b[49m\u001b[34m\u001b[39m "
+    ],
+    [
+      0.000038,
+      "cd Documents/Projects/youtube-dl\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      1.118928,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000074,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000127,
+      "\r\r\n"
+    ],
+    [
+      0.000915,
+      "\u001b]2;cd Documents/Projects/youtube-dl\u0007"
+    ],
+    [
+      0.000281,
+      "\u001b]1;cd\u0007"
+    ],
+    [
+      0.000251,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000164,
+      "\u001b]2;stuxnet@Botnet: ~/Documents/Projects/youtube-dl\u0007"
+    ],
+    [
+      0.000083,
+      "\u001b]1;..ts/youtube-dl\u0007"
+    ],
+    [
+      1.458044,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m stuxnet \u001b[44m\u001b[30m\u001b[30m ~/Documents/Projects/youtube-dl \u001b[42m\u001b[34m\u001b[30m  master \u001b[49m\u001b[32m\u001b[39m \u001b[K"
+    ],
+    [
+      0.000040,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.621858,
+      "l"
+    ],
+    [
+      0.148133,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000091,
+      "\r"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000836,
+      "\u001b]2;ls -h --color=auto -CF\u0007"
+    ],
+    [
+      0.000335,
+      "\u001b]1;l\u0007"
+    ],
+    [
+      0.002674,
+      "AUTHORS          \u001b[0m\u001b[01;34mdevscripts\u001b[0m/  Makefile     setup.cfg  tox.ini\r\n\u001b[01;34mbin\u001b[0m/             \u001b[01;34mdocs\u001b[0m/        MANIFEST.in  setup.py   \u001b[01;34myoutube_dl\u001b[0m/"
+    ],
+    [
+      0.000018,
+      "\r\nCONTRIBUTING.md  LICENSE      README.md    \u001b[01;34mtest\u001b[0m/      youtube-dl.plugin.zsh\r\n"
+    ],
+    [
+      0.000436,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000155,
+      "\u001b]2;stuxnet@Botnet: ~/Documents/Projects/youtube-dl\u0007"
+    ],
+    [
+      0.000077,
+      "\u001b]1;..ts/youtube-dl\u0007"
+    ],
+    [
+      0.075760,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m stuxnet \u001b[44m\u001b[30m\u001b[30m ~/Documents/Projects/youtube-dl \u001b[42m\u001b[34m\u001b[30m  master \u001b[49m\u001b[32m\u001b[39m \u001b[K"
+    ],
+    [
+      0.000021,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.505458,
+      "s"
+    ],
+    [
+      0.228489,
+      "\u0008se"
+    ],
+    [
+      0.163939,
+      "e"
+    ],
+    [
+      0.183178,
+      " "
+    ],
+    [
+      0.230777,
+      "t"
+    ],
+    [
+      0.210538,
+      "h"
+    ],
+    [
+      0.056967,
+      "e"
+    ],
+    [
+      1.207826,
+      " "
+    ],
+    [
+      3.146389,
+      "p"
+    ],
+    [
+      0.215732,
+      "l"
+    ],
+    [
+      0.410412,
+      "u"
+    ],
+    [
+      0.595293,
+      "\u0008 \u0008"
+    ],
+    [
+      0.150728,
+      "\u0008 \u0008"
+    ],
+    [
+      0.146973,
+      "\u0008 \u0008"
+    ],
+    [
+      0.373209,
+      "g"
+    ],
+    [
+      0.499898,
+      "t"
+    ],
+    [
+      0.033366,
+      "i"
+    ],
+    [
+      0.486980,
+      "\u0008 \u0008"
+    ],
+    [
+      0.276651,
+      "\u0008 \u0008"
+    ],
+    [
+      0.334598,
+      "i"
+    ],
+    [
+      0.090326,
+      "t"
+    ],
+    [
+      0.099546,
+      " "
+    ],
+    [
+      0.081147,
+      "p"
+    ],
+    [
+      0.312266,
+      "l"
+    ],
+    [
+      0.289104,
+      "u"
+    ],
+    [
+      0.094910,
+      "g"
+    ],
+    [
+      0.110146,
+      "i"
+    ],
+    [
+      0.148186,
+      "n"
+    ],
+    [
+      0.488487,
+      "?"
+    ],
+    [
+      0.628700,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000172,
+      "\r\r\n"
+    ],
+    [
+      0.000788,
+      "\u001b]2;see the git plugin?\u0007"
+    ],
+    [
+      0.000015,
+      "\u001b]1;see\u0007"
+    ],
+    [
+      0.000792,
+      "zsh: no matches found: plugin?\r\n"
+    ],
+    [
+      0.000531,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000110,
+      "\u001b]2;stuxnet@Botnet: ~/Documents/Projects/youtube-dl\u0007"
+    ],
+    [
+      0.000064,
+      "\u001b]1;..ts/youtube-dl\u0007"
+    ],
+    [
+      0.073750,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m \u001b[31m✘\u001b[40m\u001b[39m stuxnet \u001b[44m\u001b[30m\u001b[30m ~/Documents/Projects/youtube-dl \u001b[42m\u001b[34m\u001b[30m  master \u001b[49m\u001b[32m\u001b[39m \u001b[K"
+    ],
+    [
+      0.000029,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.766041,
+      "c"
+    ],
+    [
+      0.185103,
+      "\u0008cl"
+    ],
+    [
+      0.117353,
+      "e"
+    ],
+    [
+      0.094847,
+      "a"
+    ],
+    [
+      0.090246,
+      "r"
+    ],
+    [
+      0.197708,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000069,
+      "\r"
+    ],
+    [
+      0.000032,
+      "\r\n"
+    ],
+    [
+      0.000947,
+      "\u001b]2;clear\u0007"
+    ],
+    [
+      0.000078,
+      "\u001b]1;clear\u0007"
+    ],
+    [
+      0.001596,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.000218,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000150,
+      "\u001b]2;stuxnet@Botnet: ~/Documents/Projects/youtube-dl\u0007"
+    ],
+    [
+      0.000057,
+      "\u001b]1;..ts/youtube-dl\u0007"
+    ],
+    [
+      0.077520,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m stuxnet \u001b[44m\u001b[30m\u001b[30m ~/Documents/Projects/youtube-dl \u001b[42m\u001b[34m\u001b[30m  master \u001b[49m\u001b[32m\u001b[39m \u001b[K"
+    ],
+    [
+      0.000019,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.759279,
+      "n"
+    ],
+    [
+      0.190554,
+      "\u0008no"
+    ],
+    [
+      0.080740,
+      "w"
+    ],
+    [
+      0.146891,
+      " "
+    ],
+    [
+      0.147360,
+      "w"
+    ],
+    [
+      0.147231,
+      "e"
+    ],
+    [
+      0.394492,
+      " "
+    ],
+    [
+      0.345611,
+      "m"
+    ],
+    [
+      0.142366,
+      "a"
+    ],
+    [
+      0.162940,
+      "k"
+    ],
+    [
+      0.075569,
+      "e"
+    ],
+    [
+      0.175869,
+      " "
+    ],
+    [
+      0.187877,
+      "a"
+    ],
+    [
+      0.188553,
+      " "
+    ],
+    [
+      1.011049,
+      "c"
+    ],
+    [
+      1.016959,
+      "\u0008 \u0008"
+    ],
+    [
+      0.575747,
+      "c"
+    ],
+    [
+      0.220364,
+      "h"
+    ],
+    [
+      0.075934,
+      "a"
+    ],
+    [
+      0.158346,
+      "n"
+    ],
+    [
+      0.162460,
+      "g"
+    ],
+    [
+      0.099587,
+      "e"
+    ],
+    [
+      0.089917,
+      " "
+    ],
+    [
+      0.425161,
+      "a"
+    ],
+    [
+      0.099696,
+      "n"
+    ],
+    [
+      0.515905,
+      "d \r\u001b[K"
+    ],
+    [
+      0.137671,
+      " "
+    ],
+    [
+      0.144106,
+      "\r s"
+    ],
+    [
+      0.246993,
+      "e"
+    ],
+    [
+      0.168597,
+      "e"
+    ],
+    [
+      0.113918,
+      " "
+    ],
+    [
+      0.352193,
+      "h"
+    ],
+    [
+      0.187627,
+      "o"
+    ],
+    [
+      0.113988,
+      "w"
+    ],
+    [
+      0.152034,
+      " "
+    ],
+    [
+      0.143603,
+      "i"
+    ],
+    [
+      0.146484,
+      "t"
+    ],
+    [
+      0.118647,
+      " "
+    ],
+    [
+      0.393160,
+      "w"
+    ],
+    [
+      0.162929,
+      "o"
+    ],
+    [
+      0.109792,
+      "r"
+    ],
+    [
+      0.143905,
+      "k"
+    ],
+    [
+      0.113764,
+      "s"
+    ],
+    [
+      0.314479,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000130,
+      "\r\r\n"
+    ],
+    [
+      0.000973,
+      "\u001b]2;now we make a change and see how it works\u0007"
+    ],
+    [
+      0.000278,
+      "\u001b]1;now\u0007"
+    ],
+    [
+      0.001235,
+      "zsh: command not found: now\r\n"
+    ],
+    [
+      0.000628,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000283,
+      "\u001b]2;stuxnet@Botnet: ~/Documents/Projects/youtube-dl\u0007"
+    ],
+    [
+      0.000071,
+      "\u001b]1;..ts/youtube-dl\u0007"
+    ],
+    [
+      0.086609,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m \u001b[31m✘\u001b[40m\u001b[39m stuxnet \u001b[44m\u001b[30m\u001b[30m ~/Documents/Projects/youtube-dl \u001b[42m\u001b[34m\u001b[30m  master \u001b[49m\u001b[32m\u001b[39m "
+    ],
+    [
+      0.000013,
+      "\u001b[K"
+    ],
+    [
+      0.000027,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.672273,
+      "l"
+    ],
+    [
+      0.555115,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000111,
+      "\r"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000986,
+      "\u001b]2;ls -h --color=auto -CF\u0007"
+    ],
+    [
+      0.000347,
+      "\u001b]1;l\u0007"
+    ],
+    [
+      0.002991,
+      "AUTHORS          \u001b[0m\u001b[01;34mdevscripts\u001b[0m/  Makefile     setup.cfg  tox.ini"
+    ],
+    [
+      0.000024,
+      "\r\n\u001b[01;34mbin\u001b[0m/             \u001b[01;34mdocs\u001b[0m/        MANIFEST.in  setup.py   \u001b[01;34myoutube_dl\u001b[0m/\r\nCONTRIBUTING.md  LICENSE      README.md    \u001b[01;34mtest\u001b[0m/      youtube-dl.plugin.zsh"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000538,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000201,
+      "\u001b]2;stuxnet@Botnet: ~/Documents/Projects/youtube-dl\u0007"
+    ],
+    [
+      0.000060,
+      "\u001b]1;..ts/youtube-dl\u0007"
+    ],
+    [
+      0.099380,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m stuxnet \u001b[44m\u001b[30m\u001b[30m ~/Documents/Projects/youtube-dl \u001b[42m\u001b[34m\u001b[30m  master \u001b[49m\u001b[32m\u001b[39m \u001b[K"
+    ],
+    [
+      0.000031,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.315873,
+      "n"
+    ],
+    [
+      0.177908,
+      "\u0008na"
+    ],
+    [
+      0.024181,
+      "n"
+    ],
+    [
+      0.250434,
+      "\u001b[31m......\u001b[0m"
+    ],
+    [
+      0.033772,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m stuxnet \u001b[44m\u001b[30m\u001b[30m ~/Documents/Projects/youtube-dl \u001b[42m\u001b[34m\u001b[30m  master \u001b[49m\u001b[32m\u001b[39m nano\u001b[1m \u001b[0m\u001b[K"
+    ],
+    [
+      0.980508,
+      "\u0008\u001b[0m t"
+    ],
+    [
+      1.200082,
+      "\u0008 \u0008"
+    ],
+    [
+      2.132660,
+      "R"
+    ],
+    [
+      0.365838,
+      "E"
+    ],
+    [
+      0.317033,
+      "\u001b[31m......\u001b[0m"
+    ],
+    [
+      0.008673,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m stuxnet \u001b[44m\u001b[30m\u001b[30m ~/Documents/Projects/youtube-dl \u001b[42m\u001b[34m\u001b[30m  master \u001b[49m\u001b[32m\u001b[39m nano README.md\u001b[1m \u001b[0m\u001b[K"
+    ],
+    [
+      0.568215,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000040,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000061,
+      "\r\r\n"
+    ],
+    [
+      0.000596,
+      "\u001b]2;nano README.md\u0007"
+    ],
+    [
+      0.000010,
+      "\u001b]1;nano\u0007"
+    ],
+    [
+      0.012758,
+      "\u001b[?1049h\u001b[1;27r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000086,
+      "\u001b[?1h\u001b=\u001b[?1h\u001b=\u001b[?1h\u001b="
+    ],
+    [
+      0.004928,
+      "\u001b[39;49m\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J\u001b(B\u001b[0;7m  GNU nano 2.2.6              File: README.md                                   \u001b[3;1H\u001b(B\u001b[myoutube-dl - download videos from youtube.com or other video platforms\r\u001b[5d- [INSTALLATION](#installation)\r\u001b[6d- [DESCRIPTION](#description)\r\u001b[7d- [OPTIONS](#options)\r\u001b[8d- [CONFIGURATION](#configuration)\r\u001b[9d- [OUTPUT TEMPLATE](#output-template)\r\u001b[10d- [FORMAT SELECTION](#format-selection)\r\u001b[11d- [VIDEO SELECTION](#video-selection)\r\u001b[12d- [FAQ](#faq)\r\u001b[13d- [DEVELOPER INSTRUCTIONS](#developer-instructions)\r\u001b[14d- [BUGS](#bugs)\r\u001b[15d- [COPYRIGHT](#copyright)\r\u001b[17d# INSTALLATION\r\u001b[19dTo install it right away for all UNIX users (Linux, OS X, etc.), type:\u001b[21;5Hsudo curl https://yt-dl.org/latest/youtube-dl -o /usr/local/bin/youtube-dl\u001b[22;5Hsudo chmod a+rx /usr/local/bin/youtube-dl\r\u001b[24dIf you do not have curl, you can alternatively use a recent wget:\u001b[25;32H\u001b(B\u001b[0;7m[ Read 650 lines ]\r\u001b[26d^G\u001b(B\u001b[m Get Help  \u001b(B\u001b[0;7m^O\u001b(B\u001b[m WriteOut  \u001b(B\u001b[0;7m^R\u001b(B\u001b[m Read File \u001b(B\u001b[0;7m^Y\u001b(B\u001b[m Prev Page \u001b(B\u001b[0;7m^K\u001b(B\u001b[m Cut Text  \u001b(B\u001b[0;7m^C\u001b(B\u001b[m Cur Pos\r\u001b[27d\u001b(B\u001b[0;7m^X\u001b(B\u001b[m Exit\u001b[14G\u001b(B\u001b[0;7m^J\u001b(B\u001b[m Justify   \u001b(B\u001b[0;7m^W\u001b(B\u001b[m Where Is  \u001b(B\u001b[0;7m^V\u001b(B\u001b[m Next Page \u001b(B\u001b[0;7m^U\u001b(B\u001b[m UnCut Text\u001b(B\u001b[0;7m^T\u001b(B\u001b[m To Spell\r\u001b[3d"
+    ],
+    [
+      0.656624,
+      "\u001b[4d"
+    ],
+    [
+      0.206170,
+      "\u001b[5d"
+    ],
+    [
+      0.209271,
+      "\u001b[6d"
+    ],
+    [
+      0.160480,
+      "\u001b[A"
+    ],
+    [
+      0.163502,
+      "\u001b[A"
+    ],
+    [
+      0.144355,
+      "\u001b[A"
+    ],
+    [
+      1.059402,
+      "\u001b[2;24r\u001b[2;1H\u001bM\u001b[1;27r\u001b[1;71H\u001b(B\u001b[0;7mModified\r\u001b[4d\u001b(B\u001b[m"
+    ],
+    [
+      0.350814,
+      "\u001b[A"
+    ],
+    [
+      1.102001,
+      "#"
+    ],
+    [
+      0.896114,
+      "h"
+    ],
+    [
+      0.100228,
+      "e"
+    ],
+    [
+      0.110147,
+      "h"
+    ],
+    [
+      0.110397,
+      "e"
+    ],
+    [
+      0.066388,
+      "h"
+    ],
+    [
+      0.116812,
+      "e"
+    ],
+    [
+      0.047513,
+      "h"
+    ],
+    [
+      0.120190,
+      "e"
+    ],
+    [
+      0.024338,
+      "h"
+    ],
+    [
+      0.237646,
+      "e"
+    ],
+    [
+      0.042970,
+      "h"
+    ],
+    [
+      0.110160,
+      "e"
+    ],
+    [
+      0.470411,
+      "\r\u001b[25d\u001b(B\u001b[0;7mFile Name to Write: README.md                                                   \u001b[26;14H\u001b(B\u001b[m       \u001b(B\u001b[0;7mM-D\u001b(B\u001b[m DOS Format      \u001b(B\u001b[0;7mM-A\u001b(B\u001b[m Append          \u001b(B\u001b[0;7mM-B\u001b(B\u001b[m Backup File\u001b[27;2H\u001b(B\u001b[0;7mC\u001b(B\u001b[m Cancel           \u001b(B\u001b[0;7mM-M\u001b(B\u001b[m Mac Format      \u001b(B\u001b[0;7mM-P\u001b(B\u001b[m Prepend\u001b[K\u001b[25;30H"
+    ],
+    [
+      0.220649,
+      "\u001b[1;71H\u001b[39;49m\u001b(B\u001b[0;7m        \u001b[25;30H\u001b(B\u001b[m\u001b[1K \u001b(B\u001b[0;7m[ Wrote 651 lines ]\u001b(B\u001b[m\u001b[K\u001b[26;14H\u001b(B\u001b[0;7m^O\u001b(B\u001b[m WriteOut  \u001b(B\u001b[0;7m^R\u001b(B\u001b[m Read File \u001b(B\u001b[0;7m^Y\u001b(B\u001b[m Prev Page \u001b(B\u001b[0;7m^K\u001b(B\u001b[m Cut Text  \u001b(B\u001b[0;7m^C\u001b(B\u001b[m Cur Pos\u001b[27;2H\u001b(B\u001b[0;7mX\u001b(B\u001b[m Exit      \u001b(B\u001b[0;7m^J\u001b(B\u001b[m Justify   \u001b(B\u001b[0;7m^W\u001b(B\u001b[m Where Is  \u001b(B\u001b[0;7m^V\u001b(B\u001b[m Next Page \u001b(B\u001b[0;7m^U\u001b(B\u001b[m UnCut Text\u001b(B\u001b[0;7m^T\u001b(B\u001b[m To Spell\u001b[3;14H"
+    ],
+    [
+      1.079330,
+      "\r\u001b[26d\u001b[J\u001b[27;80H"
+    ],
+    [
+      0.000017,
+      "\u001b[27;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000488,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000159,
+      "\u001b]2;stuxnet@Botnet: ~/Documents/Projects/youtube-dl\u0007"
+    ],
+    [
+      0.000064,
+      "\u001b]1;..ts/youtube-dl\u0007"
+    ],
+    [
+      0.125345,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m stuxnet \u001b[44m\u001b[30m\u001b[30m ~/Documents/Projects/youtube-dl \u001b[43m\u001b[34m\u001b[30m  master ● \u001b[49m\u001b[33m\u001b[39m "
+    ],
+    [
+      0.000010,
+      "\u001b[K"
+    ],
+    [
+      0.000041,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.190107,
+      "s"
+    ],
+    [
+      0.189533,
+      "\u0008se"
+    ],
+    [
+      0.139091,
+      "e"
+    ],
+    [
+      0.147636,
+      " "
+    ],
+    [
+      0.222982,
+      "t"
+    ],
+    [
+      0.065990,
+      "h"
+    ],
+    [
+      0.139658,
+      "e"
+    ],
+    [
+      0.109637,
+      " "
+    ],
+    [
+      0.841250,
+      "d"
+    ],
+    [
+      0.226079,
+      "i"
+    ],
+    [
+      0.217186,
+      "f"
+    ],
+    [
+      0.164427,
+      "f"
+    ],
+    [
+      0.095070,
+      "e"
+    ],
+    [
+      0.203725,
+      "r"
+    ],
+    [
+      0.190041,
+      "e"
+    ],
+    [
+      0.209827,
+      "n"
+    ],
+    [
+      0.231004,
+      "c"
+    ],
+    [
+      0.118718,
+      "e"
+    ],
+    [
+      0.463080,
+      "?"
+    ],
+    [
+      0.685884,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000039,
+      "\r\r\n"
+    ],
+    [
+      0.000757,
+      "\u001b]2;see the difference?\u0007"
+    ],
+    [
+      0.000091,
+      "\u001b]1;see\u0007"
+    ],
+    [
+      0.001228,
+      "zsh: no matches found: difference?\r\n"
+    ],
+    [
+      0.000725,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000170,
+      "\u001b]2;stuxnet@Botnet: ~/Documents/Projects/youtube-dl\u0007"
+    ],
+    [
+      0.000087,
+      "\u001b]1;..ts/youtube-dl\u0007"
+    ],
+    [
+      0.096161,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m \u001b[31m✘\u001b[40m\u001b[39m stuxnet \u001b[44m\u001b[30m\u001b[30m ~/Documents/Projects/youtube-dl \u001b[43m\u001b[34m\u001b[30m  master ● \u001b[49m\u001b[33m\u001b[39m \u001b[K"
+    ],
+    [
+      0.000033,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.011484,
+      "c"
+    ],
+    [
+      0.156361,
+      "\u0008cl"
+    ],
+    [
+      0.723550,
+      "\u0008\u0008c \u0008"
+    ],
+    [
+      0.159684,
+      "\u0008 \u0008"
+    ],
+    [
+      0.856911,
+      "t"
+    ],
+    [
+      0.251337,
+      "\u0008tr"
+    ],
+    [
+      0.205652,
+      "e"
+    ],
+    [
+      0.177707,
+      "e"
+    ],
+    [
+      0.148249,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000047,
+      "\r"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000469,
+      "\u001b]2;tree\u0007"
+    ],
+    [
+      0.000170,
+      "\u001b]1;tree\u0007"
+    ],
+    [
+      0.011831,
+      "."
+    ],
+    [
+      0.000013,
+      "\r\n├── AUTHORS"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000054,
+      "├── bin\r\n"
+    ],
+    [
+      0.000009,
+      "│   └── youtube-dl\r\n"
+    ],
+    [
+      0.000020,
+      "├── CONTRIBUTING.md\r\n"
+    ],
+    [
+      0.000150,
+      "├── devscripts"
+    ],
+    [
+      0.000009,
+      "\r\n│   ├── bash-completion.in\r\n│   ├── bash-completion.py\r\n"
+    ],
+    [
+      0.000006,
+      "│   ├── buildserver.py\r\n"
+    ],
+    [
+      0.000006,
+      "│   ├── check-porn.py"
+    ],
+    [
+      0.000006,
+      "\r\n│   ├── fish-completion.in"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "│   ├── fish-completion.py\r\n"
+    ],
+    [
+      0.000006,
+      "│   ├── generate_aes_testdata.py\r\n"
+    ],
+    [
+      0.000055,
+      "│   ├── gh-pages\r\n"
+    ],
+    [
+      0.000006,
+      "│   │   ├── add-version.py\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── generate-download.py\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── sign-versions.py"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── update-copyright.py\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── update-feed.py\r\n"
+    ],
+    [
+      0.000008,
+      "│   │   └── update-sites.py"
+    ],
+    [
+      0.000006,
+      "\r\n│   ├── make_contributing.py"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "│   ├── make_readme.py\r\n"
+    ],
+    [
+      0.000005,
+      "│   ├── make_supportedsites.py"
+    ],
+    [
+      0.000006,
+      "\r\n│   ├── posix-locale.sh"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "│   ├── prepare_manpage.py\r\n"
+    ],
+    [
+      0.000005,
+      "│   ├── release.sh\r\n"
+    ],
+    [
+      0.000005,
+      "│   ├── SizeOfImage.patch"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "│   ├── SizeOfImage_w.patch\r\n"
+    ],
+    [
+      0.000006,
+      "│   ├── wine-py2exe.sh\r\n"
+    ],
+    [
+      0.000006,
+      "│   ├── zsh-completion.in"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "│   └── zsh-completion.py\r\n"
+    ],
+    [
+      0.000046,
+      "├── docs\r\n"
+    ],
+    [
+      0.000006,
+      "│   ├── conf.py\r\n"
+    ],
+    [
+      0.000005,
+      "│   ├── index.rst\r\n"
+    ],
+    [
+      0.000005,
+      "│   ├── Makefile\r\n"
+    ],
+    [
+      0.000005,
+      "│   ├── module_guide.rst"
+    ],
+    [
+      0.000027,
+      "\r\n│   └── supportedsites.md\r\n├── LICENSE\r\n├── Makefile\r\n├── MANIFEST.in\r\n"
+    ],
+    [
+      0.000005,
+      "├── README.md\r\n"
+    ],
+    [
+      0.000005,
+      "├── setup.cfg\r\n"
+    ],
+    [
+      0.000005,
+      "├── setup.py"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000148,
+      "├── test\r\n"
+    ],
+    [
+      0.000008,
+      "│   ├── helper.py\r\n"
+    ],
+    [
+      0.000006,
+      "│   ├── __init__.py\r\n│   ├── parameters.json"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000100,
+      "│   ├── swftests"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "│   │   ├── ArrayAccess.as\r\n"
+    ],
+    [
+      0.000006,
+      "│   │   ├── ClassCall.as\r\n"
+    ],
+    [
+      0.000006,
+      "│   │   ├── ClassConstruction.as\r\n"
+    ],
+    [
+      0.000006,
+      "│   │   ├── ConstantInt.as\r\n"
+    ],
+    [
+      0.000006,
+      "│   │   ├── ConstArrayAccess.as"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── DictCall.as\r\n"
+    ],
+    [
+      0.000006,
+      "│   │   ├── EqualsOperator.as\r\n"
+    ],
+    [
+      0.000012,
+      "│   │   ├── LocalVars.as\r\n"
+    ],
+    [
+      0.000006,
+      "│   │   ├── MemberAssignment.as\r\n│   │   ├── NeOperator.as"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── PrivateCall.as\r\n"
+    ],
+    [
+      0.000006,
+      "│   │   ├── PrivateVoidCall.as\r\n"
+    ],
+    [
+      0.000006,
+      "│   │   ├── StaticAssignment.as\r\n"
+    ],
+    [
+      0.000006,
+      "│   │   ├── StaticRetrieval.as"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── StringBasics.as\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── StringCharCodeAt.as\r\n"
+    ],
+    [
+      0.000048,
+      "│   │   └── StringConversion.as\r\n│   ├── test_aes.py\r\n│   ├── test_age_restriction.py\r\n│   ├── test_all_urls.py\r\n│   ├── test_cache.py\r\n│   ├── testcert.pem"
+    ],
+    [
+      0.000006,
+      "\r\n│   ├── test_compat.py\r\n"
+    ],
+    [
+      0.000005,
+      "│   ├── test_download.py"
+    ],
+    [
+      0.000006,
+      "\r\n│   ├── test_execution.py"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "│   ├── test_http.py\r\n"
+    ],
+    [
+      0.000005,
+      "│   ├── test_InfoExtractor.py"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "│   ├── test_jsinterp.py\r\n"
+    ],
+    [
+      0.000005,
+      "│   ├── test_netrc.py\r\n"
+    ],
+    [
+      0.000005,
+      "│   ├── test_postprocessors.py"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "│   ├── test_subtitles.py\r\n"
+    ],
+    [
+      0.000006,
+      "│   ├── test_swfinterp.py\r\n│   ├── test_unicode_literals.py"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "│   ├── test_utils.py\r\n"
+    ],
+    [
+      0.000005,
+      "│   ├── test_write_annotations.py"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "│   ├── test_YoutubeDL.py\r\n"
+    ],
+    [
+      0.000006,
+      "│   ├── test_youtube_lists.py\r\n"
+    ],
+    [
+      0.000050,
+      "│   └── test_youtube_signature.py\r\n├── tox.ini\r\n"
+    ],
+    [
+      0.000063,
+      "├── youtube_dl\r\n"
+    ],
+    [
+      0.000008,
+      "│   ├── aes.py\r\n│   ├── cache.py\r\n"
+    ],
+    [
+      0.000005,
+      "│   ├── compat.py\r\n"
+    ],
+    [
+      0.000045,
+      "│   ├── downloader\r\n"
+    ],
+    [
+      0.000006,
+      "│   │   ├── common.py\r\n│   │   ├── external.py"
+    ],
+    [
+      0.000005,
+      "\r\n│   │   ├── f4m.py"
+    ],
+    [
+      0.000005,
+      "\r\n│   │   ├── hls.py"
+    ],
+    [
+      0.000011,
+      "\r\n│   │   ├── http.py"
+    ],
+    [
+      0.000006,
+      "\r\n│   │   ├── __init__.py\r\n│   │   ├── rtmp.py"
+    ],
+    [
+      0.000005,
+      "\r\n│   │   └── rtsp.py"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.004555,
+      "│   ├── extractor\r\n"
+    ],
+    [
+      0.000011,
+      "│   │   ├── abc7news.py\r\n│   │   ├── abc.py\r\n│   │   ├── academicearth.py\r\n│   │   ├── addanime.py\r\n│   │   ├── adobetv.py\r\n│   │   ├── adultswim.py\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── aftenposten.py\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── aftonbladet.py\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── airmozilla.py\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   ├── aljazeera.py"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── allocine.py\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── alphaporno.py\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── anitube.py\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── anysex.py\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── aol.py\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── aparat.py"
+    ],
+    [
+      0.000005,
+      "\r\n│   │   ├── appletrailers.py"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── archiveorg.py\r\n"
+    ],
+    [
+      0.000006,
+      "│   │   ├── ard.py\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── arte.py\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── atresplayer.py\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   ├── atttechchannel.py\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   ├── audiomack.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── azubu.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── baidu.py\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   ├── bambuser.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── bandcamp.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   ├── bbccouk.py\r\n"
+    ],
+    [
+      0.000009,
+      "│   │   ├── beatportpro.py\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   ├── beeg.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── behindkink.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   ├── bet.py\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── bild.py"
+    ],
+    [
+      0.000005,
+      "\r\n│   │   ├── bilibili.py"
+    ],
+    [
+      0.000004,
+      "\r\n│   │   ├── blinkx.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── bliptv.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── bloomberg.py\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   ├── bpb.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── breakcom.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── brightcove.py"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── br.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── buzzfeed.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── byutv.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── c56.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── camdemy.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── canal13cl.py"
+    ],
+    [
+      0.000006,
+      "\r\n│   │   ├── canalc2.py"
+    ],
+    [
+      0.000004,
+      "\r\n│   │   ├── canalplus.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── cbsnews.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── cbs.py\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   ├── cbssports.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── ccc.py"
+    ],
+    [
+      0.000008,
+      "\r\n│   │   ├── ceskatelevize.py\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   ├── channel9.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── chilloutzone.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── chirbit.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── cinchcast.py\r\n"
+    ],
+    [
+      0.000008,
+      "│   │   ├── cinemassacre.py"
+    ],
+    [
+      0.000005,
+      "\r\n│   │   ├── clipfish.py"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── cliphunter.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── clipsyndicate.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── cloudy.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── clubic.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── cmt.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── cnet.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── cnn.py\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   ├── collegehumor.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── collegerama.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── comcarcoff.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── comedycentral.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── commonmistakes.py"
+    ],
+    [
+      0.000005,
+      "\r\n│   │   ├── common.py"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── condenast.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── cracked.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── criterion.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── crooksandliars.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── crunchyroll.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── cspan.py\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   ├── ctsnews.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── dailymotion.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── daum.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── dbtv.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── dctp.py"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── deezer.py\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   ├── defense.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── dfb.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── dhm.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── discovery.py\r\n"
+    ],
+    [
+      0.000007,
+      "│   │   ├── divxstage.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── dotsub.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── douyutv.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── dramafever.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── drbonanza.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── dreisat.py\r\n"
+    ],
+    [
+      0.000008,
+      "│   │   ├── dropbox.py"
+    ],
+    [
+      0.000005,
+      "\r\n│   │   ├── drtuber.py"
+    ],
+    [
+      0.000006,
+      "\r\n│   │   ├── drtv.py"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── dumpert.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── dump.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── dvtv.py\r\n"
+    ],
+    [
+      0.000011,
+      "│   │   ├── eagleplatform.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── ebaumsworld.py\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   ├── echomsk.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── ehow.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── eighttracks.py\r\n"
+    ],
+    [
+      0.000008,
+      "│   │   ├── einthusan.py"
+    ],
+    [
+      0.000004,
+      "\r\n│   │   ├── eitb.py"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── ellentv.py"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── elpais.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── embedly.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── empflix.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── engadget.py\r\n"
+    ],
+    [
+      0.000009,
+      "│   │   ├── eporner.py\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   ├── eroprofile.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   ├── escapist.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── espn.py\r\n"
+    ],
+    [
+      0.000009,
+      "│   │   ├── everyonesmixtape.py\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   ├── exfm.py\r\n"
+    ],
+    [
+      0.000007,
+      "│   │   ├── expotv.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   ├── extremetube.py\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── facebook.py"
+    ],
+    [
+      0.000004,
+      "\r\n│   │   ├── faz.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── fc2.py\r\n"
+    ],
+    [
+      0.000007,
+      "│   │   ├── firstpost.py"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── firsttv.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── fivemin.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── fivetv.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── fktv.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── flickr.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── folketinget.py"
+    ],
+    [
+      0.000006,
+      "\r\n│   │   ├── footyroom.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── fourtube.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   ├── foxgay.py\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── foxnews.py"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── foxsports.py\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── franceculture.py\r\n"
+    ],
+    [
+      0.000008,
+      "│   │   ├── franceinter.py\r\n"
+    ],
+    [
+      0.000007,
+      "│   │   ├── francetv.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── freesound.py\r\n"
+    ],
+    [
+      0.000007,
+      "│   │   ├── freespeech.py"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── freevideo.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── funnyordie.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── gamekings.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── gameone.py"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── gamersyde.py\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   ├── gamespot.py\r\n"
+    ],
+    [
+      0.000008,
+      "│   │   ├── gamestar.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── gametrailers.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── gazeta.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── gdcvault.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── generic.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── gfycat.py\r\n"
+    ],
+    [
+      0.000007,
+      "│   │   ├── giantbomb.py"
+    ],
+    [
+      0.000004,
+      "\r\n│   │   ├── giga.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── glide.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── globo.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── godtube.py\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   ├── goldenmoustache.py"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── golem.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── googleplus.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── googlesearch.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── gorillavid.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── goshgay.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── groupon.py\r\n"
+    ],
+    [
+      0.000008,
+      "│   │   ├── hark.py\r\n"
+    ],
+    [
+      0.000007,
+      "│   │   ├── hearthisat.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── heise.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── hellporno.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   ├── helsinki.py"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── hentaistigma.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── historicfilms.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── history.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── hitbox.py\r\n"
+    ],
+    [
+      0.000008,
+      "│   │   ├── hornbunny.py\r\n"
+    ],
+    [
+      0.000007,
+      "│   │   ├── hostingbulk.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── hotnewhiphop.py\r\n"
+    ],
+    [
+      0.000007,
+      "│   │   ├── howcast.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── howstuffworks.py\r\n"
+    ],
+    [
+      0.000008,
+      "│   │   ├── huffpost.py"
+    ],
+    [
+      0.000003,
+      "\r\n│   │   ├── hypem.py"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── iconosquare.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── ign.py"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── imdb.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── imgur.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── ina.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── infoq.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── __init__.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── instagram.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "│   │   ├── internetvideoarchive.py\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   ├── iprima.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── iqiyi.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── ivi.py\r\n"
+    ],
+    [
+      0.000009,
+      "│   │   ├── izlesene.py\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   ├── jadorecettepub.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── jeuxvideo.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── jove.py\r\n"
+    ],
+    [
+      0.000008,
+      "│   │   ├── jpopsukitv.py\r\n"
+    ],
+    [
+      0.000007,
+      "│   │   ├── jukebox.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── kaltura.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── kanalplay.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── kankan.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── karaoketv.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── karrierevideos.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── keek.py\r\n"
+    ],
+    [
+      0.000010,
+      "│   │   ├── keezmovies.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── khanacademy.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── kickstarter.py\r\n"
+    ],
+    [
+      0.000008,
+      "│   │   ├── kontrtube.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── krasview.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── ku6.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── la7.py\r\n"
+    ],
+    [
+      0.000007,
+      "│   │   ├── laola1tv.py"
+    ],
+    [
+      0.000004,
+      "\r\n│   │   ├── letv.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── libsyn.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── lifenews.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── liveleak.py"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── livestream.py\r\n"
+    ],
+    [
+      0.000006,
+      "│   │   ├── lnkgo.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── lrt.py\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── lynda.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── m6.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── macgamestore.py"
+    ],
+    [
+      0.000007,
+      "\r\n│   │   ├── mailru.py"
+    ],
+    [
+      0.000005,
+      "\r\n│   │   ├── malemotion.py"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   ├── mdr.py\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   ├── megavideoz.py"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   ├── metacafe.py\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── metacritic.py\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   ├── mgoon.py"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── minhateca.py\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── ministrygrid.py\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── miomio.py\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   ├── mitele.py"
+    ],
+    [
+      0.000004,
+      "\r\n│   │   ├── mit.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── mixcloud.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   ├── mlb.py\r\n"
+    ],
+    [
+      0.000008,
+      "│   │   ├── moevideo.py\r\n"
+    ],
+    [
+      0.000007,
+      "│   │   ├── mofosex.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── mojvideo.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── moniker.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── mooshare.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── morningstar.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── motherless.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── motorsport.py"
+    ],
+    [
+      0.000005,
+      "\r\n│   │   ├── movieclips.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── moviezine.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── movshare.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── mpora.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── mtv.py\r\n"
+    ],
+    [
+      0.000008,
+      "│   │   ├── muenchentv.py\r\n"
+    ],
+    [
+      0.000007,
+      "│   │   ├── musicplayon.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── musicvault.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── muzu.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "│   │   ├── myspace.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── myspass.py\r\n"
+    ],
+    [
+      0.000008,
+      "│   │   ├── myvideo.py"
+    ],
+    [
+      0.000005,
+      "\r\n│   │   ├── myvidster.py"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── nationalgeographic.py\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   ├── naver.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── nba.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── nbc.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── ndr.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── ndtv.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── nerdcubed.py\r\n"
+    ],
+    [
+      0.000007,
+      "│   │   ├── nerdist.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── netzkino.py\r\n"
+    ],
+    [
+      0.000007,
+      "│   │   ├── newgrounds.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── newstube.py\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── nextmedia.py"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── nfb.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── nfl.py"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── nhl.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── niconico.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── ninegag.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── noco.py\r\n"
+    ],
+    [
+      0.000008,
+      "│   │   ├── normalboots.py\r\n"
+    ],
+    [
+      0.000007,
+      "│   │   ├── nosvideo.py\r\n"
+    ],
+    [
+      0.000007,
+      "│   │   ├── novamov.py"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── nova.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── nowness.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── nowtv.py"
+    ],
+    [
+      0.000005,
+      "\r\n│   │   ├── nowvideo.py"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── npo.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── nrk.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── ntvde.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── ntvru.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── nuvid.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── nytimes.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── odnoklassniki.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── oktoberfesttv.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── ooyala.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── openfilm.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── orf.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── parliamentliveuk.py"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── patreon.py\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── pbs.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── philharmoniedeparis.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── phoenix.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── photobucket.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── pladform.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── planetaplay.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000032,
+      "│   │   ├── played.py\r\n│   │   ├── playfm.py\r\n│   │   ├── playvid.py\r\n│   │   ├── playwire.py\r\n│   │   ├── podomatic.py\r\n│   │   ├── porn91.py\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   ├── pornhd.py\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   ├── pornhub.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── pornotube.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── pornovoisines.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── pornoxo.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── primesharetv.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── promptfile.py\r\n"
+    ],
+    [
+      0.000008,
+      "│   │   ├── prosiebensat1.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── puls4.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── pyvideo.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── qqmusic.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── quickvid.py\r\n"
+    ],
+    [
+      0.000006,
+      "│   │   ├── r7.py\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   ├── radiobremen.py\r\n"
+    ],
+    [
+      0.000008,
+      "│   │   ├── radiode.py\r\n"
+    ],
+    [
+      0.000007,
+      "│   │   ├── radiofrance.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── radiojavan.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── rai.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── rbmaradio.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── redtube.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── restudy.py\r\n"
+    ],
+    [
+      0.000007,
+      "│   │   ├── reverbnation.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── ringtv.py\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   ├── ro220.py"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   ├── rottentomatoes.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── roxwel.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "│   │   ├── rtbf.py\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   ├── rte.py\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   ├── rtl2.py\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── rtlnl.py\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── rtp.py"
+    ],
+    [
+      0.000007,
+      "\r\n│   │   ├── rts.py"
+    ],
+    [
+      0.000005,
+      "\r\n│   │   ├── rtve.py\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── ruhd.py"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── rutube.py\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   ├── rutv.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── ruutu.py\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── safari.py"
+    ],
+    [
+      0.000005,
+      "\r\n│   │   ├── sandia.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── sapo.py\r\n"
+    ],
+    [
+      0.000008,
+      "│   │   ├── savefrom.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── sbs.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── scivee.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── screencastomatic.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── screencast.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── screenwavemedia.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── senateisvp.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── servingsys.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── sexu.py\r\n"
+    ],
+    [
+      0.000009,
+      "│   │   ├── sexykarma.py\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── shared.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── sharesix.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── sina.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── slideshare.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── slutload.py\r\n"
+    ],
+    [
+      0.000007,
+      "│   │   ├── smotri.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── snotr.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── sohu.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── soompi.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── soundcloud.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── soundgasm.py\r\n"
+    ],
+    [
+      0.000009,
+      "│   │   ├── southpark.py\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── space.py"
+    ],
+    [
+      0.000004,
+      "\r\n│   │   ├── spankbang.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── spankwire.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── spiegel.py\r\n"
+    ],
+    [
+      0.000008,
+      "│   │   ├── spiegeltv.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── spike.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── sport5.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── sportbox.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── sportdeutschland.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── srf.py\r\n"
+    ],
+    [
+      0.000008,
+      "│   │   ├── srmediathek.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── ssa.py"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── stanfordoc.py"
+    ],
+    [
+      0.000004,
+      "\r\n│   │   ├── steam.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── streamcloud.py\r\n"
+    ],
+    [
+      0.000007,
+      "│   │   ├── streamcz.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── streetvoice.py\r\n"
+    ],
+    [
+      0.000008,
+      "│   │   ├── sunporno.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── svt.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── swrmediathek.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── syfy.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── sztvhu.py\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── tagesschau.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── tapely.py\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   ├── tass.py"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   ├── teachertube.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── teachingchannel.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── teamcoco.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── techtalks.py\r\n"
+    ],
+    [
+      0.000007,
+      "│   │   ├── ted.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── telebruxelles.py\r\n"
+    ],
+    [
+      0.000007,
+      "│   │   ├── telecinco.py\r\n"
+    ],
+    [
+      0.000008,
+      "│   │   ├── telemb.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── teletask.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── tenplay.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── testtube.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── testurl.py\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   ├── tf1.py"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── theonion.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── theplatform.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── thesixtyone.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── thisav.py"
+    ],
+    [
+      0.000005,
+      "\r\n│   │   ├── thvideo.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── tinypic.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── tlc.py\r\n"
+    ],
+    [
+      0.000007,
+      "│   │   ├── tmz.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── tnaflix.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── toutv.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── toypics.py"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── traileraddict.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── trilulilu.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── trutube.py\r\n"
+    ],
+    [
+      0.000007,
+      "│   │   ├── tube8.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── tubitv.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── tudou.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── tumblr.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── tunein.py\r\n"
+    ],
+    [
+      0.000008,
+      "│   │   ├── turbo.py"
+    ],
+    [
+      0.000003,
+      "\r\n│   │   ├── tutv.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── tv2.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── tv4.py\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   ├── tvc.py"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   ├── tvigle.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── tvplay.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── tvp.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── tweakers.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── twentyfourvideo.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── twentytwotracks.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── twitch.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── ubu.py\r\n"
+    ],
+    [
+      0.000008,
+      "│   │   ├── udemy.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── udn.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── ultimedia.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── unistra.py"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── urort.py\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   ├── ustream.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── varzesh3.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── vbox7.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── veehd.py\r\n"
+    ],
+    [
+      0.000007,
+      "│   │   ├── veoh.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── vessel.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── vesti.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── vevo.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── vgtv.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── vh1.py"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── vice.py\r\n"
+    ],
+    [
+      0.000008,
+      "│   │   ├── viddler.py\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── videobam.py"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── videodetective.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── videofyme.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   ├── videolecturesnet.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── videomega.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── videopremium.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── videott.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── videoweed.py\r\n"
+    ],
+    [
+      0.000008,
+      "│   │   ├── vidme.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── vidzi.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── vier.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── viewster.py"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── viki.py\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   ├── vimeo.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── vimple.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── vine.py\r\n"
+    ],
+    [
+      0.000022,
+      "│   │   ├── vk.py\r\n│   │   ├── vodlocker.py\r\n│   │   ├── voicerepublic.py\r\n│   │   ├── vporn.py"
+    ],
+    [
+      0.000004,
+      "\r\n│   │   ├── vrt.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   ├── vube.py\r\n"
+    ],
+    [
+      0.000007,
+      "│   │   ├── vuclip.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── vulture.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── walla.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── washingtonpost.py"
+    ],
+    [
+      0.000005,
+      "\r\n│   │   ├── wat.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── wayofthemaster.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── wdr.py\r\n"
+    ],
+    [
+      0.000007,
+      "│   │   ├── webofstories.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── weibo.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── wimp.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── wistia.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── worldstarhiphop.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── wrzuta.py\r\n"
+    ],
+    [
+      0.000008,
+      "│   │   ├── wsj.py\r\n"
+    ],
+    [
+      0.000008,
+      "│   │   ├── xbef.py\r\n"
+    ],
+    [
+      0.000009,
+      "│   │   ├── xboxclips.py\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   ├── xhamster.py\r\n"
+    ],
+    [
+      0.000007,
+      "│   │   ├── xminus.py"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── xnxx.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── xstream.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── xtube.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── xuite.py\r\n"
+    ],
+    [
+      0.000007,
+      "│   │   ├── xvideos.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── xxxymovies.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── yahoo.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── yam.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── yandexmusic.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "│   │   ├── yesjapan.py\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   ├── ynet.py\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   ├── youjizz.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── youku.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── youporn.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── yourupload.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── youtube.py\r\n"
+    ],
+    [
+      0.000008,
+      "│   │   ├── zapiks.py\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── zdf.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   └── zingmp3.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "│   ├── __init__.py\r\n"
+    ],
+    [
+      0.000004,
+      "│   ├── jsinterp.py"
+    ],
+    [
+      0.000004,
+      "\r\n│   ├── __main__.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   ├── options.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "│   ├── postprocessor"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── common.py\r\n"
+    ],
+    [
+      0.000009,
+      "│   │   ├── embedthumbnail.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── execafterdownload.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── ffmpeg.py\r\n"
+    ],
+    [
+      0.000008,
+      "│   │   ├── __init__.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   │   ├── metadatafromtitle.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   └── xattrpp.py\r\n"
+    ],
+    [
+      0.000010,
+      "│   ├── swfinterp.py\r\n"
+    ],
+    [
+      0.000004,
+      "│   ├── update.py\r\n"
+    ],
+    [
+      0.000007,
+      "│   ├── utils.py"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "│   ├── version.py\r\n"
+    ],
+    [
+      0.000008,
+      "│   └── YoutubeDL.py\r\n"
+    ],
+    [
+      0.000009,
+      "└── youtube-dl.plugin.zsh"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "10 directories, 623 files\r\n"
+    ],
+    [
+      0.000200,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000080,
+      "\u001b]2;stuxnet@Botnet: ~/Documents/Projects/youtube-dl\u0007"
+    ],
+    [
+      0.000027,
+      "\u001b]1;..ts/youtube-dl\u0007"
+    ],
+    [
+      0.078028,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m stuxnet \u001b[44m\u001b[30m\u001b[30m ~/Documents/Projects/youtube-dl \u001b[43m\u001b[34m\u001b[30m  master ● \u001b[49m\u001b[33m\u001b[39m "
+    ],
+    [
+      0.000047,
+      "\u001b[K"
+    ],
+    [
+      0.000119,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      8.228623,
+      "l"
+    ],
+    [
+      0.243239,
+      "\u0008lo"
+    ],
+    [
+      0.145222,
+      "o"
+    ],
+    [
+      0.671151,
+      "k"
+    ],
+    [
+      0.114865,
+      "s"
+    ],
+    [
+      0.104337,
+      " "
+    ],
+    [
+      0.484070,
+      "b"
+    ],
+    [
+      0.447559,
+      "\u0008 \u0008"
+    ],
+    [
+      0.309653,
+      "g"
+    ],
+    [
+      0.178126,
+      "o"
+    ],
+    [
+      0.151716,
+      "o"
+    ],
+    [
+      0.080477,
+      "d"
+    ],
+    [
+      0.834686,
+      "!"
+    ],
+    [
+      0.290005,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000018,
+      "\r"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000858,
+      "\u001b]2;looks good!\u0007"
+    ],
+    [
+      0.000016,
+      "\u001b]1;looks\u0007"
+    ],
+    [
+      0.000897,
+      "zsh: command not found: looks"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000545,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000135,
+      "\u001b]2;stuxnet@Botnet: ~/Documents/Projects/youtube-dl\u0007"
+    ],
+    [
+      0.000045,
+      "\u001b]1;..ts/youtube-dl\u0007"
+    ],
+    [
+      0.082985,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m \u001b[31m✘\u001b[40m\u001b[39m stuxnet \u001b[44m\u001b[30m\u001b[30m ~/Documents/Projects/youtube-dl \u001b[43m\u001b[34m\u001b[30m  master ● \u001b[49m\u001b[33m\u001b[39m \u001b[K"
+    ],
+    [
+      0.000037,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.428133,
+      "c"
+    ],
+    [
+      0.128258,
+      "\u0008cl"
+    ],
+    [
+      0.113994,
+      "e"
+    ],
+    [
+      0.147300,
+      "a"
+    ],
+    [
+      0.014282,
+      "r"
+    ],
+    [
+      0.244529,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000045,
+      "\r"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000486,
+      "\u001b]2;clear\u0007"
+    ],
+    [
+      0.000157,
+      "\u001b]1;clear\u0007"
+    ],
+    [
+      0.001098,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.000143,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000077,
+      "\u001b]2;stuxnet@Botnet: ~/Documents/Projects/youtube-dl\u0007"
+    ],
+    [
+      0.000031,
+      "\u001b]1;..ts/youtube-dl\u0007"
+    ],
+    [
+      0.073699,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m stuxnet \u001b[44m\u001b[30m\u001b[30m ~/Documents/Projects/youtube-dl \u001b[43m\u001b[34m\u001b[30m  master ● \u001b[49m\u001b[33m\u001b[39m \u001b[K"
+    ],
+    [
+      0.000042,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.909451,
+      "g"
+    ],
+    [
+      0.142483,
+      "\u0008gi"
+    ],
+    [
+      0.134702,
+      "t"
+    ],
+    [
+      0.179916,
+      " "
+    ],
+    [
+      0.095117,
+      "a"
+    ],
+    [
+      0.209501,
+      "d"
+    ],
+    [
+      0.163519,
+      "d"
+    ],
+    [
+      0.114054,
+      " "
+    ],
+    [
+      1.159390,
+      "-"
+    ],
+    [
+      0.343413,
+      "A"
+    ],
+    [
+      0.325175,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000140,
+      "\r\r\n"
+    ],
+    [
+      0.000956,
+      "\u001b]2;git add -A\u0007"
+    ],
+    [
+      0.000023,
+      "\u001b]1;git\u0007"
+    ],
+    [
+      0.056135,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000021,
+      "\u001b]2;stuxnet@Botnet: ~/Documents/Projects/youtube-dl\u0007"
+    ],
+    [
+      0.000009,
+      "\u001b]1;..ts/youtube-dl\u0007"
+    ],
+    [
+      0.091132,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m stuxnet \u001b[44m\u001b[30m\u001b[30m ~/Documents/Projects/youtube-dl \u001b[43m\u001b[34m\u001b[30m  master ✚ \u001b[49m\u001b[33m\u001b[39m \u001b[K"
+    ],
+    [
+      0.000035,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.896340,
+      "g"
+    ],
+    [
+      0.226882,
+      "\u0008gi"
+    ],
+    [
+      0.080847,
+      "t"
+    ],
+    [
+      0.194933,
+      " "
+    ],
+    [
+      0.242653,
+      "a"
+    ],
+    [
+      0.686362,
+      "\u0008 \u0008"
+    ],
+    [
+      0.309649,
+      "c"
+    ],
+    [
+      0.215034,
+      "o"
+    ],
+    [
+      0.227386,
+      "m"
+    ],
+    [
+      0.159188,
+      "m"
+    ],
+    [
+      0.085461,
+      "\u001b[31m......\u001b[0m"
+    ],
+    [
+      0.098188,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m stuxnet \u001b[44m\u001b[30m\u001b[30m ~/Documents/Projects/youtube-dl \u001b[43m\u001b[34m\u001b[30m  master ✚ \u001b[49m\u001b[33m\u001b[39m git commit\u001b[K"
+    ],
+    [
+      0.742131,
+      " "
+    ],
+    [
+      0.183422,
+      "-"
+    ],
+    [
+      0.260875,
+      "m"
+    ],
+    [
+      0.105662,
+      " "
+    ],
+    [
+      0.679180,
+      "'"
+    ],
+    [
+      0.101557,
+      "'"
+    ],
+    [
+      1.164691,
+      "\u0008"
+    ],
+    [
+      1.220832,
+      "a'\u0008"
+    ],
+    [
+      0.023604,
+      "h'\u0008"
+    ],
+    [
+      0.080632,
+      "s'\u0008"
+    ],
+    [
+      0.061809,
+      "h'\u0008"
+    ],
+    [
+      0.028296,
+      "d'\u0008"
+    ],
+    [
+      0.104529,
+      "h' \r\u001b[K\u001b[A\u001b[79C"
+    ],
+    [
+      0.004814,
+      "a'\r"
+    ],
+    [
+      0.057061,
+      "s'\u0008"
+    ],
+    [
+      0.250215,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000061,
+      "\r"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000502,
+      "\u001b]2;git commit -m 'ahshdhas'\u0007"
+    ],
+    [
+      0.000009,
+      "\u001b]1;git\u0007"
+    ],
+    [
+      0.226926,
+      "[master 4c69f48] ahshdhas\r\n"
+    ],
+    [
+      0.000502,
+      " 1 file changed, 1 insertion(+)\r\n"
+    ],
+    [
+      0.000651,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000210,
+      "\u001b]2;stuxnet@Botnet: ~/Documents/Projects/youtube-dl\u0007"
+    ],
+    [
+      0.000112,
+      "\u001b]1;..ts/youtube-dl\u0007"
+    ],
+    [
+      0.086753,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m stuxnet \u001b[44m\u001b[30m\u001b[30m ~/Documents/Projects/youtube-dl \u001b[42m\u001b[34m\u001b[30m  master \u001b[49m\u001b[32m\u001b[39m \u001b[K"
+    ],
+    [
+      0.000042,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.870716,
+      "d"
+    ],
+    [
+      0.085297,
+      "\u0008do"
+    ],
+    [
+      0.217226,
+      "n"
+    ],
+    [
+      0.114118,
+      "e"
+    ],
+    [
+      0.380063,
+      "!"
+    ],
+    [
+      0.368649,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000086,
+      "\r\r\n"
+    ],
+    [
+      0.000617,
+      "\u001b]2;done!\u0007"
+    ],
+    [
+      0.000013,
+      "\u001b]1;done!\u0007"
+    ],
+    [
+      0.000952,
+      "zsh: command not found: done!\r\n"
+    ],
+    [
+      0.000413,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000125,
+      "\u001b]2;stuxnet@Botnet: ~/Documents/Projects/youtube-dl\u0007"
+    ],
+    [
+      0.000056,
+      "\u001b]1;..ts/youtube-dl\u0007"
+    ],
+    [
+      0.077760,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m \u001b[31m✘\u001b[40m\u001b[39m stuxnet \u001b[44m\u001b[30m\u001b[30m ~/Documents/Projects/youtube-dl \u001b[42m\u001b[34m\u001b[30m  master \u001b[49m\u001b[32m\u001b[39m \u001b[K"
+    ],
+    [
+      0.000032,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.904589,
+      "\r\r\n"
+    ]
+  ]
+}
