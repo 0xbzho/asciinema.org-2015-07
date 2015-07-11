@@ -1,0 +1,1170 @@
+{
+  "version": 1,
+  "width": 151,
+  "height": 41,
+  "duration": 42.931165,
+  "command": "/usr/bin/zsh",
+  "title": "git add patch",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.568339,
+      "                                                                                                                                                       \r\r"
+    ],
+    [
+      0.000136,
+      "\u001b]2;dufferzafar@duffer-ubuntu: ~/dev/critiquebrainz\u0007"
+    ],
+    [
+      0.000046,
+      "\u001b]1;..ritiquebrainz\u0007"
+    ],
+    [
+      0.052603,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n"
+    ],
+    [
+      0.000035,
+      "\u001b[38;5;032m~/dev/critiquebrainz \u001b[38;5;214m(diff-revisions)\u001b[38;5;214m\u001b[00m \u001b[38;5;105m\u003e\u001b[00m "
+    ],
+    [
+      0.000019,
+      "\u001b[K\u001b[102C\u001b[38;5;245m10:41:44\u001b[00m\u001b[110D"
+    ],
+    [
+      0.000081,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.503224,
+      "\u001b[H\u001b[2J\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[38;5;032m~/dev/critiquebrainz \u001b[38;5;214m(diff-revisions)\u001b[38;5;214m\u001b[00m \u001b[38;5;105m\u003e\u001b[00m \u001b[K\u001b[102C\u001b[38;5;245m10:41:44\u001b[00m\u001b[110D"
+    ],
+    [
+      0.785807,
+      "\u001b[4m\u001b[33mg\u001b[24m\u001b[39m"
+    ],
+    [
+      0.060302,
+      "\u0008\u001b[24m\u001b[32mg\u001b[32ma\u001b[39m"
+    ],
+    [
+      0.049183,
+      "\u0008\u0008\u001b[32mg\u001b[32ma\u001b[32mp\u001b[39m"
+    ],
+    [
+      0.213932,
+      " "
+    ],
+    [
+      0.183007,
+      "\u0008\u0008\u0008\u0008\u001b[1m\u001b[37m\u001b[45mg\u001b[1m\u001b[37m\u001b[45ma\u001b[1m\u001b[37m\u001b[45mp\u001b[39m\u001b[1m\u001b[37m\u001b[45m \u001b[0m\u001b[39m\u001b[49m\u001b[4mcritiquebrainz/utils.py\u001b[24m"
+    ],
+    [
+      0.147685,
+      "\u001b[27D\u001b[0m\u001b[49m\u001b[32mg\u001b[0m\u001b[49m\u001b[32ma\u001b[0m\u001b[49m\u001b[32mp\u001b[39m\u001b[0m\u001b[39m\u001b[49m \u001b[23C\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000020,
+      "\r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000909,
+      "\u001b]2;git add -p critiquebrainz/utils.py\u0007\u001b]1;gap\u0007"
+    ],
+    [
+      0.115225,
+      "\u001b[33mdiff --git a/critiquebrainz/utils.py b/critiquebrainz/utils.py\u001b[m\r\n\u001b[33mindex 505f5a4..3b8632a 100644\u001b[m\r\n\u001b[33m--- a/critiquebrainz/utils.py\u001b[m\r\n\u001b[33m+++ b/critiquebrainz/utils.py\u001b[m"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000140,
+      "\u001b[35m@@ -1,10 +1,15 @@\u001b[m"
+    ],
+    [
+      0.000019,
+      "\r\n from flask_uuid import UUID_RE\u001b[m\r\n"
+    ],
+    [
+      0.000006,
+      " from flask_babel import format_datetime, format_date\u001b[m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[32m+\u001b[m\u001b[32mimport re\u001b[m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000025,
+      "\u001b[32m+\u001b[m\u001b[32mimport difflib\u001b[m\r\n"
+    ],
+    [
+      0.000021,
+      " import urllib\u001b[m\r\n import urlparse\u001b[m\r\n"
+    ],
+    [
+      0.000004,
+      " import string\u001b[m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      " import random\u001b[m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      " \u001b[m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000300,
+      "\u001b[32m+\u001b[m\u001b[32m_paragraph_re = re.compile(r'(?:\\r\\n|\\r|\\n){2,}')\u001b[m\r\n\u001b[32m+\u001b[m\u001b[32mtags = {'+': ('\u003cins\u003e', '\u003c/ins\u003e'), '-': ('\u003cdel\u003e', '\u003c/del\u003e'), ' ': (' ', '')}\u001b[m\r\n\u001b[32m+\u001b[m\r\n \u001b[m\r\n def build_url(base, additional_params=None):\u001b[m\r\n     url = urlparse.urlparse(base)\u001b[m\r\n\u001b[1;34mStage this hunk [y,n,q,a,d,/,j,J,g,s,e,?]? \u001b[m"
+    ],
+    [
+      1.505400,
+      "s"
+    ],
+    [
+      0.126968,
+      "\r\n"
+    ],
+    [
+      0.000584,
+      "\u001b[1mSplit into 2 hunks.\u001b[m\r\n\u001b[35m@@ -1,7 +1,9 @@\u001b[m\r\n from flask_uuid import UUID_RE\u001b[m\r\n from flask_babel import format_datetime, format_date\u001b[m\r\n\u001b[32m+\u001b[m\u001b[32mimport re\u001b[m\r\n\u001b[32m+\u001b[m\u001b[32mimport difflib\u001b[m\r\n import urllib\u001b[m\r\n import urlparse\u001b[m\r\n import string\u001b[m\r\n import random\u001b[m\r\n \u001b[m\r\n\u001b[1;34mStage this hunk [y,n,q,a,d,/,j,J,g,e,?]? \u001b[m"
+    ],
+    [
+      0.617182,
+      "e"
+    ],
+    [
+      0.115132,
+      "\r\n"
+    ],
+    [
+      0.064717,
+      "\u001b[?1049h\u001b[?1h\u001b=\u001b[2;1H▽\u001b[6n\u001b[2;1H  \u001b[1;1H"
+    ],
+    [
+      0.000691,
+      "\u001b[1;41r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[m\u001b[38;5;231m\u001b[H\u001b[2J\u001b[?25l\u001b[41;1H\"~/dev/critiquebrainz/.git/addp-hunk-edit.diff\""
+    ],
+    [
+      0.000041,
+      " 20L, 655C"
+    ],
+    [
+      0.044414,
+      "\u001b[\u003ec"
+    ],
+    [
+      0.010312,
+      "\u001b[1;1H\u001b[38;5;242m\u001b[48;5;237m# Manual hunk edit mode -- see bottom for a quick guide\u001b[m\u001b[38;5;231m\u001b[48;5;237m                                                                                                \u001b[m\u001b[38;5;231m\u001b[2;1H\u001b[38;5;197m@@ -1,7 +1,9 @@\u001b[m\u001b[38;5;231m\r\n from flask_uuid import UUID_RE\r\n from flask_babel import format_datetime, format_date\r\n\u001b[32m+import re\r\n+import difflib\u001b[m\u001b[38;5;231m\r\n import urllib\r\n import urlparse\r\n import string\r\n import random\r\n\r\n\u001b[38;5;242m# ---\r\n# To remove '-' lines, make them ' ' lines (context).\r\n# To remove '+' lines, delete them.\r\n# Lines starting with # will be removed.\r\n#\r\n# If the patch applies cleanly, the edited hunk will immediately be\r\n# marked for staging. If it does not apply cleanly, you will be given\r\n# an opportunity to edit again. If all lines of the hunk are removed,\r\n# then the edit is aborted and the hunk is left unchanged.\u001b[m\u001b[38;5;231m\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n\u001b[38;5;22m\u001b[48;5;148m \u001b[m\u001b[38;5;231m\u001b[1m\u001b[38;5;22m\u001b[48;5;148mNORMAL\u001b[m\u001b[38;5;231m\u001b[38;5;22m\u001b[48;5;148m \u001b[m\u001b[38;5;231m\u001b[38;5;247m\u001b[48;5;236m diff-revisions \u001b[m\u001b[38;5;231m\u001b[38;5;231m\u001b[48;5;233m .git/addp-hunk-edit.diff                                                                    diff \u001b[m\u001b[38;5;231m\u001b[38;5;247m\u001b[48;5;236m utf-8[unix] \u001b[m\u001b[38;5;231m\u001b[38;5;232m\u001b[48;5;166m ! trailing[11] \u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002447,
+      "\u001bP+q436f\u001b\\\u001bP+q6b75\u001b\\\u001bP+q6b64\u001b\\\u001bP+q6b72\u001b\\\u001bP+q6b6c\u001b\\\u001bP+q2332\u001b\\\u001bP+q2334\u001b\\\u001bP+q2569\u001b\\\u001bP+q2a37\u001b\\\u001bP+q6b31\u001b\\"
+    ],
+    [
+      0.388169,
+      "\u001b[?25l\u001b[m\u001b[38;5;231m\u001b[38;5;242m# Manual hunk edit mode -- see bottom for a quick guide\u001b[m\u001b[38;5;231m\u001b[1;56H\u001b[K\u001b[2;1H\u001b[38;5;197m\u001b[48;5;237m@@ -1,7 +1,9 @@\u001b[m\u001b[38;5;231m\u001b[48;5;237m                                                                                                                                        \u001b[2;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.123174,
+      "\u001b[?25l\u001b[m\u001b[38;5;231m\u001b[38;5;197m@@ -1,7 +1,9 @@\u001b[m\u001b[38;5;231m\u001b[2;16H\u001b[K\u001b[3;1H\u001b[48;5;237m from flask_uuid import UUID_RE                                                                                                                        \u001b[3;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.117729,
+      "\u001b[?25l\u001b[m\u001b[38;5;231m from flask_uuid import UUID_RE\u001b[3;32H\u001b[K\u001b[4;1H\u001b[48;5;237m from flask_babel import format_datetime, format_date                                                                                                  \u001b[4;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.136983,
+      "\u001b[?25l\u001b[m\u001b[38;5;231m from flask_babel import format_datetime, format_date\u001b[4;54H\u001b[K\u001b[5;1H\u001b[32m\u001b[48;5;237m+import re\u001b[m\u001b[38;5;231m\u001b[48;5;237m                                                                                                                                             \u001b[5;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.351389,
+      "\u001b[?25l\u001b[5;39r\u001b[m\u001b[38;5;231m\u001b[39;1H\r\n\u001b[1;41r\u001b[5;1H\u001b[32m\u001b[48;5;237m+import difflib\u001b[m\u001b[38;5;231m\u001b[48;5;237m                                                                                                                                        \u001b[m\u001b[38;5;231m\u001b[39;1H~\u001b[40;50H\u001b[38;5;231m\u001b[48;5;233m[+]\u001b[m\u001b[38;5;231m\u001b[41;1H\u001b[K\u001b[5;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.954475,
+      "\u0007\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.150609,
+      "\u001b[?25l\u001b[41;1H\".git/addp-hunk-edit.diff\""
+    ],
+    [
+      0.042548,
+      " 19L, 644C written"
+    ],
+    [
+      0.008984,
+      "\r\r\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[39;49m\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.005948,
+      "\u001b[35m@@ -3,8 +5,11 @@\u001b[m\r\n import urllib\u001b[m\r\n import urlparse\u001b[m\r\n import string\u001b[m\r\n import random\u001b[m\r\n \u001b[m\r\n\u001b[32m+\u001b[m\u001b[32m_paragraph_re = re.compile(r'(?:\\r\\n|\\r|\\n){2,}')\u001b[m\r\n\u001b[32m+\u001b[m\u001b[32mtags = {'+': ('\u003cins\u003e', '\u003c/ins\u003e'), '-': ('\u003cdel\u003e', '\u003c/del\u003e'), ' ': (' ', '')}\u001b[m\r\n\u001b[32m+\u001b[m\r\n \u001b[m\r\n def build_url(base, additional_params=None):\u001b[m\r\n     url = urlparse.urlparse(base)\u001b[m\r\n\u001b[1;34mStage this hunk [y,n,q,a,d,/,K,j,J,g,e,?]? \u001b[m"
+    ],
+    [
+      1.415460,
+      "e"
+    ],
+    [
+      0.643137,
+      "\r\n"
+    ],
+    [
+      0.065351,
+      "\u001b[?1049h\u001b[?1h\u001b=\u001b[2;1H▽\u001b[6n\u001b[2;1H  \u001b[1;1H"
+    ],
+    [
+      0.000721,
+      "\u001b[1;41r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[m\u001b[38;5;231m\u001b[H\u001b[2J\u001b[?25l\u001b[41;1H\"~/dev/critiquebrainz/.git/addp-hunk-edit.diff\""
+    ],
+    [
+      0.000041,
+      " 22L, 756C"
+    ],
+    [
+      0.043690,
+      "\u001b[\u003ec"
+    ],
+    [
+      0.010733,
+      "\u001b[1;1H\u001b[38;5;242m\u001b[48;5;237m# Manual hunk edit mode -- see bottom for a quick guide\u001b[m\u001b[38;5;231m\u001b[48;5;237m                                                                                                \u001b[m\u001b[38;5;231m\u001b[2;1H\u001b[38;5;197m@@ -3,8 +5,11 @@\u001b[m\u001b[38;5;231m\r\n import urllib\r\n import urlparse\r\n import string\r\n import random\r\n\r\n\u001b[32m+_paragraph_re = re.compile(r'(?:\\r\\n|\\r|\\n){2,}')\r\n+tags = {'+': ('\u003cins\u003e', '\u003c/ins\u003e'), '-': ('\u003cdel\u003e', '\u003c/del\u003e'), ' ': (' ', '')}\r\n+\u001b[m\u001b[38;5;231m\r\n\r\n def build_url(base, additional_params=None):\u001b[13;6Hurl = urlparse.urlparse(base)\r\n\u001b[38;5;242m# ---\r\n# To remove '-' lines, make them ' ' lines (context).\r\n# To remove '+' lines, delete them.\r\n# Lines starting with # will be removed.\r\n#\r\n# If the patch applies cleanly, the edited hunk will immediately be\r\n# marked for staging. If it does not apply cleanly, you will be given\r\n# an opportunity to edit again. If all lines of the hunk are removed,\r\n# then the edit is aborted and the hunk is left unchanged.\u001b[m\u001b[38;5;231m\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n\u001b[38;5;22m\u001b[48;5;148m \u001b[m\u001b[38;5;231m\u001b[1m\u001b[38;5;22m\u001b[48;5;148mNORMAL\u001b[m\u001b[38;5;231m\u001b[38;5;22m\u001b[48;5;148m \u001b[m\u001b[38;5;231m\u001b[38;5;247m\u001b[48;5;236m diff-revisions \u001b[m\u001b[38;5;231m\u001b[38;5;231m\u001b[48;5;233m .git/addp-hunk-edit.diff                                                                     diff \u001b[m\u001b[38;5;231m\u001b[38;5;247m\u001b[48;5;236m utf-8[unix] \u001b[m\u001b[38;5;231m\u001b[38;5;232m\u001b[48;5;166m ! trailing[7] \u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002774,
+      "\u001bP+q436f\u001b\\\u001bP+q6b75\u001b\\\u001bP+q6b64\u001b\\\u001bP+q6b72\u001b\\\u001bP+q6b6c\u001b\\\u001bP+q2332\u001b\\\u001bP+q2334\u001b\\\u001bP+q2569\u001b\\\u001bP+q2a37\u001b\\\u001bP+q6b31\u001b\\"
+    ],
+    [
+      0.459074,
+      "\u001b[?25l\u001b[m\u001b[38;5;231m\u001b[38;5;242m# Manual hunk edit mode -- see bottom for a quick guide\u001b[m\u001b[38;5;231m\u001b[1;56H\u001b[K\u001b[2;1H\u001b[38;5;197m\u001b[48;5;237m@@ -3,8 +5,11 @@\u001b[m\u001b[38;5;231m\u001b[48;5;237m                                                                                                                                       \u001b[2;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.144882,
+      "\u001b[?25l\u001b[m\u001b[38;5;231m\u001b[38;5;197m@@ -3,8 +5,11 @@\u001b[m\u001b[38;5;231m\u001b[2;17H\u001b[K\u001b[3;1H\u001b[48;5;237m import urllib                                                                                                                                         \u001b[3;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.144781,
+      "\u001b[?25l\u001b[m\u001b[38;5;231m import urllib\u001b[3;15H\u001b[K\u001b[4;1H\u001b[48;5;237m import urlparse                                                                                                                                       \u001b[4;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.138721,
+      "\u001b[?25l\u001b[m\u001b[38;5;231m import urlparse\u001b[4;17H\u001b[K\u001b[5;1H\u001b[48;5;237m import string                                                                                                                                         \u001b[5;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.157064,
+      "\u001b[?25l\u001b[m\u001b[38;5;231m import string\u001b[5;15H\u001b[K\u001b[6;1H\u001b[48;5;237m import random                                                                                                                                         \u001b[6;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.140096,
+      "\u001b[?25l\u001b[m\u001b[38;5;231m import random\u001b[6;15H\u001b[K\u001b[7;1H\u001b[48;5;237m                                                                                                                                                       \u001b[7;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.149210,
+      "\u001b[?25l\u001b[m\u001b[38;5;231m \u001b[7;2H\u001b[K\u001b[8;1H\u001b[32m\u001b[48;5;237m+_paragraph_re = re.compile(r'(?:\\r\\n|\\r|\\n){2,}')\u001b[m\u001b[38;5;231m\u001b[48;5;237m                                                                                                     \u001b[8;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.543758,
+      "\u001b[?25l\u001b[8;39r\u001b[m\u001b[38;5;231m\u001b[39;1H\r\n\u001b[1;41r\u001b[8;1H\u001b[32m\u001b[48;5;237m+tags = {'+': ('\u003cins\u003e', '\u003c/ins\u003e'), '-': ('\u003cdel\u003e', '\u003c/del\u003e'), ' ': (' ', '')}\u001b[m\u001b[38;5;231m\u001b[48;5;237m                                                                           \u001b[m\u001b[38;5;231m\u001b[39;1H~\u001b[40;50H\u001b[38;5;231m\u001b[48;5;233m[+]\u001b[m\u001b[38;5;231m\u001b[41;1H\u001b[K\u001b[8;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.962686,
+      "\u0007\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.133357,
+      "\u001b[?25l\u001b[41;1H\".git/addp-hunk-edit.diff\""
+    ],
+    [
+      0.088671,
+      " 21L, 705C written"
+    ],
+    [
+      0.002652,
+      "\r\r\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[39;49m\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.003776,
+      "\u001b[35m@@ -48,3 +53,49 @@\u001b[m \u001b[mdef track_length(value):\u001b[m\r\n"
+    ],
+    [
+      0.000010,
+      "     seconds = int(value) / 1000\u001b[m\r\n     minutes, seconds = divmod(seconds, 60)\u001b[m\r\n     return '%i:%02i' % (minutes, seconds)\u001b[m\r\n\u001b[32m+\u001b[m\r\n\u001b[32m+\u001b[m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[32m+\u001b[m\u001b[32mdef nl2br(value):\u001b[m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[32m+\u001b[m\u001b[32m    \"\"\"Break text into HTML line breaks and paragraphs.\u001b[m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[32m+\u001b[m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[32m+\u001b[m\u001b[32m    Based on: http://flask.pocoo.org/snippets/28/\u001b[m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[32m+\u001b[m\u001b[32m    \"\"\"\u001b[m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[32m+\u001b[m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[32m+\u001b[m\u001b[32m    result = u'\\n\\n'.join(u'\u003cp\u003e%s\u003c/p\u003e' % p.replace('\\n', '\u003cbr\u003e\\n')\u001b[m\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[32m+\u001b[m\u001b[32m                          for p in _paragraph_re.split(value))\u001b[m\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[32m+\u001b[m\u001b[32m    return result\u001b[m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[32m+\u001b[m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[32m+\u001b[m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[32m+\u001b[m\u001b[32mdef side_by_side_diff(old, new):\u001b[m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[32m+\u001b[m\u001b[32m    left, right = [], []\u001b[m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[32m+\u001b[m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[32m+\u001b[m\u001b[32m    # Deletions on the left, insertions on the right.\u001b[m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[32m+\u001b[m\u001b[32m    def append(tag, text):\u001b[m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[32m+\u001b[m\u001b[32m        if tag == '\u003cins\u003e':\u001b[m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[32m+\u001b[m\u001b[32m            right.append(text)\u001b[m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[32m+\u001b[m\u001b[32m        elif tag == '\u003cdel\u003e':\u001b[m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[32m+\u001b[m\u001b[32m            left.append(text)\u001b[m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[32m+\u001b[m\u001b[32m        else:\u001b[m\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[32m+\u001b[m\u001b[32m            left.append(text)\u001b[m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[32m+\u001b[m\u001b[32m            right.append(text)\u001b[m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[32m+\u001b[m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[32m+\u001b[m\u001b[32m    # Generates a compact word diff\u001b[m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[32m+\u001b[m\u001b[32m    prev_start, prev_end = None, ''\u001b[m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000025,
+      "\u001b[32m+\u001b[m\u001b[32m    prev_item = ''\u001b[m\r\n\u001b[32m+\u001b[m\r\n\u001b[32m+\u001b[m\u001b[32m    for item in difflib.ndiff(old.split(), new.split()):\u001b[m\r\n\u001b[32m+\u001b[m\u001b[32m        tag = tags.get(item[0])\u001b[m"
+    ],
+    [
+      0.000010,
+      "\r\n\u001b[32m+\u001b[m\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[32m+\u001b[m\u001b[32m        if not tag:\u001b[m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[32m+\u001b[m\u001b[32m            continue\u001b[m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[32m+\u001b[m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[32m+\u001b[m\u001b[32m        if prev_start == tag[0]:\u001b[m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[32m+\u001b[m\u001b[32m            prev_item += item[1:]\u001b[m\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[32m+\u001b[m\u001b[32m        else:\u001b[m\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[32m+\u001b[m\u001b[32m            append(prev_start, prev_item + prev_end)\u001b[m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[32m+\u001b[m\u001b[32m            prev_start, prev_end = tag\u001b[m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[32m+\u001b[m\u001b[32m            prev_item = prev_start + item[1:]\u001b[m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[32m+\u001b[m\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[32m+\u001b[m\u001b[32m    append(prev_start, prev_item + prev_end)\u001b[m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[32m+\u001b[m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[32m+\u001b[m\u001b[32m    return \" \".join(left), \" \".join(right)\u001b[m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "\u001b[1;34mStage this hunk [y,n,q,a,d,/,K,g,e,?]? \u001b[m"
+    ],
+    [
+      1.243254,
+      "e"
+    ],
+    [
+      0.135998,
+      "\r\n"
+    ],
+    [
+      0.066978,
+      "\u001b[?1049h\u001b[?1h\u001b=\u001b[2;1H▽\u001b[6n\u001b[2;1H  \u001b[1;1H"
+    ],
+    [
+      0.000688,
+      "\u001b[1;41r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[m\u001b[38;5;231m\u001b[H\u001b[2J\u001b[?25l\u001b[41;1H\"~/dev/critiquebrainz/.git/addp-hunk-edit.diff\""
+    ],
+    [
+      0.000052,
+      " 60L, 1824C"
+    ],
+    [
+      0.043563,
+      "\u001b[\u003ec"
+    ],
+    [
+      0.012071,
+      "\u001b[1;1H\u001b[38;5;242m\u001b[48;5;237m# Manual hunk edit mode -- see bottom for a quick guide\u001b[m\u001b[38;5;231m\u001b[48;5;237m                                                                                                \u001b[m\u001b[38;5;231m\u001b[2;1H\u001b[38;5;197m@@ -48,3 +53,49 @@ def track_length(value):\u001b[m\u001b[38;5;231m\u001b[3;6Hseconds = int(value) / 1000\u001b[4;6Hminutes, seconds = divmod(seconds, 60)\u001b[5;6Hreturn '%i:%02i' % (minutes, seconds)\r\n\u001b[32m+\r\n+\r\n+def nl2br(value):\r\n+    \"\"\"Break text into HTML line breaks and paragraphs.\r\n+\r\n+    Based on: http://flask.pocoo.org/snippets/28/\r\n+    \"\"\"\r\n+\r\n+    result = u'\\n\\n'.join(u'\u003cp\u003e%s\u003c/p\u003e' % p.replace('\\n', '\u003cbr\u003e\\n')\r\n+                          for p in _paragraph_re.split(value))\r\n+    return result\r\n+\r\n+\r\n+def side_by_side_diff(old, new):\r\n+    left, right = [], []\r\n+\r\n+    # Deletions on the left, insertions on the right.\r\n+    def append(tag, text):\r\n+        if tag == '\u003cins\u003e':\r\n+            right.append(text)\r\n+        elif tag == '\u003cdel\u003e':\r\n+            left.append(text)\r\n+        else:\r\n+            left.append(text)\r\n+            right.append(text)\r\n+\r\n+    # Generates a compact word diff\r\n+    prev_start, prev_end = None, ''\r\n+    prev_item = ''\r\n+\r\n+    for item in difflib.ndiff(old.split(), new.split()):\r\n+        tag = tags.get(item[0])\r\n+\r\n+        if not tag:\u001b[m\u001b[38;5;231m\r\n\u001b[38;5;22m\u001b[48;5;148m \u001b[m\u001b[38;5;231m\u001b[1m\u001b[38;5;22m\u001b[48;5;148mNORMAL\u001b[m\u001b[38;5;231m\u001b[38;5;22m\u001b[48;5;148m \u001b[m\u001b[38;5;231m\u001b[38;5;247m\u001b[48;5;236m diff-revisions \u001b[m\u001b[38;5;231m\u001b[38;5;231m\u001b[48;5;233m .git/addp-hunk-edit.diff                                                                                    diff \u001b[m\u001b[38;5;231m\u001b[38;5;247m\u001b[48;5;236m utf-8[unix] \u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001476,
+      "\u001bP+q436f\u001b\\\u001bP+q6b75\u001b\\\u001bP+q6b64\u001b\\\u001bP+q6b72\u001b\\\u001bP+q6b6c\u001b\\\u001bP+q2332\u001b\\\u001bP+q2334\u001b\\\u001bP+q2569\u001b\\\u001bP+q2a37\u001b\\\u001bP+q6b31\u001b\\"
+    ],
+    [
+      0.145445,
+      "\u001b[?25l\u001b[m\u001b[38;5;231m\u001b[38;5;242m# Manual hunk edit mode -- see bottom for a quick guide\u001b[m\u001b[38;5;231m\u001b[1;56H\u001b[K\u001b[2;1H\u001b[38;5;197m\u001b[48;5;237m@@ -48,3 +53,49 @@ def track_length(value):\u001b[m\u001b[38;5;231m\u001b[48;5;237m                                                                                                            \u001b[2;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.128084,
+      "\u001b[?25l\u001b[m\u001b[38;5;231m\u001b[38;5;197m@@ -48,3 +53,49 @@ def track_length(value):\u001b[m\u001b[38;5;231m\u001b[2;44H\u001b[K\u001b[3;1H\u001b[48;5;237m     seconds = int(value) / 1000                                                                                                                       \u001b[3;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.135902,
+      "\u001b[?25l\u001b[m\u001b[38;5;231m     seconds = int(value) / 1000\u001b[3;33H\u001b[K\u001b[4;1H\u001b[48;5;237m     minutes, seconds = divmod(seconds, 60)                                                                                                            \u001b[4;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.142566,
+      "\u001b[?25l\u001b[m\u001b[38;5;231m     minutes, seconds = divmod(seconds, 60)\u001b[4;44H\u001b[K\u001b[5;1H\u001b[48;5;237m     return '%i:%02i' % (minutes, seconds)                                                                                                             \u001b[5;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.140633,
+      "\u001b[?25l\u001b[m\u001b[38;5;231m     return '%i:%02i' % (minutes, seconds)\u001b[5;43H\u001b[K\u001b[6;1H\u001b[32m\u001b[48;5;237m+\u001b[m\u001b[38;5;231m\u001b[48;5;237m                                                                                                                                                      \u001b[6;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.139582,
+      "\u001b[?25l\u001b[m\u001b[38;5;231m\u001b[32m+\u001b[m\u001b[38;5;231m\u001b[6;2H\u001b[K\u001b[7;1H\u001b[32m\u001b[48;5;237m+\u001b[m\u001b[38;5;231m\u001b[48;5;237m                                                                                                                                                      \u001b[7;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.141094,
+      "\u001b[?25l\u001b[m\u001b[38;5;231m\u001b[32m+\u001b[m\u001b[38;5;231m\u001b[7;2H\u001b[K\u001b[8;1H\u001b[32m\u001b[48;5;237m+def nl2br(value):\u001b[m\u001b[38;5;231m\u001b[48;5;237m                                                                                                                                     \u001b[8;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.713407,
+      "\u0007"
+    ],
+    [
+      0.132418,
+      "\u0007"
+    ],
+    [
+      0.149814,
+      "\u0007"
+    ],
+    [
+      0.151025,
+      "\u0007"
+    ],
+    [
+      0.984471,
+      "\u001b[?25l\u001b[8;39r\u001b[m\u001b[38;5;231m\u001b[39;1H\r\n\u001b[1;41r\u001b[8;1H\u001b[32m\u001b[48;5;237m+    \"\"\"Break text into HTML line breaks and paragraphs.\u001b[m\u001b[38;5;231m\u001b[48;5;237m                                                                                               \u001b[m\u001b[38;5;231m\u001b[39;1H\u001b[32m+            continue\u001b[m\u001b[38;5;231m\u001b[40;50H\u001b[38;5;231m\u001b[48;5;233m[+]\u001b[m\u001b[38;5;231m\u001b[41;1H\u001b[K\u001b[8;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.376078,
+      "\u001b[?25l\u001b[1C\u001b[48;5;237m                                                       \u001b[m\u001b[38;5;231m\u001b[9;2H\u001b[32m    Based on: http://flask.pocoo.org/snippets/28/\u001b[10;6H\"\"\"\u001b[m\u001b[38;5;231m\u001b[10;9H\u001b[K\u001b[11;2H\u001b[K\u001b[12;2H\u001b[32m    result = u'\\n\\n'.join(u'\u003cp\u003e%s\u003c/p\u003e' % p.replace('\\n', '\u003cbr\u003e\\n')\u001b[13;6H                      for p in _paragraph_re.split(value))\u001b[m\u001b[38;5;231m\u001b[13;64H\u001b[K\u001b[14;6H\u001b[32mreturn result\u001b[m\u001b[38;5;231m\u001b[14;19H\u001b[K\u001b[15;2H\u001b[K\u001b[17;2H\u001b[32mdef side_by_side_diff(old, new):\r\n+    left, right = [], []\u001b[m\u001b[38;5;231m\u001b[18;26H\u001b[K\u001b[19;2H\u001b[K\u001b[20;2H\u001b[32m    # Deletions on the left, insertions on the right.\u001b[21;6Hdef append(tag, text):\u001b[m\u001b[38;5;231m\u001b[21;28H\u001b[K\u001b[22;6H\u001b[32m    if tag == '\u003cins\u003e'\u001b[23;10H    right.append(text)\u001b[24;10Helif tag == '\u003cdel\u003e':\u001b[m\u001b[38;5;231m\u001b[24;30H\u001b[K\u001b[25;10H\u001b[32m    left.append(text)\u001b[26;10Helse:\u001b[m\u001b[38;5;231m\u001b[26;15H\u001b[K\u001b[27;10H\u001b[32m    left.append(text)\u001b[28;14Hright.append(text)\u001b[m\u001b[38;5;231m\u001b[29;2H\u001b[K\u001b[30;2H\u001b[32m    # Generates a compact word diff\u001b[31;6Hprev_start, prev_end = None, ''\u001b[32;11Hitem = ''\u001b[m\u001b[38;5;231m\u001b[32;20H\u001b[K\u001b[33;2H\u001b[K\u001b[34;2H\u001b[32m    for item in difflib.ndiff(old.split(), new.split()):\u001b[35;6H    tag = tags.get(item[0])\u001b[m\u001b[38;5;231m\u001b[35;33H\u001b[K\u001b[36;2H\u001b[K\u001b[37;2H\u001b[32m        if not tag:\u001b[38;10H    continue\u001b[m\u001b[38;5;231m\u001b[39;2H\u001b[K\u001b[8;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.138320,
+      "\u001b[?25l\u001b[8;39r\u001b[39;1H\r\n\u001b[1;41r\u001b[8;1H\u001b[32m\u001b[48;5;237m+    Based on: http://flask.pocoo.org/snippets/28/\u001b[m\u001b[38;5;231m\u001b[48;5;237m                                                                                                     \u001b[m\u001b[38;5;231m\u001b[39;1H\u001b[32m+        if prev_start == tag[0]:\u001b[8;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.139296,
+      "\u001b[?25l\u001b[8;39r\u001b[m\u001b[38;5;231m\u001b[39;1H\r\n\u001b[1;41r\u001b[8;1H\u001b[32m\u001b[48;5;237m+    \"\"\"\u001b[m\u001b[38;5;231m\u001b[48;5;237m                                                                                                                                               \u001b[m\u001b[38;5;231m\u001b[39;1H\u001b[32m+            prev_item += item[1:]\u001b[8;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.148698,
+      "\u001b[?25l\u001b[8;39r\u001b[m\u001b[38;5;231m\u001b[39;1H\r\n\u001b[1;41r\u001b[8;1H\u001b[32m\u001b[48;5;237m+\u001b[m\u001b[38;5;231m\u001b[48;5;237m                                                                                                                                                      \u001b[m\u001b[38;5;231m\u001b[39;1H\u001b[32m+        else:\u001b[8;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.154987,
+      "\u001b[?25l\u001b[8;39r\u001b[m\u001b[38;5;231m\u001b[39;1H\r\n\u001b[1;41r\u001b[8;1H\u001b[32m\u001b[48;5;237m+    result = u'\\n\\n'.join(u'\u003cp\u003e%s\u003c/p\u003e' % p.replace('\\n', '\u003cbr\u003e\\n')\u001b[m\u001b[38;5;231m\u001b[48;5;237m                                                                                    \u001b[m\u001b[38;5;231m\u001b[39;1H\u001b[32m+            append(prev_start, prev_item + prev_end)\u001b[8;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.159626,
+      "\u001b[?25l\u001b[8;39r\u001b[m\u001b[38;5;231m\u001b[39;1H\r\n\u001b[1;41r\u001b[8;1H\u001b[32m\u001b[48;5;237m+                          for p in _paragraph_re.split(value))\u001b[m\u001b[38;5;231m\u001b[48;5;237m                                                                                        \u001b[m\u001b[38;5;231m\u001b[39;1H\u001b[32m+            prev_start, prev_end = tag\u001b[8;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.150641,
+      "\u001b[?25l\u001b[8;39r\u001b[m\u001b[38;5;231m\u001b[39;1H\r\n\u001b[1;41r\u001b[8;1H\u001b[32m\u001b[48;5;237m+    return result\u001b[m\u001b[38;5;231m\u001b[48;5;237m                                                                                                                                     \u001b[m\u001b[38;5;231m\u001b[39;1H\u001b[32m+            prev_item = prev_start + item[1:]\u001b[8;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.163179,
+      "\u001b[?25l\u001b[8;39r\u001b[m\u001b[38;5;231m\u001b[39;1H\r\n\u001b[1;41r\u001b[8;1H\u001b[32m\u001b[48;5;237m+\u001b[m\u001b[38;5;231m\u001b[48;5;237m                                                                                                                                                      \u001b[m\u001b[38;5;231m\u001b[39;1H\u001b[32m+\u001b[8;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.608883,
+      "\u001b[?25l\u001b[8;39r\u001b[m\u001b[38;5;231m\u001b[39;1H\r\n\u001b[1;41r\u001b[8;1H\u001b[32m\u001b[48;5;237m+\u001b[m\u001b[38;5;231m\u001b[48;5;237m                                                                                                                                                      \u001b[m\u001b[38;5;231m\u001b[39;1H\u001b[32m+    append(prev_start, prev_item + prev_end)\u001b[8;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.134665,
+      "\u001b[?25l\u001b[8;39r\u001b[m\u001b[38;5;231m\u001b[39;1H\r\n\u001b[1;41r\u001b[8;1H\u001b[32m\u001b[48;5;237m+def side_by_side_diff(old, new):\u001b[m\u001b[38;5;231m\u001b[48;5;237m                                                                                                                      \u001b[m\u001b[38;5;231m\u001b[39;1H\u001b[32m+\u001b[8;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.011796,
+      "\u0007"
+    ],
+    [
+      0.135383,
+      "\u001b[?25l\u001b[m\u001b[38;5;231m\u001b[41;1H\".git/addp-hunk-edit.diff\""
+    ],
+    [
+      0.043082,
+      " 49L, 1529C written"
+    ],
+    [
+      0.003758,
+      "\r\r\r\n\u001b[39;49m\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.014803,
+      "\r\n"
+    ],
+    [
+      0.002853,
+      "                                                                                                                                                       \r\r"
+    ],
+    [
+      0.000065,
+      "\u001b]2;dufferzafar@duffer-ubuntu: ~/dev/critiquebrainz\u0007"
+    ],
+    [
+      0.000033,
+      "\u001b]1;..ritiquebrainz\u0007"
+    ],
+    [
+      0.052794,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n"
+    ],
+    [
+      0.000025,
+      "\u001b[38;5;032m~/dev/critiquebrainz \u001b[38;5;214m(diff-revisions)\u001b[38;5;214m\u001b[00m \u001b[38;5;105m\u003e\u001b[00m \u001b[K\u001b[102C\u001b[38;5;245m10:42:04\u001b[00m\u001b[110D"
+    ],
+    [
+      0.000082,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.870994,
+      "\u001b[H\u001b[2J\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[38;5;032m~/dev/critiquebrainz \u001b[38;5;214m(diff-revisions)\u001b[38;5;214m\u001b[00m \u001b[38;5;105m\u003e\u001b[00m \u001b[K\u001b[102C\u001b[38;5;245m10:42:04\u001b[00m\u001b[110D"
+    ],
+    [
+      1.279081,
+      "\u001b[4m\u001b[33mg\u001b[24m\u001b[39m"
+    ],
+    [
+      0.176468,
+      "\u0008\u001b[24m\u001b[32mg\u001b[32mc\u001b[39m"
+    ],
+    [
+      0.176558,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000008,
+      "\r\r\n"
+    ],
+    [
+      0.001143,
+      "\u001b]2;git commit -v\u0007\u001b]1;gc\u0007"
+    ],
+    [
+      0.075351,
+      "\u001b[?1049h\u001b[?1h\u001b=\u001b[2;1H▽\u001b[6n\u001b[2;1H  \u001b[1;1H"
+    ],
+    [
+      0.000672,
+      "\u001b[1;41r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[m\u001b[38;5;231m\u001b[H\u001b[2J\u001b[?25l\u001b[41;1H\"~/dev/critiquebrainz/.git/COMMIT_EDITMSG\""
+    ],
+    [
+      0.000055,
+      " 77L, 2338C"
+    ],
+    [
+      0.054202,
+      "\u001b[\u003ec"
+    ],
+    [
+      0.014770,
+      "\u001b[1;1H\u001b[48;5;237m                                                                                                                                                       \u001b[m\u001b[38;5;231m\u001b[2;1H\u001b[38;5;242m# Please enter the commit message for your changes. Lines starting\r\n# with '#' will be ignored, and an empty message aborts the commit.\r\n# \u001b[m\u001b[38;5;231m\u001b[38;5;186mOn branch\u001b[m\u001b[38;5;231m\u001b[38;5;242m \u001b[m\u001b[38;5;231m\u001b[38;5;141mdiff-revisions\u001b[m\u001b[38;5;231m\r\n\u001b[38;5;242m# \u001b[m\u001b[38;5;231m\u001b[38;5;255mChanges to be committed:\u001b[m\u001b[38;5;231m\r\n\u001b[38;5;242m#       modified: \u001b[m\u001b[38;5;231m\u001b[32m  critiquebrainz/utils.py\u001b[m\u001b[38;5;231m\r\n\u001b[38;5;242m#\r\n# \u001b[m\u001b[38;5;231m\u001b[38;5;255mChanges not staged for commit:\u001b[m\u001b[38;5;231m\r\n\u001b[38;5;242m#       modified: \u001b[m\u001b[38;5;231m\u001b[31m  critiquebrainz/frontend/review/views.py\u001b[m\u001b[38;5;231m\r\n\u001b[38;5;242m#       modified: \u001b[m\u001b[38;5;231m\u001b[31m  critiquebrainz/frontend/static/css/main.less\u001b[m\u001b[38;5;231m\r\n\u001b[38;5;242m#       modified: \u001b[m\u001b[38;5;231m\u001b[31m  critiquebrainz/frontend/templates/review/revision_results.html\u001b[m\u001b[38;5;231m\r\n\u001b[38;5;242m#       modified: \u001b[m\u001b[38;5;231m\u001b[31m  critiquebrainz/frontend/templates/review/revisions.html\u001b[m\u001b[38;5;231m\r\n\u001b[38;5;242m#       modified: \u001b[m\u001b[38;5;231m\u001b[31m  critiquebrainz/utils.py\u001b[m\u001b[38;5;231m\r\n\u001b[38;5;242m#\r\n# \u001b[m\u001b[38;5;231m\u001b[38;5;255mUntracked files:\u001b[m\u001b[38;5;231m\r\n\u001b[38;5;242m#       critiquebrainz/frontend/templates/review/revisions_compare.html\r\n#\r\n# ------------------------ \u003e8 ------------------------\r\n# Do not touch the line above.\r\n# Everything below will be removed.\u001b[m\u001b[38;5;231m\r\n\u001b[38;5;226mdiff --git a/critiquebrainz/utils.py b/critiquebrainz/utils.py\u001b[m\u001b[38;5;231m\r\nindex 505f5a4..17c5d38 100644\r\n\u001b[38;5;226m--- a/critiquebrainz/utils.py\r\n+++ b/critiquebrainz/utils.py\u001b[m\u001b[38;5;231m\r\n\u001b[38;5;197m@@ -1,10 +1,13 @@\u001b[m\u001b[38;5;231m\r\n from flask_uuid import UUID_RE\r\n from flask_babel import format_datetime, format_date\r\n\u001b[32m+import difflib\u001b[m\u001b[38;5;231m\r\n import urllib\r\n import urlparse\r\n import string\r\n import random\r\n\r\n\u001b[32m+tags = {'+': ('\u003cins\u003e', '\u003c/ins\u003e'), '-': "
+    ],
+    [
+      0.002619,
+      "('\u003cdel\u003e', '\u003c/del\u003e'), ' ': (' ', '')}\r\n+\u001b[m\u001b[38;5;231m\r\n\r\n def build_url(base, additional_params=None):\u001b[38;6Hurl = urlparse.urlparse(base)\r\n\u001b[38;5;197m@@ -48,3 +51,38 @@ def track_length(value):\u001b[m\u001b[38;5;231m\r\n\u001b[38;5;22m\u001b[48;5;148m \u001b[m\u001b[38;5;231m\u001b[1m\u001b[38;5;22m\u001b[48;5;148mNORMAL\u001b[m\u001b[38;5;231m\u001b[38;5;22m\u001b[48;5;148m \u001b[m\u001b[38;5;231m\u001b[38;5;247m\u001b[48;5;236m diff-revisions \u001b[m\u001b[38;5;231m\u001b[38;5;231m\u001b[48;5;233m .git/COMMIT_EDITMSG                                                                    gitcommit \u001b[m\u001b[38;5;231m\u001b[38;5;247m\u001b[48;5;236m utf-8[unix] \u001b[m\u001b[38;5;231m\u001b[38;5;232m\u001b[48;5;166m ! trailing[33] \u001b[1;1H\u001b[?12l\u001b[?25h\u001bP+q436f\u001b\\\u001bP+q6b75\u001b\\\u001bP+q6b64\u001b\\\u001bP+q6b72\u001b\\\u001bP+q6b6c\u001b\\\u001bP+q2332\u001b\\\u001bP+q2334\u001b\\\u001bP+q2569\u001b\\\u001bP+q2a37\u001b\\\u001bP+q6b31\u001b\\"
+    ],
+    [
+      1.595208,
+      "\u001b[m\u001b[38;5;231m\u001b[40;1H\u001b[38;5;23m\u001b[48;5;231m \u001b[m\u001b[38;5;231m\u001b[1m\u001b[38;5;23m\u001b[48;5;231mINSERT\u001b[m\u001b[38;5;231m\u001b[38;5;22m\u001b[48;5;148m \u001b[m\u001b[38;5;231m\u0008\u001b[38;5;23m\u001b[48;5;231m \u001b[m\u001b[38;5;231m\u001b[38;5;74m\u001b[48;5;31m diff-revisions \u001b[m\u001b[38;5;231m\u001b[38;5;117m\u001b[48;5;24m .git/COMMIT_EDITMSG                                                                    gitcommit \u001b[m\u001b[38;5;231m\u001b[38;5;74m\u001b[48;5;31m utf-8[unix] \u001b[1;1H\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.948641,
+      "\u001b[?25l\u001b[m\u001b[38;5;231m\u001b[38;5;197m\u001b[48;5;237mA\u001b[m\u001b[38;5;231m\u001b[40;45H\u001b[38;5;117m\u001b[48;5;24m[+]\u001b[1;2H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.190451,
+      "\u001b[?25l\u001b[m\u001b[38;5;231m\u001b[38;5;197m\u001b[48;5;237md\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.132945,
+      "\u001b[?25ld\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.120098,
+      "\u001b[?25le\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.072777,
+      "\u001b[?25ld\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.154488,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.331816,
+      "\u001b[?25l\u001b[m\u001b[38;5;231m\u0008\u001b[48;5;237m \u0008\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.160696,
+      "\u001b[?25l\u0008 \u0008\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.689182,
+      "\u001b[?25l\u0008 \u0008\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.632565,
+      "\u001b[?25l\u001b[m\u001b[38;5;231m\u001b[38;5;197m\u001b[48;5;237m \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.095478,
+      "\u001b[?25la\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.126814,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.555840,
+      "\u001b[?25lf\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.125939,
+      "\u001b[?25lu\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.163034,
+      "\u001b[?25ln\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.066231,
+      "\u001b[?25lc\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.197542,
+      "\u001b[?25lt\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.043052,
+      "\u001b[?25li\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.047323,
+      "\u001b[?25lo\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.157011,
+      "\u001b[?25ln\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.140059,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.085885,
+      "\u001b[?25lt\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.102121,
+      "\u001b[?25lo\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.144571,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.147949,
+      "\u001b[?25ld\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.188701,
+      "\u001b[?25li\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.096923,
+      "\u001b[?25ls\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.116032,
+      "\u001b[?25lp\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.135918,
+      "\u001b[?25ll\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.108070,
+      "\u001b[?25la\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.118747,
+      "\u001b[?25ly\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.170987,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.099923,
+      "\u001b[?25ls\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.111076,
+      "\u001b[?25li\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.123008,
+      "\u001b[?25ld\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.101431,
+      "\u001b[?25le\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.094709,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.188762,
+      "\u001b[?25lb\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.452967,
+      "\u001b[?25ly\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.180939,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.098930,
+      "\u001b[?25ls\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.114834,
+      "\u001b[?25li\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.113782,
+      "\u001b[?25ld\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.087976,
+      "\u001b[?25le\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.089654,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.137433,
+      "\u001b[?25ld\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.356258,
+      "\u001b[?25li\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.118421,
+      "\u001b[?25lf\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.118895,
+      "\u001b[?25lf\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.192065,
+      "\u001b[?25ls\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.545892,
+      "\u001b[?25l\u001b[2;39r\u001b[m\u001b[38;5;231m\u001b[2;1H\u001b[L\u001b[1;41r\u001b[1;1H\u001b[38;5;197mAdd a function to display side by side \u001b[m\u001b[38;5;231m\u001b[4m\u001b[38;5;196mdiffs\u001b[m\u001b[38;5;231m\u001b[1;45H\u001b[K\u001b[2;1H\u001b[48;5;237m                                                                                                                                                       \u001b[m\u001b[38;5;231m\u001b[41;1H\u001b[K\u001b[2;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.114158,
+      "\u001b[?25l\u001b[3;39r\u001b[3;1H\u001b[L\u001b[1;41r\u001b[2;1H\u001b[K\u001b[3;1H\u001b[48;5;237m                                                                                                                                                       \u001b[3;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.314952,
+      "\u001b[?25lB\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.218233,
+      "\u001b[?25la\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.102711,
+      "\u001b[?25ls\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.171266,
+      "\u001b[?25le\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.163612,
+      "\u001b[?25ld\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.098390,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.167796,
+      "\u001b[?25lo\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.151630,
+      "\u001b[?25ln\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.147907,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      2.070326,
+      "\u001b[?25ld\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.168456,
+      "\u001b[?25li\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.130042,
+      "\u001b[?25lf\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.130352,
+      "\u001b[?25lf\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.097937,
+      "\u001b[?25ll\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.176460,
+      "\u001b[?25li\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.171935,
+      "\u001b[?25lb\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.259716,
+      "\u001b[?25l\u001b[m\u001b[38;5;231m\u001b[3;10H\u001b[4m\u001b[38;5;196m\u001b[48;5;237mdifflib\u001b[m\u001b[38;5;231m\u001b[48;5;237m.\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.603383,
+      "\u0008"
+    ],
+    [
+      0.620170,
+      "\u001b[?25l\u001b[m\u001b[38;5;231m\u001b[40;1H\u001b[38;5;22m\u001b[48;5;148m \u001b[m\u001b[38;5;231m\u001b[1m\u001b[38;5;22m\u001b[48;5;148mNORMAL\u001b[m\u001b[38;5;231m\u001b[38;5;23m\u001b[48;5;231m \u001b[m\u001b[38;5;231m\u0008\u001b[38;5;22m\u001b[48;5;148m \u001b[m\u001b[38;5;231m\u001b[38;5;247m\u001b[48;5;236m diff-revisions \u001b[m\u001b[38;5;231m\u001b[38;5;231m\u001b[48;5;233m .git/COMMIT_EDITMSG[+]                                                                 gitcommit \u001b[m\u001b[38;5;231m\u001b[38;5;247m\u001b[48;5;236m utf-8[unix] \u001b[3;17H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.121746,
+      "\u001b[?25l\u001b[m\u001b[38;5;231m\u001b[41;1H\".git/COMMIT_EDITMSG\""
+    ],
+    [
+      0.042495,
+      " 79L, 2401C written"
+    ],
+    [
+      0.009553,
+      "\r\r\r\n\u001b[39;49m\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.002900,
+      "[diff-revisions 43bcc41] Add a function to display side by side diffs\r\n 1 file changed, 38 insertions(+)\r\n"
+    ],
+    [
+      0.000980,
+      "                                                                                                                                                       \r\r\u001b]2;dufferzafar@duffer-ubuntu: ~/dev/critiquebrainz\u0007\u001b]1;..ritiquebrainz\u0007"
+    ],
+    [
+      0.052465,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[38;5;032m~/dev/critiquebrainz \u001b[38;5;214m(diff-revisions)\u001b[38;5;214m\u001b[00m \u001b[38;5;105m\u003e\u001b[00m \u001b[K\u001b[102C\u001b[38;5;245m10:42:26\u001b[00m\u001b[110D"
+    ],
+    [
+      0.000177,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.717853,
+      "\r\r\n"
+    ]
+  ]
+}
