@@ -1,0 +1,3754 @@
+{
+  "version": 1,
+  "width": 94,
+  "height": 25,
+  "duration": 24.906137,
+  "command": "/opt/twitter/bin/fish",
+  "title": "",
+  "env": {
+    "TERM": "screen-256color",
+    "SHELL": "/opt/twitter/bin/fish"
+  },
+  "stdout": [
+    [
+      0.087369,
+      "\u001b]0;fish  /Users/phartig/Project"
+    ],
+    [
+      0.000006,
+      "s/java/LintSample\u0007"
+    ],
+    [
+      0.000002,
+      "\u001b[3"
+    ],
+    [
+      0.000006,
+      "0m\u001b[m\u000f"
+    ],
+    [
+      0.092729,
+      "\u001b]0;fish  /Users/phartig/Projects"
+    ],
+    [
+      0.000017,
+      "/java/LintSample\u0007\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.000103,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                             \r \r"
+    ],
+    [
+      0.000129,
+      "\u001b[1m\u001b[37m\u001b[42m[I]\u001b[30m\u001b[m\u000f phartig@tw-mbp-phartig \u001b[32m~/P/j/LintSample\u001b[30m\u001b[m\u000f (master \u001b[31m▼\u001b[30m\u001b[m\u000f) $ \u001b[K"
+    ],
+    [
+      0.852008,
+      "."
+    ],
+    [
+      0.000211,
+      "\u0008\u001b[38;5;247m.\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.006029,
+      "\u001b[38;5;242m/gradlew lint --offline\u001b[23D\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.194410,
+      "\u001b[38;5;247m/\u001b[38;5;242mgradlew lint --offline\u001b[22D\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.120019,
+      "\u001b[38;5;247mg\u001b[38;5;242mradlew lint --offline\u001b[21D\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.000373,
+      "\u0008\u0008\u0008\u001b[38;5;166m./g\u001b[38;5;242mradlew lint --offline\u001b[21D\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.615465,
+      "\u001b[38;5;166mradlew lint --offline\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.000210,
+      "\u001b[24D\u001b[38;5;247m./gradlew\u001b[30m\u001b[m\u000f \u001b[38;5;246mlint\u001b[30m\u001b[m\u000f \u001b[38;5;246m--offline\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.551512,
+      "\r\n\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.000194,
+      "\u001b]0;./gradlew  /Users/pharti"
+    ],
+    [
+      0.000004,
+      "g/Projects/java/Lin"
+    ],
+    [
+      0.000002,
+      "tSa"
+    ],
+    [
+      0.000002,
+      "mp"
+    ],
+    [
+      0.000002,
+      "le"
+    ],
+    [
+      0.000002,
+      "\u0007"
+    ],
+    [
+      0.000026,
+      "\u001b[30"
+    ],
+    [
+      0.000004,
+      "m\u001b[m\u000f"
+    ],
+    [
+      0.286481,
+      "\u001b[0m"
+    ],
+    [
+      0.411901,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000592,
+      "\u001b[1m \u003e Resolving dependencies 'classpath'\u001b[22m"
+    ],
+    [
+      0.001487,
+      "\u001b[37D\u001b[0K"
+    ],
+    [
+      0.000900,
+      "\u001b[7D\u001b[1mConfiguring\u001b[22m"
+    ],
+    [
+      0.000535,
+      "\u001b[1m \u003e 0/3 projects\u001b[22m"
+    ],
+    [
+      0.002209,
+      "\u001b[28D\u001b[0KParallel execution with configuration on demand is an incubating feature.\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Configuring \u003e 0/3 projects\u001b[22m"
+    ],
+    [
+      0.000060,
+      "\u001b[28D\u001b[0K\u001b[1A\u001b[73C\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Configuring \u003e 0/3 projects\u001b[22m"
+    ],
+    [
+      0.000611,
+      "\u001b[1m \u003e root project\u001b[22m"
+    ],
+    [
+      0.000606,
+      "\u001b[1m \u003e Resolving dependencies ':classpath'\u001b[22m"
+    ],
+    [
+      0.016995,
+      "\u001b[38D\u001b[0K"
+    ],
+    [
+      0.005405,
+      "\u001b[15D\u001b[0K"
+    ],
+    [
+      0.000358,
+      "\u001b[12D\u001b[1m1/3 projects\u001b[22m"
+    ],
+    [
+      0.000537,
+      "\u001b[1m \u003e :app\u001b[22m"
+    ],
+    [
+      0.000545,
+      "\u001b[1m \u003e Resolving dependencies ':app:classpath'\u001b[22m"
+    ],
+    [
+      0.000374,
+      "\u001b[42D\u001b[0K"
+    ],
+    [
+      0.009812,
+      "\u001b[7D\u001b[0K"
+    ],
+    [
+      0.000353,
+      "\u001b[12D\u001b[1m2/3 projects\u001b[22m"
+    ],
+    [
+      0.015987,
+      "\u001b[1m \u003e Resolving dependencies ':app:_debugCompile'\u001b[22m"
+    ],
+    [
+      0.000644,
+      "\u001b[46D\u001b[0K"
+    ],
+    [
+      0.000654,
+      "\u001b[1m \u003e Resolving dependencies ':app:_debugApk'\u001b[22m"
+    ],
+    [
+      0.000467,
+      "\u001b[42D\u001b[0K"
+    ],
+    [
+      0.002390,
+      "\u001b[1m \u003e Resolving dependencies ':app:_releaseCompile'\u001b[22m"
+    ],
+    [
+      0.000755,
+      "\u001b[48D\u001b[0K"
+    ],
+    [
+      0.000667,
+      "\u001b[1m \u003e Resolving dependencies ':app:_releaseApk'\u001b[22m"
+    ],
+    [
+      0.000449,
+      "\u001b[44D\u001b[0K"
+    ],
+    [
+      0.054013,
+      "\u001b[1m \u003e Resolving dependencies ':app:_debugUnitTestCompile'\u001b[22m"
+    ],
+    [
+      0.000422,
+      "\u001b[54D\u001b[0K"
+    ],
+    [
+      0.000549,
+      "\u001b[1m \u003e Resolving dependencies ':app:_debugUnitTestApk'\u001b[22m"
+    ],
+    [
+      0.000330,
+      "\u001b[50D\u001b[0K"
+    ],
+    [
+      0.008438,
+      "\u001b[1m \u003e Resolving dependencies ':app:releaseWearApp'\u001b[22m"
+    ],
+    [
+      0.000389,
+      "\u001b[47D\u001b[0K"
+    ],
+    [
+      0.000667,
+      "\u001b[1m \u003e Resolving dependencies ':app:wearApp'\u001b[22m"
+    ],
+    [
+      0.000383,
+      "\u001b[40D\u001b[0K"
+    ],
+    [
+      0.003478,
+      "\u001b[1m \u003e Resolving dependencies ':app:_releaseUnitTestCompile'\u001b[22m"
+    ],
+    [
+      0.000380,
+      "\u001b[56D\u001b[0K"
+    ],
+    [
+      0.000480,
+      "\u001b[1m \u003e Resolving dependencies ':app:_releaseUnitTestApk'\u001b[22m"
+    ],
+    [
+      0.000337,
+      "\u001b[52D\u001b[0K"
+    ],
+    [
+      0.000872,
+      "\u001b[1m \u003e Resolving dependencies ':app:_debugAndroidTestCompile'\u001b[22m"
+    ],
+    [
+      0.000375,
+      "\u001b[57D\u001b[0K"
+    ],
+    [
+      0.000493,
+      "\u001b[1m \u003e Resolving dependencies ':app:_debugAndroidTestApk'\u001b[22m"
+    ],
+    [
+      0.000331,
+      "\u001b[53D\u001b[0K"
+    ],
+    [
+      0.008175,
+      "\u001b[1m \u003e :mylibrary\u001b[22m"
+    ],
+    [
+      0.001210,
+      "\u001b[1m \u003e Resolving dependencies ':mylibrary:classpath'\u001b[22m"
+    ],
+    [
+      0.000339,
+      "\u001b[48D\u001b[0K"
+    ],
+    [
+      0.007966,
+      "\u001b[13D\u001b[0K"
+    ],
+    [
+      0.000325,
+      "\u001b[12D\u001b[1m3/3 projects\u001b[22m"
+    ],
+    [
+      0.001707,
+      "\u001b[1m \u003e Resolving dependencies ':mylibrary:_debugCompile'\u001b[22m"
+    ],
+    [
+      0.000812,
+      "\u001b[52D\u001b[0K"
+    ],
+    [
+      0.000501,
+      "\u001b[1m \u003e Resolving dependencies ':mylibrary:_debugPublish'\u001b[22m"
+    ],
+    [
+      0.000360,
+      "\u001b[52D\u001b[0K"
+    ],
+    [
+      0.002595,
+      "\u001b[1m \u003e Resolving dependencies ':mylibrary:_releaseCompile'\u001b[22m"
+    ],
+    [
+      0.000871,
+      "\u001b[54D\u001b[0K"
+    ],
+    [
+      0.000606,
+      "\u001b[1m \u003e Resolving dependencies ':mylibrary:_releasePublish'\u001b[22m"
+    ],
+    [
+      0.000439,
+      "\u001b[54D\u001b[0K"
+    ],
+    [
+      0.022652,
+      "\u001b[1m \u003e Resolving dependencies ':mylibrary:_debugUnitTestCompile'\u001b[22m"
+    ],
+    [
+      0.000740,
+      "\u001b[60D\u001b[0K"
+    ],
+    [
+      0.000474,
+      "\u001b[1m \u003e Resolving dependencies ':mylibrary:_debugUnitTestApk'\u001b[22m"
+    ],
+    [
+      0.000325,
+      "\u001b[56D\u001b[0K"
+    ],
+    [
+      0.008855,
+      "\u001b[1m \u003e Resolving dependencies ':mylibrary:_releaseUnitTestCompile'\u001b[22m"
+    ],
+    [
+      0.000822,
+      "\u001b[62D\u001b[0K"
+    ],
+    [
+      0.000475,
+      "\u001b[1m \u003e Resolving dependencies ':mylibrary:_releaseUnitTestApk'\u001b[22m"
+    ],
+    [
+      0.000300,
+      "\u001b[58D\u001b[0K"
+    ],
+    [
+      0.002549,
+      "\u001b[1m \u003e Resolving dependencies ':mylibrary:_debugAndroidTestCompile'\u001b[22m"
+    ],
+    [
+      0.000709,
+      "\u001b[63D\u001b[0K"
+    ],
+    [
+      0.000437,
+      "\u001b[1m \u003e Resolving dependencies ':mylibrary:_debugAndroidTestApk'\u001b[22m"
+    ],
+    [
+      0.000310,
+      "\u001b[59D\u001b[0K"
+    ],
+    [
+      0.010564,
+      "\u001b[15D\u001b[0K"
+    ],
+    [
+      0.000368,
+      "\u001b[13D\u001b[0K"
+    ],
+    [
+      0.000392,
+      "\u001b[1m\u003e Building 0%\u001b[22m"
+    ],
+    [
+      0.001563,
+      "\u001b[1m \u003e :app:preBuild\u001b[22m"
+    ],
+    [
+      0.000712,
+      "\u001b[12D\u001b[1mmylibrary:preBuild\u001b[22m"
+    ],
+    [
+      0.000392,
+      "\u001b[22D\u001b[0K"
+    ],
+    [
+      0.000090,
+      "\u001b[13D\u001b[0K:app:preBuild\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 0%\u001b[22m"
+    ],
+    [
+      0.000054,
+      "\u001b[13D\u001b[0K:mylibrary:preBuild \r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[1m\u003e Building 0%\u001b[22m"
+    ],
+    [
+      0.001425,
+      "\u001b[13D\u001b[0K\u001b[1A\u001b[20C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[1m\u003e Building 0%\u001b[22m"
+    ],
+    [
+      0.000106,
+      "\u001b[13D\u001b[0K\u001b[1A\u001b[30C\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[1m\u003e Building 0%\u001b[22m"
+    ],
+    [
+      0.000770,
+      "\u001b[2D\u001b[1m1%\u001b[22m"
+    ],
+    [
+      0.000421,
+      "\u001b[13D\u001b[0K:app:preBuild \r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 1%\u001b[22m"
+    ],
+    [
+      0.000064,
+      "\u001b[13D\u001b[0K\u001b[1A\u001b[14C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 1%\u001b[22m"
+    ],
+    [
+      0.000052,
+      "\u001b[13D\u001b[0K\u001b[1A\u001b[24C\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Building 1%\u001b[22m"
+    ],
+    [
+      0.000381,
+      "\u001b[2D\u001b[1m2%\u001b[22m"
+    ],
+    [
+      0.000462,
+      "\u001b[1m \u003e :app:preDebugBuild\u001b[22m"
+    ],
+    [
+      0.000508,
+      "\u001b[17D\u001b[1mmylibrary:preDebugBuild\u001b[22m"
+    ],
+    [
+      0.000393,
+      "\u001b[27D\u001b[0K"
+    ],
+    [
+      0.000078,
+      "\u001b[13D\u001b[0K:app:preDebugBuild\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Building 2%\u001b[22m"
+    ],
+    [
+      0.000067,
+      "\u001b[13D\u001b[0K:mylibrary:preDebugBuild \r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[1m\u003e Building 2%\u001b[22m"
+    ],
+    [
+      0.000065,
+      "\u001b[13D\u001b[0K\u001b[1A\u001b[25C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[1m\u003e Building 2%\u001b[22m"
+    ],
+    [
+      0.000052,
+      "\u001b[13D\u001b[0K\u001b[1A\u001b[35C\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[1m\u003e Building 2%\u001b[22m"
+    ],
+    [
+      0.000378,
+      "\u001b[2D\u001b[1m4%\u001b[22m"
+    ],
+    [
+      0.000320,
+      "\u001b[13D\u001b[0K:app:preDebugBuild \r\n"
+    ],
+    [
+      0.000283,
+      "\u001b[1m\u003e Building 4%\u001b[22m\u001b[13D\u001b[0K\u001b[1A\u001b[19C\u001b[33mUP-TO-DATE\u001b[39m\r\n\u001b[1m\u003e Building 4%\u001b[22m\u001b[13D\u001b[0K\u001b[1A\u001b[29C\r\n\u001b[1m\u003e Building 4%\u001b[22m"
+    ],
+    [
+      0.000273,
+      "\u001b[2D\u001b[1m5%\u001b[22m"
+    ],
+    [
+      0.000593,
+      "\u001b[1m \u003e :app:checkDebugManifest\u001b[22m"
+    ],
+    [
+      0.000525,
+      "\u001b[22D\u001b[1mmylibrary:checkDebugManifest\u001b[22m"
+    ],
+    [
+      0.000362,
+      "\u001b[32D\u001b[0K"
+    ],
+    [
+      0.000057,
+      "\u001b[13D\u001b[0K:app:checkDebugManifest\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 5%\u001b[22m"
+    ],
+    [
+      0.000070,
+      "\u001b[13D\u001b[0K:mylibrary:checkDebugManifest\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 5%\u001b[22m"
+    ],
+    [
+      0.000298,
+      "\u001b[2D\u001b[1m7%\u001b[22m"
+    ],
+    [
+      0.000691,
+      "\u001b[2D\u001b[1m8%\u001b[22m"
+    ],
+    [
+      0.000591,
+      "\u001b[1m \u003e :app:prepareDebugDependencies\u001b[22m"
+    ],
+    [
+      0.000602,
+      "\u001b[28D\u001b[1mmylibrary:prepareDebugDependencies\u001b[22m"
+    ],
+    [
+      0.000451,
+      "\u001b[38D\u001b[0K"
+    ],
+    [
+      0.000079,
+      "\u001b[13D\u001b[0K:app:prepareDebugDependencies\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[1m\u003e Building 8%\u001b[22m"
+    ],
+    [
+      0.000116,
+      "\u001b[13D\u001b[0K:mylibrary:prepareDebugDependencies\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 8%\u001b[22m"
+    ],
+    [
+      0.000382,
+      "\u001b[2D\u001b[1m10%\u001b[22m"
+    ],
+    [
+      0.000645,
+      "\u001b[2D\u001b[1m1%\u001b[22m"
+    ],
+    [
+      0.000485,
+      "\u001b[1m \u003e :mylibrary:compileDebugAidl\u001b[22m"
+    ],
+    [
+      0.000506,
+      "\u001b[26D\u001b[1mapp:compileDebugAidl\u001b[22m\u001b[0K"
+    ],
+    [
+      0.000358,
+      "\u001b[24D\u001b[0K"
+    ],
+    [
+      0.000086,
+      "\u001b[14D\u001b[0K:mylibrary:compileDebugAidl\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Building 11%\u001b[22m"
+    ],
+    [
+      0.000109,
+      "\u001b[14D\u001b[0K:app:compileDebugAidl \r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 11%\u001b[22m"
+    ],
+    [
+      0.000091,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[22C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[1m\u003e Building 11%\u001b[22m"
+    ],
+    [
+      0.000056,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[32C\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[1m\u003e Building 11%\u001b[22m"
+    ],
+    [
+      0.000327,
+      "\u001b[2D\u001b[1m2%\u001b[22m"
+    ],
+    [
+      0.000388,
+      "\u001b[14D\u001b[0K:mylibrary:compileDebugAidl \r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 12%\u001b[22m"
+    ],
+    [
+      0.000083,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[28C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 12%\u001b[22m"
+    ],
+    [
+      0.000083,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[38C\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[1m\u003e Building 12%\u001b[22m"
+    ],
+    [
+      0.000326,
+      "\u001b[2D\u001b[1m4%\u001b[22m"
+    ],
+    [
+      0.000564,
+      "\u001b[1m \u003e :app:compileDebugRenderscript\u001b[22m"
+    ],
+    [
+      0.000534,
+      "\u001b[28D\u001b[1mmylibrary:compileDebugRenderscript\u001b[22m"
+    ],
+    [
+      0.000441,
+      "\u001b[38D\u001b[0K"
+    ],
+    [
+      0.000098,
+      "\u001b[14D\u001b[0K:app:compileDebugRenderscript\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 14%\u001b[22m"
+    ],
+    [
+      0.000131,
+      "\u001b[14D\u001b[0K:mylibrary:compileDebugRenderscript \r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[1m\u003e Building 14%\u001b[22m"
+    ],
+    [
+      0.000111,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[36C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 14%\u001b[22m"
+    ],
+    [
+      0.000086,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[46C\r\n\u001b[1m\u003e Building 14%\u001b[22m"
+    ],
+    [
+      0.000334,
+      "\u001b[2D\u001b[1m5%\u001b[22m"
+    ],
+    [
+      0.000448,
+      "\u001b[1m \u003e :app:generateDebugBuildConfig\u001b[22m"
+    ],
+    [
+      0.000372,
+      "\u001b[32D\u001b[0K"
+    ],
+    [
+      0.000139,
+      "\u001b[14D\u001b[0K:app:generateDebugBuildConfig \r\n\u001b[1m\u003e Building 15%\u001b[22m"
+    ],
+    [
+      0.000078,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[30C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000038,
+      "\u001b[1m\u003e Building 15%\u001b[22m"
+    ],
+    [
+      0.000066,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[40C\r\n\u001b[1m\u003e Building 15%\u001b[22m"
+    ],
+    [
+      0.000420,
+      "\u001b[2D\u001b[1m7%\u001b[22m"
+    ],
+    [
+      0.000690,
+      "\u001b[1m \u003e :mylibrary:generateDebugBuildConfig\u001b[22m"
+    ],
+    [
+      0.000416,
+      "\u001b[38D\u001b[0K"
+    ],
+    [
+      0.000099,
+      "\u001b[14D\u001b[0K:mylibrary:generateDebugBuildConfig \r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 17%\u001b[22m"
+    ],
+    [
+      0.000095,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[36C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 17%\u001b[22m"
+    ],
+    [
+      0.000075,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[46C\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 17%\u001b[22m"
+    ],
+    [
+      0.000381,
+      "\u001b[2D\u001b[1m8%\u001b[22m"
+    ],
+    [
+      0.000414,
+      "\u001b[1m \u003e :mylibrary:generateDebugAssets\u001b[22m"
+    ],
+    [
+      0.000401,
+      "\u001b[33D\u001b[0K"
+    ],
+    [
+      0.000106,
+      "\u001b[14D\u001b[0K:mylibrary:generateDebugAssets \r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[1m\u003e Building 18%\u001b[22m"
+    ],
+    [
+      0.000101,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[31C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[1m\u003e Building 18%\u001b[22m"
+    ],
+    [
+      0.000077,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[41C\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[1m\u003e Building 18%\u001b[22m"
+    ],
+    [
+      0.000360,
+      "\u001b[3D\u001b[1m20%\u001b[22m"
+    ],
+    [
+      0.000445,
+      "\u001b[1m \u003e :mylibrary:mergeDebugAssets\u001b[22m"
+    ],
+    [
+      0.000293,
+      "\u001b[30D\u001b[0K"
+    ],
+    [
+      0.000060,
+      "\u001b[14D\u001b[0K:mylibrary:mergeDebugAssets \r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[1m\u003e Building 20%\u001b[22m"
+    ],
+    [
+      0.000076,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[28C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 20%\u001b[22m"
+    ],
+    [
+      0.000061,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[38C\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[1m\u003e Building 20%\u001b[22m"
+    ],
+    [
+      0.000257,
+      "\u001b[2D\u001b[1m1%\u001b[22m"
+    ],
+    [
+      0.000358,
+      "\u001b[1m \u003e :app:generateDebugAssets\u001b[22m"
+    ],
+    [
+      0.000326,
+      "\u001b[27D\u001b[0K"
+    ],
+    [
+      0.000067,
+      "\u001b[14D\u001b[0K:app:generateDebugAssets \r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[1m\u003e Building 21%\u001b[22m"
+    ],
+    [
+      0.000082,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[25C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[1m\u003e Building 21%\u001b[22m"
+    ],
+    [
+      0.000056,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[35C\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[1m\u003e Building 21%\u001b[22m"
+    ],
+    [
+      0.000361,
+      "\u001b[2D\u001b[1m2%\u001b[22m"
+    ],
+    [
+      0.000362,
+      "\u001b[14D\u001b[0K:app:compileDebugRenderscript \r\n\u001b[1m\u003e Building 22%\u001b[22m"
+    ],
+    [
+      0.000071,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[30C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 22%\u001b[22m"
+    ],
+    [
+      0.000070,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[40C\r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[1m\u003e Building 22%\u001b[22m"
+    ],
+    [
+      0.000291,
+      "\u001b[2D\u001b[1m4%\u001b[22m"
+    ],
+    [
+      0.000463,
+      "\u001b[1m \u003e :app:mergeDebugAssets\u001b[22m"
+    ],
+    [
+      0.000362,
+      "\u001b[20D\u001b[1mmylibrary:generateDebugResValues\u001b[22m"
+    ],
+    [
+      0.000295,
+      "\u001b[36D\u001b[0K"
+    ],
+    [
+      0.000053,
+      "\u001b[14D\u001b[0K:app:mergeDebugAssets\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Building 24%\u001b[22m"
+    ],
+    [
+      0.000062,
+      "\u001b[14D\u001b[0K:mylibrary:generateDebugResValues \r\n"
+    ],
+    [
+      0.000019,
+      "\u001b[1m\u003e Building 24%\u001b[22m"
+    ],
+    [
+      0.000080,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[34C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 24%\u001b[22m"
+    ],
+    [
+      0.000056,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[44C\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[1m\u003e Building 24%\u001b[22m"
+    ],
+    [
+      0.000312,
+      "\u001b[2D\u001b[1m5%\u001b[22m"
+    ],
+    [
+      0.000403,
+      "\u001b[14D\u001b[0K:app:mergeDebugAssets \r\n\u001b[1m\u003e Building 25%\u001b[22m"
+    ],
+    [
+      0.000073,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[22C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[1m\u003e Building 25%\u001b[22m"
+    ],
+    [
+      0.000050,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[32C\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[1m\u003e Building 25%\u001b[22m"
+    ],
+    [
+      0.000349,
+      "\u001b[2D\u001b[1m7%\u001b[22m"
+    ],
+    [
+      0.000432,
+      "\u001b[1m \u003e :mylibrary:generateDebugResources\u001b[22m"
+    ],
+    [
+      0.000397,
+      "\u001b[32D\u001b[1mapp:generateDebugResValues\u001b[22m\u001b[0K"
+    ],
+    [
+      0.000341,
+      "\u001b[30D\u001b[0K"
+    ],
+    [
+      0.000074,
+      "\u001b[14D\u001b[0K:mylibrary:generateDebugResources\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[1m\u003e Building 27%\u001b[22m"
+    ],
+    [
+      0.000063,
+      "\u001b[14D\u001b[0K:app:generateDebugResValues \r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[1m\u003e Building 27%\u001b[22m"
+    ],
+    [
+      0.000091,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[28C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Building 27%\u001b[22m"
+    ],
+    [
+      0.000052,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[38C\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[1m\u003e Building 27%\u001b[22m"
+    ],
+    [
+      0.000272,
+      "\u001b[2D\u001b[1m8%\u001b[22m"
+    ],
+    [
+      0.000349,
+      "\u001b[14D\u001b[0K:mylibrary:generateDebugResources \r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 28%\u001b[22m"
+    ],
+    [
+      0.000088,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[34C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[1m\u003e Building 28%\u001b[22m"
+    ],
+    [
+      0.000043,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[44C\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[1m\u003e Building 28%\u001b[22m"
+    ],
+    [
+      0.000308,
+      "\u001b[3D\u001b[1m30%\u001b[22m"
+    ],
+    [
+      0.000377,
+      "\u001b[1m \u003e :mylibrary:packageDebugResources\u001b[22m"
+    ],
+    [
+      0.000383,
+      "\u001b[31D\u001b[1mapp:generateDebugResources\u001b[22m\u001b[0K"
+    ],
+    [
+      0.000309,
+      "\u001b[30D\u001b[0K"
+    ],
+    [
+      0.000111,
+      "\u001b[14D\u001b[0K:mylibrary:packageDebugResources\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[1m\u003e Building 30%\u001b[22m"
+    ],
+    [
+      0.000067,
+      "\u001b[14D\u001b[0K:app:generateDebugResources \r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[1m\u003e Building 30%\u001b[22m"
+    ],
+    [
+      0.000066,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[28C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[1m\u003e Building 30%\u001b[22m"
+    ],
+    [
+      0.000068,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[38C\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[1m\u003e Building 30%\u001b[22m"
+    ],
+    [
+      0.000324,
+      "\u001b[2D\u001b[1m1%\u001b[22m"
+    ],
+    [
+      0.000393,
+      "\u001b[1m \u003e :app:mergeDebugResources\u001b[22m"
+    ],
+    [
+      0.000327,
+      "\u001b[27D\u001b[0K"
+    ],
+    [
+      0.000070,
+      "\u001b[14D\u001b[0K:app:mergeDebugResources \r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Building 31%\u001b[22m"
+    ],
+    [
+      0.000059,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[25C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[1m\u003e Building 31%\u001b[22m"
+    ],
+    [
+      0.000035,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[35C\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[1m\u003e Building 31%\u001b[22m"
+    ],
+    [
+      0.000254,
+      "\u001b[2D\u001b[1m2%\u001b[22m"
+    ],
+    [
+      0.000345,
+      "\u001b[1m \u003e :mylibrary:processDebugManifest\u001b[22m"
+    ],
+    [
+      0.000274,
+      "\u001b[34D\u001b[0K"
+    ],
+    [
+      0.000059,
+      "\u001b[14D\u001b[0K:mylibrary:processDebugManifest \r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1m\u003e Building 32%\u001b[22m"
+    ],
+    [
+      0.000046,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[32C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[1m\u003e Building 32%\u001b[22m"
+    ],
+    [
+      0.000040,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[42C\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 32%\u001b[22m"
+    ],
+    [
+      0.000269,
+      "\u001b[2D\u001b[1m4%\u001b[22m"
+    ],
+    [
+      0.000297,
+      "\u001b[14D\u001b[0K:mylibrary:packageDebugResources \r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[1m\u003e Building 34%\u001b[22m"
+    ],
+    [
+      0.000052,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[33C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[1m\u003e Building 34%\u001b[22m"
+    ],
+    [
+      0.000039,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[43C\r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[1m\u003e Building 34%\u001b[22m"
+    ],
+    [
+      0.000230,
+      "\u001b[2D\u001b[1m5%\u001b[22m"
+    ],
+    [
+      0.000319,
+      "\u001b[1m \u003e :mylibrary:processDebugResources\u001b[22m"
+    ],
+    [
+      0.000344,
+      "\u001b[31D\u001b[1mapp:processDebugManifest\u001b[22m\u001b[0K"
+    ],
+    [
+      0.000315,
+      "\u001b[28D\u001b[0K"
+    ],
+    [
+      0.000071,
+      "\u001b[14D\u001b[0K:mylibrary:processDebugResources\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[1m\u003e Building 35%\u001b[22m"
+    ],
+    [
+      0.000058,
+      "\u001b[14D\u001b[0K:app:processDebugManifest \r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[1m\u003e Building 35%\u001b[22m"
+    ],
+    [
+      0.000067,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[26C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[1m\u003e Building 35%\u001b[22m"
+    ],
+    [
+      0.000047,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[36C\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[1m\u003e Building 35%\u001b[22m"
+    ],
+    [
+      0.000315,
+      "\u001b[2D\u001b[1m7%\u001b[22m"
+    ],
+    [
+      0.000344,
+      "\u001b[1m \u003e :app:processDebugResources\u001b[22m"
+    ],
+    [
+      0.000274,
+      "\u001b[29D\u001b[0K"
+    ],
+    [
+      0.000043,
+      "\u001b[14D\u001b[0K:app:processDebugResources \r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 37%\u001b[22m"
+    ],
+    [
+      0.000060,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[27C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[1m\u003e Building 37%\u001b[22m"
+    ],
+    [
+      0.000050,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[37C\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[1m\u003e Building 37%\u001b[22m"
+    ],
+    [
+      0.000234,
+      "\u001b[2D\u001b[1m8%\u001b[22m"
+    ],
+    [
+      0.000326,
+      "\u001b[1m \u003e :mylibrary:generateDebugSources\u001b[22m"
+    ],
+    [
+      0.000242,
+      "\u001b[34D\u001b[0K"
+    ],
+    [
+      0.000042,
+      "\u001b[14D\u001b[0K:mylibrary:generateDebugSources \r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[1m\u003e Building 38%\u001b[22m"
+    ],
+    [
+      0.000056,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[32C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[1m\u003e Building 38%\u001b[22m"
+    ],
+    [
+      0.000042,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[42C\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[1m\u003e Building 38%\u001b[22m"
+    ],
+    [
+      0.000241,
+      "\u001b[3D\u001b[1m40%\u001b[22m"
+    ],
+    [
+      0.000452,
+      "\u001b[1m \u003e :mylibrary:processDebugJavaRes\u001b[22m"
+    ],
+    [
+      0.000282,
+      "\u001b[33D\u001b[0K"
+    ],
+    [
+      0.000060,
+      "\u001b[14D\u001b[0K:mylibrary:processDebugJavaRes \r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[1m\u003e Building 40%\u001b[22m"
+    ],
+    [
+      0.000083,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[31C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 40%\u001b[22m"
+    ],
+    [
+      0.000049,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[41C\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[1m\u003e Building 40%\u001b[22m"
+    ],
+    [
+      0.000299,
+      "\u001b[2D\u001b[1m1%\u001b[22m"
+    ],
+    [
+      0.000334,
+      "\u001b[1m \u003e :mylibrary:compileDebugJava\u001b[22m"
+    ],
+    [
+      0.000263,
+      "\u001b[30D\u001b[0K"
+    ],
+    [
+      0.000054,
+      "\u001b[14D\u001b[0K:mylibrary:compileDebugJava \r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[1m\u003e Building 41%\u001b[22m"
+    ],
+    [
+      0.000063,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[28C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[1m\u003e Building 41%\u001b[22m"
+    ],
+    [
+      0.000049,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[38C\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[1m\u003e Building 41%\u001b[22m"
+    ],
+    [
+      0.000230,
+      "\u001b[2D\u001b[1m2%\u001b[22m"
+    ],
+    [
+      0.000323,
+      "\u001b[1m \u003e :app:generateDebugSources\u001b[22m"
+    ],
+    [
+      0.000245,
+      "\u001b[28D\u001b[0K"
+    ],
+    [
+      0.000069,
+      "\u001b[14D\u001b[0K:app:generateDebugSources \r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 42%\u001b[22m"
+    ],
+    [
+      0.000097,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[26C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 42%\u001b[22m"
+    ],
+    [
+      0.000062,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[36C\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 42%\u001b[22m"
+    ],
+    [
+      0.000271,
+      "\u001b[2D\u001b[1m4%\u001b[22m"
+    ],
+    [
+      0.000417,
+      "\u001b[1m \u003e :app:processDebugJavaRes\u001b[22m"
+    ],
+    [
+      0.000323,
+      "\u001b[27D\u001b[0K"
+    ],
+    [
+      0.000061,
+      "\u001b[14D\u001b[0K:app:processDebugJavaRes \r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Building 44%\u001b[22m"
+    ],
+    [
+      0.000096,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[25C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 44%\u001b[22m"
+    ],
+    [
+      0.000060,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[35C\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 44%\u001b[22m"
+    ],
+    [
+      0.000270,
+      "\u001b[2D\u001b[1m5%\u001b[22m"
+    ],
+    [
+      0.000359,
+      "\u001b[1m \u003e :app:compileDebugJava\u001b[22m"
+    ],
+    [
+      0.000280,
+      "\u001b[24D\u001b[0K"
+    ],
+    [
+      0.000062,
+      "\u001b[14D\u001b[0K:app:compileDebugJava \r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 45%\u001b[22m"
+    ],
+    [
+      0.000077,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[22C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[1m\u003e Building 45%\u001b[22m"
+    ],
+    [
+      0.000054,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[32C\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[1m\u003e Building 45%\u001b[22m"
+    ],
+    [
+      0.000282,
+      "\u001b[2D\u001b[1m7%\u001b[22m"
+    ],
+    [
+      0.000571,
+      "\u001b[1m \u003e :mylibrary:compileLint\u001b[22m"
+    ],
+    [
+      0.000396,
+      "\u001b[25D\u001b[0K"
+    ],
+    [
+      0.000074,
+      "\u001b[14D\u001b[0K:mylibrary:compileLint\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 47%\u001b[22m"
+    ],
+    [
+      0.000424,
+      "\u001b[2D\u001b[1m8%\u001b[22m"
+    ],
+    [
+      0.000662,
+      "\u001b[1m \u003e :mylibrary:preReleaseBuild\u001b[22m\u001b[29D\u001b[0K"
+    ],
+    [
+      0.000079,
+      "\u001b[14D\u001b[0K:mylibrary:preReleaseBuild \r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[1m\u003e Building 48%\u001b[22m"
+    ],
+    [
+      0.000095,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[27C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 48%\u001b[22m"
+    ],
+    [
+      0.000060,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[37C\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[1m\u003e Building 48%\u001b[22m"
+    ],
+    [
+      0.000315,
+      "\u001b[3D\u001b[1m50%\u001b[22m"
+    ],
+    [
+      0.000455,
+      "\u001b[1m \u003e :mylibrary:checkReleaseManifest\u001b[22m"
+    ],
+    [
+      0.000367,
+      "\u001b[34D\u001b[0K"
+    ],
+    [
+      0.000079,
+      "\u001b[14D\u001b[0K:mylibrary:checkReleaseManifest\r\n"
+    ],
+    [
+      0.000022,
+      "\u001b[1m\u003e Building 50%\u001b[22m"
+    ],
+    [
+      0.000398,
+      "\u001b[2D\u001b[1m1%\u001b[22m"
+    ],
+    [
+      0.000439,
+      "\u001b[1m \u003e :mylibrary:prepareReleaseDependencies\u001b[22m"
+    ],
+    [
+      0.000318,
+      "\u001b[40D\u001b[0K"
+    ],
+    [
+      0.000080,
+      "\u001b[14D\u001b[0K:mylibrary:prepareReleaseDependencies\r\n"
+    ],
+    [
+      0.000021,
+      "\u001b[1m\u003e Building 51%\u001b[22m"
+    ],
+    [
+      0.000623,
+      "\u001b[2D\u001b[1m2%\u001b[22m"
+    ],
+    [
+      0.000407,
+      "\u001b[14D\u001b[0K:mylibrary:processDebugResources \r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 52%\u001b[22m"
+    ],
+    [
+      0.000148,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[33C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000019,
+      "\u001b[1m\u003e Building 52%\u001b[22m"
+    ],
+    [
+      0.000061,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[43C\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[1m\u003e Building 52%\u001b[22m"
+    ],
+    [
+      0.000305,
+      "\u001b[2D\u001b[1m4%\u001b[22m"
+    ],
+    [
+      0.000641,
+      "\u001b[1m \u003e :mylibrary:compileReleaseAidl\u001b[22m"
+    ],
+    [
+      0.000520,
+      "\u001b[28D\u001b[1mapp:compileLint\u001b[22m\u001b[0K"
+    ],
+    [
+      0.000625,
+      "\u001b[19D\u001b[0K"
+    ],
+    [
+      0.000077,
+      "\u001b[14D\u001b[0K:mylibrary:compileReleaseAidl\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Building 54%\u001b[22m"
+    ],
+    [
+      0.000072,
+      "\u001b[14D\u001b[0K:app:compileLint\r\n\u001b[1m\u003e Building 54%\u001b[22m"
+    ],
+    [
+      0.000368,
+      "\u001b[2D\u001b[1m5%\u001b[22m"
+    ],
+    [
+      0.000572,
+      "\u001b[1m \u003e :app:preReleaseBuild\u001b[22m"
+    ],
+    [
+      0.000362,
+      "\u001b[23D\u001b[0K"
+    ],
+    [
+      0.000074,
+      "\u001b[14D\u001b[0K:app:preReleaseBuild \r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Building 55%\u001b[22m"
+    ],
+    [
+      0.000097,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[21C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 55%\u001b[22m"
+    ],
+    [
+      0.000067,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[31C\r\n\u001b[1m\u003e Building 55%\u001b[22m"
+    ],
+    [
+      0.000321,
+      "\u001b[2D\u001b[1m7%\u001b[22m"
+    ],
+    [
+      0.000318,
+      "\u001b[14D\u001b[0K:mylibrary:compileReleaseAidl \r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 57%\u001b[22m"
+    ],
+    [
+      0.000047,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[30C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[1m\u003e Building 57%\u001b[22m"
+    ],
+    [
+      0.000050,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[40C\r\n\u001b[1m\u003e Building 57%\u001b[22m"
+    ],
+    [
+      0.000347,
+      "\u001b[2D\u001b[1m8%\u001b[22m"
+    ],
+    [
+      0.000397,
+      "\u001b[1m \u003e :app:checkReleaseManifest\u001b[22m"
+    ],
+    [
+      0.000624,
+      "\u001b[24D\u001b[1mmylibrary:compileReleaseRenderscript\u001b[22m"
+    ],
+    [
+      0.000465,
+      "\u001b[40D\u001b[0K"
+    ],
+    [
+      0.000065,
+      "\u001b[14D\u001b[0K:app:checkReleaseManifest\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 58%\u001b[22m"
+    ],
+    [
+      0.000064,
+      "\u001b[14D\u001b[0K:mylibrary:compileReleaseRenderscript\r\n\u001b[1m\u003e Building 58%\u001b[22m"
+    ],
+    [
+      0.000303,
+      "\u001b[3D\u001b[1m60%\u001b[22m"
+    ],
+    [
+      0.000372,
+      "\u001b[1m \u003e :app:prepareReleaseDependencies\u001b[22m"
+    ],
+    [
+      0.000308,
+      "\u001b[34D\u001b[0K"
+    ],
+    [
+      0.000064,
+      "\u001b[14D\u001b[0K:app:prepareReleaseDependencies\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 60%\u001b[22m"
+    ],
+    [
+      0.000308,
+      "\u001b[2D\u001b[1m1%\u001b[22m"
+    ],
+    [
+      0.000525,
+      "\u001b[1m \u003e :app:compileReleaseAidl\u001b[22m"
+    ],
+    [
+      0.000366,
+      "\u001b[26D\u001b[0K"
+    ],
+    [
+      0.000107,
+      "\u001b[14D\u001b[0K:app:compileReleaseAidl \r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 61%\u001b[22m"
+    ],
+    [
+      0.000060,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[24C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1m\u003e Building 61%\u001b[22m"
+    ],
+    [
+      0.000046,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[34C\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 61%\u001b[22m"
+    ],
+    [
+      0.000290,
+      "\u001b[2D\u001b[1m2%\u001b[22m"
+    ],
+    [
+      0.000384,
+      "\u001b[1m \u003e :mylibrary:generateReleaseBuildConfig\u001b[22m"
+    ],
+    [
+      0.000397,
+      "\u001b[40D\u001b[0K"
+    ],
+    [
+      0.000077,
+      "\u001b[14D\u001b[0K:mylibrary:generateReleaseBuildConfig \r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 62%\u001b[22m"
+    ],
+    [
+      0.000060,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[38C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 62%\u001b[22m"
+    ],
+    [
+      0.000047,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[48C\r\n\u001b[1m\u003e Building 62%\u001b[22m"
+    ],
+    [
+      0.000285,
+      "\u001b[2D\u001b[1m4%\u001b[22m"
+    ],
+    [
+      0.000300,
+      "\u001b[14D\u001b[0K:app:checkReleaseManifest \r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 64%\u001b[22m"
+    ],
+    [
+      0.000042,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[26C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[1m\u003e Building 64%\u001b[22m"
+    ],
+    [
+      0.000039,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[36C\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[1m\u003e Building 64%\u001b[22m"
+    ],
+    [
+      0.000332,
+      "\u001b[2D\u001b[1m5%\u001b[22m"
+    ],
+    [
+      0.000527,
+      "\u001b[1m \u003e :app:compileReleaseRenderscript\u001b[22m"
+    ],
+    [
+      0.000384,
+      "\u001b[30D\u001b[1mmylibrary:generateReleaseAssets\u001b[22m"
+    ],
+    [
+      0.000281,
+      "\u001b[35D\u001b[0K"
+    ],
+    [
+      0.000060,
+      "\u001b[14D\u001b[0K:app:compileReleaseRenderscript\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 65%\u001b[22m"
+    ],
+    [
+      0.000057,
+      "\u001b[14D\u001b[0K:mylibrary:generateReleaseAssets \r\n\u001b[1m\u003e Building 65%\u001b[22m"
+    ],
+    [
+      0.000052,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[33C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[1m\u003e Building 65%\u001b[22m"
+    ],
+    [
+      0.000045,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[43C\r\n\u001b[1m\u003e Building 65%\u001b[22m"
+    ],
+    [
+      0.000300,
+      "\u001b[2D\u001b[1m7%\u001b[22m"
+    ],
+    [
+      0.000359,
+      "\u001b[1m \u003e :mylibrary:mergeReleaseAssets\u001b[22m"
+    ],
+    [
+      0.000312,
+      "\u001b[32D\u001b[0K"
+    ],
+    [
+      0.000061,
+      "\u001b[14D\u001b[0K:mylibrary:mergeReleaseAssets \r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 67%\u001b[22m"
+    ],
+    [
+      0.000043,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[30C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 67%\u001b[22m"
+    ],
+    [
+      0.000050,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[40C\r\n\u001b[1m\u003e Building 67%\u001b[22m"
+    ],
+    [
+      0.000272,
+      "\u001b[2D\u001b[1m8%\u001b[22m"
+    ],
+    [
+      0.000370,
+      "\u001b[14D\u001b[0K:app:compileReleaseRenderscript \r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 68%\u001b[22m"
+    ],
+    [
+      0.000047,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[32C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[1m\u003e Building 68%\u001b[22m"
+    ],
+    [
+      0.000038,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[42C\r\n\u001b[1m\u003e Building 68%\u001b[22m"
+    ],
+    [
+      0.000311,
+      "\u001b[3D\u001b[1m70%\u001b[22m"
+    ],
+    [
+      0.000335,
+      "\u001b[1m \u003e :app:generateReleaseBuildConfig\u001b[22m"
+    ],
+    [
+      0.000325,
+      "\u001b[30D\u001b[1mmylibrary:generateReleaseResValues\u001b[22m"
+    ],
+    [
+      0.000237,
+      "\u001b[38D\u001b[0K"
+    ],
+    [
+      0.000041,
+      "\u001b[14D\u001b[0K:app:generateReleaseBuildConfig\r\n\u001b[1m\u003e Building 70%\u001b[22m"
+    ],
+    [
+      0.000054,
+      "\u001b[14D\u001b[0K:mylibrary:generateReleaseResValues \r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 70%\u001b[22m"
+    ],
+    [
+      0.000044,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[36C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[1m\u003e Building 70%\u001b[22m"
+    ],
+    [
+      0.000056,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[46C\r\n\u001b[1m\u003e Building 70%\u001b[22m"
+    ],
+    [
+      0.000284,
+      "\u001b[2D\u001b[1m1%\u001b[22m"
+    ],
+    [
+      0.000305,
+      "\u001b[1m \u003e :mylibrary:generateReleaseResources\u001b[22m"
+    ],
+    [
+      0.000257,
+      "\u001b[38D\u001b[0K"
+    ],
+    [
+      0.000043,
+      "\u001b[14D\u001b[0K:mylibrary:generateReleaseResources \r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[1m\u003e Building 71%\u001b[22m"
+    ],
+    [
+      0.000041,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[36C\u001b[33mUP-TO-DATE\u001b[39m\r\n\u001b[1m\u003e Building 71%\u001b[22m"
+    ],
+    [
+      0.000036,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[46C\r\n\u001b[1m\u003e Building 71%\u001b[22m"
+    ],
+    [
+      0.000283,
+      "\u001b[2D\u001b[1m2%\u001b[22m"
+    ],
+    [
+      0.000360,
+      "\u001b[1m \u003e :mylibrary:packageReleaseResources\u001b[22m"
+    ],
+    [
+      0.000262,
+      "\u001b[37D\u001b[0K"
+    ],
+    [
+      0.000038,
+      "\u001b[14D\u001b[0K:mylibrary:packageReleaseResources \r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 72%\u001b[22m"
+    ],
+    [
+      0.000078,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[35C\u001b[33mUP-TO-DATE\u001b[39m\r\n\u001b[1m\u003e Building 72%\u001b[22m"
+    ],
+    [
+      0.000054,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[45C\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 72%\u001b[22m"
+    ],
+    [
+      0.000306,
+      "\u001b[2D\u001b[1m4%\u001b[22m"
+    ],
+    [
+      0.000328,
+      "\u001b[1m \u003e :app:generateReleaseAssets\u001b[22m"
+    ],
+    [
+      0.000262,
+      "\u001b[29D\u001b[0K"
+    ],
+    [
+      0.000041,
+      "\u001b[14D\u001b[0K:app:generateReleaseAssets \r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[1m\u003e Building 74%\u001b[22m"
+    ],
+    [
+      0.000061,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[27C\u001b[33mUP-TO-DATE\u001b[39m\r\n\u001b[1m\u003e Building 74%\u001b[22m"
+    ],
+    [
+      0.000043,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[37C\r\n\u001b[1m\u003e Building 74%\u001b[22m"
+    ],
+    [
+      0.000296,
+      "\u001b[2D\u001b[1m5%\u001b[22m"
+    ],
+    [
+      0.000407,
+      "\u001b[1m \u003e :app:mergeReleaseAssets\u001b[22m"
+    ],
+    [
+      0.000238,
+      "\u001b[26D\u001b[0K"
+    ],
+    [
+      0.000036,
+      "\u001b[14D\u001b[0K:app:mergeReleaseAssets \r\n\u001b[1m\u003e Building 75%\u001b[22m"
+    ],
+    [
+      0.000094,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[24C\u001b[33mUP-TO-DATE\u001b[39m\r\n\u001b[1m\u003e Building 75%\u001b[22m"
+    ],
+    [
+      0.000024,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[34C\r\n\u001b[1m\u003e Building 75%\u001b[22m"
+    ],
+    [
+      0.000312,
+      "\u001b[2D\u001b[1m7%\u001b[22m"
+    ],
+    [
+      0.000334,
+      "\u001b[1m \u003e :mylibrary:processReleaseManifest\u001b[22m"
+    ],
+    [
+      0.000245,
+      "\u001b[36D\u001b[0K"
+    ],
+    [
+      0.000032,
+      "\u001b[14D\u001b[0K:mylibrary:processReleaseManifest \r\n\u001b[1m\u003e Building 77%\u001b[22m"
+    ],
+    [
+      0.000049,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[34C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[1m\u003e Building 77%\u001b[22m"
+    ],
+    [
+      0.000030,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[44C\r\n\u001b[1m\u003e Building 77%\u001b[22m"
+    ],
+    [
+      0.000237,
+      "\u001b[2D\u001b[1m8%\u001b[22m"
+    ],
+    [
+      0.000335,
+      "\u001b[1m \u003e :app:generateReleaseResValues\u001b[22m"
+    ],
+    [
+      0.000228,
+      "\u001b[32D\u001b[0K"
+    ],
+    [
+      0.000031,
+      "\u001b[14D\u001b[0K:app:generateReleaseResValues \r\n\u001b[1m\u003e Building 78%\u001b[22m"
+    ],
+    [
+      0.000041,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[30C\u001b[33mUP-TO-DATE\u001b[39m\r\n\u001b[1m\u003e Building 78%\u001b[22m"
+    ],
+    [
+      0.000041,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[40C\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1m\u003e Building 78%\u001b[22m"
+    ],
+    [
+      0.000255,
+      "\u001b[3D\u001b[1m80%\u001b[22m"
+    ],
+    [
+      0.000305,
+      "\u001b[14D\u001b[0K:app:generateReleaseBuildConfig \r\n\u001b[1m\u003e Building 80%\u001b[22m"
+    ],
+    [
+      0.000040,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[32C\u001b[33mUP-TO-DATE\u001b[39m\r\n\u001b[1m\u003e Building 80%\u001b[22m"
+    ],
+    [
+      0.000023,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[42C\r\n\u001b[1m\u003e Building 80%\u001b[22m"
+    ],
+    [
+      0.000339,
+      "\u001b[2D\u001b[1m1%\u001b[22m"
+    ],
+    [
+      0.000374,
+      "\u001b[1m \u003e :mylibrary:processReleaseResources\u001b[22m"
+    ],
+    [
+      0.000369,
+      "\u001b[33D\u001b[1mapp:generateReleaseResources\u001b[22m\u001b[0K"
+    ],
+    [
+      0.000304,
+      "\u001b[32D\u001b[0K"
+    ],
+    [
+      0.000038,
+      "\u001b[14D\u001b[0K:mylibrary:processReleaseResources\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[1m\u003e Building 81%\u001b[22m"
+    ],
+    [
+      0.000054,
+      "\u001b[14D\u001b[0K:app:generateReleaseResources \r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 81%\u001b[22m"
+    ],
+    [
+      0.000086,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[30C\u001b[33mUP-TO-DATE\u001b[39m\r\n\u001b[1m\u003e Building 81%\u001b[22m"
+    ],
+    [
+      0.000031,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[40C\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 81%\u001b[22m"
+    ],
+    [
+      0.000276,
+      "\u001b[2D\u001b[1m2%\u001b[22m"
+    ],
+    [
+      0.000304,
+      "\u001b[1m \u003e :app:mergeReleaseResources\u001b[22m"
+    ],
+    [
+      0.000232,
+      "\u001b[29D\u001b[0K"
+    ],
+    [
+      0.000026,
+      "\u001b[14D\u001b[0K:app:mergeReleaseResources \r\n\u001b[1m\u003e Building 82%\u001b[22m"
+    ],
+    [
+      0.000044,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[27C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 82%\u001b[22m"
+    ],
+    [
+      0.000030,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[37C\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[1m\u003e Building 82%\u001b[22m"
+    ],
+    [
+      0.000225,
+      "\u001b[2D\u001b[1m4%\u001b[22m"
+    ],
+    [
+      0.000299,
+      "\u001b[1m \u003e :mylibrary:generateReleaseSources\u001b[22m"
+    ],
+    [
+      0.000264,
+      "\u001b[36D\u001b[0K"
+    ],
+    [
+      0.000035,
+      "\u001b[14D\u001b[0K:mylibrary:generateReleaseSources \r\n\u001b[1m\u003e Building 84%\u001b[22m"
+    ],
+    [
+      0.000049,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[34C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 84%\u001b[22m"
+    ],
+    [
+      0.000048,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[44C\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1m\u003e Building 84%\u001b[22m"
+    ],
+    [
+      0.000260,
+      "\u001b[2D\u001b[1m5%\u001b[22m"
+    ],
+    [
+      0.000364,
+      "\u001b[1m \u003e :mylibrary:processReleaseJavaRes\u001b[22m"
+    ],
+    [
+      0.000270,
+      "\u001b[35D\u001b[0K"
+    ],
+    [
+      0.000027,
+      "\u001b[14D\u001b[0K:mylibrary:processReleaseJavaRes \r\n\u001b[1m\u003e Building 85%\u001b[22m"
+    ],
+    [
+      0.000046,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[33C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 85%\u001b[22m"
+    ],
+    [
+      0.000041,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[43C\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 85%\u001b[22m"
+    ],
+    [
+      0.000236,
+      "\u001b[2D\u001b[1m7%\u001b[22m"
+    ],
+    [
+      0.000265,
+      "\u001b[14D\u001b[0K:mylibrary:processReleaseResources \r\n\u001b[1m\u003e Building 87%\u001b[22m"
+    ],
+    [
+      0.000033,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[35C\u001b[33mUP-TO-DATE\u001b[39m\r\n\u001b[1m\u003e Building 87%\u001b[22m"
+    ],
+    [
+      0.000029,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[45C\r\n\u001b[1m\u003e Building 87%\u001b[22m"
+    ],
+    [
+      0.000235,
+      "\u001b[2D\u001b[1m8%\u001b[22m"
+    ],
+    [
+      0.000332,
+      "\u001b[1m \u003e :mylibrary:compileReleaseJava\u001b[22m"
+    ],
+    [
+      0.000547,
+      "\u001b[28D\u001b[1mapp:processReleaseManifest\u001b[22m\u001b[0K"
+    ],
+    [
+      0.000544,
+      "\u001b[30D\u001b[0K"
+    ],
+    [
+      0.000081,
+      "\u001b[14D\u001b[0K:mylibrary:compileReleaseJava\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Building 88%\u001b[22m"
+    ],
+    [
+      0.000077,
+      "\u001b[14D\u001b[0K:app:processReleaseManifest \r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[1m\u003e Building 88%\u001b[22m"
+    ],
+    [
+      0.000067,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[28C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1m\u003e Building 88%\u001b[22m"
+    ],
+    [
+      0.000060,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[38C\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Building 88%\u001b[22m"
+    ],
+    [
+      0.000282,
+      "\u001b[3D\u001b[1m90%\u001b[22m"
+    ],
+    [
+      0.000349,
+      "\u001b[1m \u003e :app:processReleaseResources\u001b[22m"
+    ],
+    [
+      0.000257,
+      "\u001b[31D\u001b[0K"
+    ],
+    [
+      0.000061,
+      "\u001b[14D\u001b[0K:app:processReleaseResources \r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 90%\u001b[22m"
+    ],
+    [
+      0.000045,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[29C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[1m\u003e Building 90%\u001b[22m"
+    ],
+    [
+      0.000036,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[39C\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[1m\u003e Building 90%\u001b[22m"
+    ],
+    [
+      0.000229,
+      "\u001b[2D\u001b[1m1%\u001b[22m"
+    ],
+    [
+      0.000332,
+      "\u001b[1m \u003e :mylibrary:lint\u001b[22m"
+    ],
+    [
+      0.000254,
+      "\u001b[18D\u001b[0K"
+    ],
+    [
+      0.000062,
+      "\u001b[14D\u001b[0K:mylibrary:lint \r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 91%\u001b[22m"
+    ],
+    [
+      0.000083,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[16C\u001b[33mUP-TO-DATE\u001b[39m\r\n\u001b[1m\u003e Building 91%\u001b[22m"
+    ],
+    [
+      0.000034,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[26C\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[1m\u003e Building 91%\u001b[22m"
+    ],
+    [
+      0.000359,
+      "\u001b[2D\u001b[1m2%\u001b[22m"
+    ],
+    [
+      0.000335,
+      "\u001b[1m \u003e :app:generateReleaseSources\u001b[22m"
+    ],
+    [
+      0.000251,
+      "\u001b[30D\u001b[0K"
+    ],
+    [
+      0.000064,
+      "\u001b[14D\u001b[0K:app:generateReleaseSources \r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Building 92%\u001b[22m"
+    ],
+    [
+      0.000045,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[28C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 92%\u001b[22m"
+    ],
+    [
+      0.000030,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[38C\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 92%\u001b[22m"
+    ],
+    [
+      0.000225,
+      "\u001b[2D\u001b[1m4%\u001b[22m"
+    ],
+    [
+      0.000307,
+      "\u001b[1m \u003e :app:processReleaseJavaRes\u001b[22m"
+    ],
+    [
+      0.000227,
+      "\u001b[29D\u001b[0K"
+    ],
+    [
+      0.000058,
+      "\u001b[14D\u001b[0K:app:processReleaseJavaRes \r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1m\u003e Building 94%\u001b[22m"
+    ],
+    [
+      0.000042,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[27C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[1m\u003e Building 94%\u001b[22m"
+    ],
+    [
+      0.000046,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[37C\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 94%\u001b[22m"
+    ],
+    [
+      0.000252,
+      "\u001b[2D\u001b[1m5%\u001b[22m"
+    ],
+    [
+      0.000328,
+      "\u001b[1m \u003e :app:compileReleaseJava\u001b[22m"
+    ],
+    [
+      0.000226,
+      "\u001b[26D\u001b[0K"
+    ],
+    [
+      0.000064,
+      "\u001b[14D\u001b[0K:app:compileReleaseJava \r\n\u001b[1m\u003e Building 95%\u001b[22m"
+    ],
+    [
+      0.000054,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[24C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1m\u003e Building 95%\u001b[22m"
+    ],
+    [
+      0.000032,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[34C\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 95%\u001b[22m"
+    ],
+    [
+      0.000236,
+      "\u001b[2D\u001b[1m7%\u001b[22m"
+    ],
+    [
+      0.000308,
+      "\u001b[1m \u003e :app:lint\u001b[22m"
+    ],
+    [
+      0.048658,
+      "\u001b[26D\u001b[0K:app:lint\r\n\u001b[1m\u003e Building 97% \u003e :app:lint\u001b[22m"
+    ],
+    [
+      0.000036,
+      "\u001b[26D\u001b[0KRan lint on variant release: 1 issues found\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Building 97% \u003e :app:lint\u001b[22m"
+    ],
+    [
+      0.000522,
+      "\u001b[26D\u001b[0KRan lint on variant debug: 1 issues found\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Building 97% \u003e :app:lint\u001b[22m"
+    ],
+    [
+      0.000869,
+      "\u001b[26D\u001b[0KWrote HTML report to file:/Users/phartig/Projects/java/LintSample/mylibrary/build/outputs/lint-results.html\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Building 97% \u003e :app:lint\u001b[22m"
+    ],
+    [
+      0.000406,
+      "\u001b[26D\u001b[0KWrote XML report to /Users/phartig/Projects/java/LintSample/mylibrary/build/outputs/lint-results.xml\r\n\u001b[1m\u003e Building 97% \u003e :app:lint\u001b[22m"
+    ],
+    [
+      0.000260,
+      "\u001b[12D\u001b[0K"
+    ],
+    [
+      0.000223,
+      "\u001b[2D\u001b[1m8%\u001b[22m"
+    ],
+    [
+      0.029604,
+      "\u001b[14D\u001b[0KRan lint on variant release: 4 issues found\r\n\u001b[1m\u003e Building 98%\u001b[22m"
+    ],
+    [
+      0.000441,
+      "\u001b[14D\u001b[0KRan lint on variant debug: 4 issues found\r\n\u001b[1m\u003e Building 98%\u001b[22m"
+    ],
+    [
+      0.001778,
+      "\u001b[14D\u001b[0KWrote HTML report to file:/Users/phartig/Projects/java/LintSample/app/build/outputs/lint-results.html\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[1m\u003e Building 98%\u001b[22m"
+    ],
+    [
+      0.000532,
+      "\u001b[14D\u001b[0KWrote XML report to /Users/phartig/Projects/java/LintSample/app/build/outputs/lint-results.xml\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Building 98%\u001b[22m"
+    ],
+    [
+      0.000577,
+      "\u001b[3D\u001b[1m100%\u001b[22m"
+    ],
+    [
+      0.000359,
+      "\u001b[15D\u001b[0K\r\n\u001b[1m\u003e Building 100%\u001b[22m"
+    ],
+    [
+      0.000477,
+      "\u001b[15D\u001b[0KBUILD SUCCESSFUL\r\n\u001b[1m\u003e Building 100%\u001b[22m"
+    ],
+    [
+      0.000039,
+      "\u001b[15D\u001b[0K\u001b[1A\u001b[16C\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 100%\u001b[22m"
+    ],
+    [
+      0.000433,
+      "\u001b[15D\u001b[0K\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 100%\u001b[22m"
+    ],
+    [
+      0.000377,
+      "\u001b[15D\u001b[0KTotal time: 1.026 secs\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 100%\u001b[22m"
+    ],
+    [
+      0.000386,
+      "\u001b[15D\u001b[0K"
+    ],
+    [
+      0.010395,
+      "\u001b[0m"
+    ],
+    [
+      0.444011,
+      "\u001b]0;fish  /Users/phar"
+    ],
+    [
+      0.000007,
+      "tig/Projects/java/LintSample\u0007\u001b[3"
+    ],
+    [
+      0.000002,
+      "0m\u001b"
+    ],
+    [
+      0.000002,
+      "[m\u000f"
+    ],
+    [
+      0.000102,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                             \r \r"
+    ],
+    [
+      0.000112,
+      "\u001b[1m\u001b[37m\u001b[42m[I]\u001b[30m\u001b[m\u000f phartig@tw-mbp-phartig \u001b[32m~/P/j/LintSample\u001b[30m\u001b[m\u000f (master \u001b[31m▼\u001b[30m\u001b[m\u000f) $ \u001b[K"
+    ],
+    [
+      1.556592,
+      "a"
+    ],
+    [
+      0.000253,
+      "\u001b[38;5;242mndroid-lint-summary -v\u001b[22D\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.000149,
+      "\u0008\u001b[38;5;166ma\u001b[38;5;242mndroid-lint-summary -v\u001b[22D\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.095424,
+      "\u001b[38;5;166mn\u001b[38;5;242mdroid-lint-summary -v\u001b[21D\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.088606,
+      "\u001b[38;5;166md\u001b[38;5;242mroid-lint-summary -v\u001b[20D\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.000363,
+      "\u0008\u0008\u0008\u001b[38;5;247mand\u001b[38;5;242mroid-lint-summary -v\u001b[20D\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.143754,
+      "\u001b[38;5;247mr\u001b[38;5;242moid-lint-summary -v\u001b[19D\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.000440,
+      "\u0008\u0008\u0008\u0008\u001b[38;5;166mandr\u001b[38;5;242moid-lint-summary -v\u001b[19D\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.055676,
+      "\u001b[38;5;166mo\u001b[38;5;242mid-lint-summary -v\u001b[18D\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.127628,
+      "\u001b[38;5;166mi\u001b[38;5;242md-lint-summary -v\u001b[17D\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.079688,
+      "\u001b[38;5;166md\u001b[38;5;242m-lint-summary -v\u001b[16D\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.000313,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[38;5;247mandroid\u001b[38;5;242m-lint-summary -v\u001b[16D\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.151982,
+      "\u001b[38;5;247m-\u001b[38;5;242mlint-summary -v\u001b[15D\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.000315,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[38;5;166mandroid-\u001b[38;5;242mlint-summary -v\u001b[15D\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.183956,
+      "\u001b[38;5;166ml\u001b[38;5;242mint-summary -v\u001b[14D\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.159305,
+      "\u001b[38;5;166mi\u001b[38;5;242mnt-summary -v\u001b[13D\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.144246,
+      "\u001b[38;5;166mn\u001b[38;5;242mt-summary -v\u001b[12D\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.080421,
+      "\u001b[38;5;166mt\u001b[38;5;242m-summary -v\u001b[11D\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.127779,
+      "\u001b[38;5;166m-\u001b[38;5;242msummary -v\u001b[10D\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.231787,
+      "\u001b[38;5;166ms\u001b[38;5;242mummary -v\u001b[9D\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.120249,
+      "\u001b[38;5;166mu\u001b[38;5;242mmmary -v\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.144266,
+      "\u001b[38;5;166mm\u001b[38;5;242mmary -v\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.143286,
+      "\u001b[38;5;166mm\u001b[38;5;242mary -v\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.096108,
+      "\u001b[38;5;166ma\u001b[38;5;242mry -v\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.054921,
+      "\u001b[38;5;166mr\u001b[38;5;242my -v\u0008\u0008\u0008\u0008\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.105616,
+      "\u001b[38;5;166my\u001b[38;5;242m -v\u0008\u0008\u0008\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.000495,
+      "\u001b[20D\u001b[38;5;247mandroid-lint-summary\u001b[38;5;242m -v\u0008\u0008\u0008\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.231724,
+      "\u001b[K\r\n\u001b[30m"
+    ],
+    [
+      0.000008,
+      "\u001b[m\u000f"
+    ],
+    [
+      0.000283,
+      "\u001b]0;andr"
+    ],
+    [
+      0.000005,
+      "oid-lint-summa"
+    ],
+    [
+      0.000003,
+      "ry "
+    ],
+    [
+      0.000003,
+      " /"
+    ],
+    [
+      0.000003,
+      "Use"
+    ],
+    [
+      0.000003,
+      "rs/"
+    ],
+    [
+      0.000003,
+      "pha"
+    ],
+    [
+      0.000003,
+      "rti"
+    ],
+    [
+      0.000003,
+      "g/P"
+    ],
+    [
+      0.000012,
+      "roj"
+    ],
+    [
+      0.000007,
+      "ects/java/LintSampl"
+    ],
+    [
+      0.000002,
+      "e\u0007"
+    ],
+    [
+      0.000010,
+      "\u001b[30m"
+    ],
+    [
+      0.000003,
+      "\u001b[m\u000f"
+    ],
+    [
+      0.022422,
+      "\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\u001b[38;5;3m"
+    ],
+    [
+      0.000012,
+      "[W]\u001b[0"
+    ],
+    [
+      0.000003,
+      "m"
+    ],
+    [
+      0.001525,
+      "\u001b[0m\u001b[1m"
+    ],
+    [
+      0.000004,
+      " Memory allocations within drawing code\r\n\u001b[0m"
+    ],
+    [
+      0.001380,
+      "\u001b[0m    "
+    ],
+    [
+      0.000014,
+      "\u001b[0m"
+    ],
+    [
+      0.001355,
+      "\u001b[0m\u001b[38;5;4"
+    ],
+    [
+      0.000003,
+      "m\u001b[4m"
+    ],
+    [
+      0.000025,
+      "/Users/phartig/Projects/java/LintSample/mylibrary/src/main/java/lintsample/rdrei/net/mylibrary/LintSampleView.java:21\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b["
+    ],
+    [
+      0.000006,
+      "0"
+    ],
+    [
+      0.000001,
+      "m"
+    ],
+    [
+      0.001378,
+      "\u001b[0m\u001b[0m"
+    ],
+    [
+      0.001379,
+      "\u001b[0m\u001b[38;5;3m"
+    ],
+    [
+      0.000003,
+      "[W]\u001b[0m"
+    ],
+    [
+      0.001347,
+      "\u001b[0m\u001b["
+    ],
+    [
+      0.000013,
+      "1m Hardcoded text\r\n\u001b["
+    ],
+    [
+      0.000002,
+      "0"
+    ],
+    [
+      0.000001,
+      "m"
+    ],
+    [
+      0.001365,
+      "\u001b[0m    \u001b[0m"
+    ],
+    [
+      0.001309,
+      "\u001b[0m\u001b[38;5;"
+    ],
+    [
+      0.000003,
+      "4m\u001b[4m"
+    ],
+    [
+      0.000041,
+      "/Users/phartig/Projects/java/LintSample/app/src/main/res/layout/activity_main.xml:15\r\n\u001b[0m"
+    ],
+    [
+      0.001550,
+      "\u001b[0m\u001b[0m"
+    ],
+    [
+      0.001543,
+      "\u001b[0m\u001b["
+    ],
+    [
+      0.000020,
+      "38;5;3m[W]"
+    ],
+    [
+      0.000013,
+      "\u001b["
+    ],
+    [
+      0.000007,
+      "0m"
+    ],
+    [
+      0.001511,
+      "\u001b[0m\u001b[1m Unused resources\r\n\u001b"
+    ],
+    [
+      0.000004,
+      "[0m"
+    ],
+    [
+      0.001350,
+      "\u001b[0m    \u001b[0m"
+    ],
+    [
+      0.001343,
+      "\u001b[0m\u001b[38;5;4"
+    ],
+    [
+      0.000003,
+      "m\u001b[4m"
+    ],
+    [
+      0.000018,
+      "/Users/phartig/Projects/java/LintSample/app/src/main/res/values/strings.xml:4\r\n\u001b"
+    ],
+    [
+      0.000002,
+      "["
+    ],
+    [
+      0.000002,
+      "0"
+    ],
+    [
+      0.000002,
+      "m"
+    ],
+    [
+      0.001441,
+      "\u001b[0m\u001b[0m"
+    ],
+    [
+      0.001461,
+      "\u001b[0m\u001b[38;5;"
+    ],
+    [
+      0.000016,
+      "3m[W]\u001b[0"
+    ],
+    [
+      0.000002,
+      "m"
+    ],
+    [
+      0.001440,
+      "\u001b[0m\u001b[1"
+    ],
+    [
+      0.000016,
+      "m Using 'px' dimension\r\n\u001b"
+    ],
+    [
+      0.000002,
+      "["
+    ],
+    [
+      0.000002,
+      "0"
+    ],
+    [
+      0.000001,
+      "m"
+    ],
+    [
+      0.001621,
+      "\u001b[0m    \u001b[0m"
+    ],
+    [
+      0.001357,
+      "\u001b[0m\u001b[38;5;"
+    ],
+    [
+      0.000003,
+      "4m\u001b[4m"
+    ],
+    [
+      0.000041,
+      "/Users/phartig/Projects/java/LintSample/app/src/main/res/layout/activity_main.xml:17\r\n\u001b[0m"
+    ],
+    [
+      0.001435,
+      "\u001b[0m\u001b[0m"
+    ],
+    [
+      0.001385,
+      "\u001b[0m\u001b[38;5"
+    ],
+    [
+      0.000004,
+      ";3m[W]"
+    ],
+    [
+      0.000014,
+      "\u001b"
+    ],
+    [
+      0.000002,
+      "["
+    ],
+    [
+      0.000002,
+      "0"
+    ],
+    [
+      0.000002,
+      "m"
+    ],
+    [
+      0.001719,
+      "\u001b"
+    ],
+    [
+      0.000011,
+      "["
+    ],
+    [
+      0.000003,
+      "0m"
+    ],
+    [
+      0.000002,
+      "\u001b"
+    ],
+    [
+      0.000018,
+      "["
+    ],
+    [
+      0.000004,
+      "1m"
+    ],
+    [
+      0.000002,
+      " Useless parent layout\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b"
+    ],
+    [
+      0.000009,
+      "[0m"
+    ],
+    [
+      0.001529,
+      "\u001b[0m    \u001b[0m"
+    ],
+    [
+      0.001379,
+      "\u001b[0m\u001b["
+    ],
+    [
+      0.000004,
+      "38;5;"
+    ],
+    [
+      0.000013,
+      "4m"
+    ],
+    [
+      0.000002,
+      "\u001b"
+    ],
+    [
+      0.000002,
+      "["
+    ],
+    [
+      0.000002,
+      "4m"
+    ],
+    [
+      0.000035,
+      "/Users/phartig/Projects/java/LintSample/app/src/main/res/layout/activity_main.xml:11\r\n\u001b"
+    ],
+    [
+      0.000003,
+      "[0m"
+    ],
+    [
+      0.001315,
+      "\u001b[0m\u001b[0m"
+    ],
+    [
+      0.085065,
+      "\u001b]0;fis"
+    ],
+    [
+      0.000007,
+      "h  /Users/phartig/Projects/java/Lint"
+    ],
+    [
+      0.000003,
+      "Sampl"
+    ],
+    [
+      0.000002,
+      "e\u0007"
+    ],
+    [
+      0.000023,
+      "\u001b[30m\u001b["
+    ],
+    [
+      0.000004,
+      "m\u000f"
+    ],
+    [
+      0.000086,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                             \r \r"
+    ],
+    [
+      0.000173,
+      "\u001b[1m\u001b[37m\u001b[42m[I]\u001b[30m\u001b[m\u000f phartig@tw-mbp-phartig \u001b[32m~/P/j/LintSample\u001b[30m\u001b[m\u000f (master \u001b[31m▼\u001b[30m\u001b[m\u000f) $ \u001b[K"
+    ],
+    [
+      2.064647,
+      "android-lint-summary"
+    ],
+    [
+      0.000171,
+      "\u001b[20D\u001b[38;5;247mandroid-lint-summary\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.487697,
+      "\u001b[38;5;247m \u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.000395,
+      "\u0008 "
+    ],
+    [
+      0.430899,
+      "-"
+    ],
+    [
+      0.000202,
+      "\u0008\u001b[38;5;246m-\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.005545,
+      "\u001b[38;5;242mv\u0008\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.234855,
+      "\u001b[38;5;246mv\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.872069,
+      "\r\n\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.000311,
+      "\u001b]0;android-lint-summary  /Users/phartig/Projects/ja"
+    ],
+    [
+      0.000009,
+      "va/LintSample\u0007"
+    ],
+    [
+      0.000040,
+      "\u001b[30m\u001b"
+    ],
+    [
+      0.000007,
+      "[m\u000f"
+    ],
+    [
+      0.020749,
+      "\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\u001b[38;5;3m"
+    ],
+    [
+      0.000014,
+      "[W]\u001b[0"
+    ],
+    [
+      0.000003,
+      "m"
+    ],
+    [
+      0.001455,
+      "\u001b[0m\u001b[1m"
+    ],
+    [
+      0.000004,
+      " Memory allocations within drawing code\r\n\u001b[0m"
+    ],
+    [
+      0.001375,
+      "\u001b[0m    \u001b[0m"
+    ],
+    [
+      0.001413,
+      "\u001b[0m\u001b[38;5"
+    ],
+    [
+      0.000014,
+      ";4m\u001b[4"
+    ],
+    [
+      0.000002,
+      "m"
+    ],
+    [
+      0.000046,
+      "/Users/phartig/Projects/java/LintSample/mylibrary/src/main/java/lintsample/rdrei/net/mylibrary/LintSampleView.java:21\r\n\u001b[0m"
+    ],
+    [
+      0.001410,
+      "\u001b[0m\u001b[2m"
+    ],
+    [
+      0.000054,
+      "    You should avoid allocating objects during a drawing or layout operation. These are called\r\n     frequently, so a smooth UI can be interrupted by garbage collection pauses caused by the \r\n    object allocations.\r\n    The way this is generally handled is to allocate the needed objects up front and to reuse \r\n    them for each drawing operation.\r\n    Some methods allocate memory on your behalf (such as `Bitmap.create`), and these should be\r\n     handled in the same way.\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b["
+    ],
+    [
+      0.000002,
+      "0m"
+    ],
+    [
+      0.001502,
+      "\u001b[0m\u001b[38;5;"
+    ],
+    [
+      0.000003,
+      "3m[W]\u001b[0"
+    ],
+    [
+      0.000002,
+      "m"
+    ],
+    [
+      0.001583,
+      "\u001b[0m\u001b[1m"
+    ],
+    [
+      0.000004,
+      " Hardcoded text\r\n\u001b[0m"
+    ],
+    [
+      0.001424,
+      "\u001b[0m    \u001b[0m"
+    ],
+    [
+      0.001345,
+      "\u001b[0m\u001b[38;5;"
+    ],
+    [
+      0.000003,
+      "4m\u001b[4m"
+    ],
+    [
+      0.000037,
+      "/Users/phartig/Projects/java/LintSample/app/src/main/res/layout/activity_main.xml:15\r\n\u001b[0m"
+    ],
+    [
+      0.001419,
+      "\u001b[0m\u001b[2m"
+    ],
+    [
+      0.000035,
+      "    Hardcoding text attributes directly in layout files is bad for several reasons:\r\n    * When creating configuration variations (for example for landscape or portrait)you have t\r\n    o repeat the actual text (and keep it up to date when making changes)\r\n    * The application cannot be translated to other languages by just adding new translations \r\n    for existing string resources.\r\n    In Android Studio and Eclipse there are quickfixes to automatically extract this hardcoded\r\n     string into a resource lookup.\r\n"
+    ],
+    [
+      0.000033,
+      "\u001b"
+    ],
+    [
+      0.000004,
+      "[0m"
+    ],
+    [
+      0.001508,
+      "\u001b[0m\u001b[38;5"
+    ],
+    [
+      0.000004,
+      ";3m[W]\u001b[0"
+    ],
+    [
+      0.000006,
+      "m"
+    ],
+    [
+      0.001562,
+      "\u001b[0m\u001b[1m"
+    ],
+    [
+      0.000005,
+      " Unused resources\r\n\u001b[0m"
+    ],
+    [
+      0.001482,
+      "\u001b"
+    ],
+    [
+      0.000005,
+      "[0m    \u001b"
+    ],
+    [
+      0.000003,
+      "["
+    ],
+    [
+      0.000003,
+      "0m"
+    ],
+    [
+      0.001496,
+      "\u001b[0m\u001b[38;5;"
+    ],
+    [
+      0.000003,
+      "4m\u001b[4m"
+    ],
+    [
+      0.000036,
+      "/Users/phartig/Projects/java/LintSample/app/src/main/res/values/strings.xml:4\r\n\u001b[0m"
+    ],
+    [
+      0.001301,
+      "\u001b[0m\u001b[2m"
+    ],
+    [
+      0.000003,
+      "    Unused resources make applications larger and slow down builds.\r\n\u001b[0m"
+    ],
+    [
+      0.001337,
+      "\u001b[0m\u001b[38;5;3m"
+    ],
+    [
+      0.000003,
+      "[W]\u001b[0m"
+    ],
+    [
+      0.001284,
+      "\u001b[0m\u001b[1m Using 'px' dimension\r\n\u001b"
+    ],
+    [
+      0.000003,
+      "[0m"
+    ],
+    [
+      0.001359,
+      "\u001b[0m    \u001b[0m"
+    ],
+    [
+      0.001292,
+      "\u001b[0m\u001b[38;5;4m\u001b"
+    ],
+    [
+      0.000003,
+      "[4m"
+    ],
+    [
+      0.000013,
+      "/Users/phartig/Projects/java/LintSample/app/src/main/res/layout/activity_main.xml:17\r\n\u001b"
+    ],
+    [
+      0.000002,
+      "[0"
+    ],
+    [
+      0.000001,
+      "m"
+    ],
+    [
+      0.001313,
+      "\u001b[0m\u001b[2m"
+    ],
+    [
+      0.000071,
+      "    For performance reasons and to keep the code simpler, the Android system uses pixels as th\r\n    e standard unit for expressing dimension or coordinate values. That means that the dimensi\r\n    ons of a view are always expressed in the code using pixels, but always based on the curre\r\n    nt screen density. For instance, if `myView.getWidth()` returns 10, the view is 10 pixels \r\n    wide on the current screen, but on a device with a higher density screen, the value return\r\n    ed might be 15. If you use pixel values in your application code to work with bitmaps that\r\n     are not pre-scaled for the current screen density, you might need to scale the pixel valu\r\n    es that you use in your code to match the un-scaled bitmap source.\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[0m"
+    ],
+    [
+      0.001297,
+      "\u001b[0m\u001b[38;5;3m"
+    ],
+    [
+      0.000003,
+      "[W]\u001b[0m"
+    ],
+    [
+      0.001359,
+      "\u001b[0m\u001b[1m Useless parent layout\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[0m"
+    ],
+    [
+      0.001280,
+      "\u001b[0m    \u001b[0m"
+    ],
+    [
+      0.001381,
+      "\u001b[0m\u001b[38;5;4m"
+    ],
+    [
+      0.000004,
+      "\u001b[4m"
+    ],
+    [
+      0.000015,
+      "/Users/phartig/Projects/java/LintSample/app/src/main/res/layout/activity_main.xml:11\r\n\u001b["
+    ],
+    [
+      0.000003,
+      "0m"
+    ],
+    [
+      0.001621,
+      "\u001b[0m\u001b[2m"
+    ],
+    [
+      0.000134,
+      "    A layout with children that has no siblings, is not a scrollview or a root layout, and doe\r\n    s not have a background, can be removed and have its children moved directly into the pare\r\n    nt for a flatter and more efficient layout hierarchy.\r\n\u001b[0m"
+    ],
+    [
+      0.078274,
+      "\u001b]0;fish  /Users/phartig/Projects/"
+    ],
+    [
+      0.000006,
+      "java/LintSample\u0007\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.000123,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                             \r \r"
+    ],
+    [
+      0.000059,
+      "\u001b[1m\u001b[37m\u001b[42m[I]\u001b[30m\u001b[m\u000f phartig@tw-mbp-phartig \u001b[32m~/P/j/LintSample\u001b[30m\u001b[m\u000f (master \u001b[31m▼\u001b[30m\u001b[m\u000f) $ \u001b[K"
+    ],
+    [
+      1.593427,
+      "android-lint-summary -v"
+    ],
+    [
+      0.000151,
+      "\u001b[23D\u001b[38;5;247mandroid-lint-summary\u001b[30m\u001b[m\u000f \u001b[38;5;246m-v\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.464449,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.119685,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.576051,
+      "|"
+    ],
+    [
+      0.000257,
+      "\u0008\u001b[38;5;32m|\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.000134,
+      "\u001b[38;5;242m fpp\u0008\u0008\u0008\u0008\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.167230,
+      "\u001b[38;5;32m \u001b[38;5;242mfpp\u0008\u0008\u0008\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.000249,
+      "\u0008 \u001b[38;5;242mfpp\u0008\u0008\u0008\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.359929,
+      "f\u001b[38;5;242mpp\u0008\u0008\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.000459,
+      "\u0008\u001b[38;5;166mf\u001b[38;5;242mpp\u0008\u0008\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.103292,
+      "\u001b[38;5;166mp\u001b[38;5;242mp\u0008\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.120339,
+      "\u001b[38;5;166mp\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.000429,
+      "\u0008\u0008\u0008\u001b[38;5;247mfpp\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      1.104836,
+      "\r\n\u001b"
+    ],
+    [
+      0.000005,
+      "[30m\u001b[m\u000f"
+    ],
+    [
+      0.000216,
+      "\u001b]0;androi"
+    ],
+    [
+      0.000012,
+      "d-lint-summary  /Use"
+    ],
+    [
+      0.000005,
+      "rs/phartig/Projects/"
+    ],
+    [
+      0.000002,
+      "java/L"
+    ],
+    [
+      0.000002,
+      "int"
+    ],
+    [
+      0.000001,
+      "Sam"
+    ],
+    [
+      0.000002,
+      "ple"
+    ],
+    [
+      0.000001,
+      "\u0007"
+    ],
+    [
+      0.000013,
+      "\u001b[30m\u001b"
+    ],
+    [
+      0.000004,
+      "[m\u000f"
+    ],
+    [
+      0.144207,
+      "\u001b(B\u001b)0\u001b[?1049h\u001b[1;25r\u001b[m\u000f\u001b[4l\u001b[?1h\u001b="
+    ],
+    [
+      0.008670,
+      "\u001b[39;49m\u001b[?25l"
+    ],
+    [
+      0.000141,
+      "\u001b[39;49m\u001b[m\u000f\u001b[H\u001b[J\u001b[90m[W]\u001b[0;1m\u000f Memory allocations within drawing code\n\u001b[38D\u001b[0m\u000f\u001b[37m\u001b[44m/Users/phartig/Projects/java/LintSample/myli|...|e/rdrei/net/mylibrary/LintSampleView.java\u001b[3;1H\u001b[39;49m\u001b[90m[W]\u001b[0;1m\u000f Hardcoded text\n\u001b[14D\u001b[0;4m\u000f/Users/phartig/Projects/java/LintSample/app/src/main/res/layout/activity_main.xml:15\r\n\u001b[0m\u000f\u001b[90m[W]\u001b[0;1m\u000f Unused resources\n\u001b[16D\u001b[0;4m\u000f/Users/phartig/Projects/java/LintSample/app/src/main/res/values/strings.xml:4\r\n\u001b[0m\u000f\u001b[90m[W]\u001b[0;1m\u000f Using 'px' dimension\n\u001b[20D\u001b[0;4m\u000f/Users/phartig/Projects/java/LintSample/app/src/main/res/layout/activity_main.xml:17\r\n\u001b[0m\u000f\u001b[90m[W]\u001b[0;1m\u000f Useless parent layout\n\u001b[21D\u001b[0;4m\u000f/Users/phartig/Projects/java/LintSample/app/src/main/res/layout/activity_main.xml:11\r\u001b[14B\u001b[0m\u000f______________________________________________________________________________________________\u001b[25;1H[f|A] selection, [down|j|up|k|space|b] navigation, [enter] open, [x] quick select mode, [c] c\u0008o\u0008\u001b[1@c\u001b[H\n\u001b[m\u000f"
+    ],
+    [
+      5.092488,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000020,
+      "\u001b[25;1H\u001b[34h\u001b[?25h\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.172018,
+      "\u001b]0;fish  /Users/phartig/Project"
+    ],
+    [
+      0.000006,
+      "s/java/LintSample\u0007\u001b[30m\u001b["
+    ],
+    [
+      0.000002,
+      "m\u000f"
+    ],
+    [
+      0.000064,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                             \r \r"
+    ],
+    [
+      0.000109,
+      "\u001b[1m\u001b[37m\u001b[42m[I]\u001b[30m\u001b[m\u000f phartig@tw-mbp-phartig \u001b[32m~/P/j/LintSample\u001b[30m\u001b[m\u000f (master \u001b[31m▼\u001b[30m\u001b[m\u000f) $ \u001b[K"
+    ],
+    [
+      1.860299,
+      "e"
+    ],
+    [
+      0.000240,
+      "\u0008\u001b[38;5;166me\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.006784,
+      "\u001b[38;5;242mxit\u0008\u0008\u0008\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.177093,
+      "\u001b[38;5;166mx\u001b[38;5;242mit\u0008\u0008\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.000418,
+      "\u0008\u0008\u001b[38;5;247mex\u001b[38;5;242mit\u0008\u0008\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.087756,
+      "\u001b[38;5;247mi\u001b[38;5;242mt\u0008\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.000334,
+      "\u0008\u0008\u0008\u001b[38;5;166mexi\u001b[38;5;242mt\u0008\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.094701,
+      "\u001b[38;5;166mt\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.000247,
+      "\u0008\u0008\u0008\u0008\u001b[38;5;247mexit\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.088512,
+      "\r\n\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.000191,
+      "\u001b]0;exit  /Users/phartig/P"
+    ],
+    [
+      0.000006,
+      "rojects/java/LintSample\u0007"
+    ],
+    [
+      0.000014,
+      "\u001b[30m\u001b"
+    ],
+    [
+      0.000004,
+      "[m\u000f"
+    ],
+    [
+      0.000103,
+      "\r\n\u001b[30m\u001b[m\u000f"
+    ]
+  ]
+}
