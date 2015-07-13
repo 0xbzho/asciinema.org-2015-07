@@ -1,0 +1,722 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 25,
+  "duration": 47.602891,
+  "command": "/usr/local/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/local/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.789864,
+      "                                                                                \r\r"
+    ],
+    [
+      0.006789,
+      "\u001b]0;"
+    ],
+    [
+      0.000020,
+      "/tmp\u0007"
+    ],
+    [
+      0.020545,
+      "\r\n\u001b[34m/tmp\u001b[39m\u001b[38;5;242m\u001b[39m\u001b[36m\u001b[39m\u001b[33m\u001b[39m\r\n"
+    ],
+    [
+      0.000400,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[35m❯\u001b[39m "
+    ],
+    [
+      0.000016,
+      "\u001b[K"
+    ],
+    [
+      0.000189,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000198,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[35m❯\u001b[39m \u001b[K"
+    ],
+    [
+      0.883770,
+      "t"
+    ],
+    [
+      0.118228,
+      "\u0008tm"
+    ],
+    [
+      0.232401,
+      "u"
+    ],
+    [
+      0.071923,
+      "x"
+    ],
+    [
+      0.472357,
+      " "
+    ],
+    [
+      0.119730,
+      "a"
+    ],
+    [
+      0.176032,
+      " "
+    ],
+    [
+      0.479916,
+      "-"
+    ],
+    [
+      0.095999,
+      "t"
+    ],
+    [
+      0.064158,
+      " "
+    ],
+    [
+      0.127937,
+      "0"
+    ],
+    [
+      0.311881,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000308,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[35m❯\u001b[39m tmux a -t 0\u001b[K"
+    ],
+    [
+      0.000164,
+      "\r\r\n"
+    ],
+    [
+      0.002546,
+      "\u001b]0;"
+    ],
+    [
+      0.000009,
+      "tmp: tmux a -t 0\u0007"
+    ],
+    [
+      0.059278,
+      "\u001b[?1049h\u001b(B\u001b[m\u001b[?1l\u001b\u003e\u001b[H\u001b[2J\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[?1006l\u001b[?1005l\u001b[c\u001b]112\u0007\u001b[32m\u001b[1;41H│\u001b[2;41H│\u001b[3;41H│\u001b[4;41H│\u001b[5;41H│\u001b[6;41H│\u001b[7;41H│\u001b[8;41H│\u001b[9;41H│\u001b[10;41H│\u001b[11;41H│\u001b[12;41H│\u001b[13;41H├\u001b[39m───────────────────────────────────────\u001b[32m\u001b[14;41H│\u001b[15;41H│\u001b[16;41H│\u001b[17;41H│\u001b[18;41H│\u001b[19;41H│\u001b[20;41H│\u001b[21;41H│\u001b[22;41H│\u001b[23;41H│\u001b[24;41H│\u001b[?25l\u001b[H\u001b(B\u001b[m\u001b[35m❯\u001b[39m                                       \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                 "
+    ],
+    [
+      0.000053,
+      "       \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \u001b[1;42H\u001b[35m❯\u001b[39m \u001b[K\u001b[2;42H\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[2B\u001b[31m❯\u001b[39m \u001b[K\u001b[15;42H\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\r\n\u001b[30m\u001b[42m[0] 0:zsh*                                                \"/tmp\" 14:04 13-Jul-15\u001b(B\u001b[m\u001b[25;1H\u001b[1;25r\u001b[H\u001b[2C\u001b[?12l\u001b[?25h\u001b[?1h\u001b="
+    ],
+    [
+      4.410551,
+      "\u001b[32m\u001b[38C│\u001b[2;41H│\u001b[3;41H│\u001b[4;41H│\u001b[5;41H│\u001b[6;41H│\u001b[7;41H│\u001b[8;41H│\u001b[9;41H│\u001b[10;41H│\u001b[11;41H│\u001b[12;41H│\u001b[13;41H├───────────────────────────────────────\u001b[39m\u001b[14;41H│\u001b[15;41H│\u001b[16;41H│\u001b[17;41H│\u001b[18;41H│\u001b[19;41H│\u001b[20;41H│\u001b[21;41H│\u001b[22;41H│\u001b[23;41H│\u001b[24;41H│\u001b[?25l\u001b[H\u001b(B\u001b[m\u001b[35m❯\u001b[39m                                       \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                             "
+    ],
+    [
+      0.000084,
+      "           \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \u001b[1;42H\u001b[35m❯\u001b[39m \u001b[K\u001b[2;42H\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[2B\u001b[31m❯\u001b[39m \u001b[K\u001b[15;42H\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\r\n\u001b[30m\u001b[42m[0] 0:zsh*                                        \"/private/tmp\" 14:04 13-Jul-15\u001b(B\u001b[m\u001b[1;44H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.376213,
+      "\u001b[3D│\u001b[2;41H│\u001b[3;41H│\u001b[4;41H│\u001b[5;41H│\u001b[6;41H│\u001b[7;41H│\u001b[8;41H│\u001b[9;41H│\u001b[10;41H│\u001b[11;41H│\u001b[12;41H│\u001b[32m\u001b[13;41H├───────────────────────────────────────\u001b[14;41H│\u001b[15;41H│\u001b[16;41H│\u001b[17;41H│\u001b[18;41H│\u001b[19;41H│\u001b[20;41H│\u001b[21;41H│\u001b[22;41H│\u001b[23;41H│\u001b[24;41H│\u001b[?25l\u001b[H\u001b(B\u001b[m\u001b[35m❯\u001b[39m                                       \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                   "
+    ],
+    [
+      0.000074,
+      "     \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \u001b[1;42H\u001b[35m❯\u001b[39m \u001b[K\u001b[2;42H\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[2B\u001b[31m❯\u001b[39m \u001b[K\u001b[15;42H\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\r\n\u001b[30m\u001b[42m[0] 0:zsh*                                        \"/private/tmp\" 14:04 13-Jul-15\u001b(B\u001b[m\u001b[14;44H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.759419,
+      "\u001b[14;24r\u001b[H\u001b[14;44Ht\u001b[1;25r\u001b[H\u001b[14;45H"
+    ],
+    [
+      0.103579,
+      "\u001b[14;24r\u001b[H\u001b[14;44Hta\u001b[1;25r\u001b[H\u001b[14;46H"
+    ],
+    [
+      0.104373,
+      "\u001b[14;24r\u001b[H\u001b[14;46Hi\u001b[1;25r\u001b[H\u001b[14;47H"
+    ],
+    [
+      0.040016,
+      "\u001b[14;24r\u001b[H\u001b[14;47Hl\u001b[1;25r\u001b[H\u001b[14;48H"
+    ],
+    [
+      0.375735,
+      "\u001b[14;24r\u001b[H\u001b[14;48H -n0 -f /tmp/pure.log\u001b[1;25r\u001b[H\u001b[14;69H"
+    ],
+    [
+      0.224230,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000382,
+      "\u001b[14;24r\u001b[H\u001b[14;42H                                       \u001b[15;42H                                       \u001b[16;42H                                       \u001b[17;42H                                       \u001b[18;42H                                       \u001b[19;42H                                       \u001b[20;42H                                       \u001b[21;42H                                       \u001b[22;42H                                       \u001b[23;42H                                       \u001b[24;42H                                       \u001b[14;42H\u001b[31m❯\u001b[39m tail -n0 -f /tmp/pure.log            \u001b[14;1H\u001b[1;25r\u001b[H\u001b[14;69H"
+    ],
+    [
+      0.000009,
+      "\u001b[15;42H"
+    ],
+    [
+      0.012288,
+      "\u001b[?25l\u001b[25;1H\u001b[30m\u001b[42m[0] 0:zsh*                               \"tmp: tail -n0 -f /tmp\" 14:04 13-Jul-15\u001b(B\u001b[m\u001b[15;42H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.296939,
+      "\u001b[?25l\u001b[25;1H\u001b[30m\u001b[42m[0] 0:gtail*                             \"tmp: tail -n0 -f /tmp\" 14:04 13-Jul-15\u001b(B\u001b[m\u001b[15;42H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.106645,
+      "\u001b[32m\u001b[1;41H│\u001b[2;41H│\u001b[3;41H│\u001b[4;41H│\u001b[5;41H│\u001b[6;41H│\u001b[7;41H│\u001b[8;41H│\u001b[9;41H│\u001b[10;41H│\u001b[11;41H│\u001b[12;41H│\u001b[13;41H├\u001b[39m───────────────────────────────────────\u001b[32m\u001b[14;41H│\u001b[15;41H│\u001b[16;41H│\u001b[17;41H│\u001b[18;41H│\u001b[19;41H│\u001b[20;41H│\u001b[21;41H│\u001b[22;41H│\u001b[23;41H│\u001b[24;41H│\u001b[?25l\u001b[H\u001b(B\u001b[m\u001b[35m❯\u001b[39m                                       \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                      "
+    ],
+    [
+      0.000064,
+      "                  \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \u001b[1;42H\u001b[35m❯\u001b[39m \u001b[K\u001b[2;42H\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[2B\u001b[31m❯\u001b[39m tail -n0 -f /tmp/pure.log\u001b[K\u001b[15;42H\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\r\n\u001b[30m\u001b[42m[0] 0:gtail*                                              \"/tmp\" 14:04 13-Jul-15\u001b(B\u001b[m\u001b[1;3H\u001b[?12l\u001b[?25h\u001b[?1h\u001b="
+    ],
+    [
+      0.395440,
+      "\u001b[?25l\u001b[25;1H\u001b[30m\u001b[42m[0] 0:zsh*                                                \"/tmp\" 14:04 13-Jul-15\u001b(B\u001b[m\u001b[1;3H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.916255,
+      "\u001b[1;24r\u001b[H\u001b[2Ch\u001b[1;25r\u001b[H\u001b[3C"
+    ],
+    [
+      0.071877,
+      "\u001b[1;24r\u001b[H\u001b[2Chu\u001b[1;25r\u001b[H\u001b[4C"
+    ],
+    [
+      0.136111,
+      "\u001b[1;24r\u001b[H\u001b[4Cb\u001b[1;25r\u001b[H\u001b[5C"
+    ],
+    [
+      0.487876,
+      "\u001b[1;24r\u001b[H\u001b[5C clone pure \u0026\u0026 cd pure\u001b[1;25r\u001b[H\u001b[27C"
+    ],
+    [
+      0.831657,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000375,
+      "\u001b[1;24r\u001b[H                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \u001b[H\u001b[35m"
+    ],
+    [
+      0.000078,
+      "❯\u001b[39m hub clone pure \u0026\u0026 cd pure             \u001b[1;25r\u001b[H\u001b[27C\r\n"
+    ],
+    [
+      0.012072,
+      "\u001b[?25l\u001b[25d\u001b[30m\u001b[42m[0] 0:zsh*                               \"tmp: hub clone pure \u0026\" 14:04 13-Jul-15\u001b(B\u001b[m\u001b[2;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.047740,
+      "\u001b[?25l\u001b[25d\u001b[30m\u001b[42m[0] 0:sh*                                \"tmp: hub clone pure \u0026\" 14:04 13-Jul-15\u001b(B\u001b[m\u001b[2;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.445780,
+      "\u001b[1;24r\u001b[H\r\nCloning into 'pure'...\u001b[1;25r\u001b[H\u001b[2B"
+    ],
+    [
+      0.055208,
+      "\u001b[?25l\u001b[25d\u001b[30m\u001b[42m[0] 0:git*                               \"tmp: hub clone pure \u0026\" 14:04 13-Jul-15\u001b(B\u001b[m\u001b[3;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.885787,
+      "\u001b[1;24r\u001b[H\u001b[2Bremote: Counting objects: 454, done.    \r\nremote: Compressing objects:  16% (1/6) \r\n                                        \rremote: Compressing objects:  33% (2/6) \r\n                                        \u001b[1;25r\u001b[H\u001b[5B"
+    ],
+    [
+      0.000353,
+      "\u001b[1;24r\u001b[H\u001b[5Bremote: Compressing objects:  50% (3/6) \r\n                                        \rremote: Compressing objects:  66% (4/6) \r\n                                        \rremote: Compressing objects:  83% (5/6) \r\n                                        \rremote: Compressing objects: 100% (6/6) \r\n                                        \rremote: Compressing objects: 100% (6/6),\r\n done.                                  \u001b[1;25r\u001b[H\u001b[11B"
+    ],
+    [
+      0.073984,
+      "\u001b[1;24r\u001b[H\u001b[11BReceiving objects:   0% (1/454)   \u001b[1;25r\u001b[H\u001b[11B"
+    ],
+    [
+      0.000122,
+      "\u001b[1;24r\u001b[H\u001b[11BReceiving objects:   1% (5/454)   \u001b[1;25r\u001b[H\u001b[11B"
+    ],
+    [
+      0.000409,
+      "\u001b[1;24r\u001b[H\u001b[11BReceiving objects:   2% (10/454)   \u001b[1;25r\u001b[H\u001b[11B"
+    ],
+    [
+      0.000383,
+      "\u001b[1;24r\u001b[H\u001b[11BReceiving objects:   3% (14/454)   \u001b[1;25r\u001b[H\u001b[11B"
+    ],
+    [
+      0.000398,
+      "\u001b[1;24r\u001b[H\u001b[11BReceiving objects:   4% (19/454)   \u001b[1;25r\u001b[H\u001b[11B"
+    ],
+    [
+      0.000315,
+      "\u001b[1;24r\u001b[H\u001b[11BReceiving objects:   5% (23/454)   \u001b[1;25r\u001b[H\u001b[11B"
+    ],
+    [
+      0.000343,
+      "\u001b[1;24r\u001b[H\u001b[11BReceiving objects:   6% (28/454)   \u001b[1;25r\u001b[H\u001b[11B"
+    ],
+    [
+      0.000265,
+      "\u001b[1;24r\u001b[H\u001b[11BReceiving objects:   7% (32/454)   \u001b[1;25r\u001b[H\u001b[11B"
+    ],
+    [
+      0.000290,
+      "\u001b[1;24r\u001b[H\u001b[11BReceiving objects:   8% (37/454)   \u001b[1;25r\u001b[H\u001b[11B"
+    ],
+    [
+      0.210204,
+      "\u001b[1;24r\u001b[H\u001b[11BReceiving objects:   9% (41/454)   \u001b[1;25r\u001b[H\u001b[11B"
+    ],
+    [
+      0.000274,
+      "\u001b[1;24r\u001b[H\u001b[11BReceiving objects:  10% (46/454)   \u001b[1;25r\u001b[H\u001b[11B"
+    ],
+    [
+      0.000275,
+      "\u001b[1;24r\u001b[H\u001b[11BReceiving objects:  11% (50/454)   \u001b[1;25r\u001b[H\u001b[11B"
+    ],
+    [
+      0.000342,
+      "\u001b[1;24r\u001b[H\u001b[11BReceiving objects:  12% (55/454)   \u001b[1;25r\u001b[H\u001b[11B"
+    ],
+    [
+      0.000519,
+      "\u001b[1;24r\u001b[H\u001b[11BReceiving objects:  13% (60/454)   \u001b[1;25r\u001b[H\u001b[11B"
+    ],
+    [
+      0.000345,
+      "\u001b[1;24r\u001b[H\u001b[11BReceiving objects:  14% (64/454)   \u001b[1;25r\u001b[H\u001b[11B"
+    ],
+    [
+      0.000368,
+      "\u001b[1;24r\u001b[H\u001b[11BReceiving objects:  15% (69/454)   \u001b[1;25r\u001b[H\u001b[11B"
+    ],
+    [
+      0.000337,
+      "\u001b[1;24r\u001b[H\u001b[11BReceiving objects:  16% (73/454)   \u001b[1;25r\u001b[H\u001b[11B"
+    ],
+    [
+      0.000333,
+      "\u001b[1;24r\u001b[H\u001b[11BReceiving objects:  17% (78/454)   \u001b[1;25r\u001b[H\u001b[11B"
+    ],
+    [
+      0.000379,
+      "\u001b[1;24r\u001b[H\u001b[11BReceiving objects:  18% (82/454)   \u001b[1;25r\u001b[H\u001b[11B"
+    ],
+    [
+      0.000331,
+      "\u001b[1;24r\u001b[H\u001b[11BReceiving objects:  19% (87/454)   \u001b[1;25r\u001b[H\u001b[11B"
+    ],
+    [
+      0.005495,
+      "\u001b[?25l\u001b[H\u001b[35m❯\u001b[39m hub clone pure \u0026\u0026 cd pure             \r\nCloning into 'pure'...                  \r\nremote: Counting objects: 454, done.    \r\nremote: Compressing objects:  16% (1/6) \r\nremote: Compressing objects:  33% (2/6) \r\nremote: Compressing objects:  50% (3/6) \r\nremote: Compressing objects:  66% (4/6) \r\nremote: Compressing objects:  83% (5/6) \r\nremote: Compressing objects: 100% (6/6) \r\nremote: Compressing objects: 100% (6/6),\r\n done.                                  \r\nReceiving objects:  37% (168/454)       \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                        \r\n                                     "
+    ],
+    [
+      0.000038,
+      "   \u001b[12;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.347476,
+      "\u001b[1;24r\u001b[H\u001b[11BReceiving objects:  38% (173/454), 76.01\r\n KiB | 120.00 KiB/s   \u001b[1;25r\u001b[H\u001b[12B"
+    ],
+    [
+      0.000344,
+      "\u001b[1;24r\u001b[H\u001b[13dReceiving objects:  39% (178/454), 76.01\r\n KiB | 120.00 KiB/s   \u001b[1;25r\u001b[H\u001b[14d"
+    ],
+    [
+      0.072064,
+      "\u001b[1;24r\u001b[H\u001b[14dReceiving objects:  40% (182/454), 76.01\r\n KiB | 120.00 KiB/s   \u001b[1;25r\u001b[H\u001b[15d"
+    ],
+    [
+      0.000240,
+      "\u001b[1;24r\u001b[H\u001b[15dReceiving objects:  41% (187/454), 76.01\r\n KiB | 120.00 KiB/s   \u001b[1;25r\u001b[H\u001b[16d"
+    ],
+    [
+      0.000106,
+      "\u001b[1;24r\u001b[H\u001b[16dReceiving objects:  42% (191/454), 76.01\r\n KiB | 120.00 KiB/s   \u001b[1;25r\u001b[H\u001b[17d"
+    ],
+    [
+      0.000211,
+      "\u001b[1;24r\u001b[H\u001b[17dReceiving objects:  43% (196/454), 76.01\r\n KiB | 120.00 KiB/s   \u001b[1;25r\u001b[H\u001b[18d"
+    ],
+    [
+      0.000165,
+      "\u001b[1;24r\u001b[H\u001b[18dReceiving objects:  44% (200/454), 76.01\r\n KiB | 120.00 KiB/s   \rReceiving objects:  45% (205/454), 76.01\r\n KiB | 120.00 KiB/s   \u001b[1;25r\u001b[H\u001b[20d"
+    ],
+    [
+      0.000095,
+      "\u001b[1;24r\u001b[H\u001b[20dReceiving objects:  46% (209/454), 76.01\r\n KiB | 120.00 KiB/s   \u001b[1;25r\u001b[H\u001b[21d"
+    ],
+    [
+      0.000105,
+      "\u001b[1;24r\u001b[H\u001b[21dReceiving objects:  47% (214/454), 76.01\r\n KiB | 120.00 KiB/s   \u001b[1;25r\u001b[H\u001b[22d"
+    ],
+    [
+      0.000197,
+      "\u001b[1;24r\u001b[H\u001b[22dReceiving objects:  48% (218/454), 76.01\r\n KiB | 120.00 KiB/s   \u001b[1;25r\u001b[H\u001b[23d"
+    ],
+    [
+      0.000102,
+      "\u001b[1;24r\u001b[H\u001b[23dReceiving objects:  49% (223/454), 76.01\r\n KiB | 120.00 KiB/s   \u001b[1;25r\u001b[H\u001b[24d"
+    ],
+    [
+      0.418479,
+      "\u001b[1;24r\u001b[H\u001b[24dReceiving objects:  50% (227/454), 76.01\u001b[?25l\u001b[HCloning into 'pure'...                  \r\nremote: Counting objects: 454, done.    \r\nremote: Compressing objects:  16% (1/6) \r\nremote: Compressing objects:  33% (2/6) \r\nremote: Compressing objects:  50% (3/6) \r\nremote: Compressing objects:  66% (4/6) \r\nremote: Compressing objects:  83% (5/6) \r\nremote: Compressing objects: 100% (6/6) \r\nremote: Compressing objects: 100% (6/6),\r\n done.                                  \r\nReceiving objects:  38% (173/454), 76.01\r\nReceiving objects:  39% (178/454), 76.01\r\nReceiving objects:  40% (182/454), 76.01\r\nReceiving objects:  41% (187/454), 76.01\r\nReceiving objects:  42% (191/454), 76.01\r\nReceiving objects:  43% (196/454), 76.01\r\nReceiving objects:  44% (200/454), 76.01\r\nReceiving objects:  45% (205/454), 76.01\r\nReceiving objects:  46% (209/454), 76.01\r\nReceiving objects:  47% (214/454), 76.01\r\nReceiving objects:  48% (218/454), 76.01\r\nReceiving objects:  49% (223/454), 76.01\r\nReceiving objects:  50% (227/454), 7"
+    ],
+    [
+      0.000288,
+      "6.01\r\n KiB | 120.00 KiB/s                     \u001b[1;25r\u001b[H\u001b[24d\u001b[?12l\u001b[?25h\u001b[1;24r\u001b[H\u001b[24dReceiving objects:  51% (232/454), 76.01\u001b[?25l\u001b[Hremote: Counting objects: 454, done.    \r\nremote: Compressing objects:  16% (1/6) \r\nremote: Compressing objects:  33% (2/6) \r\nremote: Compressing objects:  50% (3/6) \r\nremote: Compressing objects:  66% (4/6) \r\nremote: Compressing objects:  83% (5/6) \r\nremote: Compressing objects: 100% (6/6) \r\nremote: Compressing objects: 100% (6/6),\r\n done.                                  \r\nReceiving objects:  38% (173/454), 76.01\r\nReceiving objects:  39% (178/454), 76.01\r\nReceiving objects:  40% (182/454), 76.01\r\nReceiving objects:  41% (187/454), 76.01\r\nReceiving objects:  42% (191/454), 76.01\r\nReceiving objects:  43% (196/454), 76.01\r\nReceiving objects:  44% (200/454), 76.01\r\nReceiving objects:  45% (205/454), 76.01\r\nReceiving objects:  46% (209/454), 76.01\r\nReceiving objects:  47% (214/454), 76.01\r\nReceiving objects:  48% (218/454), 76.01\r\nReceiving objects:  49% (223/454), 76.01\r\nRecei"
+    ],
+    [
+      0.000271,
+      "ving objects:  50% (227/454), 76.01\r\nReceiving objects:  51% (232/454), 76.01\r\n KiB | 120.00 KiB/s                     \u001b[1;25r\u001b[H\u001b[24d\u001b[?12l\u001b[?25h\u001b[1;24r\u001b[H\u001b[24dReceiving objects:  52% (237/454), 76.01\u001b[?25l\u001b[Hremote: Compressing objects:  50% (3/6) \r\nremote: Compressing objects:  66% (4/6) \r\nremote: Compressing objects:  83% (5/6) \r\nremote: Compressing objects: 100% (6/6) \r\nremote: Compressing objects: 100% (6/6),\r\n done.                                  \r\nReceiving objects:  38% (173/454), 76.01\r\nReceiving objects:  39% (178/454), 76.01\r\nReceiving objects:  40% (182/454), 76.01\r\nReceiving objects:  41% (187/454), 76.01\r\nReceiving objects:  42% (191/454), 76.01\r\nReceiving objects:  43% (196/454), 76.01\r\nReceiving objects:  44% (200/454), 76.01\r\nReceiving objects:  45% (205/454), 76.01\r\nReceiving objects:  46% (209/454), 76.01\r\nReceiving objects:  47% (214/454), 76.01\r\nReceiving objects:  48% (218/454), 76.01\r\nReceiving objects:  49% (223/454), 76.01\r\nReceiving objects:  50% (227/454), 76.01\r\nReceiving object"
+    ],
+    [
+      0.000274,
+      "s:  51% (232/454), 76.01\r\nReceiving objects:  52% (237/454), 76.01\r\nReceiving objects:  53% (241/454), 76.01\r\nReceiving objects:  54% (246/454), 76.01\r\n KiB | 120.00 KiB/s                     \u001b[1;25r\u001b[H\u001b[24d\u001b[?12l\u001b[?25h\u001b[1;24r\u001b[H\u001b[24dReceiving objects:  55% (250/454), 76.01\u001b[?25l\u001b[Hremote: Compressing objects:  66% (4/6) \r\nremote: Compressing objects:  83% (5/6) \r\nremote: Compressing objects: 100% (6/6) \r\nremote: Compressing objects: 100% (6/6),\r\n done.                                  \r\nReceiving objects:  38% (173/454), 76.01\r\nReceiving objects:  39% (178/454), 76.01\r\nReceiving objects:  40% (182/454), 76.01\r\nReceiving objects:  41% (187/454), 76.01\r\nReceiving objects:  42% (191/454), 76.01\r\nReceiving objects:  43% (196/454), 76.01\r\nReceiving objects:  44% (200/454), 76.01\r\nReceiving objects:  45% (205/454), 76.01\r\nReceiving objects:  46% (209/454), 76.01\r\nReceiving objects:  47% (214/454), 76.01\r\nReceiving objects:  48% (218/454), 76.01\r\nReceiving objects:  49% (223/454), 76.01\r\nReceiving objects:  50% (22"
+    ],
+    [
+      0.000063,
+      "7/454), 76.01\r\nReceiving objects:  51% (232/454), 76.01\r\nReceiving objects:  52% (237/454), 76.01\r\nReceiving objects:  53% (241/454), 76.01\r\nReceiving objects:  54% (246/454), 76.01\r\nReceiving objects:  55% (250/454), 76.01\r\n KiB | 120.00 KiB/s                     \u001b[1;25r\u001b[H\u001b[24d\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.200896,
+      "\u001b[1;24r\u001b[H\u001b[24dReceiving objects:  56% (255/454), 188.0\u001b[?25l\u001b[Hremote: Compressing objects:  83% (5/6) \r\nremote: Compressing objects: 100% (6/6) \r\nremote: Compressing objects: 100% (6/6),\r\n done.                                  \r\nReceiving objects:  38% (173/454), 76.01\r\nReceiving objects:  39% (178/454), 76.01\r\nReceiving objects:  40% (182/454), 76.01\r\nReceiving objects:  41% (187/454), 76.01\r\nReceiving objects:  42% (191/454), 76.01\r\nReceiving objects:  43% (196/454), 76.01\r\nReceiving objects:  44% (200/454), 76.01\r\nReceiving objects:  45% (205/454), 76.01\r\nReceiving objects:  46% (209/454), 76.01\r\nReceiving objects:  47% (214/454), 76.01\r\nReceiving objects:  48% (218/454), 76.01\r\nReceiving objects:  49% (223/454), 76.01\r\nReceiving objects:  50% (227/454), 76.01\r\nReceiving objects:  51% (232/454), 76.01\r\nReceiving objects:  52% (237/454), 76.01\r\nReceiving objects:  53% (241/454), 76.01\r\nReceiving objects:  54% (246/454), 76.01\r\nReceiving objects:  55% (250/454), 76.01\r\nReceiving objects:  56% (255/454), 1"
+    ],
+    [
+      0.000301,
+      "88.0\r\n1 KiB | 142.00 KiB/s                    \u001b[1;25r\u001b[H\u001b[24d\u001b[?12l\u001b[?25h\u001b[1;24r\u001b[H\u001b[24dReceiving objects:  57% (259/454), 188.0\u001b[?25l\u001b[H done.                                  \r\nReceiving objects:  38% (173/454), 76.01\r\nReceiving objects:  39% (178/454), 76.01\r\nReceiving objects:  40% (182/454), 76.01\r\nReceiving objects:  41% (187/454), 76.01\r\nReceiving objects:  42% (191/454), 76.01\r\nReceiving objects:  43% (196/454), 76.01\r\nReceiving objects:  44% (200/454), 76.01\r\nReceiving objects:  45% (205/454), 76.01\r\nReceiving objects:  46% (209/454), 76.01\r\nReceiving objects:  47% (214/454), 76.01\r\nReceiving objects:  48% (218/454), 76.01\r\nReceiving objects:  49% (223/454), 76.01\r\nReceiving objects:  50% (227/454), 76.01\r\nReceiving objects:  51% (232/454), 76.01\r\nReceiving objects:  52% (237/454), 76.01\r\nReceiving objects:  53% (241/454), 76.01\r\nReceiving objects:  54% (246/454), 76.01\r\nReceiving objects:  55% (250/454), 76.01\r\nReceiving objects:  56% (255/454), 188.0\r\nReceiving objects:  57% (259/454), 188.0\r\nRecei"
+    ],
+    [
+      0.000254,
+      "ving objects:  58% (264/454), 188.0\r\nReceiving objects:  59% (268/454), 188.0\r\n1 KiB | 142.00 KiB/s                    \u001b[1;25r\u001b[H\u001b[24d\u001b[?12l\u001b[?25h\u001b[1;24r\u001b[H\u001b[24dReceiving objects:  60% (273/454), 188.0\u001b[?25l\u001b[HReceiving objects:  39% (178/454), 76.01\r\nReceiving objects:  40% (182/454), 76.01\r\nReceiving objects:  41% (187/454), 76.01\r\nReceiving objects:  42% (191/454), 76.01\r\nReceiving objects:  43% (196/454), 76.01\r\nReceiving objects:  44% (200/454), 76.01\r\nReceiving objects:  45% (205/454), 76.01\r\nReceiving objects:  46% (209/454), 76.01\r\nReceiving objects:  47% (214/454), 76.01\r\nReceiving objects:  48% (218/454), 76.01\r\nReceiving objects:  49% (223/454), 76.01\r\nReceiving objects:  50% (227/454), 76.01\r\nReceiving objects:  51% (232/454), 76.01\r\nReceiving objects:  52% (237/454), 76.01\r\nReceiving objects:  53% (241/454), 76.01\r\nReceiving objects:  54% (246/454), 76.01\r\nReceiving objects:  55% (250/454), 76.01\r\nReceiving objects:  56% (255/454), 188.0\r\nReceiving objects:  57% (259/454), 188.0\r\nReceiving object"
+    ],
+    [
+      0.000309,
+      "s:  58% (264/454), 188.0\r\nReceiving objects:  59% (268/454), 188.0\r\nReceiving objects:  60% (273/454), 188.0\r\nReceiving objects:  61% (277/454), 188.0\r\n1 KiB | 142.00 KiB/s                    \u001b[1;25r\u001b[H\u001b[24d\u001b[?12l\u001b[?25h\u001b[1;24r\u001b[H\u001b[24dReceiving objects:  62% (282/454), 188.0\u001b[?25l\u001b[HReceiving objects:  40% (182/454), 76.01\r\nReceiving objects:  41% (187/454), 76.01\r\nReceiving objects:  42% (191/454), 76.01\r\nReceiving objects:  43% (196/454), 76.01\r\nReceiving objects:  44% (200/454), 76.01\r\nReceiving objects:  45% (205/454), 76.01\r\nReceiving objects:  46% (209/454), 76.01\r\nReceiving objects:  47% (214/454), 76.01\r\nReceiving objects:  48% (218/454), 76.01\r\nReceiving objects:  49% (223/454), 76.01\r\nReceiving objects:  50% (227/454), 76.01\r\nReceiving objects:  51% (232/454), 76.01\r\nReceiving objects:  52% (237/454), 76.01\r\nReceiving objects:  53% (241/454), 76.01\r\nReceiving objects:  54% (246/454), 76.01\r\nReceiving objects:  55% (250/454), 76.01\r\nReceiving objects:  56% (255/454), 188.0\r\nReceiving objects:  57% (25"
+    ],
+    [
+      0.000380,
+      "9/454), 188.0\r\nReceiving objects:  58% (264/454), 188.0\r\nReceiving objects:  59% (268/454), 188.0\r\nReceiving objects:  60% (273/454), 188.0\r\nReceiving objects:  61% (277/454), 188.0\r\nReceiving objects:  62% (282/454), 188.0\r\n1 KiB | 142.00 KiB/s                    \u001b[1;25r\u001b[H\u001b[24d\u001b[?12l\u001b[?25h\u001b[1;24r\u001b[H\u001b[24dReceiving objects:  63% (287/454), 188.0\u001b[?25l\u001b[HReceiving objects:  42% (191/454), 76.01\r\nReceiving objects:  43% (196/454), 76.01\r\nReceiving objects:  44% (200/454), 76.01\r\nReceiving objects:  45% (205/454), 76.01\r\nReceiving objects:  46% (209/454), 76.01\r\nReceiving objects:  47% (214/454), 76.01\r\nReceiving objects:  48% (218/454), 76.01\r\nReceiving objects:  49% (223/454), 76.01\r\nReceiving objects:  50% (227/454), 76.01\r\nReceiving objects:  51% (232/454), 76.01\r\nReceiving objects:  52% (237/454), 76.01\r\nReceiving objects:  53% (241/454), 76.01\r\nReceiving objects:  54% (246/454), 76.01\r\nReceiving objects:  55% (250/454), 76.01\r\nReceiving objects:  56% (255/454), 188.0\r\nReceiving objects:  57% (259/454), 188"
+    ],
+    [
+      0.000228,
+      ".0\r\nReceiving objects:  58% (264/454), 188.0\r\nReceiving objects:  59% (268/454), 188.0\r\nReceiving objects:  60% (273/454), 188.0\r\nReceiving objects:  61% (277/454), 188.0\r\nReceiving objects:  62% (282/454), 188.0\r\nReceiving objects:  63% (287/454), 188.0\r\nReceiving objects:  64% (291/454), 188.0\r\n1 KiB | 142.00 KiB/s                    \u001b[1;25r\u001b[H\u001b[24d\u001b[?12l\u001b[?25h\u001b[1;24r\u001b[H\u001b[24dReceiving objects:  65% (296/454), 188.0\u001b[?25l\u001b[HReceiving objects:  43% (196/454), 76.01\r\nReceiving objects:  44% (200/454), 76.01\r\nReceiving objects:  45% (205/454), 76.01\r\nReceiving objects:  46% (209/454), 76.01\r\nReceiving objects:  47% (214/454), 76.01\r\nReceiving objects:  48% (218/454), 76.01\r\nReceiving objects:  49% (223/454), 76.01\r\nReceiving objects:  50% (227/454), 76.01\r\nReceiving objects:  51% (232/454), 76.01\r\nReceiving objects:  52% (237/454), 76.01\r\nReceiving objects:  53% (241/454), 76.01\r\nReceiving objects:  54% (246/454), 76.01\r\nReceiving objects:  55% (250/454), 76.01\r\nReceiving objects:  56% (255/454), 188.0\r\nReceivi"
+    ],
+    [
+      0.006343,
+      "ng objects:  57% (259/454), 188.0\r\nReceiving objects:  58% (264/454), 188.0\r\nReceiving objects:  59% (268/454), 188.0\r\nReceiving objects:  60% (273/454), 188.0\r\nReceiving objects:  61% (277/454), 188.0\r\nReceiving objects:  62% (282/454), 188.0\r\nReceiving objects:  63% (287/454), 188.0\r\nReceiving objects:  64% (291/454), 188.0\r\nReceiving objects:  65% (296/454), 188.0\r\n1 KiB | 142.00 KiB/s                    \u001b[1;25r\u001b[H\u001b[24d\u001b[?12l\u001b[?25h\u001b[1;24r\u001b[H\u001b[24dReceiving objects:  66% (300/454), 188.0\u001b[?25l\u001b[HReceiving objects:  44% (200/454), 76.01\r\nReceiving objects:  45% (205/454), 76.01\r\nReceiving objects:  46% (209/454), 76.01\r\nReceiving objects:  47% (214/454), 76.01\r\nReceiving objects:  48% (218/454), 76.01\r\nReceiving objects:  49% (223/454), 76.01\r\nReceiving objects:  50% (227/454), 76.01\r\nReceiving objects:  51% (232/454), 76.01\r\nReceiving objects:  52% (237/454), 76.01\r\nReceiving objects:  53% (241/454), 76.01\r\nReceiving objects:  54% (246/454), 76.01\r\nReceiving objects:  55% (250/454), 76.01\r\nReceiving objects:"
+    ],
+    [
+      0.020541,
+      "  56% (255/454), 188.0\r\nReceiving objects:  57% (259/454), 188.0\r\nReceiving objects:  58% (264/454), 188.0\r\nReceiving objects:  59% (268/454), 188.0\r\nReceiving objects:  60% (273/454), 188.0\r\nReceiving objects:  61% (277/454), 188.0\r\nReceiving objects:  62% (282/454), 188.0\r\nReceiving objects:  63% (287/454), 188.0\r\nReceiving objects:  64% (291/454), 188.0\r\nReceiving objects:  65% (296/454), 188.0\r\nReceiving objects:  66% (300/454), 188.0\r\n1 KiB | 142.00 KiB/s                    \u001b[1;25r\u001b[H\u001b[24d\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.463220,
+      "\u001b[1;24r\u001b[H\u001b[24dremote: Total 454 (delta 2), reused 0 (d\u001b[?25l\u001b[HReceiving objects:  46% (209/454), 76.01\r\nReceiving objects:  47% (214/454), 76.01\r\nReceiving objects:  48% (218/454), 76.01\r\nReceiving objects:  49% (223/454), 76.01\r\nReceiving objects:  50% (227/454), 76.01\r\nReceiving objects:  51% (232/454), 76.01\r\nReceiving objects:  52% (237/454), 76.01\r\nReceiving objects:  53% (241/454), 76.01\r\nReceiving objects:  54% (246/454), 76.01\r\nReceiving objects:  55% (250/454), 76.01\r\nReceiving objects:  56% (255/454), 188.0\r\nReceiving objects:  57% (259/454), 188.0\r\nReceiving objects:  58% (264/454), 188.0\r\nReceiving objects:  59% (268/454), 188.0\r\nReceiving objects:  60% (273/454), 188.0\r\nReceiving objects:  61% (277/454), 188.0\r\nReceiving objects:  62% (282/454), 188.0\r\nReceiving objects:  63% (287/454), 188.0\r\nReceiving objects:  64% (291/454), 188.0\r\nReceiving objects:  65% (296/454), 188.0\r\nReceiving objects:  66% (300/454), 188.0\r\nremote: Total 454 (delta 2), reused 0 (d\r\nelta 0), pack-reused 448            "
+    ],
+    [
+      0.000110,
+      "    \r\n                                        \u001b[1;25r\u001b[H\u001b[24d\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000338,
+      "\u001b[1;24r\u001b[H\u001b[24dReceiving objects:  67% (305/454), 188.0\u001b[?25l\u001b[HReceiving objects:  48% (218/454), 76.01\r\nReceiving objects:  49% (223/454), 76.01\r\nReceiving objects:  50% (227/454), 76.01\r\nReceiving objects:  51% (232/454), 76.01\r\nReceiving objects:  52% (237/454), 76.01\r\nReceiving objects:  53% (241/454), 76.01\r\nReceiving objects:  54% (246/454), 76.01\r\nReceiving objects:  55% (250/454), 76.01\r\nReceiving objects:  56% (255/454), 188.0\r\nReceiving objects:  57% (259/454), 188.0\r\nReceiving objects:  58% (264/454), 188.0\r\nReceiving objects:  59% (268/454), 188.0\r\nReceiving objects:  60% (273/454), 188.0\r\nReceiving objects:  61% (277/454), 188.0\r\nReceiving objects:  62% (282/454), 188.0\r\nReceiving objects:  63% (287/454), 188.0\r\nReceiving objects:  64% (291/454), 188.0\r\nReceiving objects:  65% (296/454), 188.0\r\nReceiving objects:  66% (300/454), 188.0\r\nremote: Total 454 (delta 2), reused 0 (d\r\nelta 0), pack-reused 448                \r\nReceiving objects:  67% (305/454), 188.0\r\nReceiving objects:  68% (309/454), 1"
+    ],
+    [
+      0.000378,
+      "88.0\r\n1 KiB | 142.00 KiB/s                    \u001b[1;25r\u001b[H\u001b[24d\u001b[?12l\u001b[?25h\u001b[1;24r\u001b[H\u001b[24dReceiving objects:  69% (314/454), 188.0\u001b[?25l\u001b[HReceiving objects:  57% (259/454), 188.0\r\nReceiving objects:  58% (264/454), 188.0\r\nReceiving objects:  59% (268/454), 188.0\r\nReceiving objects:  60% (273/454), 188.0\r\nReceiving objects:  61% (277/454), 188.0\r\nReceiving objects:  62% (282/454), 188.0\r\nReceiving objects:  63% (287/454), 188.0\r\nReceiving objects:  64% (291/454), 188.0\r\nReceiving objects:  65% (296/454), 188.0\r\nReceiving objects:  66% (300/454), 188.0\r\nremote: Total 454 (delta 2), reused 0 (d\r\nelta 0), pack-reused 448                \r\nReceiving objects:  67% (305/454), 188.0\r\nReceiving objects:  68% (309/454), 188.0\r\nReceiving objects:  69% (314/454), 188.0\r\nReceiving objects:  70% (318/454), 188.0\r\nReceiving objects:  71% (323/454), 188.0\r\nReceiving objects:  72% (327/454), 188.0\r\nReceiving objects:  73% (332/454), 188.0\r\nReceiving objects:  74% (336/454), 188.0\r\nReceiving objects:  75% (341/454), 188.0\r\nRecei"
+    ],
+    [
+      0.000384,
+      "ving objects:  76% (346/454), 188.0\r\nReceiving objects:  77% (350/454), 188.0\r\n1 KiB | 142.00 KiB/s                    \u001b[1;25r\u001b[H\u001b[24d\u001b[?12l\u001b[?25h\u001b[1;24r\u001b[H\u001b[24dReceiving objects:  78% (355/454), 188.0\u001b[?25l\u001b[HReceiving objects:  64% (291/454), 188.0\r\nReceiving objects:  65% (296/454), 188.0\r\nReceiving objects:  66% (300/454), 188.0\r\nremote: Total 454 (delta 2), reused 0 (d\r\nelta 0), pack-reused 448                \r\nReceiving objects:  67% (305/454), 188.0\r\nReceiving objects:  68% (309/454), 188.0\r\nReceiving objects:  69% (314/454), 188.0\r\nReceiving objects:  70% (318/454), 188.0\r\nReceiving objects:  71% (323/454), 188.0\r\nReceiving objects:  72% (327/454), 188.0\r\nReceiving objects:  73% (332/454), 188.0\r\nReceiving objects:  74% (336/454), 188.0\r\nReceiving objects:  75% (341/454), 188.0\r\nReceiving objects:  76% (346/454), 188.0\r\nReceiving objects:  77% (350/454), 188.0\r\nReceiving objects:  78% (355/454), 188.0\r\nReceiving objects:  79% (359/454), 188.0\r\nReceiving objects:  80% (364/454), 188.0\r\nReceiving object"
+    ],
+    [
+      0.000270,
+      "s:  81% (368/454), 188.0\r\nReceiving objects:  82% (373/454), 188.0\r\nReceiving objects:  83% (377/454), 188.0\r\nReceiving objects:  84% (382/454), 188.0\r\n1 KiB | 142.00 KiB/s                    \u001b[1;25r\u001b[H\u001b[24d\u001b[?12l\u001b[?25h\u001b[1;24r\u001b[H\u001b[24dReceiving objects:  85% (386/454), 188.0\u001b[?25l\u001b[Hremote: Total 454 (delta 2), reused 0 (d\r\nelta 0), pack-reused 448                \r\nReceiving objects:  67% (305/454), 188.0\r\nReceiving objects:  68% (309/454), 188.0\r\nReceiving objects:  69% (314/454), 188.0\r\nReceiving objects:  70% (318/454), 188.0\r\nReceiving objects:  71% (323/454), 188.0\r\nReceiving objects:  72% (327/454), 188.0\r\nReceiving objects:  73% (332/454), 188.0\r\nReceiving objects:  74% (336/454), 188.0\r\nReceiving objects:  75% (341/454), 188.0\r\nReceiving objects:  76% (346/454), 188.0\r\nReceiving objects:  77% (350/454), 188.0\r\nReceiving objects:  78% (355/454), 188.0\r\nReceiving objects:  79% (359/454), 188.0\r\nReceiving objects:  80% (364/454), 188.0\r\nReceiving objects:  81% (368/454), 188.0\r\nReceiving objects:  82% (37"
+    ],
+    [
+      0.007472,
+      "3/454), 188.0\r\nReceiving objects:  83% (377/454), 188.0\r\nReceiving objects:  84% (382/454), 188.0\r\nReceiving objects:  85% (386/454), 188.0\r\nReceiving objects:  86% (391/454), 188.0\r\nReceiving objects:  87% (395/454), 188.0\r\n1 KiB | 142.00 KiB/s                    \u001b[1;25r\u001b[H\u001b[24d\u001b[?12l\u001b[?25h\u001b[1;24r\u001b[H\u001b[24dReceiving objects:  88% (400/454), 188.0\u001b[?25l\u001b[Helta 0), pack-reused 448                \r\nReceiving objects:  67% (305/454), 188.0\r\nReceiving objects:  68% (309/454), 188.0\r\nReceiving objects:  69% (314/454), 188.0\r\nReceiving objects:  70% (318/454), 188.0\r\nReceiving objects:  71% (323/454), 188.0\r\nReceiving objects:  72% (327/454), 188.0\r\nReceiving objects:  73% (332/454), 188.0\r\nReceiving objects:  74% (336/454), 188.0\r\nReceiving objects:  75% (341/454), 188.0\r\nReceiving objects:  76% (346/454), 188.0\r\nReceiving objects:  77% (350/454), 188.0\r\nReceiving objects:  78% (355/454), 188.0\r\nReceiving objects:  79% (359/454), 188.0\r\nReceiving objects:  80% (364/454), 188.0\r\nReceiving objects:  81% (368/454), 188"
+    ],
+    [
+      0.020845,
+      ".0\r\nReceiving objects:  82% (373/454), 188.0\r\nReceiving objects:  83% (377/454), 188.0\r\nReceiving objects:  84% (382/454), 188.0\r\nReceiving objects:  85% (386/454), 188.0\r\nReceiving objects:  86% (391/454), 188.0\r\nReceiving objects:  87% (395/454), 188.0\r\nReceiving objects:  88% (400/454), 188.0\r\n1 KiB | 142.00 KiB/s                    \u001b[1;25r\u001b[H\u001b[24d\u001b[?12l\u001b[?25h\u001b[1;24r\u001b[H\u001b[24dReceiving objects:  89% (405/454), 188.0\u001b[?25l\u001b[HReceiving objects:  67% (305/454), 188.0\r\nReceiving objects:  68% (309/454), 188.0\r\nReceiving objects:  69% (314/454), 188.0\r\nReceiving objects:  70% (318/454), 188.0\r\nReceiving objects:  71% (323/454), 188.0\r\nReceiving objects:  72% (327/454), 188.0\r\nReceiving objects:  73% (332/454), 188.0\r\nReceiving objects:  74% (336/454), 188.0\r\nReceiving objects:  75% (341/454), 188.0\r\nReceiving objects:  76% (346/454), 188.0\r\nReceiving objects:  77% (350/454), 188.0\r\nReceiving objects:  78% (355/454), 188.0\r\nReceiving objects:  79% (359/454), 188.0\r\nReceiving objects:  80% (364/454), 188.0\r\nReceivi"
+    ],
+    [
+      0.004125,
+      "ng objects:  81% (368/454), 188.0\r\nReceiving objects:  82% (373/454), 188.0\r\nReceiving objects:  83% (377/454), 188.0\r\nReceiving objects:  84% (382/454), 188.0\r\nReceiving objects:  85% (386/454), 188.0\r\nReceiving objects:  86% (391/454), 188.0\r\nReceiving objects:  87% (395/454), 188.0\r\nReceiving objects:  88% (400/454), 188.0\r\nReceiving objects:  89% (405/454), 188.0\r\n1 KiB | 142.00 KiB/s                    \u001b[1;25r\u001b[H\u001b[24d\u001b[?12l\u001b[?25h\u001b[1;24r\u001b[H\u001b[24dReceiving objects:  90% (409/454), 188.0\u001b[?25l\u001b[HReceiving objects:  68% (309/454), 188.0\r\nReceiving objects:  69% (314/454), 188.0\r\nReceiving objects:  70% (318/454), 188.0\r\nReceiving objects:  71% (323/454), 188.0\r\nReceiving objects:  72% (327/454), 188.0\r\nReceiving objects:  73% (332/454), 188.0\r\nReceiving objects:  74% (336/454), 188.0\r\nReceiving objects:  75% (341/454), 188.0\r\nReceiving objects:  76% (346/454), 188.0\r\nReceiving objects:  77% (350/454), 188.0\r\nReceiving objects:  78% (355/454), 188.0\r\nReceiving objects:  79% (359/454), 188.0\r\nReceiving objects:"
+    ],
+    [
+      0.005056,
+      "  80% (364/454), 188.0\r\nReceiving objects:  81% (368/454), 188.0\r\nReceiving objects:  82% (373/454), 188.0\r\nReceiving objects:  83% (377/454), 188.0\r\nReceiving objects:  84% (382/454), 188.0\r\nReceiving objects:  85% (386/454), 188.0\r\nReceiving objects:  86% (391/454), 188.0\r\nReceiving objects:  87% (395/454), 188.0\r\nReceiving objects:  88% (400/454), 188.0\r\nReceiving objects:  89% (405/454), 188.0\r\nReceiving objects:  90% (409/454), 188.0\r\n1 KiB | 142.00 KiB/s                    \u001b[1;25r\u001b[H\u001b[24d\u001b[?12l\u001b[?25h\u001b[1;24r\u001b[H\u001b[24dReceiving objects:  91% (414/454), 188.0\u001b[?25l\u001b[HReceiving objects:  69% (314/454), 188.0\r\nReceiving objects:  70% (318/454), 188.0\r\nReceiving objects:  71% (323/454), 188.0\r\nReceiving objects:  72% (327/454), 188.0\r\nReceiving objects:  73% (332/454), 188.0\r\nReceiving objects:  74% (336/454), 188.0\r\nReceiving objects:  75% (341/454), 188.0\r\nReceiving objects:  76% (346/454), 188.0\r\nReceiving objects:  77% (350/454), 188.0\r\nReceiving objects:  78% (355/454), 188.0\r\nReceiving objects:  79% (359/"
+    ],
+    [
+      0.004885,
+      "454), 188.0\r\nReceiving objects:  80% (364/454), 188.0\r\nReceiving objects:  81% (368/454), 188.0\r\nReceiving objects:  82% (373/454), 188.0\r\nReceiving objects:  83% (377/454), 188.0\r\nReceiving objects:  84% (382/454), 188.0\r\nReceiving objects:  85% (386/454), 188.0\r\nReceiving objects:  86% (391/454), 188.0\r\nReceiving objects:  87% (395/454), 188.0\r\nReceiving objects:  88% (400/454), 188.0\r\nReceiving objects:  89% (405/454), 188.0\r\nReceiving objects:  90% (409/454), 188.0\r\nReceiving objects:  91% (414/454), 188.0\r\n1 KiB | 142.00 KiB/s                    \u001b[1;25r\u001b[H\u001b[24d\u001b[?12l\u001b[?25h\u001b[1;24r\u001b[H\u001b[24dReceiving objects:  92% (418/454), 188.0\u001b[?25l\u001b[HReceiving objects:  70% (318/454), 188.0\r\nReceiving objects:  71% (323/454), 188.0\r\nReceiving objects:  72% (327/454), 188.0\r\nReceiving objects:  73% (332/454), 188.0\r\nReceiving objects:  74% (336/454), 188.0\r\nReceiving objects:  75% (341/454), 188.0\r\nReceiving objects:  76% (346/454), 188.0\r\nReceiving objects:  77% (350/454), 188.0\r\nReceiving objects:  78% (355/454), 188.0"
+    ],
+    [
+      0.024732,
+      "\r\nReceiving objects:  79% (359/454), 188.0\r\nReceiving objects:  80% (364/454), 188.0\r\nReceiving objects:  81% (368/454), 188.0\r\nReceiving objects:  82% (373/454), 188.0\r\nReceiving objects:  83% (377/454), 188.0\r\nReceiving objects:  84% (382/454), 188.0\r\nReceiving objects:  85% (386/454), 188.0\r\nReceiving objects:  86% (391/454), 188.0\r\nReceiving objects:  87% (395/454), 188.0\r\nReceiving objects:  88% (400/454), 188.0\r\nReceiving objects:  89% (405/454), 188.0\r\nReceiving objects:  90% (409/454), 188.0\r\nReceiving objects:  91% (414/454), 188.0\r\nReceiving objects:  92% (418/454), 188.0\r\n1 KiB | 142.00 KiB/s                    \u001b[1;25r\u001b[H\u001b[24d\u001b[?12l\u001b[?25h\u001b[1;24r\u001b[H\u001b[24dReceiving objects:  93% (423/454), 188.0\u001b[?25l\u001b[HReceiving objects:  71% (323/454), 188.0\r\nReceiving objects:  72% (327/454), 188.0\r\nReceiving objects:  73% (332/454), 188.0\r\nReceiving objects:  74% (336/454), 188.0\r\nReceiving objects:  75% (341/454), 188.0\r\nReceiving objects:  76% (346/454), 188.0\r\nReceiving objects:  77% (350/454), 188.0\r\nReceiving"
+    ],
+    [
+      0.005128,
+      " objects:  78% (355/454), 188.0\r\nReceiving objects:  79% (359/454), 188.0\r\nReceiving objects:  80% (364/454), 188.0\r\nReceiving objects:  81% (368/454), 188.0\r\nReceiving objects:  82% (373/454), 188.0\r\nReceiving objects:  83% (377/454), 188.0\r\nReceiving objects:  84% (382/454), 188.0\r\nReceiving objects:  85% (386/454), 188.0\r\nReceiving objects:  86% (391/454), 188.0\r\nReceiving objects:  87% (395/454), 188.0\r\nReceiving objects:  88% (400/454), 188.0\r\nReceiving objects:  89% (405/454), 188.0\r\nReceiving objects:  90% (409/454), 188.0\r\nReceiving objects:  91% (414/454), 188.0\r\nReceiving objects:  92% (418/454), 188.0\r\nReceiving objects:  93% (423/454), 188.0\r\n1 KiB | 142.00 KiB/s                    \u001b[1;25r\u001b[H\u001b[24d\u001b[?12l\u001b[?25h\u001b[1;24r\u001b[H\u001b[24dReceiving objects:  94% (427/454), 188.0\u001b[?25l\u001b[HReceiving objects:  72% (327/454), 188.0\r\nReceiving objects:  73% (332/454), 188.0\r\nReceiving objects:  74% (336/454), 188.0\r\nReceiving objects:  75% (341/454), 188.0\r\nReceiving objects:  76% (346/454), 188.0\r\nReceiving objects:  "
+    ],
+    [
+      0.005028,
+      "77% (350/454), 188.0\r\nReceiving objects:  78% (355/454), 188.0\r\nReceiving objects:  79% (359/454), 188.0\r\nReceiving objects:  80% (364/454), 188.0\r\nReceiving objects:  81% (368/454), 188.0\r\nReceiving objects:  82% (373/454), 188.0\r\nReceiving objects:  83% (377/454), 188.0\r\nReceiving objects:  84% (382/454), 188.0\r\nReceiving objects:  85% (386/454), 188.0\r\nReceiving objects:  86% (391/454), 188.0\r\nReceiving objects:  87% (395/454), 188.0\r\nReceiving objects:  88% (400/454), 188.0\r\nReceiving objects:  89% (405/454), 188.0\r\nReceiving objects:  90% (409/454), 188.0\r\nReceiving objects:  91% (414/454), 188.0\r\nReceiving objects:  92% (418/454), 188.0\r\nReceiving objects:  93% (423/454), 188.0\r\nReceiving objects:  94% (427/454), 188.0\r\n1 KiB | 142.00 KiB/s                    \u001b[1;25r\u001b[H\u001b[24d\u001b[?12l\u001b[?25h\u001b[1;24r\u001b[H\u001b[24dReceiving objects:  95% (432/454), 188.0\u001b[?25l\u001b[HReceiving objects:  73% (332/454), 188.0\r\nReceiving objects:  74% (336/454), 188.0\r\nReceiving objects:  75% (341/454), 188.0\r\nReceiving objects:  76% (346/45"
+    ],
+    [
+      0.004225,
+      "4), 188.0\r\nReceiving objects:  77% (350/454), 188.0\r\nReceiving objects:  78% (355/454), 188.0\r\nReceiving objects:  79% (359/454), 188.0\r\nReceiving objects:  80% (364/454), 188.0\r\nReceiving objects:  81% (368/454), 188.0\r\nReceiving objects:  82% (373/454), 188.0\r\nReceiving objects:  83% (377/454), 188.0\r\nReceiving objects:  84% (382/454), 188.0\r\nReceiving objects:  85% (386/454), 188.0\r\nReceiving objects:  86% (391/454), 188.0\r\nReceiving objects:  87% (395/454), 188.0\r\nReceiving objects:  88% (400/454), 188.0\r\nReceiving objects:  89% (405/454), 188.0\r\nReceiving objects:  90% (409/454), 188.0\r\nReceiving objects:  91% (414/454), 188.0\r\nReceiving objects:  92% (418/454), 188.0\r\nReceiving objects:  93% (423/454), 188.0\r\nReceiving objects:  94% (427/454), 188.0\r\nReceiving objects:  95% (432/454), 188.0\r\n1 KiB | 142.00 KiB/s                    \u001b[1;25r\u001b[H\u001b[24d\u001b[?12l\u001b[?25h\u001b[1;24r\u001b[H\u001b[24dReceiving objects:  96% (436/454), 188.0\u001b[?25l\u001b[HReceiving objects:  74% (336/454), 188.0\r\nReceiving objects:  75% (341/454), 188.0\r\n"
+    ],
+    [
+      0.019706,
+      "Receiving objects:  76% (346/454), 188.0\r\nReceiving objects:  77% (350/454), 188.0\r\nReceiving objects:  78% (355/454), 188.0\r\nReceiving objects:  79% (359/454), 188.0\r\nReceiving objects:  80% (364/454), 188.0\r\nReceiving objects:  81% (368/454), 188.0\r\nReceiving objects:  82% (373/454), 188.0\r\nReceiving objects:  83% (377/454), 188.0\r\nReceiving objects:  84% (382/454), 188.0\r\nReceiving objects:  85% (386/454), 188.0\r\nReceiving objects:  86% (391/454), 188.0\r\nReceiving objects:  87% (395/454), 188.0\r\nReceiving objects:  88% (400/454), 188.0\r\nReceiving objects:  89% (405/454), 188.0\r\nReceiving objects:  90% (409/454), 188.0\r\nReceiving objects:  91% (414/454), 188.0\r\nReceiving objects:  92% (418/454), 188.0\r\nReceiving objects:  93% (423/454), 188.0\r\nReceiving objects:  94% (427/454), 188.0\r\nReceiving objects:  95% (432/454), 188.0\r\nReceiving objects:  96% (436/454), 188.0\r\n1 KiB | 142.00 KiB/s                    \u001b[1;25r\u001b[H\u001b[24d\u001b[?12l\u001b[?25h\u001b[1;24r\u001b[H\u001b[24dReceiving objects:  97% (441/454), 188.0\u001b[?25l\u001b[HReceiving o"
+    ],
+    [
+      0.006757,
+      "bjects:  76% (346/454), 188.0\r\nReceiving objects:  77% (350/454), 188.0\r\nReceiving objects:  78% (355/454), 188.0\r\nReceiving objects:  79% (359/454), 188.0\r\nReceiving objects:  80% (364/454), 188.0\r\nReceiving objects:  81% (368/454), 188.0\r\nReceiving objects:  82% (373/454), 188.0\r\nReceiving objects:  83% (377/454), 188.0\r\nReceiving objects:  84% (382/454), 188.0\r\nReceiving objects:  85% (386/454), 188.0\r\nReceiving objects:  86% (391/454), 188.0\r\nReceiving objects:  87% (395/454), 188.0\r\nReceiving objects:  88% (400/454), 188.0\r\nReceiving objects:  89% (405/454), 188.0\r\nReceiving objects:  90% (409/454), 188.0\r\nReceiving objects:  91% (414/454), 188.0\r\nReceiving objects:  92% (418/454), 188.0\r\nReceiving objects:  93% (423/454), 188.0\r\nReceiving objects:  94% (427/454), 188.0\r\nReceiving objects:  95% (432/454), 188.0\r\nReceiving objects:  96% (436/454), 188.0\r\nReceiving objects:  97% (441/454), 188.0\r\nReceiving objects:  98% (445/454), 188.0\r\n1 KiB | 142.00 KiB/s                    \u001b[1;25r\u001b[H\u001b[24d\u001b[?12l\u001b[?25h\u001b["
+    ],
+    [
+      0.005864,
+      "1;24r\u001b[H\u001b[24dReceiving objects:  99% (450/454), 188.0\u001b[?25l\u001b[HReceiving objects:  77% (350/454), 188.0\r\nReceiving objects:  78% (355/454), 188.0\r\nReceiving objects:  79% (359/454), 188.0\r\nReceiving objects:  80% (364/454), 188.0\r\nReceiving objects:  81% (368/454), 188.0\r\nReceiving objects:  82% (373/454), 188.0\r\nReceiving objects:  83% (377/454), 188.0\r\nReceiving objects:  84% (382/454), 188.0\r\nReceiving objects:  85% (386/454), 188.0\r\nReceiving objects:  86% (391/454), 188.0\r\nReceiving objects:  87% (395/454), 188.0\r\nReceiving objects:  88% (400/454), 188.0\r\nReceiving objects:  89% (405/454), 188.0\r\nReceiving objects:  90% (409/454), 188.0\r\nReceiving objects:  91% (414/454), 188.0\r\nReceiving objects:  92% (418/454), 188.0\r\nReceiving objects:  93% (423/454), 188.0\r\nReceiving objects:  94% (427/454), 188.0\r\nReceiving objects:  95% (432/454), 188.0\r\nReceiving objects:  96% (436/454), 188.0\r\nReceiving objects:  97% (441/454), 188.0\r\nReceiving objects:  98% (445/454), 188.0\r\nReceiving objects:  99% (450/454), 188"
+    ],
+    [
+      0.005677,
+      ".0\r\n1 KiB | 142.00 KiB/s                    \u001b[1;25r\u001b[H\u001b[24d\u001b[?12l\u001b[?25h\u001b[1;24r\u001b[H\u001b[24dReceiving objects: 100% (454/454), 188.0\u001b[?25l\u001b[HReceiving objects:  80% (364/454), 188.0\r\nReceiving objects:  81% (368/454), 188.0\r\nReceiving objects:  82% (373/454), 188.0\r\nReceiving objects:  83% (377/454), 188.0\r\nReceiving objects:  84% (382/454), 188.0\r\nReceiving objects:  85% (386/454), 188.0\r\nReceiving objects:  86% (391/454), 188.0\r\nReceiving objects:  87% (395/454), 188.0\r\nReceiving objects:  88% (400/454), 188.0\r\nReceiving objects:  89% (405/454), 188.0\r\nReceiving objects:  90% (409/454), 188.0\r\nReceiving objects:  91% (414/454), 188.0\r\nReceiving objects:  92% (418/454), 188.0\r\nReceiving objects:  93% (423/454), 188.0\r\nReceiving objects:  94% (427/454), 188.0\r\nReceiving objects:  95% (432/454), 188.0\r\nReceiving objects:  96% (436/454), 188.0\r\nReceiving objects:  97% (441/454), 188.0\r\nReceiving objects:  98% (445/454), 188.0\r\nReceiving objects:  99% (450/454), 188.0\r\nReceiving objects: 100% (454/454), 188.0\r\nReceivi"
+    ],
+    [
+      0.015927,
+      "ng objects: 100% (454/454), 288.0\r\n1 KiB | 142.00 KiB/s, done.             \r\n                                        \u001b[1;25r\u001b[H\u001b[24d\u001b[?12l\u001b[?25h\u001b[1;24r\u001b[H\u001b[24dResolving deltas:   0% (0/215)   \u001b[1;25r\u001b[H\u001b[24d\u001b[1;24r\u001b[H\u001b[24dResolving deltas:   1% (4/215)   \u001b[1;25r\u001b[H\u001b[24d\u001b[1;24r\u001b[H\u001b[24dResolving deltas:  17% (38/215)   \u001b[1;25r\u001b[H\u001b[24d\u001b[1;24r\u001b[H\u001b[24dResolving deltas:  22% (48/215)   \u001b[1;25r\u001b[H\u001b[24d\u001b[1;24r\u001b[H\u001b[24dResolving deltas:  28% (62/215)   \u001b[1;25r\u001b[H\u001b[24d\u001b[1;24r\u001b[H\u001b[24dResolving deltas:  29% (64/215)   \u001b[1;25r\u001b[H\u001b[24d\u001b[1;24r\u001b[H\u001b[24dResolving deltas:  34% (75/215)   \u001b[1;25r\u001b[H\u001b[24d\u001b[1;24r\u001b[H\u001b[24dResolving deltas:  36% (78/215)   \u001b[1;25r\u001b[H\u001b[24d\u001b[1;24r\u001b[H\u001b[24dResolving deltas:  41% (90/215)   \rResolving deltas:  42% (91/215)   \u001b[1;25r\u001b[H\u001b[24d\u001b[1;24r\u001b[H\u001b[24dResolving deltas:  43% (94/215)   \u001b[1;25r\u001b[H\u001b[24d\u001b[1;24r\u001b[H\u001b[24dResolving deltas:  52% (113/215)   \u001b[1;25r\u001b[H\u001b[24d\u001b[1;24r\u001b[H\u001b[24dResolving deltas:  57% (123/215)   \u001b[1;25r\u001b[H\u001b[24d\u001b[1;24r\u001b[H\u001b[24dResolving deltas:  63% (136/215)   \u001b[1;25r\u001b[H\u001b[24d\u001b[1;24r\u001b[H\u001b["
+    ],
+    [
+      0.005358,
+      "24dResolving deltas:  64% (139/215)   \u001b[1;25r\u001b[H\u001b[24d\u001b[1;24r\u001b[H\u001b[24dResolving deltas:  65% (141/215)   \u001b[1;25r\u001b[H\u001b[24d\u001b[1;24r\u001b[H\u001b[24dResolving deltas:  67% (146/215)   \u001b[1;25r\u001b[H\u001b[24d\u001b[1;24r\u001b[H\u001b[24dResolving deltas:  70% (151/215)   \u001b[1;25r\u001b[H\u001b[24d\u001b[1;24r\u001b[H\u001b[24dResolving deltas:  71% (154/215)   \rResolving deltas:  72% (155/215)   \u001b[1;25r\u001b[H\u001b[24d\u001b[1;24r\u001b[H\u001b[24dResolving deltas:  74% (160/215)   \u001b[1;25r\u001b[H\u001b[24d\u001b[1;24r\u001b[H\u001b[24dResolving deltas:  75% (162/215)   \u001b[1;25r\u001b[H\u001b[24d\u001b[1;24r\u001b[H\u001b[24dResolving deltas:  83% (179/215)   \u001b[1;25r\u001b[H\u001b[24d\u001b[1;24r\u001b[H\u001b[24dResolving deltas:  86% (185/215)   \u001b[1;25r\u001b[H\u001b[24d\u001b[1;24r\u001b[H\u001b[24dResolving deltas:  87% (188/215)   \u001b[1;25r\u001b[H\u001b[24d\u001b[1;24r\u001b[H\u001b[24dResolving deltas:  94% (203/215)   \u001b[1;25r\u001b[H\u001b[24d\u001b[1;24r\u001b[H\u001b[24dResolving deltas:  95% (205/215)   \u001b[1;25r\u001b[H\u001b[24d\u001b[1;24r\u001b[H\u001b[24dResolving deltas:  96% (208/215)   \u001b[1;25r\u001b[H\u001b[24d\u001b[1;24r\u001b[H\u001b[24dResolving deltas:  97% (210/215)   \u001b[1;25r\u001b[H\u001b[24d\u001b[1;24r\u001b[H\u001b[24dResolving deltas:  98% (212/215)   \u001b[1;25r\u001b[H\u001b[24d\u001b[1;24r\u001b[H\u001b[24dResolving "
+    ],
+    [
+      0.005071,
+      "deltas: 100% (215/215)   \u001b[1;25r\u001b[H\u001b[24d\u001b[1;24r\u001b[H\u001b[24dResolving deltas: 100% (215/215), done.\u001b[?25l\u001b[HReceiving objects:  81% (368/454), 188.0\r\nReceiving objects:  82% (373/454), 188.0\r\nReceiving objects:  83% (377/454), 188.0\r\nReceiving objects:  84% (382/454), 188.0\r\nReceiving objects:  85% (386/454), 188.0\r\nReceiving objects:  86% (391/454), 188.0\r\nReceiving objects:  87% (395/454), 188.0\r\nReceiving objects:  88% (400/454), 188.0\r\nReceiving objects:  89% (405/454), 188.0\r\nReceiving objects:  90% (409/454), 188.0\r\nReceiving objects:  91% (414/454), 188.0\r\nReceiving objects:  92% (418/454), 188.0\r\nReceiving objects:  93% (423/454), 188.0\r\nReceiving objects:  94% (427/454), 188.0\r\nReceiving objects:  95% (432/454), 188.0\r\nReceiving objects:  96% (436/454), 188.0\r\nReceiving objects:  97% (441/454), 188.0\r\nReceiving objects:  98% (445/454), 188.0\r\nReceiving objects:  99% (450/454), 188.0\r\nReceiving objects: 100% (454/454), 188.0\r\nReceiving objects: 100% (454/454), 288.0\r\n1 KiB | 142.00 KiB/s, done.            "
+    ],
+    [
+      0.005190,
+      " \r\nResolving deltas: 100% (215/215), done. \r\n                                        \u001b[1;25r\u001b[H\u001b[24d\u001b[?12l\u001b[?25h\u001b[1;24r\u001b[H\u001b[24dChecking connectivity... \u001b[1;25r\u001b[H\u001b[24;26H\u001b[1;24r\u001b[H\u001b[24;26Hdone.\u001b[?25l\u001b[HReceiving objects:  82% (373/454), 188.0\r\nReceiving objects:  83% (377/454), 188.0\r\nReceiving objects:  84% (382/454), 188.0\r\nReceiving objects:  85% (386/454), 188.0\r\nReceiving objects:  86% (391/454), 188.0\r\nReceiving objects:  87% (395/454), 188.0\r\nReceiving objects:  88% (400/454), 188.0\r\nReceiving objects:  89% (405/454), 188.0\r\nReceiving objects:  90% (409/454), 188.0\r\nReceiving objects:  91% (414/454), 188.0\r\nReceiving objects:  92% (418/454), 188.0\r\nReceiving objects:  93% (423/454), 188.0\r\nReceiving objects:  94% (427/454), 188.0\r\nReceiving objects:  95% (432/454), 188.0\r\nReceiving objects:  96% (436/454), 188.0\r\nReceiving objects:  97% (441/454), 188.0\r\nReceiving objects:  98% (445/454), 188.0\r\nReceiving objects:  99% (450/454), 188.0\r\nReceiving objects: 100% (454/454), 188.0\r\nReceiving objects: 100% "
+    ],
+    [
+      0.014332,
+      "(454/454), 288.0\r\n1 KiB | 142.00 KiB/s, done.             \r\nResolving deltas: 100% (215/215), done. \r\nChecking connectivity... done.          \r\n                                        \u001b[1;25r\u001b[H\u001b[24d\u001b[?12l\u001b[?25h\u001b[1;24r\u001b[H\u001b[24d                                        \u001b[1;25r\u001b[H\u001b[24d"
+    ],
+    [
+      0.124338,
+      "\u001b[?25l\r\n\u001b[30m\u001b[42m[0] 0:zsh*                               \"tmp: hub clone pure \u0026\" 14:04 13-Jul-15\u001b(B\u001b[m\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.274326,
+      "\u001b[14;24r\u001b[H\u001b[15;42Hfinished parsing upstream branch\u001b[1;25r\u001b[H\u001b[24d"
+    ],
+    [
+      4.580942,
+      "\u001b[?25l\r\n\u001b[30m\u001b[42m[0] 0:zsh*                                           \"/tmp/pure\" 14:04 13-Jul-15\u001b(B\u001b[m\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.022156,
+      "\u001b[?25l\u001b[HReceiving objects:  84% (382/454), 188.0\r\nReceiving objects:  85% (386/454), 188.0\r\nReceiving objects:  86% (391/454), 188.0\r\nReceiving objects:  87% (395/454), 188.0\r\nReceiving objects:  88% (400/454), 188.0\r\nReceiving objects:  89% (405/454), 188.0\r\nReceiving objects:  90% (409/454), 188.0\r\nReceiving objects:  91% (414/454), 188.0\r\nReceiving objects:  92% (418/454), 188.0\r\nReceiving objects:  93% (423/454), 188.0\r\nReceiving objects:  94% (427/454), 188.0\r\nReceiving objects:  95% (432/454), 188.0\r\nReceiving objects:  96% (436/454), 188.0\r\nReceiving objects:  97% (441/454), 188.0\r\nReceiving objects:  98% (445/454), 188.0\r\nReceiving objects:  99% (450/454), 188.0\r\nReceiving objects: 100% (454/454), 188.0\r\nReceiving objects: 100% (454/454), 288.0\r\n1 KiB | 142.00 KiB/s, done.             \r\nResolving deltas: 100% (215/215), done. \r\nChecking connectivity... done.          \r\n                                        \r\n\u001b[34m/tmp/pure\u001b[38;5;242m master\u001b(B\u001b[m                        \r\n                           "
+    ],
+    [
+      0.000167,
+      "             \r\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.003058,
+      "\u001b[1;24r\u001b[H\u001b[24d                                        \r\u001b[35m❯\u001b[39m                                       \u001b[1;25r\u001b[H\u001b[24;3H\u001b[?1h\u001b="
+    ],
+    [
+      0.000108,
+      "\u001b[1;24r\u001b[H\u001b[24d                                        \r\u001b[35m❯\u001b[39m                                       \u001b[1;25r\u001b[H\u001b[24;3H"
+    ],
+    [
+      0.406626,
+      "\u001b[14;24r\u001b[H\u001b[16;42Hbegan parsing left/right\u001b[1;25r\u001b[H\u001b[24;3H"
+    ],
+    [
+      1.003660,
+      "\u001b[14;24r\u001b[H\u001b[17;42Hfinished parsing upstream branch\u001b[1;25r\u001b[H\u001b[24;3H"
+    ],
+    [
+      5.015029,
+      "\u001b[14;24r\u001b[H\u001b[18;42Hbegan parsing left/right\u001b[1;25r\u001b[H\u001b[24;3H"
+    ],
+    [
+      2.081054,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000250,
+      "\u001b[1;24r\u001b[H\u001b[24d                                        \r\u001b[35m❯\u001b[39m                                       \u001b[1;25r\u001b[H\u001b[24;3H"
+    ],
+    [
+      0.000222,
+      "\u001b[?25l\u001b[HReceiving objects:  85% (386/454), 188.0\r\nReceiving objects:  86% (391/454), 188.0\r\nReceiving objects:  87% (395/454), 188.0\r\nReceiving objects:  88% (400/454), 188.0\r\nReceiving objects:  89% (405/454), 188.0\r\nReceiving objects:  90% (409/454), 188.0\r\nReceiving objects:  91% (414/454), 188.0\r\nReceiving objects:  92% (418/454), 188.0\r\nReceiving objects:  93% (423/454), 188.0\r\nReceiving objects:  94% (427/454), 188.0\r\nReceiving objects:  95% (432/454), 188.0\r\nReceiving objects:  96% (436/454), 188.0\r\nReceiving objects:  97% (441/454), 188.0\r\nReceiving objects:  98% (445/454), 188.0\r\nReceiving objects:  99% (450/454), 188.0\r\nReceiving objects: 100% (454/454), 188.0\r\nReceiving objects: 100% (454/454), 288.0\r\n1 KiB | 142.00 KiB/s, done.             \r\nResolving deltas: 100% (215/215), done. \r\nChecking connectivity... done.          \r\n                                        \r\n\u001b[34m/tmp/pure\u001b[38;5;242m master\u001b(B\u001b[m                        \r\n\u001b[35m❯\u001b[39m                                       \r\n               "
+    ],
+    [
+      0.000038,
+      "                         \r\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000903,
+      "\u001b[1;24r\u001b[H\u001b[24d                                        \u001b[1;25r\u001b[H\u001b[24d"
+    ],
+    [
+      0.927890,
+      "\u001b[14;24r\u001b[H\u001b[19;42Hfinished parsing upstream branch\u001b[1;25r\u001b[H\u001b[24d"
+    ],
+    [
+      0.863777,
+      "\u001b[32m\u001b[1;41H│\u001b[2;41H│\u001b[3;41H│\u001b[4;41H│\u001b[5;41H│\u001b[6;41H│\u001b[7;41H│\u001b[8;41H│\u001b[9;41H│\u001b[10;41H│\u001b[11;41H│\u001b[12;41H│\u001b[13;41H├───────────────────────────────────────\u001b[39m\u001b[14;41H│\u001b[15;41H│\u001b[16;41H│\u001b[17;41H│\u001b[18;41H│\u001b[19;41H│\u001b[20;41H│\u001b[21;41H│\u001b[22;41H│\u001b[23;41H│\u001b[24;41H│\u001b[?25l\u001b[H\u001b(B\u001b[mReceiving objects:  85% (386/454), 188.0\r\nReceiving objects:  86% (391/454), 188.0\r\nReceiving objects:  87% (395/454), 188.0\r\nReceiving objects:  88% (400/454), 188.0\r\nReceiving objects:  89% (405/454), 188.0\r\nReceiving objects:  90% (409/454), 188.0\r\nReceiving objects:  91% (414/454), 188.0\r\nReceiving objects:  92% (418/454), 188.0\r\nReceiving objects:  93% (423/454), 188.0\r\nReceiving objects:  94% (427/454), 188.0\r\nReceiving objects:  95% (432/454), 188.0\r\nReceiving objects:  96% (436/454), 188.0\r\nReceiving objects:  97% (441/454), 188.0\r\nReceiving objects:  98% (445/454), 188.0\r\nReceiving objects:  99% (450/454), 188."
+    ],
+    [
+      0.000071,
+      "0\r\nReceiving objects: 100% (454/454), 188.0\r\nReceiving objects: 100% (454/454), 288.0\r\n1 KiB | 142.00 KiB/s, done.             \r\nResolving deltas: 100% (215/215), done. \r\nChecking connectivity... done.          \r\n                                        \r\n\u001b[34m/tmp/pure\u001b[38;5;242m master\u001b(B\u001b[m                        \r\n\u001b[35m❯\u001b[39m                                       \r\n                                        \u001b[1;42H\u001b[35m❯\u001b[39m \u001b[K\u001b[2;42H\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[2B\u001b[31m❯\u001b[39m tail -n0 -f /tmp/pure.log\u001b[K\u001b[15;42Hfinished parsing upstream branch\u001b[K\u001b[16;42Hbegan parsing left/right\u001b[K\u001b[17;42Hfinished parsing upstream branch\u001b[K\u001b[18;42Hbegan parsing left/right\u001b[K\u001b[19;42Hfinished parsing upstream branch\u001b[K\u001b[20;42H\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\r\n\u001b[30m\u001b[42m[0] 0:zsh*                                        \"/private/tmp\" 14:04 13-Jul-15\u001b(B\u001b[m\u001b[1;44H\u001b[?12l\u001b[?25h\u001b[?1h\u001b="
+    ],
+    [
+      0.879083,
+      "\u001b[1;12r\u001b[H\u001b[43Cr\u001b[1;25r\u001b[H\u001b[44C"
+    ],
+    [
+      0.103730,
+      "\u001b[1;12r\u001b[H\u001b[43Crm\u001b[1;25r\u001b[H\u001b[45C"
+    ],
+    [
+      0.416533,
+      "\u001b[1;12r\u001b[H\u001b[45C -rf /tmp/pure\u001b[1;25r\u001b[H\u001b[59C"
+    ],
+    [
+      0.463650,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000369,
+      "\u001b[1;12r\u001b[H\u001b[41C                                       \u001b[2;42H                                       \u001b[3;42H                                       \u001b[4;42H                                       \u001b[5;42H                                       \u001b[6;42H                                       \u001b[7;42H                                       \u001b[8;42H                                       \u001b[9;42H                                       \u001b[10;42H                                       \u001b[11;42H                                       \u001b[12;42H                                       \u001b[1;42H\u001b[35m❯\u001b[39m rm -rf /tmp/pure                     \u001b[1;1H\u001b[1;25r\u001b[59C"
+    ],
+    [
+      0.000017,
+      "\u001b[2;42H"
+    ],
+    [
+      0.011966,
+      "\u001b[?25l\u001b[25;1H\u001b[30m\u001b[42m[0] 0:zsh*                               \"tmp: safe-rm -rf /tmp\" 14:04 13-Jul-15\u001b(B\u001b[m\u001b[2;42H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.072869,
+      "\u001b[1;12r\u001b[H\u001b[2;42H                                       \u001b[2;1H\u001b[1;25r\u001b[H\u001b[2;42H"
+    ],
+    [
+      0.005765,
+      "\u001b[?25l\u001b[25;1H\u001b[30m\u001b[42m[0] 0:zsh*                                        \"/private/tmp\" 14:04 13-Jul-15\u001b(B\u001b[m\u001b[2;42H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.007030,
+      "\u001b[1;12r\u001b[H\u001b[3;42H\u001b[34m/private/tmp\u001b[1;25r\u001b[H\u001b[4;42H\u001b(B\u001b[m"
+    ],
+    [
+      0.001728,
+      "\u001b[1;12r\u001b[H\u001b[4;42H                                       \u001b[5;42H                                       \u001b[6;42H                                       \u001b[7;42H                                       \u001b[8;42H                                       \u001b[9;42H                                       \u001b[10;42H                                       \u001b[11;42H                                       \u001b[12;42H                                       \u001b[4;42H\u001b[35m❯\u001b[39m                                      \u001b[4;1H\u001b[1;25r\u001b[H\u001b[4;44H"
+    ],
+    [
+      0.000008,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000192,
+      "\u001b[1;12r\u001b[H\u001b[4;42H                                       \u001b[5;42H                                       \u001b[6;42H                                       \u001b[7;42H                                       \u001b[8;42H                                       \u001b[9;42H                                       \u001b[10;42H                                       \u001b[11;42H                                       \u001b[12;42H                                       \u001b[4;42H\u001b[35m❯\u001b[39m                                      \u001b[4;1H\u001b[1;25r\u001b[H\u001b[4;44H"
+    ],
+    [
+      1.262025,
+      "\u001b[1;24r\u001b[H\u001b[24dprompt_pure_check_git_arrows:9: bad math\u001b[?25l\u001b[HReceiving objects:  87% (395/454), 188.0\r\nReceiving objects:  88% (400/454), 188.0\r\nReceiving objects:  89% (405/454), 188.0\r\nReceiving objects:  90% (409/454), 188.0\r\nReceiving objects:  91% (414/454), 188.0\r\nReceiving objects:  92% (418/454), 188.0\r\nReceiving objects:  93% (423/454), 188.0\r\nReceiving objects:  94% (427/454), 188.0\r\nReceiving objects:  95% (432/454), 188.0\r\nReceiving objects:  96% (436/454), 188.0\r\nReceiving objects:  97% (441/454), 188.0\r\nReceiving objects:  98% (445/454), 188.0\r\nReceiving objects:  99% (450/454), 188.0\r\nReceiving objects: 100% (454/454), 188.0\r\nReceiving objects: 100% (454/454), 288.0\r\n1 KiB | 142.00 KiB/s, done.             \r\nResolving deltas: 100% (215/215), done. \r\nChecking connectivity... done.          \r\n                                        \r\n\u001b[34m/tmp/pure\u001b[38;5;242m master\u001b(B\u001b[m                        \r\n\u001b[35m❯\u001b[39m                                       \r\nprompt_pure_check_git_arrows:9: bad math\r\n e"
+    ],
+    [
+      0.000072,
+      "xpression: operand expected at `\u003e 0 ' \r\n                                        \u001b[1;25r\u001b[H\u001b[4;44H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.003982,
+      "\u001b[1;24r\u001b[H\u001b[24dprompt_pure_check_git_arrows:10: bad mat\u001b[?25l\u001b[HReceiving objects:  89% (405/454), 188.0\r\nReceiving objects:  90% (409/454), 188.0\r\nReceiving objects:  91% (414/454), 188.0\r\nReceiving objects:  92% (418/454), 188.0\r\nReceiving objects:  93% (423/454), 188.0\r\nReceiving objects:  94% (427/454), 188.0\r\nReceiving objects:  95% (432/454), 188.0\r\nReceiving objects:  96% (436/454), 188.0\r\nReceiving objects:  97% (441/454), 188.0\r\nReceiving objects:  98% (445/454), 188.0\r\nReceiving objects:  99% (450/454), 188.0\r\nReceiving objects: 100% (454/454), 188.0\r\nReceiving objects: 100% (454/454), 288.0\r\n1 KiB | 142.00 KiB/s, done.             \r\nResolving deltas: 100% (215/215), done. \r\nChecking connectivity... done.          \r\n                                        \r\n\u001b[34m/tmp/pure\u001b[38;5;242m master\u001b(B\u001b[m                        \r\n\u001b[35m❯\u001b[39m                                       \r\nprompt_pure_check_git_arrows:9: bad math\r\n expression: operand expected at `\u003e 0 ' \r\nprompt_pure_check_git_arrows:10: bad mat\r\nh "
+    ],
+    [
+      0.000098,
+      "expression: operand expected at `\u003e 0 '\r\n                                        \u001b[1;25r\u001b[H\u001b[4;44H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.009187,
+      "\u001b[?25l\u001b[HReceiving objects:  91% (414/454), 188.0\r\nReceiving objects:  92% (418/454), 188.0\r\nReceiving objects:  93% (423/454), 188.0\r\nReceiving objects:  94% (427/454), 188.0\r\nReceiving objects:  95% (432/454), 188.0\r\nReceiving objects:  96% (436/454), 188.0\r\nReceiving objects:  97% (441/454), 188.0\r\nReceiving objects:  98% (445/454), 188.0\r\nReceiving objects:  99% (450/454), 188.0\r\nReceiving objects: 100% (454/454), 188.0\r\nReceiving objects: 100% (454/454), 288.0\r\n1 KiB | 142.00 KiB/s, done.             \r\nResolving deltas: 100% (215/215), done. \r\nChecking connectivity... done.          \r\n                                        \r\n\u001b[34m/tmp/pure\u001b[38;5;242m master\u001b(B\u001b[m                        \r\n\u001b[35m❯\u001b[39m                                       \r\nprompt_pure_check_git_arrows:9: bad math\r\n expression: operand expected at `\u003e 0 ' \r\nprompt_pure_check_git_arrows:10: bad mat\r\nh expression: operand expected at `\u003e 0 '\r\n                                        \r\n\u001b[34m/tmp/pure\u001b(B\u001b[m                               \r\n    "
+    ],
+    [
+      0.000218,
+      "                                    \u001b[4;44H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001907,
+      "\u001b[1;24r\u001b[H\u001b[24d                                        \r\u001b[35m❯\u001b[39m                                       \u001b[1;25r\u001b[H\u001b[4;44H"
+    ],
+    [
+      0.000184,
+      "\u001b[1;24r\u001b[H\u001b[24d                                        \r\u001b[35m❯\u001b[39m                                       \u001b[1;25r\u001b[H\u001b[4;44H"
+    ],
+    [
+      0.911249,
+      "\u001b[14;24r\u001b[H\u001b[20;42Hbegan parsing left/right\u001b[1;25r\u001b[H\u001b[4;44H"
+    ],
+    [
+      6.795619,
+      "\u001b[1;25r"
+    ],
+    [
+      0.000011,
+      "\u001b(B\u001b[m\u001b[?1l\u001b\u003e\u001b[H\u001b[2J\u001b]112\u0007\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[?1006l\u001b[?1005l\u001b[?1049l"
+    ],
+    [
+      0.000271,
+      "[detached (from session 0)]\r\n"
+    ],
+    [
+      0.000807,
+      "                                                                                \r\r"
+    ],
+    [
+      0.006723,
+      "\u001b]0;"
+    ],
+    [
+      0.000010,
+      "/tmp\u0007"
+    ],
+    [
+      0.009528,
+      "\r\n\u001b[34m/tmp\u001b[39m\u001b[38;5;242m\u001b[39m\u001b[36m\u001b[39m\u001b[33m 42s\u001b[39m\r\n"
+    ],
+    [
+      0.000072,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[35m❯\u001b[39m \u001b[K"
+    ],
+    [
+      0.000072,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000154,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[35m❯\u001b[39m \u001b[K"
+    ],
+    [
+      1.053905,
+      "\r\r\n"
+    ]
+  ]
+}
