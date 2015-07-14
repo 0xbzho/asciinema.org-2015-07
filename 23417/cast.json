@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "width": 120,
+  "height": 40,
+  "duration": 10.175429,
+  "command": "docker run --rm -ti -p 8080:8080 jonwayne/honcho",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.767451,
+      "20:38:32 system    | worker.1 started (pid=10)"
+    ],
+    [
+      0.000469,
+      "\r\n"
+    ],
+    [
+      0.010077,
+      "20:38:32 system    | monitor.1 started (pid=11)\r\n"
+    ],
+    [
+      0.115955,
+      "\u001b[33m20:38:33 monitor.1 | \u001b[0m * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)\r\n"
+    ],
+    [
+      0.188804,
+      "\u001b[36m20:38:33 worker.1  | \u001b[0m20:38:33 RQ worker u'rq:worker:ea795812b7b7.12' started, version 0.5.4\r\n"
+    ],
+    [
+      0.222352,
+      "\u001b[36m20:38:33 worker.1  | \u001b[0m20:38:33 \r\n"
+    ],
+    [
+      0.000413,
+      "\u001b[36m20:38:33 worker.1  | \u001b[0m20:38:33 *** Listening on default...\r\n"
+    ],
+    [
+      5.014807,
+      "\u001b[36m20:38:38 worker.1  | \u001b[0m20:38:38 default: tasks.count_words_at_url('http://jonparrott.com') (022ea1e6-c1be-4cd6-9912-511a37b15a51)\r\n"
+    ],
+    [
+      0.567161,
+      "\u001b[36m20:38:39 worker.1  | \u001b[0m20:38:39 Job OK, result = u'443'\r\n\u001b[36m20:38:39 worker.1  | \u001b[0m20:38:39 Result is kept for 500 seconds\r\n"
+    ],
+    [
+      0.277807,
+      "\u001b[36m20:38:39 worker.1  | \u001b[0m20:38:39 \r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[36m20:38:39 worker.1  | \u001b[0m20:38:39 *** Listening on default...\r\n"
+    ],
+    [
+      2.556521,
+      "^C"
+    ],
+    [
+      0.000165,
+      "20:38:41 system    | SIGINT received\r\n20:38:41 system    | sending SIGTERM to monitor.1 (pid 11)\r\n"
+    ],
+    [
+      0.000650,
+      "20:38:41 system    | sending SIGTERM to worker.1 (pid 10)\r\n"
+    ],
+    [
+      0.001052,
+      "\u001b[36m20:38:41 worker.1  | \u001b[0m20:38:41 Warm shut down requested\r\n"
+    ],
+    [
+      0.001363,
+      "20:38:41 system    | monitor.1 stopped (rc=-15)\r\n"
+    ],
+    [
+      0.100341,
+      "20:38:41 system    | worker.1 stopped (rc=-15)\r\n"
+    ]
+  ]
+}
