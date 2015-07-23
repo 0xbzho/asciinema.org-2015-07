@@ -1,0 +1,898 @@
+{
+  "version": 1,
+  "width": 120,
+  "height": 24,
+  "duration": 109.244693,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.055853,
+      "\u001b]0;diegoboot@diegoboot-ntb: ~/Downloads/LibreOffice_5.0.0.3_Linux_x86-64_deb/DEBS\u0007diegoboot@diegoboot-ntb:~/Downloads/LibreOffice_5.0.0.3_Linux_x86-64_deb/DEBS$ "
+    ],
+    [
+      4.239069,
+      "sudo dpkg -i *.deb"
+    ],
+    [
+      1.422441,
+      "\r\n"
+    ],
+    [
+      0.094895,
+      "[sudo] password for diegoboot: "
+    ],
+    [
+      2.663535,
+      "\r\n"
+    ],
+    [
+      0.851532,
+      "A seleccionar pacote anteriormente não seleccionado libobasis5.0-base.\r\n(Lendo banco de dados ... \r"
+    ],
+    [
+      0.012133,
+      "(Lendo banco de dados ... 5%\r(Lendo banco de dados ... 10%\r"
+    ],
+    [
+      0.000011,
+      "(Lendo banco de dados ... 15%\r(Lendo banco de dados ... 20%\r"
+    ],
+    [
+      0.000023,
+      "(Lendo banco de dados ... 25%\r"
+    ],
+    [
+      0.000035,
+      "(Lendo banco de dados ... 30%\r"
+    ],
+    [
+      0.000023,
+      "(Lendo banco de dados ... 35%\r"
+    ],
+    [
+      0.000019,
+      "(Lendo banco de dados ... 40%\r"
+    ],
+    [
+      0.000028,
+      "(Lendo banco de dados ... 45%\r"
+    ],
+    [
+      0.099239,
+      "(Lendo banco de dados ... 50%\r"
+    ],
+    [
+      0.142562,
+      "(Lendo banco de dados ... 55%\r"
+    ],
+    [
+      0.034363,
+      "(Lendo banco de dados ... 60%\r"
+    ],
+    [
+      0.038427,
+      "(Lendo banco de dados ... 65%\r"
+    ],
+    [
+      0.007470,
+      "(Lendo banco de dados ... 70%\r"
+    ],
+    [
+      0.004201,
+      "(Lendo banco de dados ... 75%\r"
+    ],
+    [
+      0.003775,
+      "(Lendo banco de dados ... 80%\r"
+    ],
+    [
+      0.015691,
+      "(Lendo banco de dados ... 85%\r"
+    ],
+    [
+      0.017272,
+      "(Lendo banco de dados ... 90%\r"
+    ],
+    [
+      0.017489,
+      "(Lendo banco de dados ... 95%\r"
+    ],
+    [
+      0.166990,
+      "(Lendo banco de dados ... 100%\r(Lendo banco de dados ... 346159 ficheiros e directórios actualmente instalados.)\r\n"
+    ],
+    [
+      0.034682,
+      "Preparing to unpack libobasis5.0-base_5.0.0.3-3_amd64.deb ...\r\n"
+    ],
+    [
+      0.139049,
+      "Unpacking libobasis5.0-base (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.948056,
+      "A seleccionar pacote anteriormente não seleccionado libobasis5.0-calc.\r\n"
+    ],
+    [
+      0.052272,
+      "Preparing to unpack libobasis5.0-calc_5.0.0.3-3_amd64.deb ...\r\n"
+    ],
+    [
+      0.055270,
+      "Unpacking libobasis5.0-calc (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      1.124532,
+      "A seleccionar pacote anteriormente não seleccionado libobasis5.0-core.\r\n"
+    ],
+    [
+      0.039840,
+      "Preparing to unpack libobasis5.0-core_5.0.0.3-3_amd64.deb ...\r\n"
+    ],
+    [
+      0.115246,
+      "Unpacking libobasis5.0-core (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      9.846339,
+      "A seleccionar pacote anteriormente não seleccionado libobasis5.0-draw.\r\n"
+    ],
+    [
+      0.056626,
+      "Preparing to unpack libobasis5.0-draw_5.0.0.3-3_amd64.deb ...\r\n"
+    ],
+    [
+      0.087450,
+      "Unpacking libobasis5.0-draw (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.471763,
+      "A seleccionar pacote anteriormente não seleccionado libobasis5.0-en-us.\r\n"
+    ],
+    [
+      0.042731,
+      "Preparing to unpack libobasis5.0-en-us_5.0.0.3-3_amd64.deb ...\r\n"
+    ],
+    [
+      0.071008,
+      "Unpacking libobasis5.0-en-us (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.427703,
+      "A seleccionar pacote anteriormente não seleccionado libobasis5.0-en-us-base.\r\n"
+    ],
+    [
+      0.038970,
+      "Preparing to unpack libobasis5.0-en-us-base_5.0.0.3-3_amd64.deb ...\r\n"
+    ],
+    [
+      0.066942,
+      "Unpacking libobasis5.0-en-us-base (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.503475,
+      "A seleccionar pacote anteriormente não seleccionado libobasis5.0-en-us-calc.\r\n"
+    ],
+    [
+      0.046496,
+      "Preparing to unpack libobasis5.0-en-us-calc_5.0.0.3-3_amd64.deb ...\r\n"
+    ],
+    [
+      0.130310,
+      "Unpacking libobasis5.0-en-us-calc (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.439151,
+      "A seleccionar pacote anteriormente não seleccionado libobasis5.0-en-us-math.\r\n"
+    ],
+    [
+      0.049636,
+      "Preparing to unpack libobasis5.0-en-us-math_5.0.0.3-3_amd64.deb ...\r\n"
+    ],
+    [
+      0.104980,
+      "Unpacking libobasis5.0-en-us-math (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.437528,
+      "A seleccionar pacote anteriormente não seleccionado libobasis5.0-en-us-res.\r\n"
+    ],
+    [
+      0.052898,
+      "Preparing to unpack libobasis5.0-en-us-res_5.0.0.3-3_amd64.deb ...\r\n"
+    ],
+    [
+      0.145770,
+      "Unpacking libobasis5.0-en-us-res (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.458947,
+      "A seleccionar pacote anteriormente não seleccionado libobasis5.0-en-us-writer.\r\n"
+    ],
+    [
+      0.048953,
+      "Preparing to unpack libobasis5.0-en-us-writer_5.0.0.3-3_amd64.deb ...\r\n"
+    ],
+    [
+      0.196221,
+      "Unpacking libobasis5.0-en-us-writer (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.582174,
+      "A seleccionar pacote anteriormente não seleccionado libobasis5.0-extension-beanshell-script-provider.\r\n"
+    ],
+    [
+      0.045694,
+      "Preparing to unpack libobasis5.0-extension-beanshell-script-provider_5.0.0.3-3_amd64.deb ...\r\n"
+    ],
+    [
+      0.099206,
+      "Unpacking libobasis5.0-extension-beanshell-script-provider (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.861690,
+      "A seleccionar pacote anteriormente não seleccionado libobasis5.0-extension-javascript-script-provider.\r\n"
+    ],
+    [
+      0.053162,
+      "Preparing to unpack libobasis5.0-extension-javascript-script-provider_5.0.0.3-3_amd64.deb ...\r\n"
+    ],
+    [
+      0.052853,
+      "Unpacking libobasis5.0-extension-javascript-script-provider (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.470660,
+      "A seleccionar pacote anteriormente não seleccionado libobasis5.0-extension-mediawiki-publisher.\r\n"
+    ],
+    [
+      0.041385,
+      "Preparing to unpack libobasis5.0-extension-mediawiki-publisher_5.0.0.3-3_amd64.deb ...\r\n"
+    ],
+    [
+      0.070609,
+      "Unpacking libobasis5.0-extension-mediawiki-publisher (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      1.482969,
+      "A seleccionar pacote anteriormente não seleccionado libobasis5.0-extension-nlpsolver.\r\n"
+    ],
+    [
+      0.040813,
+      "Preparing to unpack libobasis5.0-extension-nlpsolver_5.0.0.3-3_amd64.deb ...\r\n"
+    ],
+    [
+      0.081272,
+      "Unpacking libobasis5.0-extension-nlpsolver (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      1.039662,
+      "A seleccionar pacote anteriormente não seleccionado libobasis5.0-extension-pdf-import.\r\n"
+    ],
+    [
+      0.048622,
+      "Preparing to unpack libobasis5.0-extension-pdf-import_5.0.0.3-3_amd64.deb ...\r\n"
+    ],
+    [
+      0.408377,
+      "Unpacking libobasis5.0-extension-pdf-import (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.514588,
+      "A seleccionar pacote anteriormente não seleccionado libobasis5.0-extension-report-builder.\r\n"
+    ],
+    [
+      0.048505,
+      "Preparing to unpack libobasis5.0-extension-report-builder_5.0.0.3-3_amd64.deb ...\r\n"
+    ],
+    [
+      0.053267,
+      "Unpacking libobasis5.0-extension-report-builder (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.767671,
+      "A seleccionar pacote anteriormente não seleccionado libobasis5.0-filter-data.\r\n"
+    ],
+    [
+      0.046839,
+      "Preparing to unpack libobasis5.0-filter-data_5.0.0.3-3_amd64.deb ...\r\n"
+    ],
+    [
+      0.097877,
+      "Unpacking libobasis5.0-filter-data (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.535556,
+      "A seleccionar pacote anteriormente não seleccionado libobasis5.0-gnome-integration.\r\n"
+    ],
+    [
+      0.041785,
+      "Preparing to unpack libobasis5.0-gnome-integration_5.0.0.3-3_amd64.deb ...\r\n"
+    ],
+    [
+      0.069217,
+      "Unpacking libobasis5.0-gnome-integration (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.538982,
+      "A seleccionar pacote anteriormente não seleccionado libobasis5.0-graphicfilter.\r\n"
+    ],
+    [
+      0.043871,
+      "Preparing to unpack libobasis5.0-graphicfilter_5.0.0.3-3_amd64.deb ...\r\n"
+    ],
+    [
+      0.121348,
+      "Unpacking libobasis5.0-graphicfilter (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.729249,
+      "A seleccionar pacote anteriormente não seleccionado libobasis5.0-images.\r\n"
+    ],
+    [
+      0.058415,
+      "Preparing to unpack libobasis5.0-images_5.0.0.3-3_amd64.deb ...\r\n"
+    ],
+    [
+      0.059782,
+      "Unpacking libobasis5.0-images (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.831670,
+      "A seleccionar pacote anteriormente não seleccionado libobasis5.0-impress.\r\n"
+    ],
+    [
+      0.053208,
+      "Preparing to unpack libobasis5.0-impress_5.0.0.3-3_amd64.deb ...\r\n"
+    ],
+    [
+      0.095600,
+      "Unpacking libobasis5.0-impress (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.628012,
+      "A seleccionar pacote anteriormente não seleccionado libobasis5.0-kde-integration.\r\n"
+    ],
+    [
+      0.046870,
+      "Preparing to unpack libobasis5.0-kde-integration_5.0.0.3-3_amd64.deb ...\r\n"
+    ],
+    [
+      0.076681,
+      "Unpacking libobasis5.0-kde-integration (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.616598,
+      "A seleccionar pacote anteriormente não seleccionado libobasis5.0-librelogo.\r\n"
+    ],
+    [
+      0.049330,
+      "Preparing to unpack libobasis5.0-librelogo_5.0.0.3-3_amd64.deb ...\r\n"
+    ],
+    [
+      0.124773,
+      "Unpacking libobasis5.0-librelogo (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.599974,
+      "A seleccionar pacote anteriormente não seleccionado libobasis5.0-math.\r\n"
+    ],
+    [
+      0.042812,
+      "Preparing to unpack libobasis5.0-math_5.0.0.3-3_amd64.deb ...\r\n"
+    ],
+    [
+      0.061708,
+      "Unpacking libobasis5.0-math (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.519421,
+      "A seleccionar pacote anteriormente não seleccionado libobasis5.0-ogltrans.\r\n"
+    ],
+    [
+      0.038682,
+      "Preparing to unpack libobasis5.0-ogltrans_5.0.0.3-3_amd64.deb ...\r\n"
+    ],
+    [
+      0.068444,
+      "Unpacking libobasis5.0-ogltrans (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.464853,
+      "A seleccionar pacote anteriormente não seleccionado libobasis5.0-onlineupdate.\r\n"
+    ],
+    [
+      0.038157,
+      "Preparing to unpack libobasis5.0-onlineupdate_5.0.0.3-3_amd64.deb ...\r\n"
+    ],
+    [
+      0.067258,
+      "Unpacking libobasis5.0-onlineupdate (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.719575,
+      "A seleccionar pacote anteriormente não seleccionado libobasis5.0-ooofonts.\r\n"
+    ],
+    [
+      0.038232,
+      "Preparing to unpack libobasis5.0-ooofonts_5.0.0.3-3_amd64.deb ...\r\n"
+    ],
+    [
+      0.056537,
+      "Unpacking libobasis5.0-ooofonts (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      1.525105,
+      "A seleccionar pacote anteriormente não seleccionado libobasis5.0-ooolinguistic.\r\n"
+    ],
+    [
+      0.046984,
+      "Preparing to unpack libobasis5.0-ooolinguistic_5.0.0.3-3_amd64.deb ...\r\n"
+    ],
+    [
+      0.118251,
+      "Unpacking libobasis5.0-ooolinguistic (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.442927,
+      "A seleccionar pacote anteriormente não seleccionado libobasis5.0-postgresql-sdbc.\r\n"
+    ],
+    [
+      0.041886,
+      "Preparing to unpack libobasis5.0-postgresql-sdbc_5.0.0.3-3_amd64.deb ...\r\n"
+    ],
+    [
+      0.064372,
+      "Unpacking libobasis5.0-postgresql-sdbc (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.686708,
+      "A seleccionar pacote anteriormente não seleccionado libobasis5.0-python-script-provider.\r\n"
+    ],
+    [
+      0.034882,
+      "Preparing to unpack libobasis5.0-python-script-provider_5.0.0.3-3_amd64.deb ...\r\n"
+    ],
+    [
+      0.061857,
+      "Unpacking libobasis5.0-python-script-provider (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.423931,
+      "A seleccionar pacote anteriormente não seleccionado libobasis5.0-pyuno.\r\n"
+    ],
+    [
+      0.046617,
+      "Preparing to unpack libobasis5.0-pyuno_5.0.0.3-3_amd64.deb ...\r\n"
+    ],
+    [
+      0.065258,
+      "Unpacking libobasis5.0-pyuno (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      2.778496,
+      "A seleccionar pacote anteriormente não seleccionado libobasis5.0-writer.\r\n"
+    ],
+    [
+      0.050873,
+      "Preparing to unpack libobasis5.0-writer_5.0.0.3-3_amd64.deb ...\r\n"
+    ],
+    [
+      0.143176,
+      "Unpacking libobasis5.0-writer (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      1.691064,
+      "A seleccionar pacote anteriormente não seleccionado libobasis5.0-xsltfilter.\r\n"
+    ],
+    [
+      0.061823,
+      "Preparing to unpack libobasis5.0-xsltfilter_5.0.0.3-3_amd64.deb ...\r\n"
+    ],
+    [
+      0.072438,
+      "Unpacking libobasis5.0-xsltfilter (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.815838,
+      "A seleccionar pacote anteriormente não seleccionado libreoffice5.0.\r\n"
+    ],
+    [
+      0.059318,
+      "Preparing to unpack libreoffice5.0_5.0.0.3-3_amd64.deb ...\r\n"
+    ],
+    [
+      0.064859,
+      "Unpacking libreoffice5.0 (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.739583,
+      "A seleccionar pacote anteriormente não seleccionado libreoffice5.0-base.\r\n"
+    ],
+    [
+      0.035971,
+      "Preparing to unpack libreoffice5.0-base_5.0.0.3-3_amd64.deb ...\r\n"
+    ],
+    [
+      0.069499,
+      "Unpacking libreoffice5.0-base (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.428083,
+      "A seleccionar pacote anteriormente não seleccionado libreoffice5.0-calc.\r\n"
+    ],
+    [
+      0.057448,
+      "Preparing to unpack libreoffice5.0-calc_5.0.0.3-3_amd64.deb ...\r\n"
+    ],
+    [
+      0.052414,
+      "Unpacking libreoffice5.0-calc (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.648179,
+      "A seleccionar pacote anteriormente não seleccionado libreoffice5.0-debian-menus.\r\n"
+    ],
+    [
+      0.052135,
+      "Preparing to unpack libreoffice5.0-debian-menus_5.0.0-3_all.deb ...\r\n"
+    ],
+    [
+      0.069366,
+      "Unpacking libreoffice5.0-debian-menus (5.0.0-3) ...\r\n"
+    ],
+    [
+      8.155906,
+      "A seleccionar pacote anteriormente não seleccionado libreoffice5.0-dict-en.\r\n"
+    ],
+    [
+      0.047866,
+      "Preparing to unpack libreoffice5.0-dict-en_5.0.0.3-3_amd64.deb ...\r\n"
+    ],
+    [
+      0.074055,
+      "Unpacking libreoffice5.0-dict-en (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      1.721775,
+      "A seleccionar pacote anteriormente não seleccionado libreoffice5.0-dict-es.\r\n"
+    ],
+    [
+      0.056317,
+      "Preparing to unpack libreoffice5.0-dict-es_5.0.0.3-3_amd64.deb ...\r\n"
+    ],
+    [
+      0.064943,
+      "Unpacking libreoffice5.0-dict-es (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      1.085078,
+      "A seleccionar pacote anteriormente não seleccionado libreoffice5.0-dict-fr.\r\n"
+    ],
+    [
+      0.045418,
+      "Preparing to unpack libreoffice5.0-dict-fr_5.0.0.3-3_amd64.deb ...\r\n"
+    ],
+    [
+      0.095963,
+      "Unpacking libreoffice5.0-dict-fr (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      1.052021,
+      "A seleccionar pacote anteriormente não seleccionado libreoffice5.0-draw.\r\n"
+    ],
+    [
+      0.039192,
+      "Preparing to unpack libreoffice5.0-draw_5.0.0.3-3_amd64.deb ...\r\n"
+    ],
+    [
+      0.090738,
+      "Unpacking libreoffice5.0-draw (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.583688,
+      "A seleccionar pacote anteriormente não seleccionado libreoffice5.0-en-us.\r\n"
+    ],
+    [
+      0.050405,
+      "Preparing to unpack libreoffice5.0-en-us_5.0.0.3-3_amd64.deb ...\r\n"
+    ],
+    [
+      0.066963,
+      "Unpacking libreoffice5.0-en-us (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.654554,
+      "A seleccionar pacote anteriormente não seleccionado libreoffice5.0-impress.\r\n"
+    ],
+    [
+      0.035176,
+      "Preparing to unpack libreoffice5.0-impress_5.0.0.3-3_amd64.deb ...\r\n"
+    ],
+    [
+      0.059352,
+      "Unpacking libreoffice5.0-impress (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.818569,
+      "A seleccionar pacote anteriormente não seleccionado libreoffice5.0-math.\r\n"
+    ],
+    [
+      0.053668,
+      "Preparing to unpack libreoffice5.0-math_5.0.0.3-3_amd64.deb ...\r\n"
+    ],
+    [
+      0.063269,
+      "Unpacking libreoffice5.0-math (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.536600,
+      "A seleccionar pacote anteriormente não seleccionado libreoffice5.0-ure.\r\n"
+    ],
+    [
+      0.041059,
+      "Preparing to unpack libreoffice5.0-ure_5.0.0.3-3_amd64.deb ...\r\n"
+    ],
+    [
+      0.105087,
+      "Unpacking libreoffice5.0-ure (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      3.248329,
+      "A seleccionar pacote anteriormente não seleccionado libreoffice5.0-writer.\r\n"
+    ],
+    [
+      0.055211,
+      "Preparing to unpack libreoffice5.0-writer_5.0.0.3-3_amd64.deb ...\r\n"
+    ],
+    [
+      0.062139,
+      "Unpacking libreoffice5.0-writer (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.342310,
+      "Configurando libreoffice5.0-debian-menus (5.0.0-3) ...\r\n"
+    ],
+    [
+      0.484755,
+      "/usr/bin/gtk-update-icon-cache\r\n"
+    ],
+    [
+      4.336470,
+      "gtk-update-icon-cache: Cache file created successfully.\r\n"
+    ],
+    [
+      0.014033,
+      "/usr/bin/gtk-update-icon-cache\r\n"
+    ],
+    [
+      6.008316,
+      "gtk-update-icon-cache"
+    ],
+    [
+      0.000023,
+      ": Cache file created successfully.\r\n"
+    ],
+    [
+      0.709164,
+      "Configurando libreoffice5.0-ure (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.622839,
+      "Configurando libobasis5.0-core (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.622801,
+      "Configurando libobasis5.0-draw (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      1.056201,
+      "Configurando libobasis5.0-en-us (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.446128,
+      "Configurando libobasis5.0-en-us-base (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.977042,
+      "Configurando libobasis5.0-en-us-calc (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.691422,
+      "Configurando libobasis5.0-en-us-math (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.744601,
+      "Configurando libobasis5.0-en-us-res (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.301146,
+      "Configurando libobasis5.0-en-us-writer (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.657095,
+      "Configurando libobasis5.0-extension-beanshell-script-provider (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.334168,
+      "Configurando libobasis5.0-extension-javascript-script-provider (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.178984,
+      "Configurando libobasis5.0-extension-mediawiki-publisher (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.201629,
+      "Configurando libobasis5.0-extension-nlpsolver (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.191443,
+      "Configurando libobasis5.0-extension-pdf-import (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.201912,
+      "Configurando libobasis5.0-extension-report-builder (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.256465,
+      "Configurando libobasis5.0-filter-data (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.276187,
+      "Configurando libobasis5.0-gnome-integration (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.348024,
+      "Configurando libobasis5.0-graphicfilter (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.234972,
+      "Configurando libobasis5.0-images (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.333997,
+      "Configurando libobasis5.0-impress (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.358981,
+      "Configurando libobasis5.0-kde-integration (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.234722,
+      "Configurando libobasis5.0-math (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.390457,
+      "Configurando libobasis5.0-ogltrans (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.312163,
+      "Configurando libobasis5.0-onlineupdate (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.212699,
+      "Configurando libobasis5.0-ooofonts (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.200919,
+      "Configurando libobasis5.0-ooolinguistic (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.236391,
+      "Configurando libobasis5.0-python-script-provider (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.212569,
+      "Configurando libobasis5.0-pyuno (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.267798,
+      "Configurando libobasis5.0-writer (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.401459,
+      "Configurando libobasis5.0-xsltfilter (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.190755,
+      "Configurando libreoffice5.0 (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.256011,
+      "Configurando libreoffice5.0-dict-en (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.214682,
+      "Configurando libreoffice5.0-dict-es (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.189955,
+      "Configurando libreoffice5.0-dict-fr (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.392569,
+      "Configurando libreoffice5.0-draw (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.189886,
+      "Configurando libreoffice5.0-en-us (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.212846,
+      "Configurando libreoffice5.0-impress (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.211940,
+      "Configurando libreoffice5.0-math (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.258552,
+      "Configurando libreoffice5.0-writer (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.190246,
+      "Configurando libobasis5.0-base (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.302024,
+      "Configurando libobasis5.0-calc (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.368150,
+      "Configurando libobasis5.0-librelogo (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.201432,
+      "Configurando libobasis5.0-postgresql-sdbc (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.212106,
+      "Configurando libreoffice5.0-base (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.225469,
+      "Configurando libreoffice5.0-calc (5.0.0.3-3) ...\r\n"
+    ],
+    [
+      0.201708,
+      "Processing triggers for hicolor-icon-theme (0.13-1) ...\r\n"
+    ],
+    [
+      1.565223,
+      "Processing triggers for gnome-icon-theme (3.10.0-0ubuntu2) ...\r\n"
+    ],
+    [
+      2.199095,
+      "Processing triggers for menu (2.1.46ubuntu1) ...\r\n"
+    ],
+    [
+      1.106885,
+      "\u001b]0;diegoboot@diegoboot-ntb: ~/Downloads/LibreOffice_5.0.0.3_Linux_x86-64_deb/DEBS\u0007diegoboot@diegoboot-ntb:~/Downloads/LibreOffice_5.0.0.3_Linux_x86-64_deb/DEBS$ "
+    ],
+    [
+      4.695726,
+      "e"
+    ],
+    [
+      0.096186,
+      "x"
+    ],
+    [
+      0.228616,
+      "i"
+    ],
+    [
+      0.125086,
+      "t"
+    ],
+    [
+      1.131886,
+      "\r\nexit\r\n"
+    ]
+  ]
+}
