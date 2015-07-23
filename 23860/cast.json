@@ -1,0 +1,262 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 18.008055,
+  "command": "/bin/bash",
+  "title": "cat demo",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.119699,
+      "\u001b]0;grossp@localhost:~\u0007\u001b[?1034h[grossp@~ ]\u003e "
+    ],
+    [
+      1.264213,
+      "l"
+    ],
+    [
+      0.111936,
+      "s"
+    ],
+    [
+      0.152699,
+      "\r\n"
+    ],
+    [
+      0.002875,
+      "\u001b[0m\u001b[38;5;9mbackup.tar.xz\u001b[0m\r\n\u001b[38;5;27mDCIM\u001b[0m\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[38;5;9mDCIM.zip\u001b[0m\r\n\u001b[38;5;27mDesktop\u001b[0m\r\n\u001b[38;5;27mDocuments\u001b[0m\r\n\u001b[38;5;27mDownloads\u001b[0m\r\n"
+    ],
+    [
+      0.000033,
+      "\u001b[38;5;27mDropbox\u001b[0m\r\n\u001b[38;5;27mics240\u001b[0m\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[38;5;34mkblightsoff\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[38;5;9mkmod-forcedeth-0.64-1.el7.elrepo.x86_64.rpm\u001b[0m\r\n"
+    ],
+    [
+      0.000025,
+      "\u001b[38;5;27mminutes\u001b[0m\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[38;5;27mMusic\u001b[0m\r\n\u001b[38;5;27mOpenELEC-RPi.arm-4.2.1\u001b[0m\r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[38;5;27mPictures\u001b[0m\r\n"
+    ],
+    [
+      0.000022,
+      "\u001b[38;5;27mPublic\u001b[0m"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "\u001b[38;5;27mrpmbuild\u001b[0m"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[38;5;27mTemplates\u001b[0m"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "\u001b[38;5;27mtest\u001b[0m"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "\u001b[38;5;27mVideos\u001b[0m"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000025,
+      "\u001b[38;5;9mwl-kmod-6_30_223_248-2.el7.elrepo.nosrc.rpm\u001b[0m"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000522,
+      "\u001b]0;grossp@localhost:~\u0007[grossp@~ ]\u003e "
+    ],
+    [
+      0.459519,
+      "c"
+    ],
+    [
+      0.103820,
+      "a"
+    ],
+    [
+      0.280124,
+      "t"
+    ],
+    [
+      2.679657,
+      " "
+    ],
+    [
+      0.400199,
+      "k"
+    ],
+    [
+      0.183976,
+      "b"
+    ],
+    [
+      0.128003,
+      "l"
+    ],
+    [
+      0.166883,
+      "ightsoff "
+    ],
+    [
+      0.753029,
+      "\r\n"
+    ],
+    [
+      0.041350,
+      "#!/bin/bash\r\n\r\necho 0 \u003e /sys/class/leds/smc::kbd_backlight/brightness\r\n"
+    ],
+    [
+      0.000788,
+      "\u001b]0;grossp@localhost:~\u0007[grossp@~ ]\u003e "
+    ],
+    [
+      4.525466,
+      "c"
+    ],
+    [
+      0.096145,
+      "a"
+    ],
+    [
+      0.239985,
+      "t"
+    ],
+    [
+      0.287825,
+      " "
+    ],
+    [
+      0.167969,
+      "."
+    ],
+    [
+      0.168159,
+      "b"
+    ],
+    [
+      0.183997,
+      "a"
+    ],
+    [
+      0.096007,
+      "s"
+    ],
+    [
+      0.143987,
+      "h"
+    ],
+    [
+      0.159995,
+      "r"
+    ],
+    [
+      0.224014,
+      "c"
+    ],
+    [
+      0.352418,
+      "\r\n"
+    ],
+    [
+      0.001222,
+      "# .bashrc\r\n"
+    ],
+    [
+      0.000011,
+      "\r\n# Source global definitions\r\n"
+    ],
+    [
+      0.000009,
+      "if [ -f /etc/bashrc ]; then\r\n\t"
+    ],
+    [
+      0.000018,
+      ". /etc/bashrc\r\nfi\r\n"
+    ],
+    [
+      0.000016,
+      "\r\n# Uncomment the following line if you don't like systemctl's auto-paging feature:\r\n# export SYSTEMD_PAGER="
+    ],
+    [
+      0.000020,
+      "\r\n\r\n# User specific aliases and functions\r\nPS1=\"[\\u@\\w ]\u003e \""
+    ],
+    [
+      0.000375,
+      "\r\nalias icsprojects=\"ssh grossp@icsprojects.leeward.hawaii.edu -p 3001\"\r\nalias la=\"ls -lA\"\r\nalias rec=\"asciinema rec\"\r\n\r\nexport LC_ALL=\"en_US.UTF-8\"\r\nexport LANG=\"en_US.UTF-8\"\r\nexport LANGUAGE=\"en_US.UTF-8\"\r\n"
+    ],
+    [
+      0.000220,
+      "\u001b]0;grossp@localhost:~\u0007[grossp@~ ]\u003e "
+    ],
+    [
+      3.789466,
+      "e"
+    ],
+    [
+      0.247974,
+      "x"
+    ],
+    [
+      0.136001,
+      "i"
+    ],
+    [
+      0.151973,
+      "t"
+    ],
+    [
+      0.184411,
+      "\r\nexit\r\n"
+    ]
+  ]
+}
