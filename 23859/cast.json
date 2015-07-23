@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 8.137065,
+  "command": "/bin/bash",
+  "title": "whoami demo",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.113094,
+      "\u001b]0;grossp@localhost:~\u0007\u001b[?1034h[grossp@~ ]\u003e "
+    ],
+    [
+      1.046913,
+      "w"
+    ],
+    [
+      0.080139,
+      "h"
+    ],
+    [
+      0.079888,
+      "o"
+    ],
+    [
+      0.216096,
+      "a"
+    ],
+    [
+      0.192017,
+      "m"
+    ],
+    [
+      0.959946,
+      "i"
+    ],
+    [
+      0.312362,
+      "\r\n"
+    ],
+    [
+      0.036394,
+      "grossp\r\n"
+    ],
+    [
+      0.000645,
+      "\u001b]0;grossp@localhost:~\u0007[grossp@~ ]\u003e "
+    ],
+    [
+      5.098492,
+      "exit\r\n"
+    ]
+  ]
+}
