@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 6.454455,
+  "command": "/bin/bash",
+  "title": "exit demo",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.122931,
+      "\u001b]0;grossp@localhost:~\u0007\u001b[?1034h[grossp@~ ]\u003e "
+    ],
+    [
+      2.378326,
+      "e"
+    ],
+    [
+      0.336091,
+      "x"
+    ],
+    [
+      0.167708,
+      "i"
+    ],
+    [
+      0.176287,
+      "t"
+    ],
+    [
+      3.272329,
+      "\r\nexit\r\n"
+    ]
+  ]
+}
