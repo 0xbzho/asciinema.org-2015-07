@@ -1,0 +1,2034 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 257.847999,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.225033,
+      "\u001b[01;32mjfn@sandbox\u001b[01;34m ~/src/oauth2 $\u001b[00m "
+    ],
+    [
+      1.940622,
+      "."
+    ],
+    [
+      0.199995,
+      "/"
+    ],
+    [
+      0.280002,
+      "g"
+    ],
+    [
+      0.055888,
+      "e"
+    ],
+    [
+      0.208435,
+      "nerateScopes.sh "
+    ],
+    [
+      0.967614,
+      "u"
+    ],
+    [
+      0.152073,
+      "t"
+    ],
+    [
+      0.281815,
+      "ils/"
+    ],
+    [
+      0.782203,
+      "l"
+    ],
+    [
+      0.183940,
+      "o"
+    ],
+    [
+      0.384021,
+      "a"
+    ],
+    [
+      0.312007,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.103972,
+      "c"
+    ],
+    [
+      0.234376,
+      "ales.json "
+    ],
+    [
+      0.781570,
+      "\r\n"
+    ],
+    [
+      0.271782,
+      "{ name: 'CMS_fr_FR',\r\n"
+    ],
+    [
+      0.000008,
+      "  description: 'Accès aux contenus en locale fr_FR .',\r\n  restricted: true,\r\n  created: 1437727220976,\r\n  modified: 1437727220976 }\r\n"
+    ],
+    [
+      0.201142,
+      "{ name: 'CMS_fr_BE',\r\n  description: 'Accès aux contenus en locale fr_BE .',\r\n  restricted: true,"
+    ],
+    [
+      0.000006,
+      "\r\n  created: 1437727221177,\r\n  modified: 1437727221177 }\r\n"
+    ],
+    [
+      0.200070,
+      "{ name: 'CMS_nl_BE',\r\n  description: 'Accès aux contenus en locale nl_BE .',"
+    ],
+    [
+      0.000006,
+      "\r\n  restricted: true,\r\n  created: 1437727221377,\r\n  modified: 1437727221377 }\r\n"
+    ],
+    [
+      0.199937,
+      "{ name: 'CMS_de_CH',\r\n"
+    ],
+    [
+      0.000005,
+      "  description: 'Accès aux contenus en locale de_CH .',\r\n  restricted: true,\r\n  created: 1437727221577,\r\n  modified: 1437727221577 }\r\n"
+    ],
+    [
+      0.199250,
+      "{ name: 'CMS_fr_CH',\r\n  description: 'Accès aux contenus en locale fr_CH .',"
+    ],
+    [
+      0.000005,
+      "\r\n  restricted: true,\r\n  created: 1437727221776,\r\n  modified: 1437727221776 }\r\n"
+    ],
+    [
+      0.200493,
+      "{ name: 'CMS_it_IT',\r\n  description: 'Accès aux contenus en locale it_IT .',"
+    ],
+    [
+      0.000005,
+      "\r\n  restricted: true,\r\n  created: 1437727221977,\r\n  modified: 1437727221977 }\r\n"
+    ],
+    [
+      0.198538,
+      "{ name: 'CMS_de_DE',\r\n  description: 'Accès aux contenus en locale de_DE .',"
+    ],
+    [
+      0.000005,
+      "\r\n  restricted: true,\r\n  created: 1437727222175,\r\n  modified: 1437727222175 }\r\n"
+    ],
+    [
+      0.200201,
+      "{ name: 'CMS_en_EN',\r\n"
+    ],
+    [
+      0.000006,
+      "  description: 'Accès aux contenus en locale en_EN .',\r\n  restricted: true,\r\n  created: 1437727222375,\r\n  modified: 1437727222375 }\r\n"
+    ],
+    [
+      0.199690,
+      "{ name: 'CMS_en_US',\r\n  description: 'Accès aux contenus en locale en_US .',"
+    ],
+    [
+      0.000012,
+      "\r\n  restricted: true,\r\n  created: 1437727222575,\r\n  modified: 1437727222575 }\r\n"
+    ],
+    [
+      0.199604,
+      "{ name: 'CMS_nl_NL',\r\n  description: 'Accès aux contenus en locale nl_NL .',"
+    ],
+    [
+      0.000005,
+      "\r\n  restricted: true,\r\n  created: 1437727222775,\r\n  modified: 1437727222775 }\r\n"
+    ],
+    [
+      0.200554,
+      "{ name: 'CMS_en_ZA',\r\n  description: 'Accès aux contenus en locale en_ZA .',\r\n"
+    ],
+    [
+      0.000005,
+      "  restricted: true,\r\n  created: 1437727222975,\r\n  modified: 1437727222975 }\r\n"
+    ],
+    [
+      0.200445,
+      "{ name: 'CMS_tr_TR',\r\n  description: 'Accès aux contenus en locale tr_TR .',"
+    ],
+    [
+      0.000005,
+      "\r\n  restricted: true,\r\n  created: 1437727223176,\r\n  modified: 1437727223176 }\r\n"
+    ],
+    [
+      0.200089,
+      "{ name: 'CMS_ru_RU',\r\n  description: 'Accès aux contenus en locale ru_RU .',"
+    ],
+    [
+      0.000005,
+      "\r\n  restricted: true,\r\n  created: 1437727223376,\r\n  modified: 1437727223376 }\r\n"
+    ],
+    [
+      0.200503,
+      "{ name: 'CMS_en_IL',\r\n  description: 'Accès aux contenus en locale en_IL .',"
+    ],
+    [
+      0.000009,
+      "\r\n  restricted: true,\r\n  created: 1437727223576,\r\n  modified: 1437727223576 }\r\n"
+    ],
+    [
+      0.203327,
+      "{ name: 'CMS_he_IL',\r\n  description: 'Accès aux contenus en locale he_IL .',"
+    ],
+    [
+      0.000006,
+      "\r\n  restricted: true,\r\n  created: 1437727223779,\r\n  modified: 1437727223779 }\r\n"
+    ],
+    [
+      0.199738,
+      "{ name: 'CMS_es_ES',\r\n  description: 'Accès aux contenus en locale es_ES .',"
+    ],
+    [
+      0.000005,
+      "\r\n  restricted: true,\r\n  created: 1437727223979,\r\n  modified: 1437727223979 }\r\n"
+    ],
+    [
+      0.197022,
+      "{ name: 'CMS_en_AU',\r\n  description: 'Accès aux contenus en locale en_AU .',\r\n"
+    ],
+    [
+      0.000005,
+      "  restricted: true,\r\n  created: 1437727224177,\r\n  modified: 1437727224177 }\r\n"
+    ],
+    [
+      0.200126,
+      "{ name: 'CMS_en_SG',\r\n  description: 'Accès aux contenus en locale en_SG .',"
+    ],
+    [
+      0.000005,
+      "\r\n  restricted: true,\r\n  created: 1437727224376,\r\n  modified: 1437727224376 }\r\n"
+    ],
+    [
+      0.199965,
+      "{ name: 'CMS_en_MY',\r\n  description: 'Accès aux contenus en locale en_MY .',\r\n"
+    ],
+    [
+      0.000005,
+      "  restricted: true,\r\n  created: 1437727224576,\r\n  modified: 1437727224576 }\r\n"
+    ],
+    [
+      0.200970,
+      "{ name: 'CMS_en_NZ',\r\n"
+    ],
+    [
+      0.000006,
+      "  description: 'Accès aux contenus en locale en_NZ .',\r\n  restricted: true,\r\n  created: 1437727224777,\r\n  modified: 1437727224777 }\r\n"
+    ],
+    [
+      0.200332,
+      "{ name: 'CMS_fr_CA',\r\n  description: 'Accès aux contenus en locale fr_CA .',\r\n"
+    ],
+    [
+      0.000006,
+      "  restricted: true,\r\n  created: 1437727224978,\r\n  modified: 1437727224978 }\r\n"
+    ],
+    [
+      0.200275,
+      "{ name: 'CMS_en_CA',\r\n  description: 'Accès aux contenus en locale en_CA .',"
+    ],
+    [
+      0.000005,
+      "\r\n  restricted: true,\r\n  created: 1437727225178,\r\n  modified: 1437727225178 }\r\n"
+    ],
+    [
+      0.203196,
+      "{ name: 'CMS_pt_BR',\r\n"
+    ],
+    [
+      0.000005,
+      "  description: 'Accès aux contenus en locale pt_BR .',\r\n  restricted: true,\r\n  created: 1437727225381,\r\n  modified: 1437727225381 }\r\n"
+    ],
+    [
+      0.201883,
+      "{ name: 'CMS_es_AR',\r\n  description: 'Accès aux contenus en locale es_AR .',"
+    ],
+    [
+      0.000006,
+      "\r\n  restricted: true,\r\n  created: 1437727225583,\r\n  modified: 1437727225583 }\r\n"
+    ],
+    [
+      0.201482,
+      "{ name: 'CMS_ja_JP',\r\n  description: 'Accès aux contenus en locale ja_JP .',"
+    ],
+    [
+      0.000012,
+      "\r\n  restricted: true,\r\n  created: 1437727225785,\r\n  modified: 1437727225785 }\r\n"
+    ],
+    [
+      0.200587,
+      "{ name: 'CMS_en_HK',\r\n  description: 'Accès aux contenus en locale en_HK .',"
+    ],
+    [
+      0.000007,
+      "\r\n  restricted: true,\r\n  created: 1437727225985,\r\n  modified: 1437727225985 }\r\n"
+    ],
+    [
+      0.200086,
+      "{ name: 'CMS_zt_HK',\r\n  description: 'Accès aux contenus en locale zt_HK .',"
+    ],
+    [
+      0.000005,
+      "\r\n  restricted: true,\r\n  created: 1437727226185,\r\n  modified: 1437727226185 }\r\n"
+    ],
+    [
+      0.199476,
+      "{ name: 'CMS_en_CN',\r\n  description: 'Accès aux contenus en locale en_CN .',"
+    ],
+    [
+      0.000006,
+      "\r\n  restricted: true,\r\n  created: 1437727226385,\r\n  modified: 1437727226385 }\r\n"
+    ],
+    [
+      0.200310,
+      "{ name: 'CMS_en_SE',\r\n  description: 'Accès aux contenus en locale en_SE .',"
+    ],
+    [
+      0.000005,
+      "\r\n  restricted: true,\r\n  created: 1437727226585,\r\n  modified: 1437727226585 }\r\n"
+    ],
+    [
+      0.200877,
+      "{ name: 'CMS_zh_CN',\r\n  description: 'Accès aux contenus en locale zh_CN .',"
+    ],
+    [
+      0.000006,
+      "\r\n  restricted: true,\r\n  created: 1437727226786,\r\n  modified: 1437727226786 }\r\n"
+    ],
+    [
+      0.199348,
+      "{ name: 'CMS_en_ID',\r\n  description: 'Accès aux contenus en locale en_ID .',"
+    ],
+    [
+      0.000005,
+      "\r\n  restricted: true,\r\n  created: 1437727226985,\r\n  modified: 1437727226985 }\r\n"
+    ],
+    [
+      0.199820,
+      "{ name: 'CMS_id_ID',\r\n  description: 'Accès aux contenus en locale id_ID .',"
+    ],
+    [
+      0.000006,
+      "\r\n  restricted: true,\r\n  created: 1437727227185,\r\n  modified: 1437727227185 }\r\n"
+    ],
+    [
+      0.201368,
+      "{ name: 'CMS_en_TH',\r\n  description: 'Accès aux contenus en locale en_TH .',\r\n"
+    ],
+    [
+      0.000006,
+      "  restricted: true,\r\n  created: 1437727227386,\r\n  modified: 1437727227386 }\r\n"
+    ],
+    [
+      0.200143,
+      "{ name: 'CMS_pt_PT',\r\n  description: 'Accès aux contenus en locale pt_PT .',"
+    ],
+    [
+      0.000005,
+      "\r\n  restricted: true,\r\n  created: 1437727227587,\r\n  modified: 1437727227587 }\r\n"
+    ],
+    [
+      0.199861,
+      "{ name: 'CMS_ko_KR',\r\n  description: 'Accès aux contenus en locale ko_KR .',"
+    ],
+    [
+      0.000005,
+      "\r\n  restricted: true,\r\n  created: 1437727227787,\r\n  modified: 1437727227787 }\r\n"
+    ],
+    [
+      0.201002,
+      "{ name: 'CMS_en_TW',\r\n  description: 'Accès aux contenus en locale en_TW .',\r\n"
+    ],
+    [
+      0.000006,
+      "  restricted: true,\r\n  created: 1437727227987,\r\n  modified: 1437727227987 }\r\n"
+    ],
+    [
+      0.198287,
+      "{ name: 'CMS_zt_TW',\r\n  description: 'Accès aux contenus en locale zt_TW .',\r\n"
+    ],
+    [
+      0.000005,
+      "  restricted: true,\r\n  created: 1437727228186,\r\n  modified: 1437727228186 }\r\n"
+    ],
+    [
+      0.200195,
+      "{ name: 'CMS_es_MX',\r\n  description: 'Accès aux contenus en locale es_MX .',"
+    ],
+    [
+      0.000005,
+      "\r\n  restricted: true,\r\n  created: 1437727228386,\r\n  modified: 1437727228386 }\r\n"
+    ],
+    [
+      0.199417,
+      "{ name: 'CMS_es_CL',\r\n  description: 'Accès aux contenus en locale es_CL .',"
+    ],
+    [
+      0.000005,
+      "\r\n  restricted: true,\r\n  created: 1437727228586,\r\n  modified: 1437727228586 }\r\n"
+    ],
+    [
+      0.200433,
+      "{ name: 'CMS_en_IN',\r\n  description: 'Accès aux contenus en locale en_IN .',\r\n"
+    ],
+    [
+      0.000005,
+      "  restricted: true,\r\n  created: 1437727228786,\r\n  modified: 1437727228786 }\r\n"
+    ],
+    [
+      0.201093,
+      "{ name: 'CMS_READ',\r\n  description: 'Accès aux contenus en lecture.',\r\n  restricted: true,\r\n  created: 1437727228987,\r\n  modified: 1437727228987 }\r\n"
+    ],
+    [
+      0.200229,
+      "{ name: 'CMS_WRITE',\r\n  description: 'Accès aux contenus en écriture.',\r\n  restricted: true,\r\n  created: 1437727229187,\r\n  modified: 1437727229187 }\r\n"
+    ],
+    [
+      0.199296,
+      "{ name: 'CMS_PUBLISH',\r\n  description: 'Accès aux contenus en publication.',\r\n  restricted: true,\r\n  created: 1437727229386,\r\n  modified: 1437727229386 }\r\n"
+    ],
+    [
+      0.199162,
+      "{ name: 'CMS_b2c',\r\n  description: 'Accès aux contenus du b2c.',\r\n  restricted: true,\r\n  created: 1437727229586,\r\n  modified: 1437727229586 }\r\n"
+    ],
+    [
+      0.202865,
+      "{ name: 'CMS_API',\r\n  description: 'Accès aux contenus de l\\'API.',\r\n  restricted: true,\r\n  created: 1437727229788,\r\n  modified: 1437727229788 }\r\n"
+    ],
+    [
+      0.199276,
+      "{ name: 'CMS_FBSH_READ_b2c',\r\n  created: 1437727229988,\r\n  modified: 1437727229988 }\r\n"
+    ],
+    [
+      0.715601,
+      "CMS_FBSH_READ_b2c is now permitted the scope \"CMS_fr-BE.\"\r\n"
+    ],
+    [
+      0.642594,
+      "CMS_FBSH_READ_b2c is now permitted the scope \"CMS_nl-BE.\"\r\n"
+    ],
+    [
+      0.635241,
+      "CMS_FBSH_READ_b2c is now permitted the scope \"CMS_fr-FR.\"\r\n"
+    ],
+    [
+      0.635669,
+      "CMS_FBSH_READ_b2c is now permitted the scope \"CMS_fr-CH.\"\r\n"
+    ],
+    [
+      0.633551,
+      "CMS_FBSH_READ_b2c is now permitted the scope \"CMS_de-CH.\"\r\n"
+    ],
+    [
+      0.640614,
+      "CMS_FBSH_READ_b2c is now permitted the scope \"CMS_nl-NL.\"\r\n"
+    ],
+    [
+      0.638506,
+      "CMS_FBSH_READ_b2c is now permitted the scope \"CMS_READ.\"\r\n"
+    ],
+    [
+      0.634220,
+      "CMS_FBSH_READ_b2c is now permitted the scope \"CMS_b2c.\"\r\n"
+    ],
+    [
+      0.199488,
+      "{ name: 'CMS_FBSH_WRITE_b2c',\r\n  created: 1437727235363,\r\n  modified: 1437727235363 }\r\n"
+    ],
+    [
+      0.639261,
+      "CMS_FBSH_WRITE_b2c is now permitted the scope \"CMS_fr-BE.\"\r\n"
+    ],
+    [
+      0.638765,
+      "CMS_FBSH_WRITE_b2c is now permitted the scope \"CMS_nl-BE.\"\r\n"
+    ],
+    [
+      0.632988,
+      "CMS_FBSH_WRITE_b2c is now permitted the scope \"CMS_fr-FR.\"\r\n"
+    ],
+    [
+      0.633930,
+      "CMS_FBSH_WRITE_b2c is now permitted the scope \"CMS_fr-CH.\"\r\n"
+    ],
+    [
+      0.635724,
+      "CMS_FBSH_WRITE_b2c is now permitted the scope \"CMS_de-CH.\"\r\n"
+    ],
+    [
+      0.638160,
+      "CMS_FBSH_WRITE_b2c is now permitted the scope \"CMS_nl-NL.\"\r\n"
+    ],
+    [
+      0.632488,
+      "CMS_FBSH_WRITE_b2c is now permitted the scope \"CMS_READ.\"\r\n"
+    ],
+    [
+      0.633771,
+      "CMS_FBSH_WRITE_b2c is now permitted the scope \"CMS_WRITE.\"\r\n"
+    ],
+    [
+      0.635527,
+      "CMS_FBSH_WRITE_b2c is now permitted the scope \"CMS_PUBLISH.\"\r\n"
+    ],
+    [
+      0.634501,
+      "CMS_FBSH_WRITE_b2c is now permitted the scope \"CMS_b2c.\"\r\n"
+    ],
+    [
+      0.200373,
+      "{ name: 'CMS_FBSH_PUBLISH_b2c',\r\n  created: 1437727241919,\r\n  modified: 1437727241919 }\r\n"
+    ],
+    [
+      0.633848,
+      "CMS_FBSH_PUBLISH_b2c is now permitted the scope \"CMS_fr-BE.\"\r\n"
+    ],
+    [
+      0.636785,
+      "CMS_FBSH_PUBLISH_b2c is now permitted the scope \"CMS_nl-BE.\"\r\n"
+    ],
+    [
+      0.633898,
+      "CMS_FBSH_PUBLISH_b2c is now permitted the scope \"CMS_fr-FR.\"\r\n"
+    ],
+    [
+      0.639527,
+      "CMS_FBSH_PUBLISH_b2c is now permitted the scope \"CMS_fr-CH.\"\r\n"
+    ],
+    [
+      0.634231,
+      "CMS_FBSH_PUBLISH_b2c is now permitted the scope \"CMS_de-CH.\"\r\n"
+    ],
+    [
+      0.635301,
+      "CMS_FBSH_PUBLISH_b2c is now permitted the scope \"CMS_nl-NL.\"\r\n"
+    ],
+    [
+      0.640772,
+      "CMS_FBSH_PUBLISH_b2c is now permitted the scope \"CMS_READ.\"\r\n"
+    ],
+    [
+      0.636097,
+      "CMS_FBSH_PUBLISH_b2c is now permitted the scope \"CMS_WRITE.\"\r\n"
+    ],
+    [
+      0.633922,
+      "CMS_FBSH_PUBLISH_b2c is now permitted the scope \"CMS_PUBLISH.\"\r\n"
+    ],
+    [
+      0.633887,
+      "CMS_FBSH_PUBLISH_b2c is now permitted the scope \"CMS_b2c.\"\r\n"
+    ],
+    [
+      0.200700,
+      "{ name: 'CMS_FBSH_READ_API',\r\n  created: 1437727248478,\r\n  modified: 1437727248478 }\r\n"
+    ],
+    [
+      0.633341,
+      "CMS_FBSH_READ_API is now permitted the scope \"CMS_fr-BE.\"\r\n"
+    ],
+    [
+      0.639844,
+      "CMS_FBSH_READ_API is now permitted the scope \"CMS_nl-BE.\"\r\n"
+    ],
+    [
+      0.637041,
+      "CMS_FBSH_READ_API is now permitted the scope \"CMS_fr-FR.\"\r\n"
+    ],
+    [
+      0.645377,
+      "CMS_FBSH_READ_API is now permitted the scope \"CMS_fr-CH.\"\r\n"
+    ],
+    [
+      0.634725,
+      "CMS_FBSH_READ_API is now permitted the scope \"CMS_de-CH.\"\r\n"
+    ],
+    [
+      0.634844,
+      "CMS_FBSH_READ_API is now permitted the scope \"CMS_nl-NL.\"\r\n"
+    ],
+    [
+      0.635442,
+      "CMS_FBSH_READ_API is now permitted the scope \"CMS_READ.\"\r\n"
+    ],
+    [
+      0.638330,
+      "CMS_FBSH_READ_API is now permitted the scope \"CMS_API.\"\r\n"
+    ],
+    [
+      0.201102,
+      "{ name: 'CMS_FBSH_WRITE_API',\r\n  created: 1437727253778,\r\n  modified: 1437727253778 }\r\n"
+    ],
+    [
+      0.636132,
+      "CMS_FBSH_WRITE_API is now permitted the scope \"CMS_fr-BE.\"\r\n"
+    ],
+    [
+      0.634983,
+      "CMS_FBSH_WRITE_API is now permitted the scope \"CMS_nl-BE.\"\r\n"
+    ],
+    [
+      0.635414,
+      "CMS_FBSH_WRITE_API is now permitted the scope \"CMS_fr-FR.\"\r\n"
+    ],
+    [
+      0.636656,
+      "CMS_FBSH_WRITE_API is now permitted the scope \"CMS_fr-CH.\"\r\n"
+    ],
+    [
+      0.637201,
+      "CMS_FBSH_WRITE_API is now permitted the scope \"CMS_de-CH.\"\r\n"
+    ],
+    [
+      0.632411,
+      "CMS_FBSH_WRITE_API is now permitted the scope \"CMS_nl-NL.\"\r\n"
+    ],
+    [
+      0.635593,
+      "CMS_FBSH_WRITE_API is now permitted the scope \"CMS_READ.\"\r\n"
+    ],
+    [
+      0.634004,
+      "CMS_FBSH_WRITE_API is now permitted the scope \"CMS_WRITE.\"\r\n"
+    ],
+    [
+      0.641327,
+      "CMS_FBSH_WRITE_API is now permitted the scope \"CMS_PUBLISH.\"\r\n"
+    ],
+    [
+      0.646523,
+      "CMS_FBSH_WRITE_API is now permitted the scope \"CMS_API.\"\r\n"
+    ],
+    [
+      0.203127,
+      "{ name: 'CMS_FBSH_PUBLISH_API',\r\n  created: 1437727260351,"
+    ],
+    [
+      0.000005,
+      "\r\n  modified: 1437727260351 }\r\n"
+    ],
+    [
+      0.641580,
+      "CMS_FBSH_PUBLISH_API is now permitted the scope \"CMS_fr-BE.\"\r\n"
+    ],
+    [
+      0.642579,
+      "CMS_FBSH_PUBLISH_API is now permitted the scope \"CMS_nl-BE.\"\r\n"
+    ],
+    [
+      0.638356,
+      "CMS_FBSH_PUBLISH_API is now permitted the scope \"CMS_fr-FR.\"\r\n"
+    ],
+    [
+      0.648602,
+      "CMS_FBSH_PUBLISH_API is now permitted the scope \"CMS_fr-CH.\"\r\n"
+    ],
+    [
+      0.642254,
+      "CMS_FBSH_PUBLISH_API is now permitted the scope \"CMS_de-CH.\"\r\n"
+    ],
+    [
+      0.646392,
+      "CMS_FBSH_PUBLISH_API is now permitted the scope \"CMS_nl-NL.\"\r\n"
+    ],
+    [
+      0.642956,
+      "CMS_FBSH_PUBLISH_API is now permitted the scope \"CMS_READ.\"\r\n"
+    ],
+    [
+      0.638486,
+      "CMS_FBSH_PUBLISH_API is now permitted the scope \"CMS_WRITE.\"\r\n"
+    ],
+    [
+      0.638086,
+      "CMS_FBSH_PUBLISH_API is now permitted the scope \"CMS_PUBLISH.\"\r\n"
+    ],
+    [
+      0.640259,
+      "CMS_FBSH_PUBLISH_API is now permitted the scope \"CMS_API.\"\r\n"
+    ],
+    [
+      0.202356,
+      "{ name: 'CMS_NMEA_READ_b2c',\r\n  created: 1437727266973,\r\n"
+    ],
+    [
+      0.000005,
+      "  modified: 1437727266973 }\r\n"
+    ],
+    [
+      0.637535,
+      "CMS_NMEA_READ_b2c is now permitted the scope \"CMS_de-DE.\"\r\n"
+    ],
+    [
+      0.639439,
+      "CMS_NMEA_READ_b2c is now permitted the scope \"CMS_en-IL.\"\r\n"
+    ],
+    [
+      0.638386,
+      "CMS_NMEA_READ_b2c is now permitted the scope \"CMS_he-IL.\"\r\n"
+    ],
+    [
+      0.640834,
+      "CMS_NMEA_READ_b2c is now permitted the scope \"CMS_it-IT.\"\r\n"
+    ],
+    [
+      0.637347,
+      "CMS_NMEA_READ_b2c is now permitted the scope \"CMS_en-SE.\"\r\n"
+    ],
+    [
+      0.639833,
+      "CMS_NMEA_READ_b2c is now permitted the scope \"CMS_pt-PT.\"\r\n"
+    ],
+    [
+      0.639172,
+      "CMS_NMEA_READ_b2c is now permitted the scope \"CMS_en-ZA.\"\r\n"
+    ],
+    [
+      0.640383,
+      "CMS_NMEA_READ_b2c is now permitted the scope \"CMS_es-ES.\"\r\n"
+    ],
+    [
+      0.640056,
+      "CMS_NMEA_READ_b2c is now permitted the scope \"CMS_en-UK.\"\r\n"
+    ],
+    [
+      0.642016,
+      "CMS_NMEA_READ_b2c is now permitted the scope \"CMS_tr-TR.\"\r\n"
+    ],
+    [
+      0.638579,
+      "CMS_NMEA_READ_b2c is now permitted the scope \"CMS_ru-RU.\"\r\n"
+    ],
+    [
+      0.638293,
+      "CMS_NMEA_READ_b2c is now permitted the scope \"CMS_READ.\"\r\n"
+    ],
+    [
+      0.640396,
+      "CMS_NMEA_READ_b2c is now permitted the scope \"CMS_b2c.\"\r\n"
+    ],
+    [
+      0.202612,
+      "{ name: 'CMS_NMEA_WRITE_b2c',\r\n  created: 1437727275488,\r\n  modified: 1437727275488 }\r\n"
+    ],
+    [
+      0.640642,
+      "CMS_NMEA_WRITE_b2c is now permitted the scope \"CMS_de-DE.\"\r\n"
+    ],
+    [
+      0.640561,
+      "CMS_NMEA_WRITE_b2c is now permitted the scope \"CMS_en-IL.\"\r\n"
+    ],
+    [
+      0.639507,
+      "CMS_NMEA_WRITE_b2c is now permitted the scope \"CMS_he-IL.\"\r\n"
+    ],
+    [
+      0.645432,
+      "CMS_NMEA_WRITE_b2c is now permitted the scope \"CMS_it-IT.\"\r\n"
+    ],
+    [
+      0.642395,
+      "CMS_NMEA_WRITE_b2c is now permitted the scope \"CMS_en-SE.\"\r\n"
+    ],
+    [
+      0.640982,
+      "CMS_NMEA_WRITE_b2c is now permitted the scope \"CMS_pt-PT.\"\r\n"
+    ],
+    [
+      0.645382,
+      "CMS_NMEA_WRITE_b2c is now permitted the scope \"CMS_en-ZA.\"\r\n"
+    ],
+    [
+      0.645213,
+      "CMS_NMEA_WRITE_b2c is now permitted the scope \"CMS_es-ES.\"\r\n"
+    ],
+    [
+      0.639571,
+      "CMS_NMEA_WRITE_b2c is now permitted the scope \"CMS_en-UK.\"\r\n"
+    ],
+    [
+      0.638137,
+      "CMS_NMEA_WRITE_b2c is now permitted the scope \"CMS_tr-TR.\"\r\n"
+    ],
+    [
+      0.636287,
+      "CMS_NMEA_WRITE_b2c is now permitted the scope \"CMS_ru-RU.\"\r\n"
+    ],
+    [
+      0.644281,
+      "CMS_NMEA_WRITE_b2c is now permitted the scope \"CMS_READ.\"\r\n"
+    ],
+    [
+      0.641485,
+      "CMS_NMEA_WRITE_b2c is now permitted the scope \"CMS_WRITE.\"\r\n"
+    ],
+    [
+      0.642053,
+      "CMS_NMEA_WRITE_b2c is now permitted the scope \"CMS_PUBLISH.\"\r\n"
+    ],
+    [
+      0.639907,
+      "CMS_NMEA_WRITE_b2c is now permitted the scope \"CMS_b2c.\"\r\n"
+    ],
+    [
+      0.201841,
+      "{ name: 'CMS_NMEA_PUBLISH_b2c',\r\n  created: 1437727285312,\r\n  modified: 1437727285312 }\r\n"
+    ],
+    [
+      0.647210,
+      "CMS_NMEA_PUBLISH_b2c is now permitted the scope \"CMS_de-DE.\"\r\n"
+    ],
+    [
+      0.637478,
+      "CMS_NMEA_PUBLISH_b2c is now permitted the scope \"CMS_en-IL.\"\r\n"
+    ],
+    [
+      0.638912,
+      "CMS_NMEA_PUBLISH_b2c is now permitted the scope \"CMS_he-IL.\"\r\n"
+    ],
+    [
+      0.642823,
+      "CMS_NMEA_PUBLISH_b2c is now permitted the scope \"CMS_it-IT.\"\r\n"
+    ],
+    [
+      0.636779,
+      "CMS_NMEA_PUBLISH_b2c is now permitted the scope \"CMS_en-SE.\"\r\n"
+    ],
+    [
+      0.639525,
+      "CMS_NMEA_PUBLISH_b2c is now permitted the scope \"CMS_pt-PT.\"\r\n"
+    ],
+    [
+      0.638635,
+      "CMS_NMEA_PUBLISH_b2c is now permitted the scope \"CMS_en-ZA.\"\r\n"
+    ],
+    [
+      0.640691,
+      "CMS_NMEA_PUBLISH_b2c is now permitted the scope \"CMS_es-ES.\"\r\n"
+    ],
+    [
+      0.635357,
+      "CMS_NMEA_PUBLISH_b2c is now permitted the scope \"CMS_en-UK.\"\r\n"
+    ],
+    [
+      0.639105,
+      "CMS_NMEA_PUBLISH_b2c is now permitted the scope \"CMS_tr-TR.\"\r\n"
+    ],
+    [
+      0.637348,
+      "CMS_NMEA_PUBLISH_b2c is now permitted the scope \"CMS_ru-RU.\"\r\n"
+    ],
+    [
+      0.646504,
+      "CMS_NMEA_PUBLISH_b2c is now permitted the scope \"CMS_READ.\"\r\n"
+    ],
+    [
+      0.641597,
+      "CMS_NMEA_PUBLISH_b2c is now permitted the scope \"CMS_WRITE.\"\r\n"
+    ],
+    [
+      0.640839,
+      "CMS_NMEA_PUBLISH_b2c is now permitted the scope \"CMS_PUBLISH.\"\r\n"
+    ],
+    [
+      0.646219,
+      "CMS_NMEA_PUBLISH_b2c is now permitted the scope \"CMS_b2c.\"\r\n"
+    ],
+    [
+      0.204539,
+      "{ name: 'CMS_NMEA_READ_API',\r\n  created: 1437727295125,\r\n  modified: 1437727295125 }\r\n"
+    ],
+    [
+      0.637492,
+      "CMS_NMEA_READ_API is now permitted the scope \"CMS_de-DE.\"\r\n"
+    ],
+    [
+      0.641625,
+      "CMS_NMEA_READ_API is now permitted the scope \"CMS_en-IL.\"\r\n"
+    ],
+    [
+      0.649924,
+      "CMS_NMEA_READ_API is now permitted the scope \"CMS_he-IL.\"\r\n"
+    ],
+    [
+      0.644201,
+      "CMS_NMEA_READ_API is now permitted the scope \"CMS_it-IT.\"\r\n"
+    ],
+    [
+      0.639452,
+      "CMS_NMEA_READ_API is now permitted the scope \"CMS_en-SE.\"\r\n"
+    ],
+    [
+      0.639215,
+      "CMS_NMEA_READ_API is now permitted the scope \"CMS_pt-PT.\"\r\n"
+    ],
+    [
+      0.643635,
+      "CMS_NMEA_READ_API is now permitted the scope \"CMS_en-ZA.\"\r\n"
+    ],
+    [
+      0.643067,
+      "CMS_NMEA_READ_API is now permitted the scope \"CMS_es-ES.\"\r\n"
+    ],
+    [
+      0.640624,
+      "CMS_NMEA_READ_API is now permitted the scope \"CMS_en-UK.\"\r\n"
+    ],
+    [
+      0.644259,
+      "CMS_NMEA_READ_API is now permitted the scope \"CMS_tr-TR.\"\r\n"
+    ],
+    [
+      0.637196,
+      "CMS_NMEA_READ_API is now permitted the scope \"CMS_ru-RU.\"\r\n"
+    ],
+    [
+      0.639744,
+      "CMS_NMEA_READ_API is now permitted the scope \"CMS_READ.\"\r\n"
+    ],
+    [
+      0.643238,
+      "CMS_NMEA_READ_API is now permitted the scope \"CMS_API.\"\r\n"
+    ],
+    [
+      0.203782,
+      "{ name: 'CMS_NMEA_WRITE_API',\r\n  created: 1437727303673,\r\n  modified: 1437727303673 }\r\n"
+    ],
+    [
+      0.641961,
+      "CMS_NMEA_WRITE_API is now permitted the scope \"CMS_de-DE.\"\r\n"
+    ],
+    [
+      0.652295,
+      "CMS_NMEA_WRITE_API is now permitted the scope \"CMS_en-IL.\"\r\n"
+    ],
+    [
+      0.635216,
+      "CMS_NMEA_WRITE_API is now permitted the scope \"CMS_he-IL.\"\r\n"
+    ],
+    [
+      0.641987,
+      "CMS_NMEA_WRITE_API is now permitted the scope \"CMS_it-IT.\"\r\n"
+    ],
+    [
+      0.641562,
+      "CMS_NMEA_WRITE_API is now permitted the scope \"CMS_en-SE.\"\r\n"
+    ],
+    [
+      0.644734,
+      "CMS_NMEA_WRITE_API is now permitted the scope \"CMS_pt-PT.\"\r\n"
+    ],
+    [
+      0.641978,
+      "CMS_NMEA_WRITE_API is now permitted the scope \"CMS_en-ZA.\"\r\n"
+    ],
+    [
+      0.642835,
+      "CMS_NMEA_WRITE_API is now permitted the scope \"CMS_es-ES.\"\r\n"
+    ],
+    [
+      0.644179,
+      "CMS_NMEA_WRITE_API is now permitted the scope \"CMS_en-UK.\"\r\n"
+    ],
+    [
+      0.647990,
+      "CMS_NMEA_WRITE_API is now permitted the scope \"CMS_tr-TR.\"\r\n"
+    ],
+    [
+      0.644979,
+      "CMS_NMEA_WRITE_API is now permitted the scope \"CMS_ru-RU.\"\r\n"
+    ],
+    [
+      0.636649,
+      "CMS_NMEA_WRITE_API is now permitted the scope \"CMS_READ.\"\r\n"
+    ],
+    [
+      0.638447,
+      "CMS_NMEA_WRITE_API is now permitted the scope \"CMS_WRITE.\"\r\n"
+    ],
+    [
+      0.638464,
+      "CMS_NMEA_WRITE_API is now permitted the scope \"CMS_PUBLISH.\"\r\n"
+    ],
+    [
+      0.640881,
+      "CMS_NMEA_WRITE_API is now permitted the scope \"CMS_API.\"\r\n"
+    ],
+    [
+      0.200052,
+      "{ name: 'CMS_NMEA_PUBLISH_API',\r\n  created: 1437727313507,\r\n  modified: 1437727313507 }\r\n"
+    ],
+    [
+      0.632554,
+      "CMS_NMEA_PUBLISH_API is now permitted the scope \"CMS_de-DE.\"\r\n"
+    ],
+    [
+      0.638755,
+      "CMS_NMEA_PUBLISH_API is now permitted the scope \"CMS_en-IL.\"\r\n"
+    ],
+    [
+      0.641719,
+      "CMS_NMEA_PUBLISH_API is now permitted the scope \"CMS_he-IL.\"\r\n"
+    ],
+    [
+      0.634900,
+      "CMS_NMEA_PUBLISH_API is now permitted the scope \"CMS_it-IT.\"\r\n"
+    ],
+    [
+      0.643213,
+      "CMS_NMEA_PUBLISH_API is now permitted the scope \"CMS_en-SE.\"\r\n"
+    ],
+    [
+      0.649103,
+      "CMS_NMEA_PUBLISH_API is now permitted the scope \"CMS_pt-PT.\"\r\n"
+    ],
+    [
+      0.639181,
+      "CMS_NMEA_PUBLISH_API is now permitted the scope \"CMS_en-ZA.\"\r\n"
+    ],
+    [
+      0.639128,
+      "CMS_NMEA_PUBLISH_API is now permitted the scope \"CMS_es-ES.\"\r\n"
+    ],
+    [
+      0.644142,
+      "CMS_NMEA_PUBLISH_API is now permitted the scope \"CMS_en-UK.\"\r\n"
+    ],
+    [
+      0.638760,
+      "CMS_NMEA_PUBLISH_API is now permitted the scope \"CMS_tr-TR.\"\r\n"
+    ],
+    [
+      0.649730,
+      "CMS_NMEA_PUBLISH_API is now permitted the scope \"CMS_ru-RU.\"\r\n"
+    ],
+    [
+      0.642212,
+      "CMS_NMEA_PUBLISH_API is now permitted the scope \"CMS_READ.\"\r\n"
+    ],
+    [
+      0.646472,
+      "CMS_NMEA_PUBLISH_API is now permitted the scope \"CMS_WRITE.\"\r\n"
+    ],
+    [
+      0.638228,
+      "CMS_NMEA_PUBLISH_API is now permitted the scope \"CMS_PUBLISH.\"\r\n"
+    ],
+    [
+      0.640403,
+      "CMS_NMEA_PUBLISH_API is now permitted the scope \"CMS_API.\"\r\n"
+    ],
+    [
+      0.200984,
+      "{ name: 'CMS_AMN_READ_b2c',\r\n  created: 1437727323326,\r\n  modified: 1437727323326 }\r\n"
+    ],
+    [
+      0.645419,
+      "CMS_AMN_READ_b2c is now permitted the scope \"CMS_fr-CA.\"\r\n"
+    ],
+    [
+      0.635774,
+      "CMS_AMN_READ_b2c is now permitted the scope \"CMS_en-CA.\"\r\n"
+    ],
+    [
+      0.636708,
+      "CMS_AMN_READ_b2c is now permitted the scope \"CMS_en-US.\"\r\n"
+    ],
+    [
+      0.639707,
+      "CMS_AMN_READ_b2c is now permitted the scope \"CMS_READ.\"\r\n"
+    ],
+    [
+      0.635324,
+      "CMS_AMN_READ_b2c is now permitted the scope \"CMS_b2c.\"\r\n"
+    ],
+    [
+      0.201615,
+      "{ name: 'CMS_AMN_WRITE_b2c',\r\n  created: 1437727326721,\r\n  modified: 1437727326721 }\r\n"
+    ],
+    [
+      0.651506,
+      "CMS_AMN_WRITE_b2c is now permitted the scope \"CMS_fr-CA.\"\r\n"
+    ],
+    [
+      0.640208,
+      "CMS_AMN_WRITE_b2c is now permitted the scope \"CMS_en-CA.\"\r\n"
+    ],
+    [
+      0.640511,
+      "CMS_AMN_WRITE_b2c is now permitted the scope \"CMS_en-US.\"\r\n"
+    ],
+    [
+      0.642477,
+      "CMS_AMN_WRITE_b2c is now permitted the scope \"CMS_READ.\"\r\n"
+    ],
+    [
+      0.643838,
+      "CMS_AMN_WRITE_b2c is now permitted the scope \"CMS_WRITE.\"\r\n"
+    ],
+    [
+      0.640127,
+      "CMS_AMN_WRITE_b2c is now permitted the scope \"CMS_PUBLISH.\"\r\n"
+    ],
+    [
+      0.647426,
+      "CMS_AMN_WRITE_b2c is now permitted the scope \"CMS_b2c.\"\r\n"
+    ],
+    [
+      0.204405,
+      "{ name: 'CMS_AMN_PUBLISH_b2c',\r\n  created: 1437727331431,\r\n  modified: 1437727331431 }\r\n"
+    ],
+    [
+      0.640933,
+      "CMS_AMN_PUBLISH_b2c is now permitted the scope \"CMS_fr-CA.\"\r\n"
+    ],
+    [
+      0.638332,
+      "CMS_AMN_PUBLISH_b2c is now permitted the scope \"CMS_en-CA.\"\r\n"
+    ],
+    [
+      0.643480,
+      "CMS_AMN_PUBLISH_b2c is now permitted the scope \"CMS_en-US.\"\r\n"
+    ],
+    [
+      0.637552,
+      "CMS_AMN_PUBLISH_b2c is now permitted the scope \"CMS_READ.\"\r\n"
+    ],
+    [
+      0.641399,
+      "CMS_AMN_PUBLISH_b2c is now permitted the scope \"CMS_WRITE.\"\r\n"
+    ],
+    [
+      0.639089,
+      "CMS_AMN_PUBLISH_b2c is now permitted the scope \"CMS_PUBLISH.\"\r\n"
+    ],
+    [
+      0.638869,
+      "CMS_AMN_PUBLISH_b2c is now permitted the scope \"CMS_b2c.\"\r\n"
+    ],
+    [
+      0.201780,
+      "{ name: 'CMS_AMN_READ_API',\r\n  created: 1437727336113,\r\n  modified: 1437727336113 }\r\n"
+    ],
+    [
+      0.639325,
+      "CMS_AMN_READ_API is now permitted the scope \"CMS_fr-CA.\"\r\n"
+    ],
+    [
+      0.641733,
+      "CMS_AMN_READ_API is now permitted the scope \"CMS_en-CA.\"\r\n"
+    ],
+    [
+      0.637507,
+      "CMS_AMN_READ_API is now permitted the scope \"CMS_en-US.\"\r\n"
+    ],
+    [
+      0.636800,
+      "CMS_AMN_READ_API is now permitted the scope \"CMS_READ.\"\r\n"
+    ],
+    [
+      0.643988,
+      "CMS_AMN_READ_API is now permitted the scope \"CMS_API.\"\r\n"
+    ],
+    [
+      0.200082,
+      "{ name: 'CMS_AMN_WRITE_API',\r\n  created: 1437727339512,\r\n  modified: 1437727339512 }\r\n"
+    ],
+    [
+      0.640318,
+      "CMS_AMN_WRITE_API is now permitted the scope \"CMS_fr-CA.\"\r\n"
+    ],
+    [
+      0.640480,
+      "CMS_AMN_WRITE_API is now permitted the scope \"CMS_en-CA.\"\r\n"
+    ],
+    [
+      0.647245,
+      "CMS_AMN_WRITE_API is now permitted the scope \"CMS_en-US.\"\r\n"
+    ],
+    [
+      0.637555,
+      "CMS_AMN_WRITE_API is now permitted the scope \"CMS_READ.\"\r\n"
+    ],
+    [
+      0.640349,
+      "CMS_AMN_WRITE_API is now permitted the scope \"CMS_WRITE.\"\r\n"
+    ],
+    [
+      0.639154,
+      "CMS_AMN_WRITE_API is now permitted the scope \"CMS_PUBLISH.\"\r\n"
+    ],
+    [
+      0.637366,
+      "CMS_AMN_WRITE_API is now permitted the scope \"CMS_API.\"\r\n"
+    ],
+    [
+      0.200904,
+      "{ name: 'CMS_AMN_PUBLISH_API',\r\n  created: 1437727344196,\r\n  modified: 1437727344196 }\r\n"
+    ],
+    [
+      0.636242,
+      "CMS_AMN_PUBLISH_API is now permitted the scope \"CMS_fr-CA.\"\r\n"
+    ],
+    [
+      0.636459,
+      "CMS_AMN_PUBLISH_API is now permitted the scope \"CMS_en-CA.\"\r\n"
+    ],
+    [
+      0.642966,
+      "CMS_AMN_PUBLISH_API is now permitted the scope \"CMS_en-US.\"\r\n"
+    ],
+    [
+      0.638639,
+      "CMS_AMN_PUBLISH_API is now permitted the scope \"CMS_READ.\"\r\n"
+    ],
+    [
+      0.641589,
+      "CMS_AMN_PUBLISH_API is now permitted the scope \"CMS_WRITE.\"\r\n"
+    ],
+    [
+      0.640308,
+      "CMS_AMN_PUBLISH_API is now permitted the scope \"CMS_PUBLISH.\"\r\n"
+    ],
+    [
+      0.644403,
+      "CMS_AMN_PUBLISH_API is now permitted the scope \"CMS_API.\"\r\n"
+    ],
+    [
+      0.203545,
+      "{ name: 'CMS_AML_READ_b2c',\r\n  created: 1437727348880,\r\n  modified: 1437727348880 }\r\n"
+    ],
+    [
+      0.635917,
+      "CMS_AML_READ_b2c is now permitted the scope \"CMS_es-MX.\"\r\n"
+    ],
+    [
+      0.636255,
+      "CMS_AML_READ_b2c is now permitted the scope \"CMS_es-AR.\"\r\n"
+    ],
+    [
+      0.637944,
+      "CMS_AML_READ_b2c is now permitted the scope \"CMS_es-CL.\"\r\n"
+    ],
+    [
+      0.642207,
+      "CMS_AML_READ_b2c is now permitted the scope \"CMS_pt-BR.\"\r\n"
+    ],
+    [
+      0.634970,
+      "CMS_AML_READ_b2c is now permitted the scope \"CMS_READ.\"\r\n"
+    ],
+    [
+      0.635389,
+      "CMS_AML_READ_b2c is now permitted the scope \"CMS_b2c.\"\r\n"
+    ],
+    [
+      0.199796,
+      "{ name: 'CMS_AML_WRITE_b2c',\r\n  created: 1437727352902,\r\n  modified: 1437727352902 }\r\n"
+    ],
+    [
+      0.633306,
+      "CMS_AML_WRITE_b2c is now permitted the scope \"CMS_es-MX.\"\r\n"
+    ],
+    [
+      0.639368,
+      "CMS_AML_WRITE_b2c is now permitted the scope \"CMS_es-AR.\"\r\n"
+    ],
+    [
+      0.638469,
+      "CMS_AML_WRITE_b2c is now permitted the scope \"CMS_es-CL.\"\r\n"
+    ],
+    [
+      0.633979,
+      "CMS_AML_WRITE_b2c is now permitted the scope \"CMS_pt-BR.\"\r\n"
+    ],
+    [
+      0.643050,
+      "CMS_AML_WRITE_b2c is now permitted the scope \"CMS_READ.\"\r\n"
+    ],
+    [
+      0.636360,
+      "CMS_AML_WRITE_b2c is now permitted the scope \"CMS_WRITE.\"\r\n"
+    ],
+    [
+      0.634213,
+      "CMS_AML_WRITE_b2c is now permitted the scope \"CMS_PUBLISH.\"\r\n"
+    ],
+    [
+      0.638759,
+      "CMS_AML_WRITE_b2c is now permitted the scope \"CMS_b2c.\"\r\n"
+    ],
+    [
+      0.200483,
+      "{ name: 'CMS_AML_PUBLISH_b2c',\r\n  created: 1437727358200,\r\n  modified: 1437727358200 }\r\n"
+    ],
+    [
+      0.649448,
+      "CMS_AML_PUBLISH_b2c is now permitted the scope \"CMS_es-MX.\"\r\n"
+    ],
+    [
+      0.634554,
+      "CMS_AML_PUBLISH_b2c is now permitted the scope \"CMS_es-AR.\"\r\n"
+    ],
+    [
+      0.632945,
+      "CMS_AML_PUBLISH_b2c is now permitted the scope \"CMS_es-CL.\"\r\n"
+    ],
+    [
+      0.635006,
+      "CMS_AML_PUBLISH_b2c is now permitted the scope \"CMS_pt-BR.\"\r\n"
+    ],
+    [
+      0.636006,
+      "CMS_AML_PUBLISH_b2c is now permitted the scope \"CMS_READ.\"\r\n"
+    ],
+    [
+      0.638152,
+      "CMS_AML_PUBLISH_b2c is now permitted the scope \"CMS_WRITE.\"\r\n"
+    ],
+    [
+      0.634861,
+      "CMS_AML_PUBLISH_b2c is now permitted the scope \"CMS_PUBLISH.\"\r\n"
+    ],
+    [
+      0.636474,
+      "CMS_AML_PUBLISH_b2c is now permitted the scope \"CMS_b2c.\"\r\n"
+    ],
+    [
+      0.198037,
+      "{ name: 'CMS_AML_READ_API',\r\n  created: 1437727363496,\r\n  modified: 1437727363496 }\r\n"
+    ],
+    [
+      0.631893,
+      "CMS_AML_READ_API is now permitted the scope \"CMS_es-MX.\"\r\n"
+    ],
+    [
+      0.634104,
+      "CMS_AML_READ_API is now permitted the scope \"CMS_es-AR.\"\r\n"
+    ],
+    [
+      0.645394,
+      "CMS_AML_READ_API is now permitted the scope \"CMS_es-CL.\"\r\n"
+    ],
+    [
+      0.642638,
+      "CMS_AML_READ_API is now permitted the scope \"CMS_pt-BR.\"\r\n"
+    ],
+    [
+      0.639289,
+      "CMS_AML_READ_API is now permitted the scope \"CMS_READ.\"\r\n"
+    ],
+    [
+      0.641693,
+      "CMS_AML_READ_API is now permitted the scope \"CMS_API.\"\r\n"
+    ],
+    [
+      0.203349,
+      "{ name: 'CMS_AML_WRITE_API',\r\n  created: 1437727367534,\r\n  modified: 1437727367534 }\r\n"
+    ],
+    [
+      0.639597,
+      "CMS_AML_WRITE_API is now permitted the scope \"CMS_es-MX.\"\r\n"
+    ],
+    [
+      0.633536,
+      "CMS_AML_WRITE_API is now permitted the scope \"CMS_es-AR.\"\r\n"
+    ],
+    [
+      0.639782,
+      "CMS_AML_WRITE_API is now permitted the scope \"CMS_es-CL.\"\r\n"
+    ],
+    [
+      0.637667,
+      "CMS_AML_WRITE_API is now permitted the scope \"CMS_pt-BR.\"\r\n"
+    ],
+    [
+      0.638142,
+      "CMS_AML_WRITE_API is now permitted the scope \"CMS_READ.\"\r\n"
+    ],
+    [
+      0.639115,
+      "CMS_AML_WRITE_API is now permitted the scope \"CMS_WRITE.\"\r\n"
+    ],
+    [
+      0.634159,
+      "CMS_AML_WRITE_API is now permitted the scope \"CMS_PUBLISH.\"\r\n"
+    ],
+    [
+      0.638328,
+      "CMS_AML_WRITE_API is now permitted the scope \"CMS_API.\"\r\n"
+    ],
+    [
+      0.201515,
+      "{ name: 'CMS_AML_PUBLISH_API',\r\n  created: 1437727372836,\r\n  modified: 1437727372836 }\r\n"
+    ],
+    [
+      0.639780,
+      "CMS_AML_PUBLISH_API is now permitted the scope \"CMS_es-MX.\"\r\n"
+    ],
+    [
+      0.637957,
+      "CMS_AML_PUBLISH_API is now permitted the scope \"CMS_es-AR.\"\r\n"
+    ],
+    [
+      0.637112,
+      "CMS_AML_PUBLISH_API is now permitted the scope \"CMS_es-CL.\"\r\n"
+    ],
+    [
+      0.644070,
+      "CMS_AML_PUBLISH_API is now permitted the scope \"CMS_pt-BR.\"\r\n"
+    ],
+    [
+      0.634794,
+      "CMS_AML_PUBLISH_API is now permitted the scope \"CMS_READ.\"\r\n"
+    ],
+    [
+      0.634733,
+      "CMS_AML_PUBLISH_API is now permitted the scope \"CMS_WRITE.\"\r\n"
+    ],
+    [
+      0.634696,
+      "CMS_AML_PUBLISH_API is now permitted the scope \"CMS_PUBLISH.\"\r\n"
+    ],
+    [
+      0.639805,
+      "CMS_AML_PUBLISH_API is now permitted the scope \"CMS_API.\"\r\n"
+    ],
+    [
+      0.201889,
+      "{ name: 'CMS_GC_READ_b2c',\r\n  created: 1437727378141,\r\n  modified: 1437727378141 }\r\n"
+    ],
+    [
+      0.637468,
+      "CMS_GC_READ_b2c is now permitted the scope \"CMS_zh-CN.\"\r\n"
+    ],
+    [
+      0.646617,
+      "CMS_GC_READ_b2c is now permitted the scope \"CMS_en-CN.\"\r\n"
+    ],
+    [
+      0.638509,
+      "CMS_GC_READ_b2c is now permitted the scope \"CMS_zt-TW.\"\r\n"
+    ],
+    [
+      0.645505,
+      "CMS_GC_READ_b2c is now permitted the scope \"CMS_en-TW.\"\r\n"
+    ],
+    [
+      0.639427,
+      "CMS_GC_READ_b2c is now permitted the scope \"CMS_zt-HK.\"\r\n"
+    ],
+    [
+      0.647278,
+      "CMS_GC_READ_b2c is now permitted the scope \"CMS_en-HK.\"\r\n"
+    ],
+    [
+      0.637880,
+      "CMS_GC_READ_b2c is now permitted the scope \"CMS_READ.\"\r\n"
+    ],
+    [
+      0.644758,
+      "CMS_GC_READ_b2c is now permitted the scope \"CMS_b2c.\"\r\n"
+    ],
+    [
+      0.202466,
+      "{ name: 'CMS_GC_WRITE_b2c',\r\n  created: 1437727383481,\r\n  modified: 1437727383481 }\r\n"
+    ],
+    [
+      0.642787,
+      "CMS_GC_WRITE_b2c is now permitted the scope \"CMS_zh-CN.\"\r\n"
+    ],
+    [
+      0.642448,
+      "CMS_GC_WRITE_b2c is now permitted the scope \"CMS_en-CN.\"\r\n"
+    ],
+    [
+      0.649065,
+      "CMS_GC_WRITE_b2c is now permitted the scope \"CMS_zt-TW.\"\r\n"
+    ],
+    [
+      0.645738,
+      "CMS_GC_WRITE_b2c is now permitted the scope \"CMS_en-TW.\"\r\n"
+    ],
+    [
+      0.640492,
+      "CMS_GC_WRITE_b2c is now permitted the scope \"CMS_zt-HK.\"\r\n"
+    ],
+    [
+      0.638508,
+      "CMS_GC_WRITE_b2c is now permitted the scope \"CMS_en-HK.\"\r\n"
+    ],
+    [
+      0.639789,
+      "CMS_GC_WRITE_b2c is now permitted the scope \"CMS_READ.\"\r\n"
+    ],
+    [
+      0.637741,
+      "CMS_GC_WRITE_b2c is now permitted the scope \"CMS_WRITE.\"\r\n"
+    ],
+    [
+      0.634847,
+      "CMS_GC_WRITE_b2c is now permitted the scope \"CMS_PUBLISH.\"\r\n"
+    ],
+    [
+      0.638953,
+      "CMS_GC_WRITE_b2c is now permitted the scope \"CMS_b2c.\"\r\n"
+    ],
+    [
+      0.201277,
+      "{ name: 'CMS_GC_PUBLISH_b2c',\r\n  created: 1437727390093,\r\n  modified: 1437727390093 }\r\n"
+    ],
+    [
+      0.641097,
+      "CMS_GC_PUBLISH_b2c is now permitted the scope \"CMS_zh-CN.\"\r\n"
+    ],
+    [
+      0.644817,
+      "CMS_GC_PUBLISH_b2c is now permitted the scope \"CMS_en-CN.\"\r\n"
+    ],
+    [
+      0.636225,
+      "CMS_GC_PUBLISH_b2c is now permitted the scope \"CMS_zt-TW.\"\r\n"
+    ],
+    [
+      0.648259,
+      "CMS_GC_PUBLISH_b2c is now permitted the scope \"CMS_en-TW.\"\r\n"
+    ],
+    [
+      0.642591,
+      "CMS_GC_PUBLISH_b2c is now permitted the scope \"CMS_zt-HK.\"\r\n"
+    ],
+    [
+      0.639419,
+      "CMS_GC_PUBLISH_b2c is now permitted the scope \"CMS_en-HK.\"\r\n"
+    ],
+    [
+      0.634270,
+      "CMS_GC_PUBLISH_b2c is now permitted the scope \"CMS_READ.\"\r\n"
+    ],
+    [
+      0.637950,
+      "CMS_GC_PUBLISH_b2c is now permitted the scope \"CMS_WRITE.\"\r\n"
+    ],
+    [
+      0.642807,
+      "CMS_GC_PUBLISH_b2c is now permitted the scope \"CMS_PUBLISH.\"\r\n"
+    ],
+    [
+      0.641284,
+      "CMS_GC_PUBLISH_b2c is now permitted the scope \"CMS_b2c.\"\r\n"
+    ],
+    [
+      0.202529,
+      "{ name: 'CMS_GC_READ_API',\r\n  created: 1437727396704,"
+    ],
+    [
+      0.000006,
+      "\r\n  modified: 1437727396704 }\r\n"
+    ],
+    [
+      0.639001,
+      "CMS_GC_READ_API is now permitted the scope \"CMS_zh-CN.\"\r\n"
+    ],
+    [
+      0.640798,
+      "CMS_GC_READ_API is now permitted the scope \"CMS_en-CN.\"\r\n"
+    ],
+    [
+      0.637356,
+      "CMS_GC_READ_API is now permitted the scope \"CMS_zt-TW.\"\r\n"
+    ],
+    [
+      0.640747,
+      "CMS_GC_READ_API is now permitted the scope \"CMS_en-TW.\"\r\n"
+    ],
+    [
+      0.641835,
+      "CMS_GC_READ_API is now permitted the scope \"CMS_zt-HK.\"\r\n"
+    ],
+    [
+      0.641087,
+      "CMS_GC_READ_API is now permitted the scope \"CMS_en-HK.\"\r\n"
+    ],
+    [
+      0.630742,
+      "CMS_GC_READ_API is now permitted the scope \"CMS_READ.\"\r\n"
+    ],
+    [
+      0.640413,
+      "CMS_GC_READ_API is now permitted the scope \"CMS_API.\"\r\n"
+    ],
+    [
+      0.202107,
+      "{ name: 'CMS_GC_WRITE_API',\r\n  created: 1437727402018,\r\n  modified: 1437727402018 }\r\n"
+    ],
+    [
+      0.640044,
+      "CMS_GC_WRITE_API is now permitted the scope \"CMS_zh-CN.\"\r\n"
+    ],
+    [
+      0.639661,
+      "CMS_GC_WRITE_API is now permitted the scope \"CMS_en-CN.\"\r\n"
+    ],
+    [
+      0.649559,
+      "CMS_GC_WRITE_API is now permitted the scope \"CMS_zt-TW.\"\r\n"
+    ],
+    [
+      0.642288,
+      "CMS_GC_WRITE_API is now permitted the scope \"CMS_en-TW.\"\r\n"
+    ],
+    [
+      0.642373,
+      "CMS_GC_WRITE_API is now permitted the scope \"CMS_zt-HK.\"\r\n"
+    ],
+    [
+      0.643437,
+      "CMS_GC_WRITE_API is now permitted the scope \"CMS_en-HK.\"\r\n"
+    ],
+    [
+      0.635689,
+      "CMS_GC_WRITE_API is now permitted the scope \"CMS_READ.\"\r\n"
+    ],
+    [
+      0.637783,
+      "CMS_GC_WRITE_API is now permitted the scope \"CMS_WRITE.\"\r\n"
+    ],
+    [
+      0.635513,
+      "CMS_GC_WRITE_API is now permitted the scope \"CMS_PUBLISH.\"\r\n"
+    ],
+    [
+      0.637266,
+      "CMS_GC_WRITE_API is now permitted the scope \"CMS_API.\"\r\n"
+    ],
+    [
+      0.200995,
+      "{ name: 'CMS_GC_PUBLISH_API',\r\n  created: 1437727408622,\r\n  modified: 1437727408622 }\r\n"
+    ],
+    [
+      0.639264,
+      "CMS_GC_PUBLISH_API is now permitted the scope \"CMS_zh-CN.\"\r\n"
+    ],
+    [
+      0.636682,
+      "CMS_GC_PUBLISH_API is now permitted the scope \"CMS_en-CN.\"\r\n"
+    ],
+    [
+      0.642568,
+      "CMS_GC_PUBLISH_API is now permitted the scope \"CMS_zt-TW.\"\r\n"
+    ],
+    [
+      0.640639,
+      "CMS_GC_PUBLISH_API is now permitted the scope \"CMS_en-TW.\"\r\n"
+    ],
+    [
+      0.649506,
+      "CMS_GC_PUBLISH_API is now permitted the scope \"CMS_zt-HK.\"\r\n"
+    ],
+    [
+      0.635677,
+      "CMS_GC_PUBLISH_API is now permitted the scope \"CMS_en-HK.\"\r\n"
+    ],
+    [
+      0.639484,
+      "CMS_GC_PUBLISH_API is now permitted the scope \"CMS_READ.\"\r\n"
+    ],
+    [
+      0.642529,
+      "CMS_GC_PUBLISH_API is now permitted the scope \"CMS_WRITE.\"\r\n"
+    ],
+    [
+      0.638887,
+      "CMS_GC_PUBLISH_API is now permitted the scope \"CMS_PUBLISH.\"\r\n"
+    ],
+    [
+      0.635508,
+      "CMS_GC_PUBLISH_API is now permitted the scope \"CMS_API.\"\r\n"
+    ],
+    [
+      0.200032,
+      "{ name: 'CMS_ESAP_READ_b2c',\r\n  created: 1437727415223,"
+    ],
+    [
+      0.000005,
+      "\r\n  modified: 1437727415223 }\r\n"
+    ],
+    [
+      0.641941,
+      "CMS_ESAP_READ_b2c is now permitted the scope \"CMS_en-AU.\"\r\n"
+    ],
+    [
+      0.641963,
+      "CMS_ESAP_READ_b2c is now permitted the scope \"CMS_en-ID.\"\r\n"
+    ],
+    [
+      0.637492,
+      "CMS_ESAP_READ_b2c is now permitted the scope \"CMS_id-ID.\"\r\n"
+    ],
+    [
+      0.643780,
+      "CMS_ESAP_READ_b2c is now permitted the scope \"CMS_en-IN.\"\r\n"
+    ],
+    [
+      0.640079,
+      "CMS_ESAP_READ_b2c is now permitted the scope \"CMS_ja-JP.\"\r\n"
+    ],
+    [
+      0.634512,
+      "CMS_ESAP_READ_b2c is now permitted the scope \"CMS_ko-KR.\"\r\n"
+    ],
+    [
+      0.637636,
+      "CMS_ESAP_READ_b2c is now permitted the scope \"CMS_en-MY.\"\r\n"
+    ],
+    [
+      0.636496,
+      "CMS_ESAP_READ_b2c is now permitted the scope \"CMS_en-NZ.\"\r\n"
+    ],
+    [
+      0.641354,
+      "CMS_ESAP_READ_b2c is now permitted the scope \"CMS_en-SG.\"\r\n"
+    ],
+    [
+      0.638323,
+      "CMS_ESAP_READ_b2c is now permitted the scope \"CMS_th-TH.\"\r\n"
+    ],
+    [
+      0.640010,
+      "CMS_ESAP_READ_b2c is now permitted the scope \"CMS_READ.\"\r\n"
+    ],
+    [
+      0.644693,
+      "CMS_ESAP_READ_b2c is now permitted the scope \"CMS_b2c.\"\r\n"
+    ],
+    [
+      0.204248,
+      "{ name: 'CMS_ESAP_WRITE_b2c',\r\n  created: 1437727423105,"
+    ],
+    [
+      0.000005,
+      "\r\n  modified: 1437727423105 }\r\n"
+    ],
+    [
+      0.639832,
+      "CMS_ESAP_WRITE_b2c is now permitted the scope \"CMS_en-AU.\"\r\n"
+    ],
+    [
+      0.640165,
+      "CMS_ESAP_WRITE_b2c is now permitted the scope \"CMS_en-ID.\"\r\n"
+    ],
+    [
+      0.647355,
+      "CMS_ESAP_WRITE_b2c is now permitted the scope \"CMS_id-ID.\"\r\n"
+    ],
+    [
+      0.645889,
+      "CMS_ESAP_WRITE_b2c is now permitted the scope \"CMS_en-IN.\"\r\n"
+    ],
+    [
+      0.639956,
+      "CMS_ESAP_WRITE_b2c is now permitted the scope \"CMS_ja-JP.\"\r\n"
+    ],
+    [
+      0.640024,
+      "CMS_ESAP_WRITE_b2c is now permitted the scope \"CMS_ko-KR.\"\r\n"
+    ],
+    [
+      0.635802,
+      "CMS_ESAP_WRITE_b2c is now permitted the scope \"CMS_en-MY.\"\r\n"
+    ],
+    [
+      0.637451,
+      "CMS_ESAP_WRITE_b2c is now permitted the scope \"CMS_en-NZ.\"\r\n"
+    ],
+    [
+      0.633308,
+      "CMS_ESAP_WRITE_b2c is now permitted the scope \"CMS_en-SG.\"\r\n"
+    ],
+    [
+      0.636175,
+      "CMS_ESAP_WRITE_b2c is now permitted the scope \"CMS_th-TH.\"\r\n"
+    ],
+    [
+      0.637360,
+      "CMS_ESAP_WRITE_b2c is now permitted the scope \"CMS_READ.\"\r\n"
+    ],
+    [
+      0.637089,
+      "CMS_ESAP_WRITE_b2c is now permitted the scope \"CMS_WRITE.\"\r\n"
+    ],
+    [
+      0.638116,
+      "CMS_ESAP_WRITE_b2c is now permitted the scope \"CMS_PUBLISH.\"\r\n"
+    ],
+    [
+      0.640855,
+      "CMS_ESAP_WRITE_b2c is now permitted the scope \"CMS_b2c.\"\r\n"
+    ],
+    [
+      0.200210,
+      "{ name: 'CMS_ESAP_PUBLISH_b2c',\r\n  created: 1437727432255,\r\n  modified: 1437727432255 }\r\n"
+    ],
+    [
+      0.633875,
+      "CMS_ESAP_PUBLISH_b2c is now permitted the scope \"CMS_en-AU.\"\r\n"
+    ],
+    [
+      0.635015,
+      "CMS_ESAP_PUBLISH_b2c is now permitted the scope \"CMS_en-ID.\"\r\n"
+    ],
+    [
+      0.644403,
+      "CMS_ESAP_PUBLISH_b2c is now permitted the scope \"CMS_id-ID.\"\r\n"
+    ],
+    [
+      0.643871,
+      "CMS_ESAP_PUBLISH_b2c is now permitted the scope \"CMS_en-IN.\"\r\n"
+    ],
+    [
+      0.638995,
+      "CMS_ESAP_PUBLISH_b2c is now permitted the scope \"CMS_ja-JP.\"\r\n"
+    ],
+    [
+      0.640188,
+      "CMS_ESAP_PUBLISH_b2c is now permitted the scope \"CMS_ko-KR.\"\r\n"
+    ],
+    [
+      0.641630,
+      "CMS_ESAP_PUBLISH_b2c is now permitted the scope \"CMS_en-MY.\"\r\n"
+    ],
+    [
+      0.633928,
+      "CMS_ESAP_PUBLISH_b2c is now permitted the scope \"CMS_en-NZ.\"\r\n"
+    ],
+    [
+      0.645602,
+      "CMS_ESAP_PUBLISH_b2c is now permitted the scope \"CMS_en-SG.\"\r\n"
+    ],
+    [
+      0.643780,
+      "CMS_ESAP_PUBLISH_b2c is now permitted the scope \"CMS_th-TH.\"\r\n"
+    ],
+    [
+      0.637085,
+      "CMS_ESAP_PUBLISH_b2c is now permitted the scope \"CMS_READ.\"\r\n"
+    ],
+    [
+      0.643953,
+      "CMS_ESAP_PUBLISH_b2c is now permitted the scope \"CMS_WRITE.\"\r\n"
+    ],
+    [
+      0.638949,
+      "CMS_ESAP_PUBLISH_b2c is now permitted the scope \"CMS_PUBLISH.\"\r\n"
+    ],
+    [
+      0.638341,
+      "CMS_ESAP_PUBLISH_b2c is now permitted the scope \"CMS_b2c.\"\r\n"
+    ],
+    [
+      0.202952,
+      "{ name: 'CMS_ESAP_READ_API',\r\n  created: 1437727441418,"
+    ],
+    [
+      0.000005,
+      "\r\n  modified: 1437727441418 }\r\n"
+    ],
+    [
+      0.639246,
+      "CMS_ESAP_READ_API is now permitted the scope \"CMS_en-AU.\"\r\n"
+    ],
+    [
+      0.639888,
+      "CMS_ESAP_READ_API is now permitted the scope \"CMS_en-ID.\"\r\n"
+    ],
+    [
+      0.643220,
+      "CMS_ESAP_READ_API is now permitted the scope \"CMS_id-ID.\"\r\n"
+    ],
+    [
+      0.641032,
+      "CMS_ESAP_READ_API is now permitted the scope \"CMS_en-IN.\"\r\n"
+    ],
+    [
+      0.646056,
+      "CMS_ESAP_READ_API is now permitted the scope \"CMS_ja-JP.\"\r\n"
+    ],
+    [
+      0.641675,
+      "CMS_ESAP_READ_API is now permitted the scope \"CMS_ko-KR.\"\r\n"
+    ],
+    [
+      0.642697,
+      "CMS_ESAP_READ_API is now permitted the scope \"CMS_en-MY.\"\r\n"
+    ],
+    [
+      0.644815,
+      "CMS_ESAP_READ_API is now permitted the scope \"CMS_en-NZ.\"\r\n"
+    ],
+    [
+      0.642427,
+      "CMS_ESAP_READ_API is now permitted the scope \"CMS_en-SG.\"\r\n"
+    ],
+    [
+      0.642514,
+      "CMS_ESAP_READ_API is now permitted the scope \"CMS_th-TH.\"\r\n"
+    ],
+    [
+      0.637604,
+      "CMS_ESAP_READ_API is now permitted the scope \"CMS_READ.\"\r\n"
+    ],
+    [
+      0.645463,
+      "CMS_ESAP_READ_API is now permitted the scope \"CMS_API.\"\r\n"
+    ],
+    [
+      0.201389,
+      "{ name: 'CMS_ESAP_WRITE_API',\r\n  created: 1437727449326,\r\n  modified: 1437727449326 }\r\n"
+    ],
+    [
+      0.637217,
+      "CMS_ESAP_WRITE_API is now permitted the scope \"CMS_en-AU.\"\r\n"
+    ],
+    [
+      0.643835,
+      "CMS_ESAP_WRITE_API is now permitted the scope \"CMS_en-ID.\"\r\n"
+    ],
+    [
+      0.644600,
+      "CMS_ESAP_WRITE_API is now permitted the scope \"CMS_id-ID.\"\r\n"
+    ],
+    [
+      0.639959,
+      "CMS_ESAP_WRITE_API is now permitted the scope \"CMS_en-IN.\"\r\n"
+    ],
+    [
+      0.643340,
+      "CMS_ESAP_WRITE_API is now permitted the scope \"CMS_ja-JP.\"\r\n"
+    ],
+    [
+      0.637623,
+      "CMS_ESAP_WRITE_API is now permitted the scope \"CMS_ko-KR.\"\r\n"
+    ],
+    [
+      0.636762,
+      "CMS_ESAP_WRITE_API is now permitted the scope \"CMS_en-MY.\"\r\n"
+    ],
+    [
+      0.641379,
+      "CMS_ESAP_WRITE_API is now permitted the scope \"CMS_en-NZ.\"\r\n"
+    ],
+    [
+      0.638100,
+      "CMS_ESAP_WRITE_API is now permitted the scope \"CMS_en-SG.\"\r\n"
+    ],
+    [
+      0.643942,
+      "CMS_ESAP_WRITE_API is now permitted the scope \"CMS_th-TH.\"\r\n"
+    ],
+    [
+      0.642717,
+      "CMS_ESAP_WRITE_API is now permitted the scope \"CMS_READ.\"\r\n"
+    ],
+    [
+      0.643242,
+      "CMS_ESAP_WRITE_API is now permitted the scope \"CMS_WRITE.\"\r\n"
+    ],
+    [
+      0.642334,
+      "CMS_ESAP_WRITE_API is now permitted the scope \"CMS_PUBLISH.\"\r\n"
+    ],
+    [
+      0.643596,
+      "CMS_ESAP_WRITE_API is now permitted the scope \"CMS_API.\"\r\n"
+    ],
+    [
+      0.203433,
+      "{ name: 'CMS_ESAP_PUBLISH_API',\r\n  created: 1437727458508,\r\n  modified: 1437727458508 }\r\n"
+    ],
+    [
+      0.636157,
+      "CMS_ESAP_PUBLISH_API is now permitted the scope \"CMS_en-AU.\"\r\n"
+    ],
+    [
+      0.638543,
+      "CMS_ESAP_PUBLISH_API is now permitted the scope \"CMS_en-ID.\"\r\n"
+    ],
+    [
+      0.638251,
+      "CMS_ESAP_PUBLISH_API is now permitted the scope \"CMS_id-ID.\"\r\n"
+    ],
+    [
+      0.636371,
+      "CMS_ESAP_PUBLISH_API is now permitted the scope \"CMS_en-IN.\"\r\n"
+    ],
+    [
+      0.639752,
+      "CMS_ESAP_PUBLISH_API is now permitted the scope \"CMS_ja-JP.\"\r\n"
+    ],
+    [
+      0.658357,
+      "CMS_ESAP_PUBLISH_API is now permitted the scope \"CMS_ko-KR.\"\r\n"
+    ],
+    [
+      0.644905,
+      "CMS_ESAP_PUBLISH_API is now permitted the scope \"CMS_en-MY.\"\r\n"
+    ],
+    [
+      0.639081,
+      "CMS_ESAP_PUBLISH_API is now permitted the scope \"CMS_en-NZ.\"\r\n"
+    ],
+    [
+      0.647486,
+      "CMS_ESAP_PUBLISH_API is now permitted the scope \"CMS_en-SG.\"\r\n"
+    ],
+    [
+      0.642608,
+      "CMS_ESAP_PUBLISH_API is now permitted the scope \"CMS_th-TH.\"\r\n"
+    ],
+    [
+      0.638472,
+      "CMS_ESAP_PUBLISH_API is now permitted the scope \"CMS_READ.\"\r\n"
+    ],
+    [
+      0.644729,
+      "CMS_ESAP_PUBLISH_API is now permitted the scope \"CMS_WRITE.\"\r\n"
+    ],
+    [
+      0.641750,
+      "CMS_ESAP_PUBLISH_API is now permitted the scope \"CMS_PUBLISH.\"\r\n"
+    ],
+    [
+      0.643542,
+      "CMS_ESAP_PUBLISH_API is now permitted the scope \"CMS_API.\"\r\n"
+    ],
+    [
+      0.003340,
+      "\u001b[01;32mjfn@sandbox\u001b[01;34m ~/src/oauth2 $\u001b[00m "
+    ],
+    [
+      3.956488,
+      "exit\r\n"
+    ]
+  ]
+}
