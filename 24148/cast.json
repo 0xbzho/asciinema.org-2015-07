@@ -1,0 +1,666 @@
+{
+  "version": 1,
+  "width": 112,
+  "height": 34,
+  "duration": 26.239478,
+  "command": "/bin/zsh",
+  "title": "Docker Compose Demo - WordPress",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.148809,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                               \r \r"
+    ],
+    [
+      0.000077,
+      "\u001b]2;timbutler@stella: ~/dockerdemo\u0007"
+    ],
+    [
+      0.000010,
+      "\u001b]1;~/dockerdemo\u0007"
+    ],
+    [
+      0.018290,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mdockerdemo \u001b[01;34m\u001b[01;34m\u001b[00m"
+    ],
+    [
+      0.000011,
+      "\u001b[K"
+    ],
+    [
+      0.000075,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.986301,
+      "d"
+    ],
+    [
+      0.109710,
+      "\u0008do"
+    ],
+    [
+      0.144398,
+      "c"
+    ],
+    [
+      0.104312,
+      "k"
+    ],
+    [
+      0.111766,
+      "e"
+    ],
+    [
+      0.071776,
+      "r"
+    ],
+    [
+      0.176331,
+      "-"
+    ],
+    [
+      0.295941,
+      "c"
+    ],
+    [
+      0.136196,
+      "o"
+    ],
+    [
+      0.049457,
+      "m"
+    ],
+    [
+      0.222219,
+      "p"
+    ],
+    [
+      0.232170,
+      "o"
+    ],
+    [
+      0.167358,
+      "s"
+    ],
+    [
+      0.072046,
+      "e"
+    ],
+    [
+      0.119581,
+      " "
+    ],
+    [
+      0.504596,
+      "u"
+    ],
+    [
+      0.088123,
+      "p"
+    ],
+    [
+      0.231764,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000121,
+      "\r\r\n"
+    ],
+    [
+      0.000845,
+      "\u001b]2;docker-compose up\u0007"
+    ],
+    [
+      0.000008,
+      "\u001b]1;docker-compose\u0007"
+    ],
+    [
+      0.618087,
+      "Creating dockerdemo_dbdata_1...\r\n"
+    ],
+    [
+      0.610633,
+      "Creating dockerdemo_wpdata_1...\r\n"
+    ],
+    [
+      0.811360,
+      "Creating dockerdemo_dbserver_1...\r\n"
+    ],
+    [
+      0.895610,
+      "Creating dockerdemo_wpdemo_1...\r\n"
+    ],
+    [
+      0.743717,
+      "Attaching to dockerdemo_dbserver_1, dockerdemo_wpdemo_1\r\n"
+    ],
+    [
+      0.079521,
+      "\u001b[36mdbserver_1 | \u001b[0mRunning mysql_install_db\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:09:58 0 [Note] /usr/sbin/mysqld (mysqld 5.6.26) starting as process 26 ...\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:09:58 26 [Note] InnoDB: Using atomics to ref count buffer pool pages\r\n"
+    ],
+    [
+      0.000019,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:09:58 26 [Note] InnoDB: The InnoDB memory heap is disabled\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:09:58 26 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:09:58 26 [Note] InnoDB: Memory barrier is not used\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:09:58 26 [Note] InnoDB: Compressed tables use zlib 1.2.7\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:09:58 26 [Note] InnoDB: Using Linux native AIO\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:09:58 26 [Note] InnoDB: Not using CPU crc32 instructions\r\n"
+    ],
+    [
+      0.000029,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:09:58 26 [Note] InnoDB: Initializing buffer pool, size = 128.0M\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:09:58 26 [Note] InnoDB: Completed initialization of buffer pool\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:09:58 26 [Note] InnoDB: The first specified data file ./ibdata1 did not exist: a new database to be created!\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:09:58 26 [Note] InnoDB: Setting file ./ibdata1 size to 12 MB\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:09:58 26 [Note] InnoDB: Database physically writes the file full: wait...\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:09:58 26 [Note] InnoDB: Setting log file ./ib_logfile101 size to 48 MB\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:09:58 26 [Note] InnoDB: Setting log file ./ib_logfile1 size to 48 MB\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:09:59 26 [Note] InnoDB: Renaming log file ./ib_logfile101 to ./ib_logfile0\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:09:59 26 [Warning] InnoDB: New log files created, LSN=45781\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:09:59 26 [Note] InnoDB: Doublewrite buffer not found: creating new\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:09:59 26 [Note] InnoDB: Doublewrite buffer created\r\n"
+    ],
+    [
+      0.000150,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:09:59 26 [Note] InnoDB: 128 rollback segment(s) are active.\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:09:59 26 [Warning] InnoDB: Creating foreign key constraint system tables.\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:09:59 26 [Note] InnoDB: Foreign key constraint system tables created\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:09:59 26 [Note] InnoDB: Creating tablespace and datafile system tables.\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:09:59 26 [Note] InnoDB: Tablespace and datafile system tables created.\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:09:59 26 [Note] InnoDB: Waiting for purge to start\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:09:59 26 [Note] InnoDB: 5.6.26 started; log sequence number 0\r\n\u001b[33mwpdemo_1   | \u001b[0mWordPress not found in /var/www/html - copying now...\r\n"
+    ],
+    [
+      0.110314,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:09:59 26 [Note] Binlog end\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:09:59 26 [Note] InnoDB: FTS optimize thread exiting.\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:09:59 26 [Note] InnoDB: Starting shutdown...\r\n"
+    ],
+    [
+      1.227242,
+      "\u001b[33mwpdemo_1   | \u001b[0mComplete! WordPress has been successfully copied to /var/www/html\r\n"
+    ],
+    [
+      0.531884,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:01 26 [Note] InnoDB: Shutdown completed; log sequence number 1625977\r\n"
+    ],
+    [
+      0.205605,
+      "\u001b[36mdbserver_1 | \u001b[0m\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[36mdbserver_1 | \u001b[0m\r\n"
+    ],
+    [
+      0.001267,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:01 0 [Note] /usr/sbin/mysqld (mysqld 5.6.26) starting as process 49 ...\r\n"
+    ],
+    [
+      0.003982,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:01 49 [Note] InnoDB: Using atomics to ref count buffer pool pages\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:01 49 [Note] InnoDB: The InnoDB memory heap is disabled\r\n"
+    ],
+    [
+      0.000151,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:01 49 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:01 49 [Note] InnoDB: Memory barrier is not used\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:01 49 [Note] InnoDB: Compressed tables use zlib 1.2.7\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:01 49 [Note] InnoDB: Using Linux native AIO\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:01 49 [Note] InnoDB: Not using CPU crc32 instructions\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:01 49 [Note] InnoDB: Initializing buffer pool, size = 128.0M\r\n"
+    ],
+    [
+      0.008794,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:01 49 [Note] InnoDB: Completed initialization of buffer pool\r\n"
+    ],
+    [
+      0.003669,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:01 49 [Note] InnoDB: Highest supported file format is Barracuda.\r\n"
+    ],
+    [
+      0.017816,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:01 49 [Note] InnoDB: 128 rollback segment(s) are active.\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:01 49 [Note] InnoDB: Waiting for purge to start\r\n"
+    ],
+    [
+      0.072856,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:01 49 [Note] InnoDB: 5.6.26 started; log sequence number 1625977\r\n"
+    ],
+    [
+      0.119208,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:01 49 [Note] Binlog end\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:01 49 [Note] InnoDB: FTS optimize thread exiting.\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:01 49 [Note] InnoDB: Starting shutdown...\r\n"
+    ],
+    [
+      0.303232,
+      "\u001b[33mwpdemo_1   | \u001b[0m\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[33mwpdemo_1   | \u001b[0mMySQL Connection Error: (2002) Connection refused\r\n\u001b[33mwpdemo_1   | \u001b[0m\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[33mwpdemo_1   | \u001b[0mWarning: mysqli::mysqli(): (HY000/2002): Connection refused in - on line 10\r\n"
+    ],
+    [
+      1.449193,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:03 49 [Note] InnoDB: Shutdown completed; log sequence number 1625987\r\n"
+    ],
+    [
+      0.071539,
+      "\u001b[36mdbserver_1 | \u001b[0m\r\n\u001b[36mdbserver_1 | \u001b[0m\r\n\u001b[36mdbserver_1 | \u001b[0m\r\n\u001b[36mdbserver_1 | \u001b[0m\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36mdbserver_1 | \u001b[0mPLEASE REMEMBER TO SET A PASSWORD FOR THE MySQL root USER !\r\n\u001b[36mdbserver_1 | \u001b[0mTo do so, start the server, then issue the following commands:\r\n\u001b[36mdbserver_1 | \u001b[0m\r\n\u001b[36mdbserver_1 | \u001b[0m  /usr/bin/mysqladmin -u root password 'new-password'\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[36mdbserver_1 | \u001b[0m  /usr/bin/mysqladmin -u root -h 4386e009d0b1 password 'new-password'\r\n"
+    ],
+    [
+      0.000024,
+      "\u001b[36mdbserver_1 | \u001b[0m\r\n\u001b[36mdbserver_1 | \u001b[0mAlternatively you can run:\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[36mdbserver_1 | \u001b[0m\r\n\u001b[36mdbserver_1 | \u001b[0m  /usr/bin/mysql_secure_installation\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[36mdbserver_1 | \u001b[0m\r\n\u001b[36mdbserver_1 | \u001b[0mwhich will also give you the option of removing the test\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[36mdbserver_1 | \u001b[0mdatabases and anonymous user created by default.  This is\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[36mdbserver_1 | \u001b[0mstrongly recommended for production servers.\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[36mdbserver_1 | \u001b[0m\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[36mdbserver_1 | \u001b[0mSee the manual for more instructions.\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[36mdbserver_1 | \u001b[0m\r\n\u001b[36mdbserver_1 | \u001b[0mPlease report any problems at http://bugs.mysql.com/\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[36mdbserver_1 | \u001b[0m\r\n"
+    ],
+    [
+      0.000021,
+      "\u001b[36mdbserver_1 | \u001b[0mThe latest information about MySQL is available on the web at\r\n\u001b[36mdbserver_1 | \u001b[0m\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[36mdbserver_1 | \u001b[0m  http://www.mysql.com\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[36mdbserver_1 | \u001b[0m\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36mdbserver_1 | \u001b[0mSupport MySQL by buying support/licenses at http://shop.mysql.com\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[36mdbserver_1 | \u001b[0m\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36mdbserver_1 | \u001b[0mNote: new default config file not created.\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[36mdbserver_1 | \u001b[0mPlease make sure your config file is current\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[36mdbserver_1 | \u001b[0m\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[36mdbserver_1 | \u001b[0mWARNING: Default config file /etc/mysql/my.cnf exists on the system\r\n"
+    ],
+    [
+      0.000056,
+      "\u001b[36mdbserver_1 | \u001b[0mThis file will be read by default by the MySQL server\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[36mdbserver_1 | \u001b[0mIf you do not want to use this, either remove it, or use the\r\n\u001b[36mdbserver_1 | \u001b[0m--defaults-file argument to mysqld_safe when starting the server\r\n\u001b[36mdbserver_1 | \u001b[0m\r\n\u001b[36mdbserver_1 | \u001b[0mFinished mysql_install_db\r\n\u001b[36mdbserver_1 | \u001b[0mMySQL init process in progress...\r\n"
+    ],
+    [
+      0.507945,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:04 0 [Note] mysqld (mysqld 5.6.26) starting as process 72 ...\r\n"
+    ],
+    [
+      0.008129,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:04 72 [Note] Plugin 'FEDERATED' is disabled.\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:04 72 [Note] InnoDB: Using atomics to ref count buffer pool pages\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:04 72 [Note] InnoDB: The InnoDB memory heap is disabled\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:04 72 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:04 72 [Note] InnoDB: Memory barrier is not used\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:04 72 [Note] InnoDB: Compressed tables use zlib 1.2.7\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:04 72 [Note] InnoDB: Using Linux native AIO\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:04 72 [Note] InnoDB: Not using CPU crc32 instructions\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:04 72 [Note] InnoDB: Initializing buffer pool, size = 128.0M\r\n"
+    ],
+    [
+      0.017881,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:04 72 [Note] InnoDB: Completed initialization of buffer pool\r\n"
+    ],
+    [
+      0.018316,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:04 72 [Note] InnoDB: Highest supported file format is Barracuda.\r\n"
+    ],
+    [
+      0.036035,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:04 72 [Note] InnoDB: 128 rollback segment(s) are active.\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:04 72 [Note] InnoDB: Waiting for purge to start\r\n"
+    ],
+    [
+      0.037055,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:04 72 [Note] InnoDB: 5.6.26 started; log sequence number 1625987\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:04 72 [Warning] No existing UUID has been found, so we assume that this is the first time that this server has been started. Generating a new UUID: c3c0ae50-369a-11e5-b197-0242ac110003.\r\n"
+    ],
+    [
+      0.004007,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:04 72 [Note] Event Scheduler: Loaded 0 events\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:04 72 [Note] mysqld: ready for connections.\r\n\u001b[36mdbserver_1 | \u001b[0mVersion: '5.6.26'  socket: '/var/run/mysqld/mysqld.sock'  port: 0  MySQL Community Server (GPL)\r\n"
+    ],
+    [
+      0.828667,
+      "\u001b[33mwpdemo_1   | \u001b[0m\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[33mwpdemo_1   | \u001b[0mWarning: mysqli::mysqli(): (HY000/2002): Connection refused in - on line 10\r\n\u001b[33mwpdemo_1   | \u001b[0m\r\n\u001b[33mwpdemo_1   | \u001b[0mMySQL Connection Error: (2002) Connection refused\r\n"
+    ],
+    [
+      0.449935,
+      "\u001b[36mdbserver_1 | \u001b[0mWarning: Unable to load '/usr/share/zoneinfo/iso3166.tab' as time zone. Skipping it.\r\n"
+    ],
+    [
+      1.810112,
+      "\u001b[36mdbserver_1 | \u001b[0mWarning: Unable to load '/usr/share/zoneinfo/zone.tab' as time zone. Skipping it.\r\n"
+    ],
+    [
+      0.736520,
+      "\u001b[33mwpdemo_1   | \u001b[0m\r\n\u001b[33mwpdemo_1   | \u001b[0mWarning: mysqli::mysqli(): (HY000/2002): Connection refused in - on line 10\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[33mwpdemo_1   | \u001b[0m\r\n\u001b[33mwpdemo_1   | \u001b[0mMySQL Connection Error: (2002) Connection refused\r\n"
+    ],
+    [
+      0.278468,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:08 72 [Note] mysqld: Normal shutdown\r\n"
+    ],
+    [
+      0.000021,
+      "\u001b[36mdbserver_1 | \u001b[0m\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:08 72 [Note] Giving 0 client threads a chance to die gracefully\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:08 72 [Note] Event Scheduler: Purging the queue. 0 events\r\n"
+    ],
+    [
+      0.000068,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:08 72 [Note] Shutting down slave threads\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:08 72 [Note] Forcefully disconnecting 0 remaining clients\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:08 72 [Note] Binlog end\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:08 72 [Note] Shutting down plugin 'partition'\r\n"
+    ],
+    [
+      0.000032,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:08 72 [Note] Shutting down plugin 'INNODB_SYS_DATAFILES'\r\n"
+    ],
+    [
+      0.000028,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:08 72 [Note] Shutting down plugin 'INNODB_SYS_TABLESPACES'\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:08 72 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN_COLS'\r\n"
+    ],
+    [
+      0.000047,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:08 72 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN'\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:08 72 [Note] Shutting down plugin 'INNODB_SYS_FIELDS'\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:08 72 [Note] Shutting down plugin 'INNODB_SYS_COLUMNS'\r\n"
+    ],
+    [
+      0.000032,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:08 72 [Note] Shutting down plugin 'INNODB_SYS_INDEXES'\r\n"
+    ],
+    [
+      0.000030,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:08 72 [Note] Shutting down plugin 'INNODB_SYS_TABLESTATS'\r\n"
+    ],
+    [
+      0.000246,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:08 72 [Note] Shutting down plugin 'INNODB_SYS_TABLES'\r\n"
+    ],
+    [
+      0.000356,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:08 72 [Note] Shutting down plugin 'INNODB_FT_INDEX_TABLE'\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:08 72 [Note] Shutting down plugin 'INNODB_FT_INDEX_CACHE'\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:08 72 [Note] Shutting down plugin 'INNODB_FT_CONFIG'\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:08 72 [Note] Shutting down plugin 'INNODB_FT_BEING_DELETED'\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:08 72 [Note] Shutting down plugin 'INNODB_FT_DELETED'\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:08 72 [Note] Shutting down plugin 'INNODB_FT_DEFAULT_STOPWORD'\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:08 72 [Note] Shutting down plugin 'INNODB_METRICS'\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:08 72 [Note] Shutting down plugin 'INNODB_BUFFER_POOL_STATS'\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:08 72 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE_LRU'\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:08 72 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE'\r\n\u001b[36mdbserver_1 | \u001b[0mMySQL init process in progress"
+    ],
+    [
+      0.000351,
+      "...\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:08 72 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX_RESET'\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:08 72 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX'\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:08 72 [Note] Shutting down plugin 'INNODB_CMPMEM_RESET'\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:08 72 [Note] Shutting down plugin 'INNODB_CMPMEM'\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:08 72 [Note] Shutting down plugin 'INNODB_CMP_RESET'\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:08 72 [Note] Shutting down plugin 'INNODB_CMP'\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:08 72 [Note] Shutting down plugin 'INNODB_LOCK_WAITS'\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:08 72 [Note] Shutting down plugin 'INNODB_LOCKS'\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:08 72 [Note] Shutting down plugin 'INNODB_TRX'\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:08 72 [Note] Shutting down plugin 'InnoDB'\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:08 72 [Note] InnoDB: FTS optimize thread exiting.\r\n\u001b[36mdbser"
+    ],
+    [
+      0.000026,
+      "ver_1 | \u001b[0m2015-07-30 09:10:08 72 [Note] InnoDB: Starting shutdown...\r\n"
+    ],
+    [
+      1.004519,
+      "\u001b[36mdbserver_1 | \u001b[0mMySQL init process in progress...\r\n"
+    ],
+    [
+      0.716654,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:09 72 [Note] InnoDB: Shutdown completed; log sequence number 1625997\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:09 72 [Note] Shutting down plugin 'BLACKHOLE'\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:09 72 [Note] Shutting down plugin 'ARCHIVE'\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:09 72 [Note] Shutting down plugin 'PERFORMANCE_SCHEMA'\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:09 72 [Note] Shutting down plugin 'MRG_MYISAM'\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:09 72 [Note] Shutting down plugin 'CSV'\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:09 72 [Note] Shutting down plugin 'MEMORY'\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:09 72 [Note] Shutting down plugin 'MyISAM'\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:09 72 [Note] Shutting down plugin 'sha256_password'\r\n"
+    ],
+    [
+      0.000035,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:09 72 [Note] Shutting down plugin 'mysql_old_password'\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:09 72 [Note] Shutting down plugin 'mysql_native_password'\r\n"
+    ],
+    [
+      0.000024,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:09 72 [Note] Shutting down plugin 'binlog'\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:09 72 [Note] mysqld: Shutdown complete\r\n\u001b[36mdbserver_1 | \u001b[0m\r\n"
+    ],
+    [
+      0.279638,
+      "\u001b[36mdbserver_1 | \u001b[0mMySQL init process done. Ready for start up.\r\n"
+    ],
+    [
+      0.206499,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:10 0 [Note] mysqld (mysqld 5.6.26) starting as process 1 ...\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:10 1 [Note] Plugin 'FEDERATED' is disabled.\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:10 1 [Note] InnoDB: Using atomics to ref count buffer pool pages\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:10 1 [Note] InnoDB: The InnoDB memory heap is disabled\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:10 1 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:10 1 [Note] InnoDB: Memory barrier is not used\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:10 1 [Note] InnoDB: Compressed tables use zlib 1.2.7\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:10 1 [Note] InnoDB: Using Linux native AIO\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:10 1 [Note] InnoDB: Not using CPU crc32 instructions\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:10 1 [Note] InnoDB: Initializing buffer pool, size = 128.0M\r\n"
+    ],
+    [
+      0.003576,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:10 1 [Note] InnoDB: Completed initialization of buffer pool\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:10 1 [Note] InnoDB: Highest supported file format is Barracuda.\r\n"
+    ],
+    [
+      0.017979,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:10 1 [Note] InnoDB: 128 rollback segment(s) are active.\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:10 1 [Note] InnoDB: Waiting for purge to start\r\n"
+    ],
+    [
+      0.072063,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:10 1 [Note] InnoDB: 5.6.26 started; log sequence number 1625997\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:10 1 [Note] Server hostname (bind-address): '*'; port: 3306\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:10 1 [Note] IPv6 is available.\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:10 1 [Note]   - '::' resolves to '::';\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:10 1 [Note] Server socket created on IP: '::'.\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:10 1 [Note] Event Scheduler: Loaded 0 events\r\n\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:10 1 [Note] mysqld: ready for connections.\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[36mdbserver_1 | \u001b[0mVersion: '5.6.26'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)\r\n"
+    ],
+    [
+      0.483387,
+      "\u001b[36mdbserver_1 | \u001b[0m2015-07-30 09:10:11 1 [Warning] IP address '172.17.0.4' could not be resolved: Name or service not known\r\n"
+    ],
+    [
+      0.205496,
+      "\u001b[33mwpdemo_1   | \u001b[0mAH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.4. Set the 'ServerName' directive globally to suppress this message\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[33mwpdemo_1   | \u001b[0mAH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.4. Set the 'ServerName' directive globally to suppress this message\r\n"
+    ],
+    [
+      0.071102,
+      "\u001b[33mwpdemo_1   | \u001b[0m[Thu Jul 30 09:10:11.329581 2015] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) PHP/5.6.11 configured -- resuming normal operations\r\n"
+    ],
+    [
+      0.000026,
+      "\u001b[33mwpdemo_1   | \u001b[0m[Thu Jul 30 09:10:11.329642 2015] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'\r\n"
+    ],
+    [
+      5.678675,
+      "^C"
+    ],
+    [
+      0.000380,
+      "\r\nAborting.\r\n"
+    ],
+    [
+      0.019520,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                               \r \r"
+    ],
+    [
+      0.000065,
+      "\u001b]2;timbutler@stella: ~/dockerdemo\u0007"
+    ],
+    [
+      0.000017,
+      "\u001b]1;~/dockerdemo\u0007"
+    ],
+    [
+      0.036456,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;31m➜ \u001b[27m\u001b[01;32m \u001b[36mdockerdemo \u001b[01;34m\u001b[01;34m\u001b[00m\u001b[K"
+    ],
+    [
+      0.000008,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.820784,
+      "\r\r\n"
+    ]
+  ]
+}
